@@ -1,0 +1,17 @@
+You are an independent songwriter. Your task is to write a complete, original song based on the essay saved at /home/ubuntu/music/impotent/source-essay.txt
+
+FIRST: read the source essay file. Read ONLY source-essay.txt. Do NOT open impotent-v1.md or any other file. This must be YOUR original interpretation.
+
+SECOND: Write a complete song based on that essay. Requirements:
+1. Strong, memorable title and hook in ENGLISH
+2. Clear structure: intro, verses, pre-chorus, chorus, bridge, outro — with structural tags in [brackets]
+3. Use the essay's core metaphors organically (impotence toward reality, supernormal stimulus, red pill, city walls, consumption vs production, junk food, matrix / brain in a vat)
+4. Clear emotional arc — take the listener on a journey, don't just restate philosophy
+5. Genuinely singable — pay attention to line length, rhythm, rhyme, prosody
+6. ALL ENGLISH LYRICS — the entire song must be in English, no Chinese
+7. Include a Suno AI style prompt for music generation at the end
+8. Genre: you decide — consider alt-rock, post-rock, post-punk, indie, electronic, or fusion
+
+THIRD: Write the complete output to /home/ubuntu/music/impotent/impotent-v2-grok.md
+
+CRITICAL: All-English lyrics. Do NOT read impotent-v1.md. Original interpretation only.
