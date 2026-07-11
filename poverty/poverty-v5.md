@@ -127,6 +127,8 @@ Something I won't put in words — something I'd have died before she saw.
 Then a sound in the flat, and every nerve I own pulled tight,
 and I froze by the wardrobe with the stolen light in my hand.
 
+[breath — 2-3 seconds, guitar alone, let "stolen light" land]
+
 And through the bathroom door I heard her come apart —
 two in the morning, cleaning my brother up, and crying while she did it,
 her voice cracking down on him, folding soft, then cracking down again.
@@ -178,7 +180,8 @@ close-mic intimacy, dry room ambience, tape hiss texture,
 single fingerpicked acoustic guitar in intro and verses,
 brushed live drums and walking bass enter at pre-chorus,
 clean slightly overdriven electric and steady bass push the chorus forward,
-bridge stripped to voice and guitar alone, full band returns for final chorus
+bridge stripped to voice and guitar alone — with a held pause after the bridge midpoint,
+full band returns for final chorus
 as a held breath released — not an explosion, a decision,
 single guitar mirrors intro in outro,
 tempo builds 76-110 BPM across sections,
@@ -194,7 +197,7 @@ The National restrained crescendo, Songs: Ohia band-era gravity
 ## Production Notes
 
 - **Album-architecture**: Stage one. Cage door visible; narrator has not walked through. Later songs do the escape.
-- **Bridge**: Gravity well. Band out. Near-whisper. Do not soften the stolen phone / the lie / the unnamed act / the wardrobe / the triple guilt.
+- **Bridge**: Gravity well. Band out. Near-whisper. Do not soften the stolen phone / the lie / the unnamed act / the wardrobe / the triple guilt. **Critical: 2-3 second pause after "stolen light in my hand" — guitar alone, no voice — before "And through the bathroom door" resumes. If Suno renders the bridge as one unbroken 20-line block, regenerate until the pause lands.**
 - **Pit vs cage**: Pit hits once (pre-bridge). Final chorus stays on cage door only — one geometry.
 - **Ending**: Shelf outlasts the house. So far, that includes him. Still in the room. Still counting.
 - **Suno**: Cherry-pick the take where the bridge drops to voice-and-guitar and the band's return feels like a held breath released — not an explosion.
