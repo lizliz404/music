@@ -8,12 +8,19 @@
 
 ---
 
-## v4 Micro-Changes
+## v4 Changes
 
-- **V1**: Added "Somewhere I stopped tasting it —" before "I look up" — marks the transition from seduction to hollow explicitly
-- **C2**: "just one more scroll, I know, one more" — "I know" inserted, reinforces the knowing-but-still-doing-it terror
-- **Exclude Styles**: Expanded with tonal clarifications — "you're not angry like pop-punk, not sad like emo, not dark like industrial, not nihilistic like grunge"
-- **Genre direction**: Liz's preference — rock/punk energy filtered through Kenshi Yonezu's aesthetic (M78, Loser, Flamingo, KICK BACK): idiosyncratic production, sudden dynamic shifts, art-rock precision, intensity without genre cliché
+**Lyric micro-edits**:
+- V1: Added "Somewhere I stopped tasting it —" — marks the seduction→hollow turn
+- C2: "just one more scroll, I know, one more" — "I know" inserted
+
+**Genre pivot — Kenshi Yonezu direction**:
+- All screaming/shouting/explosive/belted/roar language purged from section tags and Suno prompt
+- "sung not shouted" — intensity from melody, rhythm, arrangement density, not vocal force
+- Guitar solo cut from 8-12 bars to 4 bars max ("brief instrumental break")
+- "Raw" and "weathered" downgraded; "controlled" and "melodic" elevated
+- Excludes expanded: screaming, shouting, lo-fi, garage rock, excessive distortion, long guitar solos, deliberately rough production, sacrificing melody for aggression
+- Suno prompt rewritten around: melody-first, groove, clean precision, sung vocals
 
 ---
 
@@ -21,15 +28,15 @@
 
 ```
 [Intro]
-(Cold open, solo voice under distant static — glitch textures and
-phone-scroll clicks fade in, ~4 bars solo then full band enters, ~8 bars total)
+(Clean, precise — solo voice, cold synth pad underneath, glitch textures
+and phone-scroll clicks fade in, ~4 bars solo then band locks in, ~8 bars total)
 
 Soft glow, soft glow —
 another night on loan.
 
 [Verse 1]
-[Hushed, close-mic — sparse bass pulse, ambient pad. Let the glow feel
-good for a few bars before it turns.]
+[Hushed, close-mic, melodic — sparse bass pulse, ambient pad.
+Let the glow feel good for a few bars before it turns. Sung, not spoken.]
 
 Three a.m. and the glow feels good,
 no one's calling, nothing's due —
@@ -57,7 +64,8 @@ No score, no cut, no easy blaze —
 just an ordinary, unlit day.
 
 [Chorus 1]
-[Explosive — distorted guitars, driving drums, full band]
+[Intense, controlled — distorted guitars, driving drums, full band.
+No screaming. Power through precision, not volume.]
 
 IMPOTENT —
 [one beat rest]
@@ -72,7 +80,7 @@ just one more scroll,
 just one more.
 
 [Verse 2]
-[Grittier, energy pulled back slightly]
+[More urgent, energy pulled back slightly — still melodic, sung]
 
 I know this script — I know it cold.
 Still using a wrecked brain
@@ -91,8 +99,9 @@ So ask it straight when the credits roll:
 does this walk me out, or bury me whole?
 
 [Chorus 2]
-[Bigger — layered vocals, backing harmonies. Same shape as Chorus 1;
-one line deepens instead of resolving.]
+[Denser — layered vocals, backing harmonies. Same shape as Chorus 1;
+one line deepens instead of resolving.
+Still controlled. Intensity from layering, not volume.]
 
 IMPOTENT —
 [one beat rest]
@@ -115,15 +124,16 @@ is this my whole life, on loan?
 Am I just current for somebody's meter,
 or — at least — can I be the one playing?
 
-[Full band returns on this line]
+[Full band locks in on this line — clean, precise, no distortion wash]
 
 I put the phone face down.
 
-[Guitar Solo]
-(Raw, melodic, emotional — 8–12 bars, pentatonic-blues, builds then pulls back)
+[Brief Instrumental Break]
+(Melodic, tight — 4 bars max, serves the song, doesn't wander)
 
 [Final Chorus]
-[Cathartic peak, then pulling back for the last lines]
+[Peak intensity, controlled — then receding for the last lines.
+Still sung. Power from arrangement density, not vocal force.]
 
 IMPOTENT —
 [one beat rest]
@@ -155,32 +165,38 @@ but it's mine to sit in now.
 ## Suno Style Prompt (v4)
 
 ```
-Confessional alt-rock, idiosyncratic art-rock production, male vocals raw and weathered,
-one-word shouted title hook with a full beat of silence after it,
-sudden dynamic shifts — intimate near-whisper verse slamming into explosive belted chorus
-and cutting back to hush without warning,
-distorted electric guitars and driving live drums, cold digital synth pads underneath warm
-tape-saturated guitars, kept distinct not blended,
-bridge stripped to voice and piano before full band erupts on the decision line,
-one raw pentatonic-blues guitar solo, unconventional structure,
-92 BPM, D minor, melancholic but defiant, intensity without genre cliché,
+Melodic alt-rock, art-rock precision, male vocals controlled and weathered,
+sung not shouted — power through melody and rhythm, not volume,
+one-word title hook delivered clean with a full beat of silence after it,
+sudden dynamic shifts — intimate near-whisper verse shifting into intense
+incisive chorus and cutting back to hush, no transitional smoothing,
+clean distorted guitars for texture, tight driving drums with groove,
+cold digital synth pads underneath warm guitars kept distinct,
+bridge stripped to voice and piano before full band locks in on the decision line,
+brief melodic instrumental break, unconventional structure,
+92 BPM, D minor, melancholic but defiant, melody-first,
 English lyrics only
 ```
 
-**Exclude**: `pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, Chinese vocals, neon/dream-pop atmosphere, pop-punk (not angry like that), emo (not sad like that), industrial (the darkness isn't mechanical — it's moral), grunge (not nihilistic)`
+**Exclude**: `pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, Chinese vocals, neon/dream-pop atmosphere, pop-punk, emo, industrial, grunge, screaming, shouting, lo-fi, garage rock, excessive distortion, long guitar solos, deliberately rough production, sacrificing melody for aggression`
 
 ---
 
 ## Genre Direction Note
 
-Liz's stated preference: rock/punk energy is correct for the material, but the aesthetic should lean toward **Kenshi Yonezu** (米津玄師) — specifically the production sensibility of *M78*, *Loser*, *Flamingo*, *KICK BACK*.
+Liz's stated preference: rock energy is correct for the material, but the aesthetic should lean toward **Kenshi Yonezu** (米津玄師) — specifically the production sensibility of *M78*, *Loser*, *Flamingo*, *KICK BACK*.
+
+**YES**: melody first, strong groove/rhythm, rich arrangement, rock energy, sung vocals (not shouted)
+
+**NO**: long solos, excessive distortion, deliberately rough/lo-fi recording, sacrificing melody for aggression
 
 Translation for Suno:
-- Not raw/punk — art-rock precision with idiosyncratic production
-- Sudden, dramatic dynamic shifts (whisper → explosion → whisper without transitional smoothing)
-- Intensity comes from emotional precision, not volume or aggression
-- The song should feel constructed, not performed — every section distinct, no blending
+- Precision over rawness — clean, constructed, every section distinct
+- Intensity from arrangement density and rhythm, not vocal force or distortion
+- Sudden dynamic shifts (whisper → dense/intense → whisper) without transitional smoothing
+- The song should feel *built*, not performed — idiosyncratic production, no blending
 - Cold digital + warm analog kept separate (already in prompt)
+- Guitar is texture, not lead — no extended solos
 
 ---
 
