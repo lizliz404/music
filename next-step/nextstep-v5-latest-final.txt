@@ -1,0 +1,183 @@
+# "Next Step" — v5 Final · Lyrics + Triple Suno Style Prompts
+## BPM/Key: 92 BPM, D minor
+## Melody seed: melody-seed.m4a (117s, Shenzhen North Station, May 2025)
+
+═══════════════════════════════════════════
+LYRICS
+═══════════════════════════════════════════
+
+[Verse 1]
+
+Eleventh floor, the glass still trembling
+Cement truck rolling through my ribs at eighty
+Three months in a box where the walls stayed thin
+The neighbor's cough, the late-night driver scrolling
+I moved the mattress — every side had sound
+Paperbacks pulled hard against the zipper seam
+Left the key where the landlord said
+Thirteen hundred stayed behind when I left
+Phone close to my mouth, wheels knocking every seam
+People stream around me; I keep humming low
+
+[Pre-Chorus]
+
+The station lights cut through the afternoon haze
+Shenzhen North opens like a cold bright mouth
+A family of four, four screens, no words to say
+Volunteer vest blurs past — I drag my weight
+One hand on the handle, one hand on my chest
+
+[Chorus]
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The platform hums, the timetable blinks
+I can't go back through those same old links
+I don't even know
+I don't even know where's next step
+
+[Verse 2]
+
+Back home, the same stall fries dough at the corner stand
+Fifteen years — same black pan same arches
+Father at the table, same soft line —
+"Chew slow, hold the bowl" — a decade, same refrain
+Brother's phone eats half his face in light
+A shopping chime; he says, "Go grab the coins"
+I sit between them like I'm barely there
+Through the window, "homework" moves balcony to balcony
+At dusk, the river singer reaches the roof
+The muddy lake road from the house I knew
+Childhood clay still underneath my shoe
+I can visit home but I can't stay long
+The hallway knows my footsteps don't belong
+
+[Bridge]
+
+Something tore — I can't remember what
+Maybe it was the ceiling that forgot
+The mixer still turns somewhere in my ribs
+
+Thin walls still ringing in my ears
+
+Am I walking toward something
+or only not going back?
+
+I set the phone face-down and lift the bag
+The handle clicks
+My left foot takes the weight
+
+[Interlude — spoken-sung, breathy, no drums, near-ASMR, mirrors raw voice memo]
+
+I don't even know
+hmm
+I don't even know how
+oh
+I don't even know
+I don't even know
+yeah
+I don't even know where's next step
+I don't even know
+hmm — yeah
+I don't even know
+I don't even know
+I don't even know...
+
+[Final Chorus]
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The board above me flickers, names dissolve
+But my feet remember — they don't need to solve
+I don't even know
+yeah —
+I don't even know where's next step
+
+[Outro — slowing, almost spoken]
+
+Not cured
+Not pure
+Just walking
+One step more
+One step more
+I don't even know
+I don't even know
+...where's next step
+and that's enough
+and that's enough
+
+═══════════════════════════════════════════
+SUNO STYLE PROMPTS — A / B / C (Custom Mode required)
+═══════════════════════════════════════════
+
+All three derived freely from song context, not from external templates.
+Genre direction determined by: 117s voice memo · mantra-like repetition · luggage wheels · station wandering · "not knowing is enough"
+
+─── Style A: Suitcase Processional ───
+
+```
+Minimalist folktronica, chamber-folk processional, controlled close-miked male vocal, fingerpicked nylon guitar and felt piano, luggage-wheel found percussion, voice-memo grain in a hi-fi mix, mantra-led sectional dynamics, 92 BPM D minor
+```
+
+Production note:
+Interlude: Drums vanish; breath-dry near-ASMR vocal drifts off-grid over muted strings, wheel seams, and binaural foot traffic.
+Outro: Layers depart one by one until dry voice, two unpedaled piano notes, one wheel-roll, room tone — no resolving chord.
+
+Excludes:
+```
+pop-punk, emo, industrial, grunge, stomp-clap folk, arena rock, shouting, screaming, belting, roaring, triumphant crescendos
+```
+
+Sliders: Weirdness 48-60 · Style Influence 68-78
+
+─── Style B: Platform Echo Chamber ───
+
+```
+Ambient dub, nocturnal trip-hop, controlled low male vocal, deep sub-bass and skeletal half-time drums, glassy electric piano and bowed vibraphone, station-scale tape echoes, granular transit textures, melodic mantra architecture
+```
+
+Production note:
+Interlude: Bass and drums collapse; each breath-close murmur opens a different platform-length echo amid fluorescent hum and blurred announcement ghosts.
+Outro: Cut the sub immediately; let isolated echoes decay into an unprocessed vocal, bare room tone, then hard absence.
+
+Excludes:
+```
+pop-punk, emo, industrial, grunge, synthwave, EDM, trap, goth rock, shouting, screaming, belting, roaring, distorted vocals, cinematic uplift
+```
+
+Sliders: Weirdness 58-70 · Style Influence 60-72
+
+─── Style C: The Confession ───
+
+```
+Intimate piano ballad, solo felt piano, whisper-close unvarnished male vocal, melancholic warmth, conversational phrasing, bare-room ambience, fragile slow-bloom dynamics, 92 BPM D minor
+```
+
+Production note:
+Interlude: Whispered confession over widely spaced single piano notes and audible breath.
+Outro: Piano nearly disappears beneath an almost a cappella vocal, ending in unresolved room silence.
+
+Excludes:
+```
+drums, percussion, bass, guitars, strings, synths, vocal layering, choir, autotune, belting, theatrical delivery, pop polish, cinematic swells
+```
+
+Sliders: Weirdness 20-30 · Style Influence 75-85
+
+═══════════════════════════════════════════
+PRODUCTION NOTES
+═══════════════════════════════════════════
+
+- Custom Mode REQUIRED (Style + Lyrics + Exclude Styles separate)
+- Hybrid Model: generate structure on v4.5/v5, Cover on v5.5 for vocal quality
+- Stop after 2-4 generations per style. Listen. Score. Choose ONE.
+- Chorus lyrics IDENTICAL on every repeat — Suno rewards repetition for hook recognition
+- Interlude: generate as part of full track, NOT as Extend
+- Pop Gravity Well: all three explicitly exclude pop and its nearest neighbors
+
+Source: ~188K words autoethnography (nextstep-1 through nextstep-5.txt)
+Melody seed: melody-seed.m4a (117s, recorded walking to Shenzhen North Station, May 2025)
+ASR: 豆包 Flash ASR (volc.bigasr.auc_turbo), 20 utterances, "I don't even know" ×23+
+Versions: v1(Hermes/DeepSeek+Cursor/Grok) → v2(synthesis) → v3(Claude Opus 4.6) → v4(GPT-5.6 Sol MAX ULTRA) → v5(Grok 4.5 surgical)
