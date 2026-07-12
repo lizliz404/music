@@ -83,9 +83,14 @@ just one more.
 [More urgent, energy pulled back slightly — still melodic, sung]
 
 I know this script — I know it cold.
+
+[one beat rest]
+
 Still using a wrecked brain
 to examine its own wreckage —
 that's the cruelest loop I own.
+
+[one beat rest]
 
 Someone built this, aimed it, shipped it, sold it —
 and I bought it, one scroll at a time.
