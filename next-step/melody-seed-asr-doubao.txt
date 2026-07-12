@@ -1,0 +1,55 @@
+# melody-seed.m4a — ASR Transcript (豆包 Flash ASR · Liz校正版)
+
+## 引擎
+豆包 Flash ASR (volc.bigasr.auc_turbo) · Duration: 117.2s · Utterances: 20
+
+## Liz 校正说明
+- ASR 将 "step" 误听为 "stop" / "her" → 全篇统一为 "step"
+- 实际只有两个变体: "where is next step" / "where's next step" + "how"
+- 填充词 (hmm/oh/yeah) 保留 —— 说明是真正即兴哼唱
+
+## 校正后完整转录
+
+```
+[0.4-1.5]   I don't even know how.
+[1.9-5.2]   I don't even know how.
+[5.3-9.7]   I don't even know how. I don't even know where is next step.
+[10.6-15.5] And I don't even know where's next step. And I don't even know.
+[17.7-26.2] And I don't even know, and I don't even know where is next step, 
+            and I don't even know where is next step.
+[28.9-29.8] I don't even know.
+[32.4-34.4] I don't even know where's next step.
+[36.0-41.7] I don't even know where's next step. I don't even know where's next step.
+[43.3-47.5] I don't even know how. I don't even know.
+[50.4-52.1] I don't even know where's next step.
+[54.5-55.8] I don't even know.
+[58.4-63.7] hmm, I don't even know. Oh, I don't even know.
+[66.0-73.1] hmm, I don't even know. Oh, yeah, yeah, I don't even know.
+[76.5-79.0] I don't even know where is next step.
+[80.6-86.4] I don't even know where is next step. I don't even know.
+[88.6-89.2] Yeah.
+[93.3-94.6] I don't even know.
+[98.7-101.2] I don't even know where's next step.
+[102.9-109.9] I don't even know. Oh, where's next step. I don't even know.
+[111.7-114.8] Yeah, I don't even know.
+```
+
+## 统计
+
+| 变体 | 出现次数 |
+|---|---|
+| "I don't even know" (solo) | 9 |
+| "where's next step" / "where is next step" | 10 |
+| "I don't even know how" | 4 |
+| 填充词 (hmm/oh/yeah) | 5 |
+
+## 旋律结构
+- **0-26s** 密集段 —— hook 反复展开，"how" → "step" 递进
+- **28-73s** 松散段 —— 更多填充词，更像喃喃自语式的旋律探索
+- **76-115s** 回响段 —— 回到主 hook，碎片化收束
+
+## 对写词 Agent 的关键信息
+- **Hook phrase: "I don't even know where's next step"** —— Liz 确认，无需纠结 "stop"
+- "I don't even know" 是贯穿全曲的 motif（出现 23+ 次）
+- "how" 变体只在开头/中间出现 —— 可能是 verse 的旋律方向
+- 填充词说明这是真正即兴 —— 歌词应保持这种 raw/unpolished 的呼吸感

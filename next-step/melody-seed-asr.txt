@@ -1,0 +1,49 @@
+# melody-seed.m4a — ASR Transcript
+
+## 录音信息
+- 文件：melody-seed.m4a
+- 时长：117.1s (约 1 分 57 秒)
+- 语言：English (prob=1.000)
+- 引擎：faster-whisper base
+
+## 原始 Whisper 转录
+
+```
+[0.0-10.0]   I don't even know how, I don't even know, I don't even know how, I don't even know where it's knocked up.
+[10.0-23.0]  I don't even know where it's knocked up, and I don't even know, but I don't even know, and I don't even know where it's knocked up.
+[23.0-83.0]  (约 60 秒静默/环境音 — 走在路上)
+[83.0-84.0]  Stop!
+[85.0-88.0]  I don't even know.
+[88.0-89.0]  Yeah?
+[93.0-95.0]  I don't even know.
+[98.0-102.0] I don't even know where's the next stop.
+[102.0-105.0] I don't even know.
+[106.0-108.0] Where's the next stop?
+[108.0-111.0] I don't even know.
+[112.0-113.0] Yeah?
+[113.0-116.0] I don't even know.
+```
+
+## 作者确认版（基于 Liz 记忆）
+
+核心歌词：
+- **"I don't even know where's next step"** — 这是 Liz 清楚记得的核心句
+- Whisper 将 "next step" 误识别为 "knocked up" / "next stop"
+- "I don't even know" 是核心 motif，反复出现
+- "Stop!" 在 83s 处 — 可能是哼唱中的停顿/转折指令（对自己说的）
+- 旋律有明确的节奏感和重复结构
+
+## 旋律结构推测
+
+0-23s: 密集哼唱段 — 旋律种子展开，反复变奏 "I don't even know" motif
+23-83s: 行走/环境音 — 可能是录制中的间隔
+83-116s: 碎片回响 — 更松散、更喃喃自语式的重复
+
+## 对写词 Agent 的提示
+
+- "I don't even know" 是 hook phrase，在旋律中反复出现
+- "where's next step" 是标题/核心意象
+- 整体情绪：不确定、迷茫但仍在走、刚离开一个 PTSD 环境后的松一口气
+- 旋律不是纯丧 — 有前行的方向感，melancholic but moving forward
+- 第一段(0-23s)的旋律密度更高，适合放主歌/导歌的核心意象
+- 碎片段(83-116s)更松散、更像 outro 或 bridge 的语气

@@ -1,0 +1,176 @@
+# "Next Step" — 完整创作包
+
+## 一、旋律种子 Context（melody-seed.m4a）
+
+录制时间：2025年5月初  
+录制地点：拖着行李步行去往深圳北站的路上  
+时长：117秒（约2分钟）  
+格式：M4A · AAC LC · 48000Hz · 128kbps  
+设备：Android 手机录音  
+
+**情绪状态：** 刚离开已形成 PTSD 的城中村出租房。疲惫、松一口气、对未来迷茫（不确定下一站去哪）。对"回家休息"既需要又抗拒。旁若无人地对着手机哼唱，人流不少但顾不上了——灵感易逝，也可能是进入了 emo 状态。
+
+**核心 hook（Liz 确认）：** "I don't even know where's next step"  
+**变体：** "I don't even know how"（开头4次）  
+**反复 motif：** "I don't even know" 出现 23+ 次  
+
+**旋律结构（豆包 Flash ASR）：**
+- 0-26s: 密集段 — hook 反复展开，"how" → "step" 递进
+- 28-73s: 松散段 — 更多填充词（hmm/oh/yeah），喃喃自语式的旋律探索
+- 76-115s: 碎片回响段 — 回到主 hook，渐弱收束
+
+**作者自述：**
+"即使过了一年多（2025/5 → 2026/7），旋律仍然清晰记得，能直接哼出来。已成为情绪记忆。写一张专辑，拿专辑来写日记，或者纪念某人/某份关系/表达自己，是件贼鸡巴酷的事。失败、蹉跎、摆烂、焦虑、抑郁、堕落都不是坏事——都是可被描写的素材。过程本身有价值；过程即奖励。"
+
+---
+
+## 二、Hermes Agent（DeepSeek v4）v1 Lyrics
+
+**BPM/Key:** 92 BPM, D minor
+
+**[Verse 1]**
+
+Eleventh floor, the window shaking
+Cement truck resonance, the whole room waking
+Eighty decibels before the sun
+I lay there like I'd already lost and won
+Three months in a box where the walls don't hold
+The neighbor's cough, the late-night driver's scroll
+The same stall frying dough at the corner stand
+Fifteen years, the same flour on the same man's hands
+I zipped my bag, I didn't make a sound
+Took the elevator down to solid ground
+
+**[Pre-Chorus]**
+
+The station lights cut through the morning grey
+A family of four, each face a different screen today
+I drag my suitcase past the volunteer's vest
+One hand on the handle, one hand beating in my chest
+
+**[Chorus]**
+
+I don't even know
+I don't even know
+I don't even know where's next step
+A train pulls in and a train pulls out
+And I'm still standing here, no room for doubt
+That I can't go back, I can't go back
+But I don't even know where's next step
+
+**[Verse 2]**
+
+The same three dishes circle on the plate
+My father says the same words, ten years late
+"Chew slowly now, keep your bowl in hand"
+As if that's the one thing time might understand
+The street hawkers still leaning on their stalls
+The same old men still measuring their walls
+I told myself I'd visit and move on
+But the hallway still remembers every song
+The screen glow eats my brother's face at night
+And somewhere in me, that used to look like light
+
+**[Bridge]**
+
+I still hear the mixer humming in my bones —
+that low vibration asking nothing, taking everything it owns
+Was it ever the room, or just the weight of standing still?
+I pick up my bag and I walk toward the platform rail
+
+**[Final Chorus]**
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The board above me flickers, all the names dissolve
+But my feet remember, they don't need to solve
+And I can't go back, I can't go back
+No, I don't even know where's next step
+
+**[Outro]**
+
+Not cured
+Not pure
+Just walking
+One step more
+One step more
+
+---
+
+## 三、Cursor Agent（Grok 4.5 XHigh）v1 Lyrics
+
+**BPM/Key:** 92 BPM, D minor
+
+**[Verse 1]**
+
+Eleventh floor, the glass still trembling
+Cement truck rolling through my ribs at eighty
+Morning light, the room won't hold its breath
+I zip the last bag shut against the mess
+Corridor echoes, elevator slow
+Wheels catch the tile as the doors let go
+Behind me, walls that never learned my name
+Ahead of me, the road that brought me shame and flame
+I leave the key where the landlord said
+And roll my luggage toward the morning thread
+
+**[Pre-Chorus]**
+
+Shenzhen North opens like a cold bright mouth
+A family of four, four screens, facing south
+No one looking up, the glow eats every face
+I drag my suitcase through that quiet race
+
+**[Chorus]**
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The platform hums, the timetable blinks
+I can't go back through those same old links
+I don't even know
+I don't even know where's next step
+
+**[Verse 2]**
+
+Back home the stall still fries the same three starches
+Fifteen years, same black pan, same arches
+Father at the table, same soft lines again
+Chew slow, hold the bowl — ten years of the same refrain
+Brother's phone lights up the dinner air
+I sit between them like I'm barely there
+I can visit home, but I can't stay long
+The hallway knows my footsteps don't belong
+Gravity pulls soft, then lets me free
+I pack again before it swallows me
+
+**[Bridge]**
+
+Muddy lake road from the house by the water —
+childhood clay still stuck under my collar
+Am I walking toward something, or only not going back?
+I set the phone face-down and lift the bag
+
+**[Final Chorus]**
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The board keeps changing, names I can't claim
+But my feet keep moving all the same
+I don't even know
+Yeah —
+I don't even know where's next step
+
+**[Outro]**
+
+Step —
+Not cured
+Not pure
+Just wheels on the ground
+One more step
+One more step
+I don't even know
+I don't even know
+...where's next step

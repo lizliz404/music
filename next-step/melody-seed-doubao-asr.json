@@ -1,0 +1,2205 @@
+{
+  "audio_info": {
+    "duration": 117167
+  },
+  "result": {
+    "additions": {
+      "duration": "117167"
+    },
+    "text": "I don't even know how. I don't even know how. I don't even know how. I don't even know where is next step. And I don't even know where's next stop. And I don't even know. And I don't even know, and I don't even know where is next step, and I don't even know where is next step. I don't even know. I don't even know where's next stop. I don't even know where's next stop. I don't even know where's next stop. I don't even know how. I don't even know. I don't even know her. I don't even know. hmm, I don't even know. Oh, I don't even know. hmm, I don't even know. Oh, yeah, yeah, I don't even know. I don't even know where is next stop. I don't even know where is next stop. I don't even know. Yeah. I don't even know. I don't even know where's next stop. I don't even know. Oh, where it's not stop. I don't even know. Yeah, I don't even know.",
+    "utterances": [
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 1540,
+        "start_time": 380,
+        "text": "I don't even know how. ",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 420,
+            "start_time": 380,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 660,
+            "start_time": 420,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 900,
+            "start_time": 700,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 1180,
+            "start_time": 980,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 1540,
+            "start_time": 1460,
+            "text": "how"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 5220,
+        "start_time": 1860,
+        "text": "I don't even know how. ",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 1900,
+            "start_time": 1860,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 3180,
+            "start_time": 2940,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 3420,
+            "start_time": 3260,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 3740,
+            "start_time": 3580,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 5220,
+            "start_time": 5180,
+            "text": "how"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 9660,
+        "start_time": 5340,
+        "text": "I don't even know how. I don't even know where is next step.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 5380,
+            "start_time": 5340,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 5620,
+            "start_time": 5380,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 5860,
+            "start_time": 5700,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 6180,
+            "start_time": 6020,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 6540,
+            "start_time": 6460,
+            "text": "how"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 6860,
+            "start_time": 6820,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 8020,
+            "start_time": 7780,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 8260,
+            "start_time": 8060,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 8580,
+            "start_time": 8340,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 8860,
+            "start_time": 8660,
+            "text": "where"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 9100,
+            "start_time": 8900,
+            "text": "is"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 9380,
+            "start_time": 9220,
+            "text": "next"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 9660,
+            "start_time": 9500,
+            "text": "step"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 15500,
+        "start_time": 10580,
+        "text": "And I don't even know where's next stop. And I don't even know.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 11060,
+            "start_time": 10580,
+            "text": "And"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 11100,
+            "start_time": 11060,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 11300,
+            "start_time": 11100,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 11580,
+            "start_time": 11380,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 11900,
+            "start_time": 11660,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 12460,
+            "start_time": 11980,
+            "text": "where's"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 12740,
+            "start_time": 12540,
+            "text": "next"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 13020,
+            "start_time": 12940,
+            "text": "stop"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 13500,
+            "start_time": 13020,
+            "text": "And"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 14660,
+            "start_time": 14620,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 14940,
+            "start_time": 14700,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 15180,
+            "start_time": 15020,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 15500,
+            "start_time": 15340,
+            "text": "know"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 26220,
+        "start_time": 17700,
+        "text": "And I don't even know, and I don't even know where is next step, and I don't even know where is next step.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 17820,
+            "start_time": 17700,
+            "text": "And"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 17860,
+            "start_time": 17820,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 18100,
+            "start_time": 17860,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 18340,
+            "start_time": 18140,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 18660,
+            "start_time": 18500,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 20580,
+            "start_time": 20300,
+            "text": "and"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 20740,
+            "start_time": 20700,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 21060,
+            "start_time": 20820,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 21300,
+            "start_time": 21100,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 21580,
+            "start_time": 21380,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 21940,
+            "start_time": 21740,
+            "text": "where"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 22180,
+            "start_time": 21980,
+            "text": "is"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 22460,
+            "start_time": 22300,
+            "text": "next"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 22780,
+            "start_time": 22620,
+            "text": "step"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 24020,
+            "start_time": 23700,
+            "text": "and"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 24180,
+            "start_time": 24140,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 24460,
+            "start_time": 24260,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 24740,
+            "start_time": 24540,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 25060,
+            "start_time": 24860,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 25380,
+            "start_time": 25220,
+            "text": "where"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 25620,
+            "start_time": 25460,
+            "text": "is"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 25900,
+            "start_time": 25780,
+            "text": "next"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 26220,
+            "start_time": 26100,
+            "text": "step"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 29770,
+        "start_time": 28850,
+        "text": "I don't even know.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 28890,
+            "start_time": 28850,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 29170,
+            "start_time": 28890,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 29410,
+            "start_time": 29170,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 29770,
+            "start_time": 29530,
+            "text": "know"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 34400,
+        "start_time": 32440,
+        "text": "I don't even know where's next stop. ",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 32480,
+            "start_time": 32440,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 32760,
+            "start_time": 32480,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 33000,
+            "start_time": 32760,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 33320,
+            "start_time": 33080,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 33840,
+            "start_time": 33400,
+            "text": "where's"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 34080,
+            "start_time": 33960,
+            "text": "next"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 34400,
+            "start_time": 34280,
+            "text": "stop"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 41720,
+        "start_time": 36040,
+        "text": "I don't even know where's next stop. I don't even know where's next stop.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 36080,
+            "start_time": 36040,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 36320,
+            "start_time": 36080,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 36560,
+            "start_time": 36360,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 36840,
+            "start_time": 36640,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 37480,
+            "start_time": 37040,
+            "text": "where's"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 37760,
+            "start_time": 37600,
+            "text": "next"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 38040,
+            "start_time": 37960,
+            "text": "stop"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 38640,
+            "start_time": 38600,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 40040,
+            "start_time": 39800,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 40240,
+            "start_time": 40040,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 40560,
+            "start_time": 40320,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 41160,
+            "start_time": 40680,
+            "text": "where's"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 41400,
+            "start_time": 41280,
+            "text": "next"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 41720,
+            "start_time": 41600,
+            "text": "stop"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 47510,
+        "start_time": 43310,
+        "text": "I don't even know how. I don't even know.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 43350,
+            "start_time": 43310,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 43630,
+            "start_time": 43390,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 43870,
+            "start_time": 43710,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 44150,
+            "start_time": 43990,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 44630,
+            "start_time": 44310,
+            "text": "how"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 46550,
+            "start_time": 46510,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 46870,
+            "start_time": 46630,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 47150,
+            "start_time": 46950,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 47510,
+            "start_time": 47310,
+            "text": "know"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 52150,
+        "start_time": 50390,
+        "text": "I don't even know her.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 50430,
+            "start_time": 50390,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 50710,
+            "start_time": 50510,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 50990,
+            "start_time": 50830,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 51390,
+            "start_time": 51190,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 52150,
+            "start_time": 52030,
+            "text": "her"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 55830,
+        "start_time": 54550,
+        "text": "I don't even know.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 54630,
+            "start_time": 54550,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 54950,
+            "start_time": 54710,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 55230,
+            "start_time": 55070,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 55830,
+            "start_time": 55550,
+            "text": "know"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 63680,
+        "start_time": 58440,
+        "text": "hmm, I don't even know. Oh, I don't even know.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 58680,
+            "start_time": 58440,
+            "text": "hmm"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 58880,
+            "start_time": 58800,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 59160,
+            "start_time": 58960,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 59480,
+            "start_time": 59280,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 59920,
+            "start_time": 59720,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 61120,
+            "start_time": 60200,
+            "text": "Oh"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 62680,
+            "start_time": 62640,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 63000,
+            "start_time": 62800,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 63320,
+            "start_time": 63120,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 63680,
+            "start_time": 63520,
+            "text": "know"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 73120,
+        "start_time": 66000,
+        "text": "hmm, I don't even know. Oh, yeah, yeah, I don't even know.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 66320,
+            "start_time": 66000,
+            "text": "hmm"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 66480,
+            "start_time": 66400,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 66760,
+            "start_time": 66520,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 67080,
+            "start_time": 66880,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 67440,
+            "start_time": 67200,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 68640,
+            "start_time": 67840,
+            "text": "Oh"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 70080,
+            "start_time": 69880,
+            "text": "yeah"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 71320,
+            "start_time": 71160,
+            "text": "yeah"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 71760,
+            "start_time": 71720,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 72120,
+            "start_time": 71920,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 72560,
+            "start_time": 72320,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 73120,
+            "start_time": 72920,
+            "text": "know"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 79010,
+        "start_time": 76530,
+        "text": "I don't even know where is next stop. ",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 76570,
+            "start_time": 76530,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 76850,
+            "start_time": 76570,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 77170,
+            "start_time": 76930,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 77490,
+            "start_time": 77290,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 77970,
+            "start_time": 77770,
+            "text": "where"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 78290,
+            "start_time": 78050,
+            "text": "is"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 78690,
+            "start_time": 78450,
+            "text": "next"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 79010,
+            "start_time": 78930,
+            "text": "stop"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 86410,
+        "start_time": 80610,
+        "text": "I don't even know where is next stop. I don't even know.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 80650,
+            "start_time": 80610,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 80970,
+            "start_time": 80650,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 81290,
+            "start_time": 81050,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 81650,
+            "start_time": 81450,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 82090,
+            "start_time": 81930,
+            "text": "where"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 82450,
+            "start_time": 82250,
+            "text": "is"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 82650,
+            "start_time": 82610,
+            "text": "next"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 83170,
+            "start_time": 83090,
+            "text": "stop"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 85290,
+            "start_time": 85250,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 85650,
+            "start_time": 85410,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 86010,
+            "start_time": 85770,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 86410,
+            "start_time": 86290,
+            "text": "know"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 89200,
+        "start_time": 88640,
+        "text": "Yeah.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 89200,
+            "start_time": 88640,
+            "text": "Yeah"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 94630,
+        "start_time": 93310,
+        "text": "I don't even know.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 93390,
+            "start_time": 93310,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 93750,
+            "start_time": 93510,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 94110,
+            "start_time": 93870,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 94630,
+            "start_time": 94430,
+            "text": "know"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 101229,
+        "start_time": 98709,
+        "text": "I don't even know where's next stop.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 98749,
+            "start_time": 98709,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 99069,
+            "start_time": 98749,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 99349,
+            "start_time": 99109,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 99749,
+            "start_time": 99469,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 100509,
+            "start_time": 100069,
+            "text": "where's"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 100869,
+            "start_time": 100709,
+            "text": "next"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 101229,
+            "start_time": 101149,
+            "text": "stop"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 109860,
+        "start_time": 102940,
+        "text": "I don't even know. Oh, where it's not stop. I don't even know.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 102980,
+            "start_time": 102940,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 103260,
+            "start_time": 102980,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 103580,
+            "start_time": 103380,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 103980,
+            "start_time": 103740,
+            "text": "know"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 105140,
+            "start_time": 104300,
+            "text": "Oh"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 106420,
+            "start_time": 106340,
+            "text": "where"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 106860,
+            "start_time": 106420,
+            "text": "it's"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 107060,
+            "start_time": 106940,
+            "text": "not"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 107580,
+            "start_time": 107460,
+            "text": "stop"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 108820,
+            "start_time": 108780,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 109100,
+            "start_time": 108820,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 109460,
+            "start_time": 109300,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 109860,
+            "start_time": 109660,
+            "text": "know"
+          }
+        ]
+      },
+      {
+        "additions": {
+          "speaker": "1"
+        },
+        "end_time": 114750,
+        "start_time": 111710,
+        "text": "Yeah, I don't even know.",
+        "words": [
+          {
+            "confidence": 0,
+            "end_time": 112870,
+            "start_time": 111710,
+            "text": "Yeah"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 113510,
+            "start_time": 113470,
+            "text": "I"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 113830,
+            "start_time": 113510,
+            "text": "don't"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 114230,
+            "start_time": 113990,
+            "text": "even"
+          },
+          {
+            "confidence": 0,
+            "end_time": -1,
+            "start_time": -1,
+            "text": " "
+          },
+          {
+            "confidence": 0,
+            "end_time": 114750,
+            "start_time": 114470,
+            "text": "know"
+          }
+        ]
+      }
+    ]
+  }
+}
