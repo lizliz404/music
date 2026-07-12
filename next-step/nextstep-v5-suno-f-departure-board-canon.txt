@@ -1,0 +1,124 @@
+# "Next Step" v5 — Suno Ready Package
+## Style F: Departure Board Canon (Electroacoustic Minimalism)
+## BPM/Key: 92 BPM, D minor
+
+### Style Prompt
+```
+Electroacoustic pulse minimalism, phase-shifting mallet and muted-synth loops, granular station clicks, warm restrained sub pulse, close-miked soft male sung recitation, three-note melodic cells, whispered unison echo layers, 92 BPM D minor
+```
+
+### Exclude Styles
+```
+pop-punk, emo, industrial, grunge, arena rock, EDM drop, synthwave, trap, dance-pop chorus, robotic lead vocal, choir, belting, shouting, screaming
+```
+
+### Sliders
+Weirdness 62-74 · Style Influence 64-76
+
+### Production Notes
+- Interlude: The pulse cuts completely; breaths trigger tiny granular reflections while the lead stays near-ASMR and almost dry.
+- Outro: Phase loops lose one note per cycle, the sub disappears, whispered doubles vanish, and a bare exhale remains against faint electrical hum.
+
+---
+
+[Verse 1: soft sung recitation, close-mic, three-note range, single voice]
+
+Eleventh floor, the glass still trembling
+Cement truck rolling through my ribs at eighty
+Three months in a box where the walls stayed thin
+The neighbor's cough, the late-night driver scrolling
+I moved the mattress — every side had sound
+Paperbacks pulled hard against the zipper seam
+Left the key where the landlord said
+Thirteen hundred stayed behind when I left
+Phone close to my mouth, wheels knocking every seam
+People stream around me; I keep humming low
+
+[Pre-Chorus: steady melodic pulse, quiet whispered echo entering behind phrases]
+
+The station lights cut through the afternoon haze
+Shenzhen North opens like a cold bright mouth
+A family of four, four screens, no words to say
+Volunteer vest blurs past — I drag my weight
+One hand on the handle, one hand on my chest
+
+[Chorus: controlled mantra singing, centered lead, soft unison echoes, fixed intensity]
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The platform hums, the timetable blinks
+I can't go back through those same old links
+I don't even know
+I don't even know where's next step
+
+[Verse 2: intimate melodic recitation, dry lead, sparse delayed responses]
+
+Back home, the same stall fries dough at the corner stand
+Fifteen years — same black pan same arches
+Father at the table, same soft line —
+"Chew slow, hold the bowl" — a decade, same refrain
+Brother's phone eats half his face in light
+A shopping chime; he says, "Go grab the coins"
+I sit between them like I'm barely there
+Through the window, "homework" moves balcony to balcony
+At dusk, the river singer reaches the roof
+The muddy lake road from the house I knew
+Childhood clay still underneath my shoe
+I can visit home but I can't stay long
+The hallway knows my footsteps don't belong
+
+[Bridge: nearly whispered but pitched, deliberate silence between phrases]
+
+Something tore — I can't remember what
+Maybe it was the ceiling that forgot
+The mixer still turns somewhere in my ribs
+
+Thin walls still ringing in my ears
+
+Am I walking toward something
+or only not going back?
+
+I set the phone face-down and lift the bag
+The handle clicks
+My left foot takes the weight
+
+[Interlude: spoken-sung, breathy, no drums, near-ASMR]
+
+I don't even know
+hmm
+I don't even know how
+oh
+I don't even know
+I don't even know
+yeah
+I don't even know where's next step
+I don't even know
+hmm — yeah
+I don't even know
+I don't even know
+I don't even know...
+
+[Final Chorus: three quiet unison passes, close and human, hypnotic rather than climactic]
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The board above me flickers, names dissolve
+But my feet remember — they don't need to solve
+I don't even know
+yeah —
+I don't even know where's next step
+
+[Outro: slowing spoken-sung lead, echoes removed one by one, final line almost unvoiced]
+
+Not cured
+Not pure
+Just walking
+One step more
+One step more
+I don't even know
+I don't even know
+...where's next step
+and that's enough
+and that's enough
