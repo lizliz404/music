@@ -1,0 +1,224 @@
+# "Next Step" — Final Production Package
+## Lyrics: v4 MAX ULTRA (GPT-5.6 Sol XHigh)
+## Suno Style Prompts: A/B (with production addenda)
+
+═══════════════════════════════════════════
+PART 1: LYRICS — v4 MAX ULTRA
+═══════════════════════════════════════════
+
+Title: Next Step
+BPM/Key: 92 BPM, D minor
+Genre: Kenshi Yonezu / LOSER-leaning melodic art-rock
+Vocal: Male, controlled, sung, melodic. Never shouted.
+Metaphor axis: transit / walking / luggage / next step
+
+---
+
+[Verse 1]
+
+Eleventh floor, the glass still trembling
+Cement truck rolling through my ribs at eighty
+Three months in a box where the walls stayed thin
+The neighbor's cough, the late-night driver scrolling
+I moved the mattress — every side had sound
+Jets crossed the roof; the daily train kept time
+From six until ten, steel rang from the site
+Paperbacks pulled hard against the zipper seam
+I zipped the bag, I didn't make a sound
+Took the elevator down to solid ground
+Left the key where the landlord said
+Thirteen hundred stayed behind when I left
+Wheels on tile, the corridor is dead
+Phone close to my mouth, wheels knocking every seam
+People stream around me; I keep humming low
+
+[Pre-Chorus]
+
+The station lights cut through the afternoon haze
+Shenzhen North opens like a cold bright mouth
+A family of four, four screens, no words to say
+Volunteer vest blurs past — I drag my weight
+A VIP lane glows beside the crowded queue
+The ad walls burn brighter wherever people press
+One hand on the handle, one hand on my chest
+
+[Chorus]
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The platform hums, the timetable blinks
+I can't go back through those same old links
+I don't even know
+I don't even know where's next step
+
+[Verse 2]
+
+Back home, the same stall fries dough at the corner stand
+Fifteen years — same black pan same arches
+Father at the table, same soft line —
+"Chew slow, hold the bowl" — a decade, same refrain
+Brother's phone eats half his face in light
+A shopping chime; he says, "Go grab the coins"
+I sit between them like I'm barely there
+"Homework" moves from balcony to balcony
+At dusk, the river singer reaches the roof
+The muddy lake road from the house I knew
+Childhood clay still underneath my shoe
+I can visit home but I can't stay long
+The hallway knows my footsteps don't belong
+
+[Bridge]
+
+Something tore — I can't remember what
+Maybe it was the ceiling that forgot
+The mixer still turns somewhere in my ribs
+
+Was it ever the room, or was it standing still?
+Am I walking toward something
+or only not going back?
+
+I set the phone face-down and lift the bag
+The handle clicks
+My left foot takes the weight
+
+[Interlude — loose, murmured, no rhyme, mirroring the M4A raw recording 28-73s]
+
+I don't even know
+hmm
+I don't even know how
+oh
+I don't even know
+I don't even know
+yeah
+I don't even know where's next step
+I don't even know
+hmm — yeah
+I don't even know
+I don't even know
+I don't even know...
+
+[Final Chorus]
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The board above me flickers, names dissolve
+But my feet remember — they don't need to solve
+I don't even know
+yeah —
+I don't even know where's next step
+
+[Outro — slowing, almost spoken]
+
+Not cured
+Not pure
+Just walking
+One step more
+One step more
+I don't even know
+I don't even know
+...where's next step
+and that's enough
+and that's enough
+
+═══════════════════════════════════════════
+PART 2: SUNO STYLE PROMPTS — A/B
+═══════════════════════════════════════════
+
+Both prompts assume Custom Mode (Style + Lyrics fields separate).
+Always use the Exclude Styles field — do NOT put excludes in the Style field.
+
+─── Style A: The Elegy ───
+
+Style prompt:
+Intimate bass-led chamber art-rock, restrained pocket drums, whisper-close controlled male vocal, warm acoustic guitar and felt piano, subtle strings with cold synth undertow, slow-bloom dynamics, spacious polished mix, 92 BPM D minor
+
+Production notes:
+- Interlude: Near-ASMR vocal, dry and breath-close, suspended over faint bass and luggage-wheel texture. No drums. Let the fillers (hmm/oh/yeah) breathe.
+- Outro: Strip to voice only. Remove drums and harmony. Isolated piano notes. Near-silence by the final "and that's enough."
+- Overall: Vulnerability-first. The exhaustion IS the production value — don't polish it away.
+
+Exclude Styles:
+pop, radio polish, autotune, trap, EDM, synth-pop, dream-pop, pop-punk, emo, industrial, grunge, shouting, screaming, lo-fi, garage rock, heavy distortion, guitar solos, rough production
+
+Creative Sliders:
+| Slider       | Setting | Reason |
+|--------------|---------|--------|
+| Weirdness    | 30-40   | Stable hook, let the intimacy carry novelty |
+| Style Inf.   | 70-80   | Tight adherence — Kenshi DNA must not drift to pop |
+| Audio Inf.   | —       | Not using audio upload for this style |
+
+─── Style B: The Departure ───
+
+Style prompt:
+Propulsive melodic art-rock, bassline-hook groove, tight syncopated drums, precise controlled male vocal, abrupt hard section cuts, cold digital synth and warm guitar tension, transit-percussion textures, clean punchy mix at 92 BPM D minor
+
+Production notes:
+- Interlude: Fragment the groove beneath a filtered station announcement, passing-train noise, and murmured vocal layers. Not a breakdown — a texture shift. The song keeps moving underneath.
+- Outro: Strip harmony but retain muted bass-and-kick pulse. Add luggage-wheel rhythm as percussion. Stark, unresolved, still moving. The train hasn't stopped.
+- Overall: Groove as emotional engine — not aggression, propulsion. Section contrast tells the transit story.
+
+Exclude Styles:
+pop, radio polish, autotune, trap hi-hats, EDM drops, choir pads, synth-pop, dream-pop, pop-punk, emo, industrial, grunge, shouting, screaming, lo-fi, garage rock, excessive distortion, long solos, aggression over melody
+
+Creative Sliders:
+| Slider       | Setting | Reason |
+|--------------|---------|--------|
+| Weirdness    | 45-55   | Section cuts need novelty; Interlude texture benefits |
+| Style Inf.   | 65-75   | Strong but leave room for transit-percussion creativity |
+| Audio Inf.   | —       | Not using audio upload for this style |
+
+═══════════════════════════════════════════
+PART 3: PRODUCTION ADDENDA (from suno-production skill)
+═══════════════════════════════════════════
+
+Custom Mode: REQUIRED. Style field + Lyrics field + Exclude Styles field must all be populated separately.
+
+Hybrid Model Workflow (recommended for v5.5):
+- Generate structure on v4.5 or v5 → Cover on v5.5 for vocal quality
+- Why: v4.5/v5 gives stable structure without mid-track degradation. Cover on v5.5 inherits stronger vocals WITHOUT pop reversion or unreliable Extend.
+- For the Interlude specifically: generate the Interlude section as part of the full track, NOT as an Extend — the murmuring quality needs the full structural context.
+
+Tag Economy Check:
+- Style A: 8 tags ✅ (sweet spot: 5-8)
+- Style B: 8 tags ✅
+- Both: ~350 chars ✅ (under Suno's silent truncation threshold)
+- No artist names ✅ (Suno ignores them entirely — we used sonic descriptors instead)
+
+Pop Gravity Well Escape:
+- Both prompts lead with "art-rock" NOT "pop" or "rock"
+- Both explicitly exclude: pop, pop-punk, emo, radio polish
+- Key: Suno's default drift is toward pop. Without excludes, 60-70% of generations land there.
+- Additional safeguard: if tracks drift toward generic pop hooks, raise Style Influence to 80-85.
+
+Structure Tags (for Lyrics field in Custom Mode):
+- Keep tags SPARSE. They're hints, not code.
+- Chorus lyrics MUST be IDENTICAL on every repeat — Suno rewards repetition for hook recognition.
+- For Interlude: [Interlude] tag on its own line. Do NOT add vocal performance tags — let the loose/murmured direction come from the style prompt.
+- For Outro: [Outro — slowing, almost spoken] on its own line.
+- End with [End] (clean stop) or [Fade Out] (trail-off). Recommend [Fade Out] for both styles.
+
+Credit Efficiency:
+- Stop after 2-4 generations per style. Listen. Score. Choose ONE.
+- Don't chase the "perfect" take in generation — use Replace Section for problem spots.
+- Blind regeneration loops = biggest credit waste.
+
+3-Listen Test:
+1st: Gut. Hook. Did anything make me want to hear it again?
+2nd: Structure. Does the song move like a song, not a loop? Is the Interlude distinct?
+3rd: Weak sections. Can problems be fixed with ONE control move (Replace Section, Extend, Crop)?
+
+═══════════════════════════════════════════
+VERSION HISTORY
+═══════════════════════════════════════════
+
+v1-hermes: DeepSeek v4 — 77 lines, 7.4/10 (sociological observer, cleaner Pre-Chorus)
+v1-cursor: Grok 4.5 — 71 lines, 7.1/10 (visceral images, "Shenzhen North," "same black pan")
+v2-synthesis: Lyric (Hermes) — fused best of both
+v3-opus: Claude 4.6 Opus — added Interlude + "and that's enough" + line fixes
+v4-sol: GPT-5.6 Sol XHigh — MAX ULTRA: 9 new untapped source images, 155 lines
+
+Source: ~188K words of autoethnography (nextstep-1 through nextstep-5.txt)
+Melody seed: melody-seed.m4a (117s, recorded walking to Shenzhen North Station, May 2025)
+ASR: 豆包 Flash ASR (volc.bigasr.auc_turbo), 20 utterances, "I don't even know" ×23+
