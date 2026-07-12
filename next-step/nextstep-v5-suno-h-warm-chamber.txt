@@ -1,0 +1,124 @@
+# "Next Step" v5 — Suno Ready Package
+## Style H: Warm Chamber Folk-Pop
+## BPM/Key: 92 BPM, D minor
+
+### Style Prompt
+```
+Warm acoustic chamber folk-pop, soft piano and light string pads, gentle brushed percussion, warm double bass, restrained tenor male lead, tender unaffected delivery, genuinely melodic hook-driven chorus, soft dynamic swell through strings not vocal, intimate but polished production, 92 BPM D minor
+```
+
+### Exclude Styles
+```
+shoegaze, post-rock, ambient/electroacoustic texture, glitch, minimalism-for-its-own-sake, industrial, EDM, arena rock, orchestral bombast, belting, shouting, screaming, power ballad crescendo, gospel choir, cinematic triumph
+```
+
+### Sliders
+Weirdness 15-25 · Style Influence 68-78
+
+### Production Notes
+Interlude: 弦乐和打击乐消失,只剩持续的钢琴垫音托着气声人声。
+Outro: 弦乐垫先溶解,打击乐停止,最后只剩钢琴和干声,落入室内空气声。
+
+---
+
+[Verse 1: bare piano and voice, close-mic, plainspoken melody]
+
+Eleventh floor, the glass still trembling
+Cement truck rolling through my ribs at eighty
+Three months in a box where the walls stayed thin
+The neighbor's cough, the late-night driver scrolling
+I moved the mattress — every side had sound
+Paperbacks pulled hard against the zipper seam
+Left the key where the landlord said
+Thirteen hundred stayed behind when I left
+Phone close to my mouth, wheels knocking every seam
+People stream around me; I keep humming low
+
+[Pre-Chorus: strings enter softly, vocal steady and warm]
+
+The station lights cut through the afternoon haze
+Shenzhen North opens like a cold bright mouth
+A family of four, four screens, no words to say
+Volunteer vest blurs past — I drag my weight
+One hand on the handle, one hand on my chest
+
+[Chorus: full arrangement blooms, vocal stays tender and level, melody is the hook, no belting]
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The platform hums, the timetable blinks
+I can't go back through those same old links
+I don't even know
+I don't even know where's next step
+
+[Verse 2: pulled back to piano and voice, documentary calm]
+
+Back home, the same stall fries dough at the corner stand
+Fifteen years — same black pan same arches
+Father at the table, same soft line —
+"Chew slow, hold the bowl" — a decade, same refrain
+Brother's phone eats half his face in light
+A shopping chime; he says, "Go grab the coins"
+I sit between them like I'm barely there
+Through the window, "homework" moves balcony to balcony
+At dusk, the river singer reaches the roof
+The muddy lake road from the house I knew
+Childhood clay still underneath my shoe
+I can visit home but I can't stay long
+The hallway knows my footsteps don't belong
+
+[Bridge: strings hold a suspended chord, vocal hushed, near-spoken]
+
+Something tore — I can't remember what
+Maybe it was the ceiling that forgot
+The mixer still turns somewhere in my ribs
+
+Thin walls still ringing in my ears
+
+Am I walking toward something
+or only not going back?
+
+I set the phone face-down and lift the bag
+The handle clicks
+My left foot takes the weight
+
+[Interlude: spoken-sung, breathy, no drums, near-ASMR]
+
+I don't even know
+hmm
+I don't even know how
+oh
+I don't even know
+I don't even know
+yeah
+I don't even know where's next step
+I don't even know
+hmm — yeah
+I don't even know
+I don't even know
+I don't even know...
+
+[Final Chorus: warmest full bloom, vocal restrained but present, gentle unison double, no crescendo]
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The board above me flickers, names dissolve
+But my feet remember — they don't need to solve
+I don't even know
+yeah —
+I don't even know where's next step
+
+[Outro: strings fade first, then percussion, piano and voice alone, final note unresolved]
+
+Not cured
+Not pure
+Just walking
+One step more
+One step more
+I don't even know
+I don't even know
+...where's next step
+and that's enough
+and that's enough
