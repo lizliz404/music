@@ -1,15 +1,16 @@
 # "Next Step" v5 — Suno Ready
-# Style I-v2: California Hills (Eagles × 李宗盛)
+# Style I-v3: California Hills (Eagles × 李宗盛) — ROCK-FREE REFINEMENT
 # BPM/Key: 92 BPM, D minor
 
 ### Style Prompt
-Weathered 70s Laurel Canyon folk-rock, aged husky low baritone lead vocal mixed low and blended into the band — never forward, never dominant in the mix, dry tight acoustic drum kit with no crash cymbals and no fills, subdued melodic bass sitting under the arrangement not driving it, dual clean electric guitars weaving warm interlocking harmonies, sparse Hammond organ pad, unhurried phrasing that stays melodic — conversational singing, not flat spoken word, instruments layer in gradually to build the swell, vocal intensity stays level and unchanged throughout
+Weathered 70s Laurel Canyon folk, aged husky low baritone lead vocal mixed low and blended into the band — never forward, never dominant in the mix, dry acoustic drum kit with no crash cymbals and no fills, subdued melodic bass sitting under the arrangement not driving it, dual clean electric guitars weaving warm interlocking harmonies, sparse Hammond organ pad, unhurried phrasing that stays melodic — conversational singing, not flat spoken word, instruments layer in gradually, arrangement deepens naturally, vocal intensity stays level and unchanged throughout
 
 ### Exclude Styles
-pop, pop-punk, emo, radio polish, autotune, trap, EDM, synth-pop, dream-pop, belting, shouting, screaming, powerful vocal, vocal crescendo, lo-fi, garage rock, excessive distortion, guitar shredding, arena rock, hard rock, prominent bass, driving aggressive bassline, crash cymbals, heavy drum fills, cinematic climax
+pop, pop-punk, emo, radio polish, autotune, trap, EDM, synth-pop, dream-pop, belting, shouting, screaming, powerful vocal, vocal crescendo, lo-fi, garage rock, excessive distortion, guitar shredding, arena rock, hard rock, prominent bass, driving aggressive bassline, crash cymbals, heavy drum fills, cinematic climax, forward vocal, loud mix, driving drums, epic build
 
 ### Sliders
-Weirdness: 20-30 · Style Influence: 78-88
+Weirdness: 20-30 · Style Influence: 70-78
+(Note: with "rock" purged from genre, the model has less rock-default to fight — Style Influence dropped from 78-88 to 70-78. If the model still drifts toward generic folk/singer-songwriter, nudge back to 75-85.)
 
 ---
 
@@ -20,14 +21,9 @@ Cement truck rolling through my ribs at eighty
 Three months in a box where the walls stayed thin
 The neighbor's cough, the late-night driver scrolling
 I moved the mattress — every side had sound
-Jets crossed the roof; the daily train kept time
-From six until ten, steel rang from the site
 Paperbacks pulled hard against the zipper seam
-I zipped the bag, I didn't make a sound
-Took the elevator down to solid ground
 Left the key where the landlord said
 Thirteen hundred stayed behind when I left
-Wheels on tile, the corridor is dead
 Phone close to my mouth, wheels knocking every seam
 People stream around me; I keep humming low
 
@@ -37,8 +33,6 @@ The station lights cut through the afternoon haze
 Shenzhen North opens like a cold bright mouth
 A family of four, four screens, no words to say
 Volunteer vest blurs past — I drag my weight
-A VIP lane glows beside the crowded queue
-The ad walls burn brighter wherever people press
 One hand on the handle, one hand on my chest
 
 [Chorus: full band lifts through guitar harmonies and organ, vocal stays low in the mix and level — the guitars carry the lift, not the voice]
@@ -60,7 +54,7 @@ Father at the table, same soft line —
 Brother's phone eats half his face in light
 A shopping chime; he says, "Go grab the coins"
 I sit between them like I'm barely there
-"Homework" moves from balcony to balcony
+Through the window, "homework" moves balcony to balcony
 At dusk, the river singer reaches the roof
 The muddy lake road from the house I knew
 Childhood clay still underneath my shoe
@@ -73,7 +67,8 @@ Something tore — I can't remember what
 Maybe it was the ceiling that forgot
 The mixer still turns somewhere in my ribs
 
-Was it ever the room, or was it standing still?
+Thin walls still ringing in my ears
+
 Am I walking toward something
 or only not going back?
 
@@ -97,9 +92,8 @@ I don't even know
 I don't even know
 I don't even know...
 
-[Final Chorus: fullest band moment, dual guitars soar and carry the emotional peak, vocal remains weathered, low in the mix, intensity unchanged]
+[Final Chorus: fullest band moment, dual guitars at their warmest and most present carry the emotional peak, vocal remains weathered, low in the mix, intensity unchanged]
 
-I don't even know
 I don't even know
 I don't even know where's next step
 The board above me flickers, names dissolve

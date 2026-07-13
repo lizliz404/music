@@ -106,3 +106,52 @@ Sliders: Weirdness 20-30 · Style Influence 78-88
 [Outro: band falls away instrument by instrument, dry weathered vocal last, single guitar chord fades]
 
 如果这版还是被拉回"响、满、喊"，问题大概率不在 prompt 文字本身——用 Voices 录一段确切语气锁定，不再纯文字试第十版。
+
+---
+
+## Style I-v3: ROCK-FREE REFINEMENT
+## 2026-07-13
+
+### 问题诊断（I-v2 反馈）
+
+I-v2 加了 "vocal mixed low," "dry drums no crashes," "subdued bass" —— 仍然被 Suno 拉回摇滚模式。鼓还在砸，贝斯还在吼。**根本原因："rock" 这个词只要出现在 genre 里，整个 mix 就被拖向攻击性。** 任何文字约束都压不过这个词的权重。
+
+### I-v3 改动清单（外科手术级）
+
+每个改动只针对一个 Suno 触发词，其余保留：
+
+| 触发词 | 位置 | 替换 | 原因 |
+|--------|------|------|------|
+| **"rock"** | Style Prompt genre: "Laurel Canyon folk-rock" | → "Laurel Canyon **folk**" | "rock" 是唯一的元凶——它把鼓、贝斯、人声全拉向攻击性。去掉后整个声场自然回到 warm/spacious/intimate |
+| **"tight"** | Style Prompt: "dry tight acoustic drum kit" | → "dry acoustic drum kit" | "tight" 暗示张力/驱动感，可能触发鼓的 attack 增强 |
+| **"build the swell"** | Style Prompt: "instruments layer in gradually to build the swell" | → "instruments layer in gradually, **arrangement deepens naturally**" | "build" + "swell" 双触发音量爬升。新表述只描述编曲层次增加，不承诺音量变化 |
+| **"soar"** | Final Chorus tag: "dual guitars soar and carry the emotional peak" | → "dual guitars **at their warmest and most present** carry the emotional peak" | "soar" 触发 Suno 的 epic-rock 模式——即便修饰 guitars，也会把整个 mix 拉向宏大/轰鸣 |
+
+### 新增 Excludes
+
+- `forward vocal` — 补刀：即使 style prompt 写了 "mixed low"，排除词也明确拒绝人声前置
+- `loud mix` — 直接拒绝混音层面的响度竞争
+- `driving drums` — 在已有 "crash cymbals" / "heavy drum fills" 基础上再加一层鼓的推力封锁
+- `epic build` — 防止编曲层叠被误解为 epic crescendo
+
+### 新 Genre Anchor 选择
+
+**"Weathered 70s Laurel Canyon folk"** 而非其他候选：
+
+- ❌ "Laurel Canyon folk-rock" — 含 "rock"，已证实失败
+- ❌ "70s singer-songwriter" — 太泛，可能偏钢琴 ballad 或 James Taylor 式轻民谣，丢失双吉他纹理
+- ❌ "acoustic atmospheric" — 太模糊，可能触发 ambient/new-age
+- ✅ **"Laurel Canyon folk"** — 精准锁定 Joni Mitchell / CSN / 早期 Jackson Browne 的声学传统：温暖、宽阔、双吉他、不着急、模拟录音质感。"Folk" 在 Laurel Canyon 语境下自带电吉他但不带摇滚侵略性
+
+### Sliders 调整
+
+Style Influence 从 **78-88 → 70-78**。理由：去掉 "rock" 后，模型没有摇滚默认倾向需要对抗——不需要那么高的 style 权重去压制。如果实际生成偏软/偏 generic folk，可回调到 75-85。
+
+### 歌词同步
+
+歌词已更新为 Liz 最新编辑稿（V1 精简版）：
+- 移除 Verse 1 中 "Jets crossed the roof" / "From six until ten" / "I zipped the bag" / "Took the elevator down" / "Wheels on tile" 五句
+- 移除 Pre-Chorus 中 "A VIP lane glows" / "The ad walls burn brighter" 两句
+- Verse 2: `"Homework" moves from balcony to balcony` → `Through the window, "homework" moves balcony to balcony`
+- Bridge: `Was it ever the room, or was it standing still?` → `Thin walls still ringing in my ears`
+- Final Chorus: 移除开头第一个 `I don't even know`，直接从第二个进入
