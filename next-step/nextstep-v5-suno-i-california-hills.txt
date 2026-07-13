@@ -1,20 +1,20 @@
 # "Next Step" v5 — Suno Ready
-# Style I-v4: ANTI-BORING REFINEMENT — Tension Architecture
+# Style I-v5: FULL DIAGNOSIS INTEGRATION — The Four Surgeries Applied
 # BPM/Key: 82 BPM, D minor
 
 ### Style Prompt
-Brooding tense unresolved slow-burn noir folk, 82 BPM D minor, weathered low baritone vocal buried in mix, recurring 3-note clean guitar motif hook, dry drums no crashes no fills, descending unresolved bassline, distant wordless female hum enters final chorus only, male unison vocal double on choruses, tense strings rise at finale, haunted weight
+Brooding tense unresolved noir folk, 82 BPM D minor. Weathered low baritone close-mic'd with dry consonants, conversational level — Springsteen Nebraska weight, not quiet not forward. Dry drums: kick pushes half-beat ahead of snare, no crashes no fills — heartbeat racing against walking pace. Low-D Hammond drone sustained throughout, bending to Eb under tension — a half-step wound that never closes, slow Leslie, almost subliminal. Clean electric guitars in delayed call-and-response — Guitar B answers semitone higher with quarter-tone bends that never resolve. In final chorus they finally play unison. Descending unresolved bassline, occasionally holds a note one bar longer than expected. Male unison vocal double on choruses — his own voice layered from a distance. Tense strings rise at finale only. Dynamics build through density and dissonance, not volume. Haunted weight.
 
 ### Exclude Styles
-pop, pop-punk, emo, radio polish, autotune, trap, EDM, synth-pop, dream-pop, belting, shouting, screaming, lo-fi, garage rock, excessive distortion, guitar shredding, arena rock, hard rock, country rock, cheerful, breezy, campfire, singalong, uplifting, major-key resolution, female lead vocal, choir, cinematic climax, forward vocal, loud mix, driving drums, epic build, prominent bass, driving aggressive bassline, crash cymbals, heavy drum fills
+pop, pop-punk, emo, radio polish, autotune, trap, EDM, synth-pop, dream-pop, belting, shouting, screaming, lo-fi, garage rock, excessive distortion, guitar shredding, arena rock, hard rock, country rock, cheerful, breezy, campfire, singalong, uplifting, major-key resolution, female lead vocal, female backing vocals, choir, cinematic climax, forward vocal, loud mix, driving drums, epic build, prominent bass, driving aggressive bassline, crash cymbals, heavy drum fills
 
 ### Sliders
 Weirdness: 25-35 · Style Influence: 78-88
-(Note: higher Weirdness creates the dissonant/tense space this song needs — the model's comfort zone IS the boring zone. Style Influence at 78-88 locks the anti-boring direction tight. If output drifts generic, nudge to 82-90.)
+(Note: higher Weirdness creates the dissonant/tense space. Model's comfort zone IS the boring zone. Style Influence locks direction. If output drifts generic, nudge to 82-90.)
 
 ---
 
-[Verse 1: low baritone mixed low with band, single voice, conversational but weighted, recurring guitar motif underneath, unhurried]
+[Verse 1: low baritone close-mic'd, conversational but weighted, single voice + one guitar + low-D Hammond drone underneath, no drums]
 
 Eleventh floor, the glass still trembling
 Cement truck rolling through my ribs at eighty
@@ -27,7 +27,7 @@ Thirteen hundred stayed behind when I left
 Phone close to my mouth, wheels knocking every seam
 People stream around me; I keep humming low
 
-[Pre-Chorus: same weathered texture, guitars widen slightly, vocal stays buried, bass descends, motif continues]
+[Pre-Chorus: same close-mic'd texture, Guitar B enters — delayed semitone answers with quarter-tone bends, Hammond drone begins its bend toward Eb, bass descends, vocal stays conversational level]
 
 The station lights cut through the afternoon haze
 Shenzhen North opens like a cold bright mouth
@@ -35,7 +35,7 @@ A family of four, four screens, no words to say
 Volunteer vest blurs past — I drag my weight
 One hand on the handle, one hand on my chest
 
-[Chorus: male unison double from a distance — his own voice layered, drums dry and restrained, guitar motif hooks, vocal stays low — lift comes from texture not volume]
+[Chorus: pushed kick enters — half-beat ahead of snare, male unison double from a distance — his own voice layered, Hammond drone holds Eb tension, guitar call-and-response continues, vocal stays conversational level — lift comes from density and dissonance not volume]
 
 I don't even know
 I don't even know
@@ -45,7 +45,7 @@ I can't go back through those same old links
 I don't even know
 I don't even know where's next step
 
-[Verse 2: pulled back, intimate, husky and unpolished, guitar motif sparse underneath, documentary tone]
+[Verse 2: strips back — intimate, husky and unpolished, one guitar + drone only, no drums, documentary tone]
 
 Back home, the same stall fries dough at the corner stand
 Fifteen years — same black pan same arches
@@ -58,7 +58,7 @@ Childhood clay still underneath my shoe
 I can visit home but I can't stay long
 The hallway knows my footsteps don't belong
 
-[Bridge: half-time, hushed, nearly spoken but still melodic, single clean guitar, no drums, bass holds a low unresolved note]
+[Bridge: half-time, hushed, nearly spoken but still melodic, single clean guitar holds an unresolved chord, Hammond drone drops to near-silence, no drums, bass holds a single unresolved low note]
 
 Something tore — I can't remember what
 The mixer still turns somewhere in my ribs
@@ -72,7 +72,7 @@ I set the phone face-down and lift the bag
 The handle clicks
 My left foot takes the weight
 
-[Interlude: spoken-sung, breathy, no drums, guitar motif distant and fragmented, near-ASMR]
+[Interlude: spoken-sung, breathy, no drums, no drone, guitar fragmented and distant, near-ASMR]
 
 I don't even know
 hmm
@@ -83,7 +83,7 @@ hmm
 I don't even know
 I don't even know...
 
-[Final Chorus: strings enter — tense, not warm — female hum distant and wordless, male unison double, guitar motif locks in, fullest texture, vocal stays buried and level]
+[Final Chorus: both guitars finally play in unison — the song's only resolution, pushed kick and heartbeat aligned for the first time, Hammond drone returns to D — tension released, tense strings enter, male unison double, fullest density, vocal stays conversational level and unchanged]
 
 I don't even know
 I don't even know where's next step
@@ -93,7 +93,7 @@ I don't even know
 yeah —
 I don't even know where's next step
 
-[Outro: strings fade first, then drums, guitar motif alone, dry vocal last, single unresolved chord fades]
+[Outro: strings fade first, then drums, guitars fall away instrument by instrument, Hammond drone alone for a moment then fades, dry vocal last, single unresolved chord fades into silence]
 
 Not cured
 Not pure

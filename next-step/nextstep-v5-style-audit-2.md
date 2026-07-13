@@ -244,3 +244,67 @@ New exclusions targeting the "pleasant-default" gravity well:
 - Target runtime: **~3:00-3:30** (entire song inside Suno's high-adherence window)
 - Style prompt: ~315 chars, 5 distinct mood tags before genre tag, 0 artist names
 - BPM: 92 → **82** (10.9% slower = more weight, less cowboy sway)
+
+---
+
+## Style I-v5: FULL DIAGNOSIS INTEGRATION — The Four Surgeries Applied
+## 2026-07-14
+
+### What was missing from I-v4 (gap analysis vs Liz's full diagnosis)
+
+I-v4 was generated from a summary of Liz's diagnosis, not the full text. Four core surgical recommendations from the prescription (section 三/四) were entirely absent:
+
+| Surgery | Liz's Prescription | I-v4 Status | I-v5 Fix |
+|---------|-------------------|-------------|----------|
+| **1. Hammond drone → semitone bend** | Low-D drone sustained throughout, bending to Eb under pre-chorus/bridge — "half-step wound that never closes," slow Leslie, subliminal | ❌ Not mentioned. No organ/drone at all. | ✅ Added: "Low-D Hammond drone sustained throughout, bending to Eb under tension — a half-step wound that never closes, slow Leslie, almost subliminal." Wired into every section tag. |
+| **2. Guitar call-and-response + quarter-tone bend** | Guitar A states phrase; Guitar B answers half-beat later, semitone higher, quarter-tone bend that never resolves. Final chorus: both play unison (only resolution). | ❌ I-v4 had "recurring 3-note clean guitar motif hook" — a single motif, no call-and-response, no semitone bend, no "two people asking each other." | ✅ Replaced motif with call-and-response: "Guitar B answers semitone higher with quarter-tone bends that never resolve. In final chorus they finally play unison." Pre-Chorus tag specifies Guitar B enters there. Final Chorus tag: "both guitars finally play in unison — the song's only resolution." |
+| **3. Pushed kick** | Kick pushes half-beat ahead of snare — heartbeat racing against walking pace. Snare stays laid-back. | ❌ I-v4 had "dry drums no crashes no fills" — same as pre-diagnosis. No pushed kick. | ✅ Added: "kick pushes half-beat ahead of snare — heartbeat racing against walking pace." Chorus tag: "pushed kick enters — half-beat ahead of snare." Final Chorus: "pushed kick and heartbeat aligned for the first time" (resolution). |
+| **4. Vocal redefined: close-mic'd, not buried** | Springsteen Nebraska / Leonard Cohen: close-mic'd, audible breath, dry consonants, conversational level — NOT quiet, NOT forward. "音量不小，但情感是内爆的。" | ❌ I-v4 used "buried in mix" — Liz explicitly distinguishes: buried = quiet, what she wants = close-mic'd intensity at conversational level. Wrong framing. | ✅ Replaced all "buried" with "close-mic'd, conversational level." Style prompt: "close-mic'd with dry consonants, conversational level — Springsteen Nebraska weight, not quiet not forward." All section tags updated. |
+
+### Contradictions resolved
+
+| Issue | I-v4 | Liz's Stance | I-v5 |
+|-------|------|-------------|------|
+| **Female hum** | "distant wordless female hum enters final chorus only" | "女声 backup: 我不建议，这次先不加。" — female voice implies companion, contradicts isolation theme. Prescription: "No backing vocals." | ❌ Removed entirely. |
+| **"Unhurried"** | Still in Verse 1 tag | "删掉 unhurried（它是无聊的元凶）" | ✅ Removed. Verse 1 tag no longer says "unhurried." |
+| **Strings** | "tense strings rise at finale" | Prescription says "No strings"; AI修正版 says "subtle strings at final chorus." 李健版山丘先例 supports strings. | ✅ Kept. Strings at finale only — consistent with AI修正版 and empirical precedent. |
+
+### Section tag changes (all 8 sections updated)
+
+Every section tag now includes the surgical elements active in that section, following Liz's dynamics architecture:
+
+| Section | I-v4 Tag | I-v5 Tag (key change) |
+|---------|---------|----------------------|
+| Verse 1 | "mixed low... unhurried" | "close-mic'd... single voice + one guitar + low-D Hammond drone underneath, no drums" |
+| Pre-Chorus | "vocal stays buried" | "Guitar B enters — delayed semitone answers with quarter-tone bends, Hammond drone begins its bend toward Eb, vocal stays conversational level" |
+| Chorus | "vocal stays low — lift from texture" | "pushed kick enters — half-beat ahead of snare... Hammond drone holds Eb tension... lift comes from density and dissonance not volume" |
+| Verse 2 | "pulled back, intimate" | "strips back — intimate... one guitar + drone only, no drums" |
+| Bridge | "hushed... single clean guitar" | "single clean guitar holds an unresolved chord, Hammond drone drops to near-silence, no drums, bass holds a single unresolved low note" |
+| Interlude | "no drums, guitar motif distant" | "no drums, no drone, guitar fragmented and distant" |
+| Final Chorus | "female hum distant... vocal stays buried" | "both guitars finally play in unison — the song's only resolution, pushed kick and heartbeat aligned for the first time, Hammond drone returns to D — tension released, vocal stays conversational level" |
+| Outro | "dry vocal last" | "Hammond drone alone for a moment then fades, dry vocal last, single unresolved chord fades into silence" |
+
+### Tension architecture (the narrative arc of the surgeries)
+
+Liz's prescription describes a specific arc across sections — the four surgeries are not static, they evolve:
+
+1. **Verse 1**: Voice + one guitar + drone. Minimal. No drums. The loneliness is bare.
+2. **Pre-Chorus**: Guitar B enters with semitone answers (the "追问" begins). Drone begins bending to Eb (the wound opens).
+3. **Chorus**: Pushed kick enters (heartbeat races). Drone holds Eb (wound at maximum). Density increases through dissonance, not volume.
+4. **Verse 2**: Strips back — one guitar + drone. No drums. False calm before the bridge.
+5. **Bridge**: Guitar holds unresolved chord. Drone near-silence. Bass holds one note. Near a-cappella — the loneliest moment.
+6. **Interlude**: No drone. Guitar fragmented. Near-ASMR. Disintegration.
+7. **Final Chorus**: Both guitars play unison (first and only resolution). Kick and heartbeat aligned. Drone returns to D (tension released). Strings enter. Fullest density — catharsis delivered through arrangement, not vocal.
+8. **Outro**: Instruments fall away one by one. Drone alone for a moment, then fades. Dry vocal last. Unresolved chord. Silence.
+
+This arc is the difference between "describing what the song looks like" (I-v4) and "telling the model what the song is afraid of" (I-v5).
+
+### Design decisions and tradeoffs
+
+**Why keep strings but drop female hum?** Strings have empirical support (李健版山丘 — strings lift spoken delivery into poetry without changing vocal). Female voice introduces a "companion" implication that contradicts "一个人的孤独跋涉" — Liz was unambiguous on this.
+
+**Why keep male unison double?** Liz's own suggestion: "他自己的声音在远处叠一层和声(unison double, distant)" — isolation echoing back at itself, not community.
+
+**Why the call-and-response guitar instead of the 3-note motif?** The 3-note motif was I-v4's attempt at melodic identity, but Liz's diagnosis identifies the REAL engine of Hotel California / 山丘: not a hook, but a *relationship* between instruments that carries the emotional subtext the vocal can't say. Two guitars asking each other questions = the song's actual dramatic engine.
+
+**Risk**: Three surgeries at once may overwhelm Suno's adherence. Liz herself suggested trying Hammond drone + pushed kick first (最小可行手术), then layering guitar call-and-response. If this version produces chaotic output, revert to a 2-surgery version and add the third incrementally.
