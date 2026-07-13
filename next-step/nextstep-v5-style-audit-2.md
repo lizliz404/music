@@ -155,3 +155,92 @@ Style Influence 从 **78-88 → 70-78**。理由：去掉 "rock" 后，模型没
 - Verse 2: `"Homework" moves from balcony to balcony` → `Through the window, "homework" moves balcony to balcony`
 - Bridge: `Was it ever the room, or was it standing still?` → `Thin walls still ringing in my ears`
 - Final Chorus: 移除开头第一个 `I don't even know`，直接从第二个进入
+
+---
+
+## Style I-v4: ANTI-BORING REFINEMENT — Tension Architecture
+## 2026-07-14
+
+### Core Diagnosis: Why All 8+ Previous Attempts Failed
+
+"Boring" was never a prompt problem — it was a **length + tension-structure problem.** All previous prompts described the surface perfectly (warm, husky, folk, guitar harmonies), but every element aligned toward comfort/pleasantness. What makes Hotel California and 山丘 compelling is the **tension between surface calm and underlying dread/urgency.** Previous prompts described the surface; none described the undertow.
+
+### Primary Lever: Lyric Cut (155 → 62 lines)
+
+**Community-verified Suno fact**: Prompt adherence is tight for the first 60-90 seconds, then decays exponentially. After decay, Suno repeats motifs, simplifies, falls back to statistical mean = generic patterns. ~3:00-3:30 runtime keeps the entire song inside the high-adherence window. 155-line lyrics = 5+ minutes = guaranteed boring second half with 50%+ on autopilot.
+
+**What was cut and why (from Liz's latest edit as starting point):**
+
+| Section | Before | After | Cut | Rationale |
+|---------|--------|-------|-----|-----------|
+| Verse 1 | 10 | 10 | 0 | Already tight from Liz's edit — no further cuts |
+| Pre-Chorus | 5 | 5 | 0 | Already tight |
+| Chorus | 7 | 7 | 0 | Hook — must stay identical on repeats |
+| **Verse 2** | 13 | **10** | -3 | Removed: "At dusk, the river singer reaches the roof" (one too many scene details), "The muddy lake road from the house I knew" ("childhood clay" already carries this), "I sit between them like I'm barely there" (tells rather than shows — the blankness is already shown through father/brother images) |
+| **Bridge** | 9 | **8** | -1 | Removed: "Maybe it was the ceiling that forgot" (weaker echo of "Something tore" — doesn't earn its space) |
+| **Interlude** | 13 | **8** | -5 | Cut redundant murmured repetitions ("I don't even know how," "oh," "yeah," "hmm — yeah," one extra "I don't even know"). Murmured repetition is the point, but shorter — still reads as fragmented, incomplete, unresolved |
+| Final Chorus | 7 | 7 | 0 | Hook variant — preserved |
+| **Outro** | 10 | **7** | -3 | Cut: duplicate "One step more," duplicate "I don't even know," duplicate "and that's enough." Final "and that's enough" kept as closer per Liz directive |
+
+**Total**: 77 → 62 content lines. At 82 BPM with slow, spacious delivery, this lands at ~3:00-3:30 — the entire song inside Suno's high-adherence window.
+
+### Style Prompt Changes: The Anti-Boring Architecture
+
+Every change targets a specific failure mode from the accumulated 8+ failed attempts:
+
+| Failure Mode | Root Cause | I-v4 Fix |
+|-------------|-----------|----------|
+| "Laurel Canyon folk" → sunny cowboy default | "Laurel Canyon" triggers the sunny half of its semantic field; "folk" without dark modifiers defaults pleasant | **Removed entirely.** Replaced with "brooding tense unresolved slow-burn noir folk" — mood FIRST, genre second |
+| 92 BPM → inherent cowboy-sway feel | Steady mid-tempo with folk = campfire rhythm | **82 BPM** — slower = more weight, less sway |
+| All elements aligned toward comfort | "Warm" used 3x, zero words for tension/urgency | "Warm" used 0x. Replaced with: **tense, unresolved, haunted, weight.** Descending bassline that never resolves |
+| No melodic identity — nothing to remember | No recurring motif = nothing for the ear to grab | **Recurring 3-note clean guitar motif hook** — every non-boring song has one. Hotel California has the 12-string intro. This song gets its own |
+| "Folk-rock" → rock triggers aggression, folk triggers pleasant | Two opposing vectors in genre tag | Genre anchor: **"noir folk"** — dark, cinematic, never sunny |
+| No arrangement dynamics | All instruments present throughout = flat | **Strings enter only at Final Chorus** (李健版山丘先例: strings lift spoken delivery into poetry without changing vocal). **Bass is descending and unresolved** — never lands |
+
+### Backup Vocals: Anti-Comfort Design
+
+- **Female backing vocals**: YES, but only as **distant, wordless hum** — not harmonies, not "companion" presence. The song is about being alone. A distant female voice is a memory, not a person in the room. Enters only at Final Chorus.
+- **Male unison double on chorus**: YES — **"his own voice" layered from a distance**, not a choir. The effect is isolation echoing back at itself, not community.
+
+### Section Vocal Tags: From Constraint to Direction
+
+Previous tags only said what NOT to do ("no belting"). I-v4 tags tell the model what TO do:
+
+| Section | Delivery Direction | Arrangement Cue |
+|---------|-------------------|-----------------|
+| Verse 1 | Conversational but **weighted** | Guitar motif underneath |
+| Pre-Chorus | Vocal stays **buried** | Bass descends, motif continues |
+| Chorus | Male unison double, vocal stays **low** | Lift from **texture not volume** |
+| Verse 2 | Intimate, husky, **documentary tone** | Motif sparse underneath |
+| Bridge | Hushed, nearly spoken, **still melodic** | Single clean guitar, bass holds unresolved note |
+| Interlude | Spoken-sung, breathy, **near-ASMR** | Motif distant and fragmented |
+| Final Chorus | Vocal stays **buried and level** | **Strings enter — tense, not warm.** Female hum distant. Motif locks in |
+| Outro | Dry vocal last | Strings fade → drums fade → guitar motif alone → unresolved chord |
+
+### The Tension Philosophy
+
+**Surface restraint + underlying dread = Hotel California / 山丘 magic.**
+
+Previous prompts described Hotel California's surface: warm guitars, clean production, conversational delivery. None described its engine: the descending bassline that never resolves, the lyrics about being trapped while the music sounds free, the dual-guitar climax that arrives not through vocal power but through arrangement.
+
+This song's engine: a man walking away from everything, unsure if he's moving toward something or just not going back — and the music should feel like it could collapse into silence at any moment. That's the undertow. That's what makes it not boring.
+
+### Exclude Styles — Additions
+
+New exclusions targeting the "pleasant-default" gravity well:
+- `country rock` — blocks Eagles-lite cowboy drift
+- `cheerful, breezy, campfire, singalong, uplifting` — blocks the folk-comfort zone
+- `major-key resolution` — forces the model to stay in unresolved harmonic territory
+- `female lead vocal, choir` — prevents model from misinterpreting "female hum" as lead/choir
+
+### Sliders Rationale
+
+- **Weirdness: 25-35** (up from 20-30) — slightly higher to create the dissonant/tense space. The model's comfort zone IS the boring zone. Need to push slightly into unfamiliar territory.
+- **Style Influence: 78-88** (up from 70-78) — "rock" is gone from genre, but "noir folk" is a non-standard anchor. Higher influence locks the anti-boring direction tight. If output drifts generic, nudge to 82-90.
+
+### Metrics
+
+- Lyric content lines: 77 → **62** (19.5% cut)
+- Target runtime: **~3:00-3:30** (entire song inside Suno's high-adherence window)
+- Style prompt: ~315 chars, 5 distinct mood tags before genre tag, 0 artist names
+- BPM: 92 → **82** (10.9% slower = more weight, less cowboy sway)

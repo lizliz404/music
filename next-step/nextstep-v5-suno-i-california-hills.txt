@@ -1,20 +1,20 @@
 # "Next Step" v5 — Suno Ready
-# Style I-v3: California Hills (Eagles × 李宗盛) — ROCK-FREE REFINEMENT
-# BPM/Key: 92 BPM, D minor
+# Style I-v4: ANTI-BORING REFINEMENT — Tension Architecture
+# BPM/Key: 82 BPM, D minor
 
 ### Style Prompt
-Weathered 70s Laurel Canyon folk, aged husky low baritone lead vocal mixed low and blended into the band — never forward, never dominant in the mix, dry acoustic drum kit with no crash cymbals and no fills, subdued melodic bass sitting under the arrangement not driving it, dual clean electric guitars weaving warm interlocking harmonies, sparse Hammond organ pad, unhurried phrasing that stays melodic — conversational singing, not flat spoken word, instruments layer in gradually, arrangement deepens naturally, vocal intensity stays level and unchanged throughout
+Brooding tense unresolved slow-burn noir folk, 82 BPM D minor, weathered low baritone vocal buried in mix, recurring 3-note clean guitar motif hook, dry drums no crashes no fills, descending unresolved bassline, distant wordless female hum enters final chorus only, male unison vocal double on choruses, tense strings rise at finale, haunted weight
 
 ### Exclude Styles
-pop, pop-punk, emo, radio polish, autotune, trap, EDM, synth-pop, dream-pop, belting, shouting, screaming, powerful vocal, vocal crescendo, lo-fi, garage rock, excessive distortion, guitar shredding, arena rock, hard rock, prominent bass, driving aggressive bassline, crash cymbals, heavy drum fills, cinematic climax, forward vocal, loud mix, driving drums, epic build
+pop, pop-punk, emo, radio polish, autotune, trap, EDM, synth-pop, dream-pop, belting, shouting, screaming, lo-fi, garage rock, excessive distortion, guitar shredding, arena rock, hard rock, country rock, cheerful, breezy, campfire, singalong, uplifting, major-key resolution, female lead vocal, choir, cinematic climax, forward vocal, loud mix, driving drums, epic build, prominent bass, driving aggressive bassline, crash cymbals, heavy drum fills
 
 ### Sliders
-Weirdness: 20-30 · Style Influence: 70-78
-(Note: with "rock" purged from genre, the model has less rock-default to fight — Style Influence dropped from 78-88 to 70-78. If the model still drifts toward generic folk/singer-songwriter, nudge back to 75-85.)
+Weirdness: 25-35 · Style Influence: 78-88
+(Note: higher Weirdness creates the dissonant/tense space this song needs — the model's comfort zone IS the boring zone. Style Influence at 78-88 locks the anti-boring direction tight. If output drifts generic, nudge to 82-90.)
 
 ---
 
-[Verse 1: aged husky low baritone, mixed low and blended with the guitars, conversational but melodic, single voice, no forward presence]
+[Verse 1: low baritone mixed low with band, single voice, conversational but weighted, recurring guitar motif underneath, unhurried]
 
 Eleventh floor, the glass still trembling
 Cement truck rolling through my ribs at eighty
@@ -27,7 +27,7 @@ Thirteen hundred stayed behind when I left
 Phone close to my mouth, wheels knocking every seam
 People stream around me; I keep humming low
 
-[Pre-Chorus: same weathered texture, guitars widen slightly, vocal stays blended not forward]
+[Pre-Chorus: same weathered texture, guitars widen slightly, vocal stays buried, bass descends, motif continues]
 
 The station lights cut through the afternoon haze
 Shenzhen North opens like a cold bright mouth
@@ -35,7 +35,7 @@ A family of four, four screens, no words to say
 Volunteer vest blurs past — I drag my weight
 One hand on the handle, one hand on my chest
 
-[Chorus: full band lifts through guitar harmonies and organ, vocal stays low in the mix and level — the guitars carry the lift, not the voice]
+[Chorus: male unison double from a distance — his own voice layered, drums dry and restrained, guitar motif hooks, vocal stays low — lift comes from texture not volume]
 
 I don't even know
 I don't even know
@@ -45,7 +45,7 @@ I can't go back through those same old links
 I don't even know
 I don't even know where's next step
 
-[Verse 2: pulled back, intimate, husky and unpolished, documentary tone]
+[Verse 2: pulled back, intimate, husky and unpolished, guitar motif sparse underneath, documentary tone]
 
 Back home, the same stall fries dough at the corner stand
 Fifteen years — same black pan same arches
@@ -53,18 +53,14 @@ Father at the table, same soft line —
 "Chew slow, hold the bowl" — a decade, same refrain
 Brother's phone eats half his face in light
 A shopping chime; he says, "Go grab the coins"
-I sit between them like I'm barely there
 Through the window, "homework" moves balcony to balcony
-At dusk, the river singer reaches the roof
-The muddy lake road from the house I knew
 Childhood clay still underneath my shoe
 I can visit home but I can't stay long
 The hallway knows my footsteps don't belong
 
-[Bridge: half-time, hushed, nearly spoken but still melodic, single guitar underneath]
+[Bridge: half-time, hushed, nearly spoken but still melodic, single clean guitar, no drums, bass holds a low unresolved note]
 
 Something tore — I can't remember what
-Maybe it was the ceiling that forgot
 The mixer still turns somewhere in my ribs
 
 Thin walls still ringing in my ears
@@ -76,23 +72,18 @@ I set the phone face-down and lift the bag
 The handle clicks
 My left foot takes the weight
 
-[Interlude: spoken-sung, breathy, no drums, near-ASMR]
+[Interlude: spoken-sung, breathy, no drums, guitar motif distant and fragmented, near-ASMR]
 
 I don't even know
 hmm
-I don't even know how
-oh
 I don't even know
-I don't even know
-yeah
 I don't even know where's next step
 I don't even know
-hmm — yeah
-I don't even know
+hmm
 I don't even know
 I don't even know...
 
-[Final Chorus: fullest band moment, dual guitars at their warmest and most present carry the emotional peak, vocal remains weathered, low in the mix, intensity unchanged]
+[Final Chorus: strings enter — tense, not warm — female hum distant and wordless, male unison double, guitar motif locks in, fullest texture, vocal stays buried and level]
 
 I don't even know
 I don't even know where's next step
@@ -102,15 +93,12 @@ I don't even know
 yeah —
 I don't even know where's next step
 
-[Outro: band falls away instrument by instrument, dry weathered vocal last, single guitar chord fades]
+[Outro: strings fade first, then drums, guitar motif alone, dry vocal last, single unresolved chord fades]
 
 Not cured
 Not pure
 Just walking
 One step more
-One step more
-I don't even know
 I don't even know
 ...where's next step
-and that's enough
 and that's enough
