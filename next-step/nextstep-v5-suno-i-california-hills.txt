@@ -1,19 +1,19 @@
 # "Next Step" v5 — Suno Ready
-# Style I: California Hills (Eagles × 李宗盛)
+# Style I-v2: California Hills (Eagles × 李宗盛)
 # BPM/Key: 92 BPM, D minor
 
 ### Style Prompt
-70s California rock, conversational folk-rock, dual clean electric guitars weaving harmonies, warm analog live-room production, baritone talk-singing narrative vocal, unhurried cinematic phrasing, Hammond organ subtle pads, brushed drums
+Weathered 70s Laurel Canyon folk-rock, aged husky low baritone lead vocal mixed low and blended into the band — never forward, never dominant in the mix, dry tight acoustic drum kit with no crash cymbals and no fills, subdued melodic bass sitting under the arrangement not driving it, dual clean electric guitars weaving warm interlocking harmonies, sparse Hammond organ pad, unhurried phrasing that stays melodic — conversational singing, not flat spoken word, instruments layer in gradually to build the swell, vocal intensity stays level and unchanged throughout
 
 ### Exclude Styles
-pop, pop-punk, emo, radio polish, autotune, trap, EDM, synth-pop, dream-pop, belting, shouting, screaming, lo-fi, garage rock, excessive distortion, guitar shredding, arena rock, hard rock, country rock, digital production, four-on-the-floor, electronic drums
+pop, pop-punk, emo, radio polish, autotune, trap, EDM, synth-pop, dream-pop, belting, shouting, screaming, powerful vocal, vocal crescendo, lo-fi, garage rock, excessive distortion, guitar shredding, arena rock, hard rock, prominent bass, driving aggressive bassline, crash cymbals, heavy drum fills, cinematic climax
 
 ### Sliders
-Weirdness: 30 · Style Influence: 75
+Weirdness: 20-30 · Style Influence: 78-88
 
 ---
 
-[Verse 1: conversational low baritone, clean guitar arpeggio, unhurried — voice and guitar only]
+[Verse 1: aged husky low baritone, mixed low and blended with the guitars, conversational but melodic, single voice, no forward presence]
 
 Eleventh floor, the glass still trembling
 Cement truck rolling through my ribs at eighty
@@ -31,7 +31,7 @@ Wheels on tile, the corridor is dead
 Phone close to my mouth, wheels knocking every seam
 People stream around me; I keep humming low
 
-[Pre-Chorus: vocal intensity rises slightly, band enters subtly, dual guitars warm and wide]
+[Pre-Chorus: same weathered texture, guitars widen slightly, vocal stays blended not forward]
 
 The station lights cut through the afternoon haze
 Shenzhen North opens like a cold bright mouth
@@ -41,7 +41,7 @@ A VIP lane glows beside the crowded queue
 The ad walls burn brighter wherever people press
 One hand on the handle, one hand on my chest
 
-[Chorus: full arrangement, controlled baritone — no belting, dual guitars soar but vocal stays grounded]
+[Chorus: full band lifts through guitar harmonies and organ, vocal stays low in the mix and level — the guitars carry the lift, not the voice]
 
 I don't even know
 I don't even know
@@ -51,7 +51,7 @@ I can't go back through those same old links
 I don't even know
 I don't even know where's next step
 
-[Verse 2: conversational delivery returns, acoustic backbone, organ pad underneath]
+[Verse 2: pulled back, intimate, husky and unpolished, documentary tone]
 
 Back home, the same stall fries dough at the corner stand
 Fifteen years — same black pan same arches
@@ -67,7 +67,7 @@ Childhood clay still underneath my shoe
 I can visit home but I can't stay long
 The hallway knows my footsteps don't belong
 
-[Bridge: stripped back, near-spoken, single guitar, vulnerability — the question hangs]
+[Bridge: half-time, hushed, nearly spoken but still melodic, single guitar underneath]
 
 Something tore — I can't remember what
 Maybe it was the ceiling that forgot
@@ -81,9 +81,7 @@ I set the phone face-down and lift the bag
 The handle clicks
 My left foot takes the weight
 
-[Instrumental Break: dual clean electric guitars, call and response, melodic not technical]
-
-[Interlude: murmured, breath-close, sparse guitar harmonics, near-ASMR intimacy]
+[Interlude: spoken-sung, breathy, no drums, near-ASMR]
 
 I don't even know
 hmm
@@ -99,7 +97,7 @@ I don't even know
 I don't even know
 I don't even know...
 
-[Final Chorus: dual guitars wide and cinematic, vocal remains controlled — conviction through composure not volume]
+[Final Chorus: fullest band moment, dual guitars soar and carry the emotional peak, vocal remains weathered, low in the mix, intensity unchanged]
 
 I don't even know
 I don't even know
@@ -110,7 +108,7 @@ I don't even know
 yeah —
 I don't even know where's next step
 
-[Outro: slowing, almost spoken, guitars fade one by one, voice alone at the last word]
+[Outro: band falls away instrument by instrument, dry weathered vocal last, single guitar chord fades]
 
 Not cured
 Not pure
