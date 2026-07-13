@@ -1,46 +1,124 @@
-# "Next Step" v5 — Style I: California Hills
-## Eagles × 李宗盛 融合方向
-## BPM/Key: 92 BPM, D minor
-
-### 融合逻辑
-取《Hotel California》的加州暖调摇滚骨架——双吉他交织对话、模拟录音的宽阔声场、不急于进副歌的叙事型结构；取《山丘》念白式的低沉男声、留白大于填充的吐字节奏、将情感重量交给语气而非音量的克制。不愤怒，不感伤，只是在走。
-
----
+# "Next Step" v5 — Suno Ready
+# Style I: California Hills (Eagles × 李宗盛)
+# BPM/Key: 92 BPM, D minor
 
 ### Style Prompt
-```
 70s California rock, conversational folk-rock, dual clean electric guitars weaving harmonies, warm analog live-room production, baritone talk-singing narrative vocal, unhurried cinematic phrasing, Hammond organ subtle pads, brushed drums
-```
 
 ### Exclude Styles
-```
 pop, pop-punk, emo, radio polish, autotune, trap, EDM, synth-pop, dream-pop, belting, shouting, screaming, lo-fi, garage rock, excessive distortion, guitar shredding, arena rock, hard rock, country rock, digital production, four-on-the-floor, electronic drums
-```
 
 ### Sliders
 Weirdness: 30 · Style Influence: 75
 
 ---
 
-### 制作要点
-
-**Interlude 处理**：只剩一把 clean guitar arpeggio + 人声。murmured/loose 的念白推到最亲密——听者应该能听到句与句之间的呼吸。Dual guitars 仅以 volume-pedal swell 和 barely-there harmonics 出现。
-
-**Outro 处理**：双吉他逐把褪去。到 "One step more" 只剩一把吉他——clean、不赶、不加 reverb wash。最后的 "and that's enough" 落在单把人声，或人声 + 一个 sustained guitar harmonic decay——不是 fade-out，是 deliberate ending。
-
-**Instrumental Break（新结构）**：Bridge 之后、Interlude 之前，8-16 bars。双 clean 电吉他 call and response——不是炫技，是对话。melodic not technical。回应歌的中心问题：往前走，还是只是不回去？让随后的 Interlude 成为这个对话之后的 exhale。
-
----
-
-### 分段人声标签
-```
 [Verse 1: conversational low baritone, clean guitar arpeggio, unhurried — voice and guitar only]
+
+Eleventh floor, the glass still trembling
+Cement truck rolling through my ribs at eighty
+Three months in a box where the walls stayed thin
+The neighbor's cough, the late-night driver scrolling
+I moved the mattress — every side had sound
+Jets crossed the roof; the daily train kept time
+From six until ten, steel rang from the site
+Paperbacks pulled hard against the zipper seam
+I zipped the bag, I didn't make a sound
+Took the elevator down to solid ground
+Left the key where the landlord said
+Thirteen hundred stayed behind when I left
+Wheels on tile, the corridor is dead
+Phone close to my mouth, wheels knocking every seam
+People stream around me; I keep humming low
+
 [Pre-Chorus: vocal intensity rises slightly, band enters subtly, dual guitars warm and wide]
+
+The station lights cut through the afternoon haze
+Shenzhen North opens like a cold bright mouth
+A family of four, four screens, no words to say
+Volunteer vest blurs past — I drag my weight
+A VIP lane glows beside the crowded queue
+The ad walls burn brighter wherever people press
+One hand on the handle, one hand on my chest
+
 [Chorus: full arrangement, controlled baritone — no belting, dual guitars soar but vocal stays grounded]
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The platform hums, the timetable blinks
+I can't go back through those same old links
+I don't even know
+I don't even know where's next step
+
 [Verse 2: conversational delivery returns, acoustic backbone, organ pad underneath]
+
+Back home, the same stall fries dough at the corner stand
+Fifteen years — same black pan same arches
+Father at the table, same soft line —
+"Chew slow, hold the bowl" — a decade, same refrain
+Brother's phone eats half his face in light
+A shopping chime; he says, "Go grab the coins"
+I sit between them like I'm barely there
+"Homework" moves from balcony to balcony
+At dusk, the river singer reaches the roof
+The muddy lake road from the house I knew
+Childhood clay still underneath my shoe
+I can visit home but I can't stay long
+The hallway knows my footsteps don't belong
+
 [Bridge: stripped back, near-spoken, single guitar, vulnerability — the question hangs]
+
+Something tore — I can't remember what
+Maybe it was the ceiling that forgot
+The mixer still turns somewhere in my ribs
+
+Was it ever the room, or was it standing still?
+Am I walking toward something
+or only not going back?
+
+I set the phone face-down and lift the bag
+The handle clicks
+My left foot takes the weight
+
 [Instrumental Break: dual clean electric guitars, call and response, melodic not technical]
+
 [Interlude: murmured, breath-close, sparse guitar harmonics, near-ASMR intimacy]
+
+I don't even know
+hmm
+I don't even know how
+oh
+I don't even know
+I don't even know
+yeah
+I don't even know where's next step
+I don't even know
+hmm — yeah
+I don't even know
+I don't even know
+I don't even know...
+
 [Final Chorus: dual guitars wide and cinematic, vocal remains controlled — conviction through composure not volume]
+
+I don't even know
+I don't even know
+I don't even know where's next step
+The board above me flickers, names dissolve
+But my feet remember — they don't need to solve
+I don't even know
+yeah —
+I don't even know where's next step
+
 [Outro: slowing, almost spoken, guitars fade one by one, voice alone at the last word]
-```
+
+Not cured
+Not pure
+Just walking
+One step more
+One step more
+I don't even know
+I don't even know
+...where's next step
+and that's enough
+and that's enough
