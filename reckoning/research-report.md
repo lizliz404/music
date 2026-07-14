@@ -7,7 +7,11 @@
 
 ## Executive Summary
 
-The question of what happens when someone treats all relationships as pure value calculation has been extensively studied across **sociology, game theory, evolutionary biology, and behavioral economics**. The answer is not merely that it "feels bad" — it is that pure transactional logic is **mathematically suboptimal** in repeated social interactions. The research converges on a single conclusion: strategies that appear "irrational" in the short term (cooperation without immediate payoff, forgiveness, non-calculated commitment) systematically outperform pure value-maximization in the long run.
+The question of what happens when someone treats all relationships as pure value calculation has been extensively studied across **sociology, game theory, social psychology, evolutionary biology, and behavioral economics**. The answer converges from two independent directions:
+
+**From game theory and economics**: pure transactional logic is **mathematically suboptimal** in repeated social interactions. Strategies that appear "irrational" in the short term (cooperation without immediate payoff, forgiveness, non-calculated commitment) systematically outperform pure value-maximization in the long run.
+
+**From social psychology (Clark & Mills)**: the act of calculation itself **immediately damages relationships** governed by communal norms. It's not just that calculation yields worse long-term outcomes — it's that calculation is a **norm violation** that triggers negative reactions in real time. The other person doesn't think "this person is inefficient." They think "this person doesn't see me as close."
 
 ---
 
@@ -278,7 +282,127 @@ This is not a moral argument. It is a mathematical property of iterated games wi
 
 ---
 
-## 12. Key Works & Further Reading
+## 12. Communal vs. Exchange Relationships — The Social Psychology Pillar
+
+**Key figures**: Margaret Clark & Judson Mills (1979–present)
+**Key works**: Clark & Mills (1979), *Journal of Personality and Social Psychology*; Clark & Mills (1993), *Personality and Social Psychology Bulletin*; extensive replication through 2020s
+
+### The Fundamental Distinction
+
+Clark & Mills identified two qualitatively different norms governing human relationships:
+
+| | **Exchange Relationships** | **Communal Relationships** |
+|---|---|---|
+| **Norm** | Quid pro quo — track who gave what, expect equivalent return | Give based on the other's **need/welfare**, not tracking debt |
+| **Accounting** | Strict mental ledger maintained | Deliberately **not** tracking — accounting would violate the norm |
+| **Typical contexts** | Business, acquaintances, strangers, professional transactions | Close friends, romantic partners, family, kin-like bonds |
+| **Giving motive** | To obtain equivalent return or repay debt | Because the other person needs it |
+| **Receiving response** | Expected: reciprocal return | Expected: gratitude, not debt calculation |
+
+### The Critical Experimental Finding
+
+Clark & Mills ran experiments where participants were placed in communal or exchange contexts. In communal conditions:
+
+- **Strict accounting of favors decreased liking and relationship satisfaction**
+- When a partner immediately offered equivalent repayment for a favor, **attraction dropped** — the repayment itself signaled "I see this as a transaction, not a relationship"
+- Participants in communal conditions **avoided keeping score** even when it would have been to their advantage
+
+**The mechanism is norm violation, not efficiency loss.** It's not that calculation is "suboptimal" in the long run — it's that calculation **immediately violates the relationship type's governing norm**, triggering negative reactions in real time. The other person doesn't think "this person is inefficient." They think "this person doesn't see me as close."
+
+### Communal and Exchange Orientation Scale (COS)
+
+Clark and colleagues developed the **Communal and Exchange Orientation Scale** to measure individual differences:
+
+- **High exchange orientation**: chronically monitors fairness and repayment in relationships. Tracks who gave what, expects proportional returns.
+- **High communal orientation**: gives based on perceived need, uncomfortable with strict accounting in close relationships.
+
+**Key empirical findings with COS**:
+
+- High exchange orientation is **significantly negatively correlated** with romantic relationship satisfaction
+- **Longitudinal studies**: increases in exchange orientation predict **subsequent declines** in relationship satisfaction over time
+- **Mediation**: the effect is partially mediated by **reduced gratitude** — exchange-oriented individuals experience and express less gratitude, because they frame support as "debt to be repaid" rather than "gift freely given"
+- During conflict, high-exchange partners show **lower intimacy**, more defensive accounting ("I did X, so you owe me Y")
+- High-exchange individuals have **fewer close friendships** and report lower overall well-being
+
+### Why This Matters for the "Efficiency Machine"
+
+Clark & Mills provide the **direct experimental counter-evidence** to the pure value-calculation strategy. The Axelrod tournaments show that cooperation beats exploitation in repeated games — but Clark & Mills show something more fundamental: **the act of calculation itself damages communal relationships**, regardless of the calculated outcome.
+
+A person who treats all relationships as exchange relationships is not just choosing a suboptimal strategy within a game. They are **misclassifying the game type entirely** — applying exchange norms to relationships that operate under communal norms. The damage is not deferred to the long run; it happens at the moment of misclassification.
+
+---
+
+## 13. Network Theory — What the Efficiency Machine Prioritizes and What It Loses
+
+**Key figures**: Mark Granovetter (1973), Robert Putnam (2000)
+
+### Granovetter's Weak Ties
+
+Granovetter's classic *"The Strength of Weak Ties"* (1973) demonstrated that **weak ties** (acquaintances, loose connections) are disproportionately valuable for **novel information** — job opportunities, new ideas, resource access. Strong ties (close friends, family) tend to share redundant information because they occupy overlapping social circles.
+
+### What the Calculator Does
+
+A pure value-calculator, optimizing for information and resource access, will naturally:
+- **Prioritize weak ties** — they have higher instrumental ROI per interaction
+- **Prune strong ties** — they appear "low-ROI" because their value is non-instrumental and non-incremental
+- **Build bridging capital** at the expense of bonding capital
+
+### Putnam's Bonding vs. Bridging Capital
+
+| | **Bridging Capital** | **Bonding Capital** |
+|---|---|---|
+| **Function** | Connects across groups, brings novel info/resources | Provides emotional support, safety net, identity |
+| **Network type** | Weak ties, diverse contacts | Strong ties, close-knit groups |
+| **Calculator's behavior** | Maximizes this | Neglects or eliminates this |
+| **Cost of loss** | — | No safety net in crisis, no identity continuity, no unconditional support |
+
+**The calculator's trap**: They build an impressive network of bridging capital — a wide circle of useful contacts — but have **no bonding capital**. When crisis hits (job loss, illness, breakdown), bridging capital evaporates because it was maintained by instrumental value, not by commitment. The calculator discovers their network is **wide but zero-depth** — a mile wide, an inch deep.
+
+### Reputation Effects
+
+Once identified as a pure calculator, the person's reputation propagates through networks. Future potential partners observe the pattern and preemptively limit investment. The calculator faces a **reputation tax**: every new relationship starts from a deficit of trust, because their type has been signaled.
+
+---
+
+## 14. Physiological Costs — What the Body Pays
+
+The absence of high-quality communal relationships has measurable physiological consequences, documented in health psychology and social neuroscience:
+
+| **Outcome** | **Evidence** |
+|---|---|
+| **Loneliness** | Chronically elevated in individuals with predominantly exchange-based relationships |
+| **Depression & anxiety** | Higher risk; communal support is a known protective factor |
+| **Cardiovascular stress** | Elevated blood pressure, higher resting heart rate, increased inflammation markers (CRP, IL-6) |
+| **Cortisol dysregulation** | Flatter diurnal cortisol slopes — a marker of chronic stress — in socially isolated individuals |
+| **All-cause mortality** | Social integration is as strong a predictor of mortality as smoking, obesity, and physical inactivity (Holt-Lunstad et al., 2010 meta-analysis) |
+| **Immune function** | Weaker immune response; slower wound healing in those with fewer close relationships |
+
+**The irony**: The calculator optimizes for "value" but incurs **physiological costs that reduce their capacity to produce value** — worse health, lower energy, shorter lifespan. The body keeps a ledger the mind refuses to acknowledge.
+
+---
+
+## 15. The Norm-Violation Mechanism — Why Calculation Hurts Immediately
+
+A crucial insight from Clark & Mills that differs from the game-theoretic argument:
+
+**Game theory** says: "cooperation is rational in repeated games, so calculation is a long-run mistake."
+
+**Social psychology** says: "calculation is a **norm violation** that produces **immediate negative reactions** in communal contexts. The damage is not deferred — it happens the moment the other person detects they are being accounted for."
+
+This has practical implications for the "efficiency machine":
+- They cannot "strategically cooperate" to get long-term returns, because **even strategic cooperation is detectable** when it's contingent and tracked
+- True communal behavior requires **non-contingency** — giving without tracking, supporting without calculating
+- The calculator cannot fake this, because the norm violation is in the **accounting itself**, not in the decision outcome
+
+### Connection to Costly Signaling
+
+Clark & Mills' framework provides the missing mechanism for why costly signals work: a gift in a communal relationship is a signal that **you are not in exchange mode**. The "cost" is not the gift's material value — it's the **deliberate refusal to account for it**. By not tracking what you're owed, you signal: "this is communal, not exchange."
+
+The calculator cannot produce this signal because **not-tracking is precisely what they are incapable of doing.**
+
+---
+
+## 16. Key Works & Further Reading
 
 | Work | Author(s) | Year | Key Insight |
 |---|---|---|---|
@@ -291,6 +415,10 @@ This is not a moral argument. It is a mathematical property of iterated games wi
 | *Five Rules for the Evolution of Cooperation* | Martin Nowak | 2006 | Five mechanisms producing cooperation |
 | *The Strategy of Conflict* | Thomas Schelling | 1960 | Commitment devices and credible threats |
 | *Administrative Behavior* | Herbert Simon | 1947 | Bounded rationality and satisficing |
+| *Interpersonal Attraction in Exchange and Communal Relationships* | Clark & Mills | 1979 | Communal norm: accounting destroys liking |
+| *The Strength of Weak Ties* | Mark Granovetter | 1973 | Weak ties provide novel information; strong ties provide support |
+| *Bowling Alone* | Robert Putnam | 2000 | Bonding vs. bridging social capital |
+| *Social Relationships and Mortality Risk* | Holt-Lunstad et al. | 2010 | Meta-analysis: social isolation = smoking-level mortality risk |
 
 ---
 
@@ -309,3 +437,10 @@ This is not a moral argument. It is a mathematical property of iterated games wi
 | Folk theorem | In long-term relationships, almost anything can be a stable outcome |
 | Distribution shift | Life falling apart — job loss, illness, crisis |
 | Regularization | Relationships maintained "because of history, not current value" |
+| Communal norm | Giving based on need; accounting = norm violation |
+| Exchange norm | Quid pro quo; tracking debts; expecting equivalent return |
+| Norm misclassification | Applying exchange rules to a communal relationship — immediate damage |
+| Bonding capital | Deep ties that provide emotional safety net and identity |
+| Bridging capital | Wide ties that provide novel information and access |
+| Gratitude mediation | Exchange-oriented people feel less gratitude → lower satisfaction |
+| Physiological toll | The body's stress response to social isolation — inflammation, cortisol, mortality |
