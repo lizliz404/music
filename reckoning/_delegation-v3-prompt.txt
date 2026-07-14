@@ -1,0 +1,129 @@
+OUTPUT ONLY THE COMPLETE DELIVERABLE. No summary. No description of changes. No bullet points. No outlines. OUTPUT ALL SECTIONS WITH REAL LINES. NO PLACEHOLDERS.
+
+## TASK
+
+You previously wrote v1 and v2 of a song in this workspace. Now produce the FINAL COMPLETE PACKAGE: optimized lyrics with full vocal tags + Suno style prompt + exclusions. Read ALL files in this workspace first — `ledger-v2.md`, `research-report.md`, `raw-material.md` — and MAXIMIZE every drop of context.
+
+## DELIVERABLE FORMAT
+
+### Part 1: Full Lyrics with Section Vocal Tags
+
+Every section must have parameterized vocal tags. Use Liz's delivery constraints:
+
+**Vocal delivery rules (NON-NEGOTIABLE)**:
+- NO screaming, shouting, belting, roaring, "explosive," "raw," "gritty" vocals
+- Use: controlled, sung, melodic, incisive, precise, intimate, hushed, close-mic
+- Intensity comes from arrangement density and rhythm, not vocal force
+- NEVER use: [Belted], [Explosive], [Powerful] (as shouted), [Gritty], [Screamed], "shouted," "roar," "slamming," "erupts"
+- USE instead: [Intense, controlled], [Denser], [Peak intensity, controlled], [Incisive], [Hushed, close-mic, melodic]
+
+**Section tag format**: `[Verse 1: descriptor, descriptor]` — parameterized. Example:
+```
+[Verse 1: hushed, close-mic, melodic, sparse piano]
+[Chorus: intense, controlled, full band, incisive delivery]
+[Bridge: stripped to voice and guitar, intimate, fragile]
+[Final Chorus: peak intensity, controlled, denser arrangement]
+```
+
+### Part 2: Suno Style Prompt
+
+2-3 DISTINCT EMOTIONAL CONTAINERS (not different tags). Each container is a genuinely different production direction. Include for each:
+- Style field (4-7 descriptors, genre-first, compact)
+- Full exclude list
+
+### Part 3: Song Profile
+
+Brief: BPM suggestion, key suggestion, song length target (~3:00-3:30), primary emotional register.
+
+## CRAFT GUIDELINES
+
+### Structure
+- ABABCB (Verse/Chorus/Verse/Chorus/Bridge/Chorus) — current structure works, optimize within it
+- Each section owns ONE thematic element — no repeating strong images across sections
+
+### Chorus
+- Lyrics IDENTICAL on each repeat when possible. Suno rewards repetition for hook recognition.
+- If chorus MUST mutate (current v2 does), keep the hook line identical and vary surrounding lines
+- The hook should land as a musical event, not a thesis statement
+
+### Bridge — 3 Moves Only
+1. One wound — specific memory/origin image (not a metaphor)
+2. One question — raising the agency stake
+3. One act — physical decision
+
+### Ending — No Cure Narrative
+- No "I choose the harder side," no "that's enough"
+- v2 ending is correct: "Not cured. Not pure. Just a hand that won't compute" — protect this
+- Physical act as resolution: doorway, hand against door
+
+### Rhyme & Prosody
+- Mix perfect and slant rhymes
+- Say lines out loud — if you stumble, fix meter
+- Unstable feelings → near-rhymes; resolution → perfect rhymes
+- Syllable counts should match between parallel lines in verses
+
+### Imagery Over Verdicts
+- Show concrete scenes. Let audience reach conclusion.
+- v2's bootstrap image (standing at threshold, can't step in) is strong. Keep it.
+- v2's server image (can't shut down) is strong. Keep it.
+- v2's bridge image (grass that summer, before words) is strong. Keep it.
+- Unify metaphor axis: accounting/ledger/computation. Don't mix in new metaphor families.
+
+### What to AVOID in Lyrics
+- Thesis-dump bridges ("the system is...", "we are all...")
+- Abstract philosophy in place of concrete images
+- Victory-lap endings
+- Mixed metaphors — commit to the ledger/computation axis
+- Chinese lyrics — all English
+
+## SUNO PRODUCTION RULES
+
+### Style Field
+- 4-7 meaningful descriptors. Sweet spot: 5-8 tags.
+- Order: primary genre → subgenre/mood → tempo/energy → key instruments → vocal tone → production texture → dynamic arc
+- Genre determines 60-70% of output. Lead with it.
+- Never use artist names — they're filtered out. Describe the sound instead.
+- Description field silently drops text past ~350 chars — be COMPACT.
+- Use production tags: `polished clean mix`, `vintage analog warmth`, `close-miked vocals`, etc.
+
+### Anti-Boring Devices (CRITICAL — Liz rejects "correct but mediocre" harder than wrong)
+- Recurring 3-4 note guitar motif across intro/break/outro
+- Pushed kick vs laid-back snare — heartbeat racing against walking pace
+- Semitone drone bend — unresolved subliminal dread
+- Strings on Final Chorus only — carry swell, exit before Outro
+- Distant female wordless hum as memory, not companion
+- 80-84 BPM instead of 92 — less sway, more weight
+- Surface restraint + underlying tension (Eagles Hotel California × 李宗盛 山丘)
+
+### Danger Tags to Avoid
+- `Laurel Canyon` — dual-peak: sunny cowboy default overshadows tense/haunted
+- `folk-rock` — "rock" half triggers drum/bass aggression
+- `warm` used 3+ times — pushes mix toward comfort, kills tension
+- `soar` — triggers epic-rock mode
+- `build the swell` — double volume-climb trigger
+
+### Exclude Styles
+Must include EXACTLY this expanded exclude list (Suno defaults to pop-punk/emo/grunge when it hears "rock + emotional + English male vocals"):
+```
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops,
+choir pad spam, synth-pop, spoken-word only, Chinese vocals,
+neon/dream-pop atmosphere, pop-punk, emo, industrial, grunge,
+screaming, shouting, lo-fi, garage rock, excessive distortion,
+long guitar solos, deliberately rough production,
+sacrificing melody for aggression, staccato aggression,
+abrupt jarring cuts, double-time thrash, anime OP energy,
+noise, harsh, pop-punk, emo, industrial, grunge
+```
+
+### Genre Direction
+Derive freely from the song's own DNA. This is a reflective, literate, controlled song about calculation vs belonging. Think:
+- Melodic art-rock precision
+- Literary singer-songwriter with rhythmic edge
+- Controlled intensity — never explodes, but builds density
+- Clean, polished, punchy mix
+- Male vocals: rhythmic, precise, controlled, sung not shouted
+
+### Vocal Persona for Style Field
+"A man who's spent years optimizing everything, now standing still for the first time. Controlled, precise, incisive delivery. Hushed verses, denser choruses. Never shouts. Intensity through rhythm and arrangement density, not volume."
+
+NOW READ ALL FILES IN THIS WORKSPACE, MAXIMIZE CONTEXT, THEN OUTPUT THE COMPLETE PACKAGE.
