@@ -1,0 +1,119 @@
+# The Wrong Game — v4 (Grok 4.5, surgical, 2026-07-15)
+
+[Intro: sparse electric guitar motif, close-mic hush, no drums yet]
+
+[Verse 1: hushed, close-mic, melodic, sparse piano]
+I met you in a doorway I could never cross,
+ran the figures twice before I'd say hello.
+I needed proof of profit, needed proof of loss,
+some quarterly return before I'd let it grow.
+So I stood at the threshold with my numbers dry,
+waiting on a track record that could not begin —
+you can't earn the interest till you've made the buy,
+I'd never make the buy, so I never stepped in.
+
+[Chorus: intense, controlled, full band, incisive delivery]
+I priced you like a stranger while you held me like a friend,
+and the second that you felt it, something quiet turned and left.
+It was never that the math came out too thin —
+it's that you knew, from the counting, I had never let you in.
+Round one asks a fool to give with nothing back to hold;
+I ran the numbers till the doorway emptied out.
+Not the wrong sum. The wrong game.
+I was solving for a stranger. You were spelling out my name.
+
+[Verse 2: denser, controlled, rhythmic pulse, tight drums]
+I can't shut down — a server through the night —
+the moment I stop earning, every signal starts to fade.
+I won't lie down beside you, won't turn off the light;
+the ledger writes me down the moment I lie still.
+I built a wide bright network, not a single root goes deep,
+a mile of useful faces and no hand to hold my own.
+I selected for the profit, then the profit selected me —
+alone among the assets with the network running blank.
+
+[Chorus: intense, controlled, full band, incisive delivery]
+You gave without a receipt and I gave to be repaid,
+and you saw it in the giving — how I flinched, how I appraised.
+It was never that I chose the colder side —
+it's that I could not stop the counting long enough to let it slide.
+The proof of what I'd stay for is refusing to keep score,
+but not-keeping-score's the one thing that I never learned to do.
+Not the wrong sum. The wrong game.
+No seasons, just the quarters — and a number, and no you.
+
+[Bridge: stripped to voice and guitar, intimate, fragile]
+On the grass that summer, before I had the words,
+I asked a friend to letter my name on a paper crane, and didn't ask what for.
+He wrote it crooked. I put it in my pocket. That was the whole exchange —
+no rate, no return, just ink and paper and the grass.
+So who stays for a man who can't stop taking inventory?
+Who lies down and won't get up to leave when the value's low?
+I don't have the answer. I have a pen, a page, a night.
+I closed the book. I didn't tally. I let one gift just be a gift.
+
+[Final Chorus: peak intensity, controlled, denser arrangement, strings enter]
+I priced you like a stranger while you held me like a friend,
+and the second that you felt it, something quiet turned and left.
+It was never that the math came out too thin —
+it's that you knew, from the counting, I had never let you in.
+I can't unlearn the counting in a night —
+I only put the ledger down and did not pick it back up.
+Not cured. Not pure. Just a hand that won't compute,
+one uncollateralized reach across the dark.
+I'm standing where I couldn't stand before —
+in the doorway, not calculating, with my hand against the door.
+
+[Outro: guitar motif returns, strings exit, voice fades close-mic]
+Not the wrong sum. The wrong game.
+
+---
+
+STYLE PROMPT (Container C — Pulse Under Glass — recommended first try)
+Style: rhythmic indie rock, precise midtempo groove, 84 BPM, pushed kick against laid-back snare, semitone guitar drone, male vocals incisive sung not shouted, punchy clean mix, density rises without explosion
+Exclude: pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, sacrificing melody for aggression, staccato aggression, abrupt jarring cuts, double-time thrash, anime OP energy, noise, harsh
+
+ALT STYLE A — Art-Rock Restraint
+Style: melodic art-rock, literary midtempo ballad, 82 BPM, clean electric guitar motif, close-miked male vocals controlled precise, polished clean mix, restrained tension builds by density
+Exclude: pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, sacrificing melody for aggression, staccato aggression, abrupt jarring cuts, double-time thrash, anime OP energy, noise, harsh
+
+ALT STYLE B — Chamber Intimacy
+Style: chamber singer-songwriter, intimate piano-led narrative, 80 BPM, dry acoustic guitar and soft strings late only, hushed male vocal close-mic melodic, vintage analog warmth sparse, quiet room presence
+Exclude: pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, sacrificing melody for aggression, staccato aggression, abrupt jarring cuts, double-time thrash, anime OP energy, noise, harsh
+
+---
+
+SONG PROFILE
+Title: The Wrong Game
+BPM: 82 (range 80-84)
+Key: A minor
+Length target: ~3:15
+Hook: "Not the wrong sum. The wrong game."
+Arrangement: recurring 3-4 note guitar motif (intro/break/outro), pushed kick vs laid-back snare, semitone drone under verses, strings on Final Chorus only (enter on swell, exit before Outro), distant female wordless hum under Bridge only
+
+---
+
+CHANGELOG
+
+v1 (Opus 4.8, 2026-07-15)
+— first draft, accounting/ledger metaphor axis, chorus mutation, cup-in-cabinet bridge
+
+v2 (Opus 4.8, --continue, 2026-07-15)
+— fed full research report (16 chapters)
+— added: bootstrap problem, norm-violation, costly signaling, pre-language self, server image
+
+v3 (Grok 4.5, --continue, 2026-07-15)
+— complete Suno production package: parameterized vocal tags, 3 containers, song profile
+— title: "The Wrong Game"
+
+v3-final (Lyric surgical, 2026-07-15)
+— C1 L24 thesis → concrete image: "ran the numbers till the doorway emptied out"
+— Exclude format compressed to Suno-ready
+
+v4 (Grok 4.5, --continue, dual-audit surgical, 2026-07-15)
+— V2 L15: "low output reads as low value" → "the ledger writes me down the moment I lie still" (thesis → personified action)
+— V2 L13: "I can't lie down" → "I won't lie down" (can't/won't distinction — refusal, not inability)
+— V2 L16: "cold and empty throne" → "with the network running blank" (borrowed image → organic lexicon)
+— Bridge: "letter me a sign" → "letter my name on a paper crane" / +"He wrote it crooked. I put it in my pocket." / +"no rate, no return" (told → shown; concrete fingerprint)
+— Final Chorus: "and left it there tonight" → "and did not pick it back up" (time adverb → action consequence)
+— Final Chorus: cut "I'm not inside." (redundant — doorway image alone carries the meaning)

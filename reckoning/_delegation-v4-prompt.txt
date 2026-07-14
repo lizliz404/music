@@ -1,0 +1,70 @@
+OUTPUT ONLY THE COMPLETE v4 LYRICS WITH VOCAL TAGS. No summary. No description of changes. No bullet points. OUTPUT ALL SECTIONS WITH REAL LINES.
+
+## TASK
+
+You are an expert songwriter and A&R professional. Read the TWO audit reports in `expert-audit.txt` and the current lyrics in `the-wrong-game-v3-final.txt`. Both are in this workspace.
+
+These audits were written by independent expert reviewers. They identify specific surgical issues. Your job: apply the fixes that have consensus across both auditors, then output the complete v4.
+
+## CONSENSUS ISSUES (both auditors agree)
+
+### Critical — V2 L15: Abstract thesis sentence
+Current: "low output reads as low value on the ledger that I made"
+Problem: Four abstract nouns stacked. No concrete image. The weakest signal in the song.
+Direction: Active voice, personification. Keep server/ledger core. Make it felt, not stated.
+One auditor's direction: "the ledger writes me down the moment I lie still"
+
+### Important — Bridge: Tells rather than shows
+Current: Bridge has four distinct actions, the "pre-language self" is described not experienced.
+Problem: "before I had the words" is narrated, not shown. We're told about a person who moved without calculating — we don't feel it.
+Direction: Expand the one concrete moment (the friend, the sign, the grass). Let the action carry the meaning. Compress or cut the explanatory language. The line "I didn't ask what for" is the strongest — build from there.
+
+### Important — "cold and empty throne" (V2 ending)
+Problem: "throne" belongs to a different language field (power/monarchy), not the song's accounting/network/server vocabulary. It's a borrowed image.
+Direction: Replace with an image grown from the song's own lexicon — accounting, networks, servers, computation, ledgers, numbers, doorways.
+
+### Medium — Final Chorus "and left it there tonight"
+Problem: "tonight" is worn-out in English songwriting. The ledger-put-down action needs a stronger follow-through.
+Direction: Replace with an action consequence rather than a time adverb. "and did not pick it back up" or equivalent.
+
+### Minor — Two "can't" openers in V2
+Current: "I can't shut down" + "I can't lie down beside you"
+Problem: Parallel structure feels like essay writing, not song.
+Direction: Vary the second one — "I won't lie down" or restructure.
+
+### Minor — "I'm not inside" in Final Chorus
+Problem: Redundant double insurance. "Standing in the doorway, with my hand against the door" already conveys "not inside but present at the threshold."
+Direction: Consider cutting "I'm not inside" and letting the doorway image do the work alone.
+
+### Optional — Bridge concrete anchor
+Problem: "letter me a sign" + "grass that summer" is close to Sufjan Stevens default aesthetic. Needs a unique fingerprint.
+Direction: Upgrade "a sign" to a specific concrete object — something only this narrator would remember. Paper crane, name in Sharpie, bookmark, etc.
+
+## WHAT MUST NOT CHANGE
+
+- V1: intact. Bootstrap problem expression is precise.
+- Chorus structure and hook: "Not the wrong sum. The wrong game." across all three.
+- Bridge first two lines: time-sense and grammar preserved (only the concrete anchor may sharpen, not the shape).
+- Outro single line.
+- Final Chorus ending: "hand against the door" is the right landing.
+- "Not cured. Not pure." triplet.
+- Style prompts and containers: these are production-ready. Only output lyrics.
+
+## CRAFT CONSTRAINTS
+
+- Unified metaphor axis: accounting/ledger/computation/server/doorway. No new metaphor families.
+- Images over verdicts. Show, don't tell — especially in the Bridge revision.
+- No cure narrative. "Not cured. Not pure." stays.
+- Vocal delivery: controlled, sung, melodic. No screaming/shouting/belting.
+- Section vocal tags: parameterized on every section. Use the v3-final tag format.
+- All English.
+
+## PROCESS
+
+1. Read `expert-audit.txt` fully
+2. Read `the-wrong-game-v3-final.txt` fully
+3. Apply the consensus fixes surgically — minimum changes, maximum impact
+4. Verify: no new problems introduced, no sections over-revised, Bridge shows rather than tells
+5. Output the complete v4 lyrics with all section vocal tags
+
+NOW READ BOTH FILES AND OUTPUT v4.
