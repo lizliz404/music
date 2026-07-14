@@ -88,3 +88,30 @@ Key: A minor
 Length target: ~3:15
 Hook: "Not the wrong sum. The wrong game."
 Arrangement: recurring 3-4 note guitar motif (intro/break/outro), pushed kick vs laid-back snare, semitone drone under verses, strings on Final Chorus only (enter on swell, exit before Outro), distant female wordless hum under Bridge only
+
+---
+
+CHANGELOG
+
+v1 (Opus 4.8, 2026-07-15)
+— first draft, accounting/ledger metaphor axis, chorus mutation, cup-in-cabinet bridge
+— strengths: unified imagery, no cure narrative, Zhou Yaohui echoes
+— issues: no bootstrap problem, no norm-violation mechanism, repetitive "mute"
+
+v2 (Opus 4.8, --continue, 2026-07-15)
+— fed full research report (16 chapters: Clark & Mills, game theory, costly signaling, adverse selection, bounded rationality, physiological costs)
+— added: bootstrap problem (V1: "can't earn interest till you've made the buy"), norm-violation (C1: "the second that you felt it, something quiet turned and left"), costly signaling ("proof of what I'd stay for is refusing to keep score"), pre-language self (Bridge: "before I had the words"), server-that-can't-shut-down, selected-by-own-criteria reversal
+— weaknesses flagged: C1 L24 thesis-y ("ran the risk assessment"), C2 L43 rhythmically choppy ("and a number and a number and a number"), title not in lyrics
+
+v3 (Grok 4.5, --continue, 2026-07-15)
+— complete Suno production package: parameterized vocal tags on every section, 3 distinct emotional containers, song profile
+— title set: "The Wrong Game" (from the hook)
+— structural: added [Intro] and [Outro], chorus partially unified for hook recognition, C2 rhythm line simplified ("and a number" not triple-repeat)
+— container A: melodic art-rock, 82 BPM, Eagles×李宗盛 restraint
+— container B: chamber singer-songwriter, 80 BPM, dry guitar, strings late only
+— container C: rhythmic indie rock, 84 BPM, pushed kick×laid-back snare, semitone drone (recommended first try)
+
+v3-final (Lyric surgical edit, 2026-07-15)
+— C1 L24: "I ran the risk assessment, and I stayed out in the cold" → "I ran the numbers till the doorway emptied out" (thesis → concrete image, causal loop with V1 doorway)
+— Exclude format: multi-line code block → comma-separated single line (Suno UI copy-paste ready)
+— Chorus mutation: preserved C1/C2 variant verses, unified hook line "Not the wrong sum. The wrong game." across all three
