@@ -1,0 +1,204 @@
+# Field Notes — v3 Lyric (axis-hardened + complete Suno package)
+
+**Title (primary):** Three Kinds of Stone  
+**Alts:** Real Floors / Out of the Glass / Quiet Number Eleven  
+**Axis:** bit (glass / symbols / float) vs atom (stone / weight / skin)  
+**Mode:** ethnography · observation notes · prose-song  
+**Length target:** ~3:10  
+**Date:** 2026-07-15  
+
+---
+
+## Concept
+
+Not “city tourism.” A body that has been running as the brain’s vehicle  
+walks a quiet #11 city and re-learns that floors change.  
+The digital is real — symbols, feed, abstraction — but it only moves cognition.  
+Long-term only-that: life starts to feel like processing information, not living.  
+No cure. Socks on. Door ajar. Main problems still on the table.
+
+---
+
+## COMPLETE LYRICS (parameterized tags in place)
+
+```
+[Intro: hushed close-mic, sparse fingerpicked guitar, almost spoken]
+Sixteen floors. Thirty-two doors on this floor.
+Neighbors close enough to share a wall — far enough to never knock.
+Glass in my hand. Same flat world under the thumb.
+I put my socks on. I open the door.
+
+[Verse 1: conversational low male, guitar only, unhurried walking pace]
+Frosted slab. Old bluestone. River-round cobble.
+I slow like a kid and read the street with the soles.
+Cicadas swell and thin. A butterfly leaves one white stroke —
+lands without a word on the bank.
+Cranes bang near and far at the same time.
+Both. At the same time.
+
+[Pre-Chorus: slight denser, soft bass enters, still controlled]
+A screen is one hard surface — never changes under the hand.
+Symbols, feed, clean light — my head can live there fine.
+But my feet don't know a thing about any of that.
+
+[Chorus: full but grounded, controlled melodic male — no belting, brushed drums]
+Quiet number eleven —
+not the fire, not the rush.
+I came out of the glass
+to feel what the real floors are.
+So close and so far.
+Bit in the pocket. Atom under the shoe.
+Not to fix me —
+just to stand where the living ones do.
+
+[Verse 2: conversational return, light pad under guitar, intimate]
+Two dogs at a kitchen door — grey-black, dirty white,
+oil-smoke in the fur, already against my legs.
+Not pretty. Not soft. They press me anyway.
+Something in the skin that symbols never fed
+stops asking the feed for a body.
+
+Grandma at the stop: which bus, which when?
+I open the little program I never need.
+A small kindness moves. My clever mouth goes quiet.
+Somewhere a rider coasts — not sprinting the street.
+Day one, and I still haven't heard a temper break.
+
+[Pre-Chorus: same shape, controlled]
+A screen is one hard surface — never changes under the hand.
+I can process a whole day without leaving the bed.
+But my feet don't know a thing about any of that.
+
+[Chorus: full but grounded, controlled melodic — no belting]
+Quiet number eleven —
+not the fire, not the rush.
+I came out of the glass
+to feel what the real floors are.
+So close and so far.
+Bit in the pocket. Atom under the shoe.
+Not to fix me —
+just to stand where the living ones do.
+
+[Bridge: near-spoken, stripped to one guitar + room tone, white space]
+Ten square meters. Blinds down.
+Headphones on. Wheel turning. Next brightest thing.
+Living people only as light on glass —
+I could feel myself thinning to a screen.
+
+Is the body home —
+or just the car the mind is driving?
+
+Phone face-down on the floor.
+Soft wood court under the shoes —
+sixteen-nine in, ball comes back all wrong,
+my own dribble feels like a stranger's in the bone.
+Kids between games flip portrait, landscape, portrait —
+don't call them lost. That's a snapshot. Not the whole.
+
+[Final Chorus: denser arrangement, still controlled vocal — conviction without volume]
+Quiet number eleven —
+not the fire, not the cure.
+I came out of the glass
+to feel what the real floors are.
+Still close. Still far.
+Trouble I dragged here is still waiting, I'm not gonna lie.
+Not cured. Not pure.
+Socks on. Door ajar.
+Main thing unsolved —
+but I'm not only a passenger tonight.
+
+[Outro: hushed, instruments drop one by one, almost spoken]
+Frosted slab. Old bluestone. River-round cobble.
+One more block. Feet on the ground.
+Not fixed.
+Just weighted.
+Just found.
+```
+
+---
+
+## Song profile
+
+| | |
+|---|---|
+| **Hook** | Quiet number eleven / real floors / out of the glass |
+| **BPM** | 78–84 |
+| **Key** | E minor or G major (either works; minor prefers float undertow) |
+| **Length** | 3:00–3:20 |
+| **Vocal** | male, close-mic, melodic, controlled, talk-sing edges on bridge — never belted |
+| **Anti-boring** | recurring 3-note guitar motif on stone list (frosted / slate / cobble); pushed soft kick vs lazy snare; one semitone pad bend under bridge question; no strings until final chorus, out before outro; quiet city surface / floating undertow |
+
+---
+
+## Style containers (distinct emotional jobs)
+
+### A — Walking Field Notes (primary)
+**Style of Music:**
+```
+intimate narrative folk, walking-pace groove 80 BPM, close-mic male melodic vocal controlled never shouted, fingerpicked acoustic guitar motif, soft upright bass, brushed drums, sparse piano, quiet city undertow, clean warm mix
+```
+
+**Exclude Styles:**
+```
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, forward loud vocal mix, driving drums, epic build
+```
+
+**Sliders:** Weirdness 30–40 · Style Influence 70–80  
+**Why:** ethnography surface; room for understated float without diary-pop sugar.
+
+### B — Soft Floor Chamber
+**Style of Music:**
+```
+chamber folk, intimate male baritone melodic controlled, muted electric guitar arpeggio, warm Rhodes, soft string pad only late, dry room drums sparse, 78 BPM E minor, suspended calm with unresolved undertow, polished quiet mix
+```
+
+**Exclude Styles:**
+```
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, cinematic trailer, epic build, driving drums
+```
+
+**Sliders:** Weirdness 35–45 · Style Influence 65–75  
+**Why:** body-as-vehicle dread stays subliminal; soft surfaces in the arrangement.
+
+### C — Bit/Atom Dual (riskier)
+**Style of Music:**
+```
+art-folk with cold digital edge, close-mic male melodic controlled, acoustic guitar vs thin digital pulse low in mix, warm bass against glass-click percussion, 82 BPM, quiet city walk with floating undertow, clean modern mix
+```
+
+**Exclude Styles:**
+```
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, glitchcore, heavy electronic, festival EDM
+```
+
+**Sliders:** Weirdness 40–55 · Style Influence 60–70  
+**Why:** bit texture literally present under atom walk — only if A/B feel too single-world.
+
+---
+
+## Image map
+
+| Image | Section |
+|---|---|
+| 16F / 32 doors, close & far | Intro |
+| Three stones underfoot | V1, Outro |
+| Cicadas / butterfly white stroke / cranes | V1 |
+| Screen = one hard surface; symbols/feed | Pre |
+| Quiet #11, out of the glass, real floors | Chorus |
+| Oil-smoke dogs, skin hunger | V2 |
+| Grandma + mini-program | V2 |
+| Unhurried rider, no temper | V2 |
+| 10㎡ hermit wheel / thinning to screen | Bridge |
+| Body home or brain's car? | Bridge question |
+| Phone face-down | Bridge act |
+| Soft wood court, 16.9, stranger dribble | Bridge |
+| Kids portrait/landscape snapshot | Bridge |
+| Not cured; socks; door ajar; passenger | Final / Outro |
+
+---
+
+## Changelog
+
+- **v1 Lyric** — Quiet Number Eleven; park-first ethnography; light presence theme  
+- **v2 Opus** — Three Kinds of Stone; foot-axis discovered; socks/door; soft floor; independent  
+- **v3 Lyric (this)** — axis hardened to **bit vs atom / float vs weight**; body-as-vehicle question in bridge; Pre teaches screen=symbols without thesis dump; full parameterized tags; 3 style containers; complete Suno package

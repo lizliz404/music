@@ -1,0 +1,59 @@
+CONTINUE the previous Field Notes / Three Kinds of Stone work.
+
+OUTPUT ONLY the complete deliverable in your response. No summary-only mode. No outline. I will save your stdout myself.
+
+# Liz's direction (verbatim — treat as law)
+
+脚底地面 vs 屏幕平面玻璃
+
+这个主轴选取得很棒。可以往这方面进一步强化。因为这是一篇随记，主题比较散，但他从中抓住了一个我很想聊的点，就是比特世界 VS 原子世界，Derealization, depersonalization，缸中之脑。即：我们究竟是活在身体里，还是说身体仅仅是大脑的交通工具？或者说，现代人逐渐地将身体活成了大脑的载具而已？
+
+“数字世界给予你的，则更多是符号、信息和抽象。它同样真实，只是它主要调动的是认知，而不是身体。
+
+长期只有后者，人的体验会变得越来越"悬浮"。这也是为什么你提到 Depersonalization 和 Derealization。虽然这两者是具体的心理症状，不能简单等同于“宅太久”，但不少人都会描述一种类似的体验：生活越来越像在处理信息，而不是在生活本身。”
+
+# What to produce
+
+A **complete Suno-ready package** (ONE continuous deliverable):
+
+## A) Revised lyrics (v3 from YOUR v2)
+
+- Keep primary title freedom but lean into the axis: **feet/ground/body (atom) vs screen/glass/symbols (bit)**
+- Strengthen without dumping clinical jargon: show floating / thinning / symbols / body as vehicle / processing information vs living — in images
+- Bit world = symbols, information, abstraction, cognition (real, but not body)
+- Atom world = stone, oil-smoke dogs, soft wood floor, wind, weight of a face
+- Question hanging under the song: live IN the body, or is the body only the brain's transport?
+- Still ethnography / field notes / quiet #11 city — not a philosophy lecture
+- ALL ENGLISH. NO screaming/belting. NO cure ending.
+- Bridge still 3 moves: wound / question / physical act
+- Target ~3:00-3:30 — cut before padding
+- Every section gets **parameterized vocal+arrangement tags** on one line, e.g.
+  `[Verse 1: hushed close-mic melodic, fingerpicked guitar only, unhurried]`
+  NEVER use [Belted] [Explosive] [Screamed] [Gritty]
+  Prefer: hushed, close-mic, melodic, controlled, denser, near-spoken, intense-controlled
+- Remove meta labels like `(question)` `(act)` from singable text — enact them in lines only
+
+## B) Style prompts — 2-3 DISTINCT emotional containers
+
+Not "folk A vs folk B". Genuinely different containers that still serve this song.
+Each container:
+1. **Style of Music** — 5-8 descriptors max, genre-first, compact (<350 chars preferred). NO artist names.
+2. **Exclude Styles** — ONE comma-separated single line (not multi-line)
+3. **Sliders** — Weirdness + Style Influence suggested ranges
+4. 1-line why this container fits bit/atom undertow
+
+Undertow (anti-boring): surface is quiet city / soft contact; undertow is floating-off / body as vehicle / symbol-life vs lived life. Describe tension under calm, not just calm.
+
+Durable excludes to include: pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, forward loud vocal mix if it fights intimacy
+
+## C) Song profile
+Title · BPM range · key guess · length · hook line · anti-boring devices (motif, rhythm tension, late strings optional, etc.)
+
+## D) Changelog
+v2 (Opus independent) → v3 (axis strengthened + full tags + style containers)
+
+# Hard rules
+- Complete package = full lyrics WITH all tags already substituted (not tags listed separately)
+- OUTPUT ALL OF THE ABOVE IN YOUR RESPONSE as real content
+- Chinese source concepts → English images. No Chinese lyrics.
+- Do not name Naval. Do not say "depersonalization" as a lyric word unless it sings — prefer show.
