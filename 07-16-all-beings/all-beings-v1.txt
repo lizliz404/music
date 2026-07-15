@@ -1,0 +1,193 @@
+# ALL BEINGS — v1 (Suno-ready complete package)
+# Source: 众生相 (Essay · Notion Puppy export) ONLY
+# Date: 2026-07-16 · Lyric
+#
+# SCOPE LOCK:
+#   This track = 众生相 essay only.
+#   Daily journals + photo dump (fuzzy/assets) = sibling-song seeds later.
+#   Do not bleed Tang Ke play-date chatter / green-shirt boy into this draft
+#   beyond what the essay itself already uses.
+#
+# AXIS LOCK:
+#   宠"物" — pet as object vs living companion
+#   free fox-dog (dirty, twitchy, chooses)  vs  garage dog (rope radius, black door, hole chewed)
+#   众生相 = parade of human faces around one animal (not a love song, not rescue anthem)
+#
+# MODE: 散文歌 / 观察笔记 / field notebook sung aloud
+# HARD: all English · no screaming · ~3:00 · rests required · no cure narrative
+#
+================================================================================
+SONG PROFILE
+================================================================================
+Title (primary):  All Beings
+Alt titles:       Rope Radius · Pet Thing · The Door Hole
+Axis:             object vs being · free dirt vs owned dark · faces around the dog
+BPM:              80–84 (82 preferred)
+Key:              E minor or A minor
+Length:           ~3:00 · hard ceiling 3:15
+Vocal:            male close-mic melodic controlled intimate — NEVER belted/shouted
+Hook:             some pets are only things · I'll take care of him · the hole under the door
+Breath plan:
+- Intro → [two-bar instrumental breath]
+- After C1 → [two-bar breath], strip
+- Bridge: [silence half-bar] after "I decide not to get hurt"
+- Instrumental Break = mid exhale (4 bars max)
+- Outro: air between fragments
+
+================================================================================
+HOW TO PASTE
+================================================================================
+1. Lyrics field → block below
+2. Style → Container A first
+3. Exclude → that container's one line
+4. Generate 2–4 → stop → pick · archive · 48h no lyric edits
+
+================================================================================
+LYRICS
+================================================================================
+
+[Intro: hushed close-mic, single fingerpicked guitar, sparse room air; end on two-bar instrumental breath]
+Pointed ears. Dirty coat. A limp that turns into a dance.
+He sits, then rolls, then ruins the clean I just wiped on.
+[two-bar instrumental breath]
+
+[Verse 1: conversational low melody, guitar only, walking pace, leave air between image lines]
+I touch the middle of his skull — both ears fold down.
+He stares a beat, then runs like the ground is news.
+Fox-face, soft under the grime, a body that twitches mid-step —
+free to choose the next patch of dust.
+Not mine. Not anyone's. Still he keeps finding me.
+
+[Pre-Chorus: breath closer, soft bass enters, near-spoken into melodic, controlled]
+Not only a new plot. Not only a new friend.
+A new way of looking at the street.
+
+[Chorus: full but grounded, controlled melodic male — no belting; first line unhurried near-spoken]
+Some pets are only things —
+a rope draws a circle, and that is the world.
+Black garage, dust in the light, a hole chewed under the door
+where the longing learned to dig.
+Some pets are only things.
+Outside is loud. Inside is none of it.
+[two-bar instrumental breath, strip toward guitar]
+
+[Verse 2: denser images, still controlled, light pad under guitar]
+Door locked: eyes go numb, the kind that scares you more than fear.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — something to manage, something to walk?
+I feed bread through the dark and leave.
+I think the free one has more of a life.
+
+[Pre-Chorus: same shape]
+Not only a new plot. Not only a new friend.
+A new way of looking at the street.
+
+[Chorus: full but grounded, controlled melodic male — no belting]
+Some pets are only things —
+a rope draws a circle, and that is the world.
+Black garage, dust in the light, a hole chewed under the door
+where the longing learned to dig.
+Some pets are only things.
+Outside is loud. Inside is none of it.
+
+[Bridge: near-spoken, one guitar + room tone, wide white space]
+"Don't raise that kind of thing."
+"Look, don't touch."
+"That lame dog — walk like that —"
+[one beat rest]
+I stare one second too long, then let it go.
+I decide not to get hurt.
+[silence half-bar — let it hang]
+And the dog? He can't hear the words.
+[one beat rest]
+"I'll take care of him," I say —
+said it before I knew I'd said it.
+
+[Instrumental Break: soft guitar motif, dry light drums, four bars max — mid-song exhale, not a solo]
+
+[Final Chorus: denser layers, late strings only here, peak intensity controlled — sung never shouted; one-bar lift-in]
+Some pets are only things —
+a rope draws a circle, and that is the world.
+But under the bridge he stands on two legs, looking for me —
+then hits the ground and runs.
+Girl on the ramp opens both arms.
+He jumps the whole distance home.
+Some pets are only things.
+Not this one. Not tonight.
+[one beat rest]
+Still not mine. Still free.
+Still the street keeps showing faces.
+
+[Outro: hushed, instruments peel off, voice alone at end, air between fragments]
+I crouch a little.
+I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[End]
+
+================================================================================
+STYLE CONTAINERS
+================================================================================
+
+----- A — Documentary Walking Folk (PRIMARY) -----
+
+Style of Music:
+intimate documentary folk, walking-pace narrative song 82 BPM, close-mic male vocal controlled melodic never shouted, fingerpicked acoustic guitar motif, warm upright bass, brushed dry drums, sparse field-recording air, dynamic breathing with instrumental rests, unresolved quiet tension under calm surface, clean warm mix
+
+Exclude Styles:
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, forward vocal, loud mix, driving drums, epic build, wall-to-wall vocal, children's choir, cutesy pet jingle
+
+Sliders: Weirdness 30–40 | Style Influence 70–80
+
+----- B — Soft Garage Pulse -----
+
+Style of Music:
+melodic narrative indie, body-forward midtempo pulse 84 BPM, controlled male vocal sung intimate and incisive, clean electric and acoustic guitars, tight dry kit with pushed kick laid-back snare, warm bass, short melodic motif recurring, breathing arrangement with instrumental gaps, polished clean mix
+
+Exclude Styles:
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, staccato aggression, double-time thrash, forward vocal, loud mix, epic build, wall-to-wall vocal, children's choir
+
+Sliders: Weirdness 28–38 | Style Influence 72–82
+
+----- C — Chamber Observation -----
+
+Style of Music:
+sparse chamber folk art-pop, suspended mid-tempo 80 BPM, close-mic intimate male vocal melodic never shouted, muted electric guitar, soft Rhodes, subtle string accents Final Chorus only, dry precise drums, cool glass texture vs warm wood bass, generous rests and space, unresolved undertow, polished quiet mix
+
+Exclude Styles:
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, forward vocal, loud mix, driving drums, epic build, soar, cinematic trailer, wall-to-wall vocal
+
+Sliders: Weirdness 40–50 | Style Influence 65–75
+
+================================================================================
+IMAGE BANK USED (from 众生相 only — not full daily dump)
+================================================================================
+KEEP:
+- fox-dog ears fold / dirty soft / free
+- garage rope circle / black door / dust beam / hole chewed
+- numb eyes → frenzy when door opens
+- "some pets are only things"
+- crowd lines compressed into Bridge speech fragments
+- "I decide not to get hurt / he can't hear the words"
+- "I'll take care of him" (said before knowing)
+- bridge stand-up seek / girl arms / paint the frame
+
+HOLD FOR SIBLING TRACKS (dailies + photos):
+- Tang Ke name / green-shirt existence-seeker boy
+- dogmeat-hotpot trash talk
+- "make him a house" construction-play
+- full photo set of Fuzzy faces
+- longer cat-adjacent dailies (9.16–9.17)
+
+================================================================================
+CHANGELOG
+================================================================================
+v1 (Lyric, 2026-07-16)
+— first draft from 众生相 essay only
+— axis: pet-as-object vs free being + parade of faces
+— length held for ~3:00 with explicit rests
+— no cure; ends on paint-frame + unsolved street
+
+================================================================================
+END
+================================================================================
