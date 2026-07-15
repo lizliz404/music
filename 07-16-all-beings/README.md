@@ -15,3 +15,6 @@ Liz: 众生相 alone can carry ~3 min. Full dump would overwhelm one song.
 - Free Dirt (fox-dog daily intimacy)
 - Rope Radius (garage dog only)
 - All the Kids (Tang Ke / construction-play / cluster love)
+
+## Additional raw (not yet fused into v1)
+- `raw-image-analysis-threshold-proximity.md` — photo/drawing read: threshold split vs zero-distance posture. Sibling-seed or optional v2 image bank; **not** auto-merged into All Beings v1.
