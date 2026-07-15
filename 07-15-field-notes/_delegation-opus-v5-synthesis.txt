@@ -1,0 +1,95 @@
+OUTPUT THE COMPLETE v5 SYNTHESIS PACKAGE DIRECTLY IN YOUR RESPONSE. No summary-only. No outline. Full lyrics with tags + style containers + profile. I will save your stdout myself.
+
+# Your job
+
+You already wrote v2 (independent) and v3 (continue) for this song. Now produce **v5 surgical synthesis** as a single paste-ready Suno package.
+
+**Do NOT rewrite from scratch.** Apply the dual producer audits' surgical fixes to the existing v4 synthesis, informed by all prior drafts. Small precise edits only where audits flag real structural debt. Then stop.
+
+# Files to READ fully (workspace)
+
+1. `three-kinds-of-stone-v4-synthesis.txt` — current fused package (YOUR starting base)
+2. `v4-producer-audits-dual.txt` — **TWO full expert audits** (制作人级深度 + 专家级全面赏析). This is law for what to cut/keep.
+3. `field-notes-v3-lyric-package.txt` — Lyric v3
+4. `field-notes-v3-opus-package.md` — your Opus continue v3
+5. `field-notes-v3-independent-suno.md` — Hermes independent (Passenger Body)
+6. `field-notes-v2-opus.md` — your v2
+7. `field-notes-v1.md` — original Lyric v1 (context only)
+8. `raw-ningbo-notes.txt` — source field notes if you need image verification
+
+# Liz axis instructions (verbatim — treat as law)
+
+脚底地面 vs 屏幕平面玻璃
+
+这个主轴选取得很棒。可以往这方面进一步强化。因为这是一篇随记，主题比较散，但他从中抓住了一个我很想聊的点，就是比特世界 VS 原子世界，Derealization, depersonalization，缸中之脑。即：我们究竟是活在身体里，还是说身体仅仅是大脑的交通工具？或者说，现代人逐渐地将身体活成了大脑的载具而已？
+
+“数字世界给予你的，则更多是符号、信息和抽象。它同样真实，只是它主要调动的是认知，而不是身体。
+
+长期只有后者，人的体验会变得越来越"悬浮"。这也是为什么你提到 Depersonalization 和 Derealization。虽然这两者是具体的心理症状，不能简单等同于“宅太久”，但不少人都会描述一种类似的体验：生活越来越像在处理信息，而不是在生活本身。”
+
+Mode: 散文歌 / 民族志 / 观察笔记. NOT love song. NOT 公子哥 material.
+
+# Dual-audit consensus (execute these surgeries)
+
+Both audits agree v4 is near-complete (~8.4). **No full rewrite.** Surgical only.
+
+## MUST from audits (merge both lists carefully)
+
+### Surgery set from Audit 1 (制作人级深度) — preferred for chorus landings
+1. Replace chorus slogan line:
+   - OUT: `Atom under the shoe. Bit world in the hand.`
+   - IN: `Screen in the palm. Stone in the sole.` (Audit1 plan B) 
+     OR `Stone under the shoe. Glass in the hand.` (Audit2) — pick the one that best closes the image chain without theory words.
+2. Mutate chorus landing across three choruses (thematic rhyme with three stones):
+   - Chorus 1 landing: not abstract "real floors" → concrete e.g. `where the bluestone breaks`
+   - Chorus 2 landing: e.g. `where the cobble rolls`
+   - Final Chorus: keep no-cure; upgrade `Feet on the floor of the world` → `Feet on the stone of the world` (or better if it sings cleaner)
+3. Chorus tag: first long passenger-body line = **unhurried near-spoken descent, syllables even, no rising pop melody**
+4. Do NOT full rewrite. Clear v4's internal debt, then stop.
+
+### Surgery set from Audit 2 (专家级全面赏析) — structural
+1. Intro: remove pre-spoiling of body-as-car metaphor so Bridge owns the question for first time. Keep socks/door act.
+2. Pre-Chorus: stop explaining what V1 already showed. Do not restate "one hard plane / cold glass" thesis. Accelerate body-anxiety OR tighten to strongest lines only. V1 "sound has weight; phone has none" is already the evidence grammar — protect it, don't footnote it.
+3. Chorus slogan line: kill Atom/Bit theory words (both audits).
+4. Optional: dogs stanza — if "Not pretty. Not soft." weakens oil-smoke, trim (only if it improves flow).
+5. Bridge: keep 3 moves (wound / body-car question FIRST appearance / phone face-down + socks + door). Intro must not steal the car metaphor.
+6. DO NOT touch Verse 1 strong images (won't lie flat, three weights, butterfly white stroke, cranes/phone weight).
+
+### Resolve conflicts between audits
+- Both want: no Atom/Bit slogan; show-not-tell; no cure; protect V1; surgical not rewrite.
+- Chorus landing: prefer Audit1's **mutating stone landings** across C1/C2/Final if prosody works; if too cute, keep one strong concrete landing for C1+C2 identical (Suno hook lock) and only mutate Final.
+  **Prosody rule for Suno:** first two choruses should stay lyric-identical for hook lock EXCEPT if mutation is essential — then keep C1=C2 identical with best single landing, mutate only Final. Flag your choice.
+- Intro car metaphor: follow Audit2 — remove from Intro, give Bridge exclusive first statement of body-as-vehicle.
+
+# Durable craft (non-negotiable)
+- ALL ENGLISH lyrics
+- NO screaming/shouting/belting; controlled, melodic, intimate, close-mic
+- Images over verdicts; no Naval; do not sing "depersonalization"
+- Bridge 3 moves; ending no cure
+- ~3:00–3:30
+- Parameterized tags on EVERY section
+- Complete package rule: full lyrics with tags already in place + 2–3 style containers (Style + Exclude single line + sliders) + song profile + changelog
+- Exclude baseline: pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, forward vocal, loud mix, driving drums, epic build
+
+# Deliverable format (ALL of this in your response)
+
+```
+# THREE KINDS OF STONE — v5 SYNTHESIS (Suno-ready)
+
+## Song profile
+...
+
+## Complete lyrics (with parameterized tags)
+...
+
+## Style containers A / B / C
+(each: Style of Music, Exclude one line, Sliders, Why)
+
+## Surgical changelog (line-level: what changed from v4 and why, citing which audit)
+
+## What was deliberately NOT changed (list)
+```
+
+Title: keep **Three Kinds of Stone** primary unless a one-word reason to switch; Passenger Body / Quiet Number Eleven can stay as alts.
+
+OUTPUT FULL PACKAGE NOW.

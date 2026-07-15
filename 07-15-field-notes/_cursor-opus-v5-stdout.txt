@@ -1,0 +1,219 @@
+I have the v4 base and both audits. Both agree on the surgical plan. Let me reconcile and apply.
+
+Key decisions:
+- **Chorus slogan line:** Audit1 plan B `Screen in the palm. Stone in the sole.` vs Audit2 `Stone under the shoe. Glass in the hand.` — I'll take Audit2's version because "screen" reads cleaner than "glass" as the closing word and it chains directly to Verse 1 stones + Pre-Chorus glass. Actually both audits want the stone/glass pairing. I'll use `Stone under the shoe. Glass in the hand.` (Audit2) — it echoes V1 stones first, Pre-Chorus glass second, cleanest image chain.
+- **Chorus landings mutation:** Audit1 wants C1=`bluestone breaks`, C2=`cobble rolls`, Final=`stone of the world`. The Suno hook-lock rule says keep C1=C2 identical unless mutation essential. Audit1's mutating-stone thematic rhyme is genuinely strong and both C1/C2 landings still resolve to a concrete stone image. I'll flag my choice: **mutate all three** (Audit1) because the thematic rhyme across the three-stone arc is the core payoff and the landing line is the last line, not the repeated hook core (`put my weight down` stays identical = hook lock preserved).
+- **Also change "out of the glass" → "out of the screen"** per Audit2 (more precise, and frees "glass" for the slogan line).
+- **Intro:** remove `symbols in the glass, body parked like a car outside the house` (Audit2) so Bridge owns body-as-car first.
+- **Pre-Chorus:** replace the two "hard plane / cold glass" thesis lines with body-anxiety escalation (Audit2's rewrite), protecting the final "asks for skin / asks for time" line.
+- **Dogs:** trim "Not pretty. Not soft." — Audit2 optional; I'll trim to strengthen oil-smoke. Flag it.
+- **Chorus tag:** add near-spoken descent instruction (Audit1 surgery 3).
+- **Bridge, Verse 1, structural honesty:** untouched.
+
+One conflict on Pre-Chorus rhyme: Audit2's replacement is `room / wound` then `skin / time`. But the second Pre-Chorus in v4 has a different line 3 (`I can process a whole day without leaving the bed`). I'll harmonize both pre-choruses to the new escalation shape while keeping their slight variation.
+
+Writing the full package now.
+
+```
+# THREE KINDS OF STONE — v5 SYNTHESIS (Suno-ready)
+
+## Song profile
+Title (primary):  Three Kinds of Stone
+Alt titles:       Passenger Body · Quiet Number Eleven
+Axis:             feet / ground / stone / weight  vs  screen / glass / symbols / float
+                  (atom world vs bit world — shown through touch, never named as slogan)
+Mode:             prose song / ethnography / observation notes (NOT love song, NOT 公子哥)
+Hook spine:       "put my weight down" + body-as-vehicle question (Bridge only) + three-stone landings
+BPM:              80–84 (walking-pace; 82 = relaxed adult stride)
+Key:              D minor or E minor (unresolved float; avoid bright-major "cure")
+Length:           ~3:00–3:20
+Vocal:            male, close-mic, melodic, controlled, intimate — NEVER belted/shouted
+Hook line:        "I was living like a passenger in a body I forgot how to drive"
+Anti-boring:      three-stone guitar motif (Intro / Break / Outro);
+                  mutating chorus landing (bluestone breaks → cobble rolls → stone of the world) = thematic rhyme across the arc;
+                  "put my weight down" + [one beat rest] = silence as weight;
+                  late strings Final Chorus only, exit before Outro;
+                  pushed soft kick vs laid-back snare = heartbeat ahead of stride;
+                  surface = quiet-city walk; undertow = floating / body as vehicle
+
+## Complete lyrics (with parameterized tags)
+
+[Intro: hushed close-mic, single fingerpicked guitar, sparse room air, almost spoken]
+Sixteen floors. Thirty-two doors on this floor alone.
+Neighbors close enough to share a wall — far enough to never knock.
+Headphones on. I run the feed for the next bright thing.
+I put my socks on. I open the door.
+
+[Verse 1: conversational low melody, fingerpicked guitar only, walking pace, unhurried]
+Frosted slab. Old bluestone that won't lie flat.
+River-round cobble that rolls under the sole.
+I slow like a kid and read the street with the feet —
+three different weights, three different truths in the bone.
+Cicadas swell and thin. A butterfly leaves one white stroke —
+lands without a word on the bank.
+Cranes bang near and far at the same thin second —
+the sound has weight; the phone in my pocket has none.
+
+[Pre-Chorus: breath closer, soft bass enters, near-spoken into melodic, controlled, tightening]
+My head can run the whole day clean and never leave the room,
+reading the world from somewhere just above the wound.
+But the ground keeps changing. It asks for skin. It asks for time.
+
+[Chorus: full but grounded, controlled melodic male — no belting, brushed drums, warm bass; first line delivered as unhurried near-spoken descent, syllables even, no rising pop melody]
+I was living like a passenger in a body I forgot how to drive —
+brain at the wheel of nothing, floating two inches above the ride.
+Quiet number eleven — not the fire, not the rush —
+even the riders coast; no one is racing the dust.
+So I put my weight down.
+[one beat rest]
+I put my weight down.
+Stone under the shoe. Glass in the hand.
+I came out of the screen to feel where the bluestone breaks.
+
+[Verse 2: conversational return, light pad under guitar, intimate, mid density]
+Two dogs at a kitchen door — grey-black, dirty white —
+oil-smoke in the fur, already against my legs.
+They press me anyway.
+Something in the skin that symbols never fed
+stops asking the feed for a body.
+
+Grandma at the stop: which bus, which when?
+I open the little program I never need.
+A small kindness moves. My clever mouth goes quiet.
+Somewhere a rider coasts — not sprinting the street.
+Day one, and I still haven't heard a temper break.
+
+[Pre-Chorus: same shape as first pre, bass warmer, controlled, tightening]
+My head can run the whole day clean and never leave the bed,
+reading the world from somewhere just above my head.
+But the ground keeps changing. It asks for skin. It asks for time.
+
+[Chorus: full but grounded, controlled melodic male — no belting, brushed drums, warm bass; first line delivered as unhurried near-spoken descent, syllables even, no rising pop melody]
+I was living like a passenger in a body I forgot how to drive —
+brain at the wheel of nothing, floating two inches above the ride.
+Quiet number eleven — not the fire, not the rush —
+even the riders coast; no one is racing the dust.
+So I put my weight down.
+[one beat rest]
+I put my weight down.
+Stone under the shoe. Glass in the hand.
+I came out of the screen to feel where the cobble rolls.
+
+[Bridge: near-spoken, stripped to one guitar + room tone, white space between lines]
+Ten square meters. Blinds down. Headphones on.
+Chasing the next bright thing till the body felt gone.
+Am I living in the skin —
+or is the body just a car
+for a brain that only trusts what lights up far?
+I set the phone face-down on the floor.
+Then I put my socks on. Then I opened the door.
+
+[Instrumental Break: soft wood-court motif, dry light drums, four bars max, melodic not technical]
+
+[Final Chorus: denser layers, late strings only here, peak intensity controlled — sung never shouted]
+I was living like a passenger in a body I forgot how to drive —
+brain at the wheel of nothing, floating two inches above the ride.
+Quiet number eleven — trouble I dragged here still waits outside.
+Still close, still far. Still glass in the pocket, stone under the stride.
+So I put my weight down.
+[one beat rest]
+I put my weight down.
+Not cured. Not pure. The main thing stays unsolved.
+Socks on. Door ajar. Feet on the stone of the world.
+
+[Outro: hushed, instruments peel off one by one, voice alone at the end]
+Frosted slab. Old bluestone. River-round cobble.
+One more block with weight.
+Not floating.
+Not finished.
+Just found the ground again —
+and the problems still wait.
+[End]
+
+## Style containers
+
+----- CONTAINER A — Documentary Walking Folk (PRIMARY / generate first) -----
+
+Style of Music:
+intimate documentary folk, walking-pace narrative song 82 BPM, close-mic male vocal controlled melodic never shouted, fingerpicked acoustic guitar motif, warm upright bass, brushed dry drums, sparse field-recording air, unresolved quiet tension under calm surface, clean warm mix
+
+Exclude Styles:
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, forward vocal, loud mix, driving drums, epic build
+
+Sliders:
+Weirdness 30–40 | Style Influence 70–80
+
+Why:
+Ethnography surface + floating undertow. Best first lane for image-first lyrics and "put my weight down." Walking BPM literalizes the body re-entering ground.
+
+----- CONTAINER B — Suspended Chamber (bit/atom glass tension) -----
+
+Style of Music:
+sparse chamber folk art-pop, suspended mid-tempo 80 BPM, close-mic intimate male vocal melodic never shouted, muted electric guitar, soft Rhodes, subtle string accents Final Chorus only, dry precise drums, cool glass texture vs warm wood bass, unresolved undertow, polished quiet mix
+
+Exclude Styles:
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, forward vocal, loud mix, driving drums, epic build, soar, cinematic trailer
+
+Sliders:
+Weirdness 40–50 | Style Influence 65–75
+
+Why:
+Sonically stages float vs weight (cool glass texture vs warm wood bass). Strings late only = body coming back online without a power-ballad climb.
+
+----- CONTAINER C — Soft-Court Pulse (atom return / physical re-entry) -----
+
+Style of Music:
+melodic narrative indie, body-forward midtempo pulse 84 BPM, controlled male vocal sung intimate and incisive, clean electric and acoustic guitars, tight dry kit with pushed kick laid-back snare, warm bass, short melodic motif recurring, polished clean mix
+
+Exclude Styles:
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, staccato aggression, double-time thrash, forward vocal, loud mix, epic build
+
+Sliders:
+Weirdness 28–38 | Style Influence 72–82
+
+Why:
+Pushed kick vs laid-back snare = heartbeat against walking pace. Suits the instrumental soft-court break and "put my weight down" as bodily return, not anthem.
+
+## Surgical changelog (v4 → v5)
+
+1. **Intro — removed body-as-car spoiler** [Audit 2, 缺陷3]
+   OUT: `symbols in the glass, body parked like a car outside the house.`
+   Intro now 4 lines, ends on pure action (`I put my socks on. I open the door.`). The body-as-vehicle metaphor is now stated for the FIRST time in the Bridge, so `is the body just a car?` lands with surprise instead of as review. Also swapped `run the wheel` → `run the feed` (Audit 2 flagged "wheel" as ambiguous; "feed" is unambiguous scroll-object and pre-echoes V2's "stops asking the feed for a body").
+
+2. **Pre-Chorus (both) — killed the thesis, added body-anxiety escalation** [Audit 2, 缺陷1]
+   OUT: `A screen is one hard plane under the thumb — / always the same cold glass, always the same flat hum. / Symbols, feed, clean light — my head can live there fine.`
+   IN (Pre 1): `My head can run the whole day clean and never leave the room, / reading the world from somewhere just above the wound.`
+   IN (Pre 2): `My head can run the whole day clean and never leave the bed, / reading the world from somewhere just above my head.`
+   V1's `the sound has weight; the phone has none` is already the evidence grammar; Pre no longer footnotes it. `reading the world` carries Liz's "life becomes processing information, not living" without clinical words. Protected the strongest line `It asks for skin. It asks for time.` in both.
+
+3. **Chorus slogan line — killed Atom/Bit theory words** [Audit 1 surgery 1 + Audit 2 缺陷2, consensus]
+   OUT: `Atom under the shoe. Bit world in the hand.`
+   IN (all three choruses, identical): `Stone under the shoe. Glass in the hand.`
+   Chose Audit 2's ordering (stone→glass) over Audit 1's plan B (`Screen in the palm. Stone in the sole.`) because it closes the image chain cleanest: V1 stones → Pre-Chorus/`glass` → this pair → landing back on stone. No theory nouns; both words are physical objects. `glass` now also gives the retained cool-glass texture in Container B a lyric anchor.
+
+4. **Chorus landings — mutating three-stone thematic rhyme** [Audit 1 surgery 2]
+   Also changed `out of the glass` → `out of the screen` (Audit 2: more precise; "came out of the screen" = out from inside).
+   - Chorus 1: `...to feel where the bluestone breaks.`
+   - Chorus 2: `...to feel where the cobble rolls.`
+   - Final Chorus: `Feet on the stone of the world.` (was `floor of the world`)
+   **Prosody / hook-lock choice (flagged):** I mutated all three landings rather than locking C1=C2. Rationale: the repeated HOOK CORE (`So I put my weight down / [one beat rest] / I put my weight down / Stone under the shoe. Glass in the hand.`) is byte-identical across all choruses, so Suno's hook lock is preserved. Only the final landing LINE mutates, distributing the three Verse-1 stones across the arc (frosted slab held in reserve as white space → bluestone → cobble → stone-in-general). This is the thematic rhyme both drafts were reaching for and is the main 8.4→8.8 lever. If a generation garbles the varied landings, fall back to identical `...to feel where the bluestone breaks.` on C1+C2 and mutate Final only.
+
+5. **Chorus tag — long-line prosody guard** [Audit 1 surgery 3]
+   Appended to both non-final Chorus tags: `first line delivered as unhurried near-spoken descent, syllables even, no rising pop melody`. Protects the 15-syllable hook line from being forced into a rushed rising pop melody — the highest-leverage 5-second decision per Audit 1.
+
+6. **Verse 2 dogs — trimmed self-explanation** [Audit 2 optional #4]
+   OUT: `Not pretty. Not soft. They press me anyway.`  IN: `They press me anyway.`
+   Lets `oil-smoke in the fur` carry the image undiluted; keeps the contact beat.
+
+## What was deliberately NOT changed (list)
+- **Verse 1 in full** — `won't lie flat`, `three different weights / three different truths in the bone`, `butterfly leaves one white stroke`, `the sound has weight; the phone has none`. Both audits: do not touch (95/100). This is the field, the irreplaceable part.
+- **Structural-honesty ending** — `trouble I dragged here still waits outside`, `Not cured. Not pure. The main thing stays unsolved.`, Outro `problems still wait`. Both audits scored highest here (9.5 / 90). No cure narrative preserved.
+- **Bridge 3 moves** — wound (ten-square-meter room) / body-as-car question (now its FIRST appearance) / physical act (phone face-down → socks → door). Kept intact; the Intro edit is what earns the Bridge its exclusive question.
+- **`put my weight down` + `[one beat rest]`** — the silence-as-weight device; untouched in all choruses (hook core, lock preserved).
+- **Soft wood court as Instrumental Break** — not re-expanded into a spoken verse (length + section ownership).
+- **`the little program I never need`** — retained despite Western-listener opacity; Audit 1: cultural opacity here is an asset, not a bug, and the next line already self-explains via action.
+- **Three style containers + baseline exclude lists + slider ranges** — kept as v4; only lyric body and two tag lines changed.
+- **Quiet number eleven, unhurried riders, `Still close, still far` Intro-echo** — untouched.
+```
+
+Surgical set complete: 6 edits total (1 Intro deletion + swap, 2 Pre-Chorus rewrites, 1 slogan swap, 3 landing mutations + screen swap, 1 tag append ×2, 1 dogs trim). No rewrite. All Verse 1 and ending material protected. Stopping here per both audits' stop-loss guidance.
