@@ -1,0 +1,111 @@
+OUTPUT THE COMPLETE v5.1 PACKAGE DIRECTLY IN YOUR RESPONSE. Full lyrics with tags + style containers. No outline-only. No summary-only. I will save your stdout.
+
+# Job
+
+Continue the Three Kinds of Stone session. Read and apply **v5 post-surgery recheck** + Liz's hard lessons on length/breathing. Produce **v5.1 only** — micro-fixes, then STOP. No v6. No full rewrite.
+
+# Files to READ fully
+
+1. `three-kinds-of-stone-v5-synthesis.txt` — CURRENT base (operate on this)
+2. `v5-post-surgery-recheck-dual.txt` — **TWO recheck audits** (手术后复检 & 收官判断 + 认真读完整份 v5 的第二份)
+3. `v4-producer-audits-dual.txt` — prior dual audits (context)
+4. `three-kinds-of-stone-v4-synthesis.txt` — only if you need to restore a cut line accurately
+5. Optional: prior v3 packages if needed for a single line recovery
+
+# LIZ AXIS (locked — do not reframe away)
+
+脚底地面 vs 屏幕平面玻璃 = 比特世界 vs 原子世界  
+DPD-DR / 悬浮 / 缸中之脑 undertow  
+活在身体里 vs 身体只是大脑的载具  
+Digital is also real (cognition). Long-only-cognition → processing information, not living.  
+Show via feet/weight/skin/glass — never Atom/Bit slogan product copy. Never sing "depersonalization".
+
+# LIZ HARD LESSONS (from prior music tasks — treat as law)
+
+1. **Avoid 又臭又长又无聊** — and avoid making the listener *exhausted*. Constant high density = AI-smell + fatigue.
+2. **Song must not be long.** Leave enough **rest / breath / white space** for the audience to buffer. Do NOT sing wall-to-wall from start to finish.
+3. Prefer **compression → expansion → rest** cycles over flat 9/10 density every bar.
+
+# Dual recheck consensus (execute)
+
+## From Audit 1 (手术后复检) — MUST micro-fixes (v5.1)
+
+### Fix A — Pre-Chorus: restore tactile glass evidence WITHOUT restoring v4 thesis dump
+v5 Pre is strong on "above the wound" (PROTECT — do not alter that line) but lost **finger-on-glass tactile phenomenology**.
+
+Insert one tactile evidence line. Preferred pattern from recheck:
+```
+My head can run the whole day clean and never leave the room,
+reading the world from somewhere just above the wound.
+The glass stays flat. The ground doesn't. It asks for skin. It asks for time.
+```
+Or slightly longer middle:
+```
+The glass stays flat under the thumb. The street doesn't.
+It asks for skin. It asks for time.
+```
+Apply parallel shape to Pre 2 (room→bed variation ok). Keep both Pre choruses tight.
+
+### Fix B — Verse 2 dogs: RESTORE "Not pretty. Not soft."
+v5 surgery 6 was net loss (rhythm break + micro-drama resistance→yield). Roll back:
+```
+oil-smoke in the fur, already against my legs.
+Not pretty. Not soft. They press me anyway.
+```
+
+### STOP after A+B for lyric body of that recheck
+Do NOT re-open Atom/Bit, do NOT touch Verse 1 protected lines, do NOT re-audit the whole song.
+
+## From Audit 2 (总体赏析) — structure/entropy/rest (surgical only)
+
+Audit 2 says: do NOT big-rewrite; problem is **constant density + low entropy + fatigue**, not quality.
+
+You MUST address fatigue/rest WITHOUT a rewrite:
+
+1. **Tags / arrangement breathing (required):**
+   - Add explicit rest/white-space instructions on at least: Intro end, after first Chorus, Bridge mid (after question, before act), before Final Chorus, Outro.
+   - Examples of tag language: `two-bar instrumental breath`, `leave space`, `silence half-bar`, `strip to guitar only`, `do not wall-to-wall vocal`
+   - Keep total song target **≤3:15**, prefer **~3:00**. If lyrics feel long, **cut 2–6 lines of lowest value**, not add.
+
+2. **Optional ONE entropy spike (only if it sings clean and doesn't explain):**
+   Audit 2 suggests modern surprise (step-goal / map knew where I was). If you add, **max 1–2 lines**, preferably Bridge post-question or a half-line after Instrumental — show, never moralize. If it risks cleverness/AI-smell, **skip** and rely on rest tags only. Flag choice.
+
+3. **Do NOT** chase commercial pop identity. Do NOT add "surprise for surprise." Do NOT prove the thesis harder.
+
+4. **Protect (both rechecks + prior):**
+   - `reading the world from somewhere just above the wound`
+   - Verse 1 full field evidence
+   - `put my weight down` + [one beat rest]
+   - three-stone mutating landings (bluestone / cobble / stone of the world)
+   - Stone under the shoe. Glass in the hand.
+   - No-cure ending
+   - Bridge body-as-car first appearance
+
+# Craft
+- ALL ENGLISH
+- No belting/screaming; controlled intimate
+- Complete package: full lyrics with parameterized tags already in + Style A/B/C (Style + Exclude one line + sliders) + profile + surgical changelog v5→v5.1
+- Exclude baseline same as v5
+
+# Deliverable
+
+```
+# THREE KINDS OF STONE — v5.1 (Suno-ready)
+
+## Song profile
+(include length target + breath plan)
+
+## Complete lyrics with parameterized tags
+(rests/spaces already in tags and [one beat rest] / [two-bar breath] markers as needed)
+
+## Style containers A B C
+
+## Changelog v5 → v5.1 (line-level)
+
+## What was NOT changed
+
+## Stop rule
+v5.1 is final lyric package before generate. No v5.2 text iteration unless audio demands documentation.
+```
+
+OUTPUT FULL PACKAGE NOW.
