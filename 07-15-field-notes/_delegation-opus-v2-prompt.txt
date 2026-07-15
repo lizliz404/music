@@ -1,0 +1,88 @@
+OUTPUT ONLY THE COMPLETE LYRICS. No summary. No outline. No bullet-point plan. No "here's what I would write." Every section filled with real singable lines. I will save your response myself — do NOT write files unless you also print the full lyrics in your response first.
+
+# Task
+
+Write a complete independent English song lyric from Liz's Ningbo field notes.
+
+**Mode (critical):** 散文歌 / ethnography / observation notes song.
+- Not a love song. Not a job-hunt anthem. Not a rich-kid character portrait.
+- Field notebook sung aloud: sensory walks, social texture, body re-entering the physical world after screen isolation.
+- Half anthropologist detachment, half someone starving for real contact.
+
+**DO NOT read** `field-notes-v1.md` if present. Write a DIFFERENT take from the raw source only — different hook, structure angle, and image selection if you choose. Independent draft.
+
+# Source (READ FULL FILE FIRST)
+
+`/home/ubuntu/music/07-15-field-notes/raw-ningbo-notes.txt`
+
+Same content also at:
+`/home/ubuntu/music/07-15-court/宁波随记_其余部分.txt`
+
+**Ignore entirely** the 公子哥 / rich kid basketball material (file `宁波随记_江浙沪公子哥.txt` if you see it). Out of scope.
+
+# What the source is about (orientation only — extract YOUR images from the file)
+
+Chinese autoethnography / field notes from Ningbo (Haishu streets, Tianyi Pavilion park, smart park / industrial zone, gym, soft indoor basketball wood, quiet city vs Hangzhou "fire," screen hermit loop in a tiny apartment, typhoon, depersonalization/derealization, being present, oil-smoke dogs, bus-stop grandma, three kinds of paving stone underfoot, national GDP #11 but unnervingly quiet, atomized apartment tower, etc.).
+
+**Source-first rule:** Read the full raw file. Name 5–8 strongest CONCRETE sensory images in your head before drafting a single line. Build the song from those images, not from abstract thesis.
+
+# Durable craft rules (paste — follow all)
+
+## Language
+- ALL ENGLISH lyrics. No Chinese lines. No bilingual. Adapt images, don't translate sentence-by-sentence.
+
+## Vocal / delivery
+- NO screaming, shouting, belting, roaring, "explosive," "raw" vocals, grit-as-default.
+- Controlled, sung, melodic, intimate, hushed, close-mic, incisive.
+- Intensity via arrangement density and rhythm, not vocal force.
+- Section tags if used: never [Belted]/[Explosive]/[Screamed]/[Gritty]. Prefer [Hushed, close-mic, melodic], [Denser], [Intense, controlled].
+
+## Images over verdicts
+Strong: show a scene → audience concludes.
+Weak: thesis labels ("he's the system's door", "depersonalization is bad").
+No Naval name-drop. No clinical jargon dump (DPD/DR can be implied via floating/ghost/screen light, not textbook terms).
+
+## Unified metaphor axis
+Pick ONE axis and commit (examples you may invent from source: soft surfaces underfoot; quiet vs fire; close-and-far; skin vs screen; slow water city). Cut lines that don't fit the axis.
+
+## Structure
+- Target ~3:00–3:30 (tight; not a 5-minute dump).
+- Clear sections: Intro optional; Verse; Pre optional; Chorus; Bridge; Final chorus/Outro.
+- Each section owns one thematic element (no inventory dump in the bridge).
+
+## Bridge — exactly 3 moves
+1. One wound (specific memory/image, not metaphor cluster)
+2. One question (agency stake)
+3. One physical act (socks on, door opens, phone face down, stands up, etc.)
+
+## Ending — NO cure narrative
+Reject: "I choose the harder side," "that's enough," one-shot transformation, cured narrator.
+Use: humility (Not cured. Not pure.), partial progress, physical act, problems still waiting.
+
+## Breathing
+- Speech-pattern lines can be dense.
+- Reflective lines need white space / separate breaths.
+
+## Genre
+Derive freely from THIS song's DNA (ethnography, quiet city, soft contact). Do NOT default to Kenshi Yonezu / pop-punk / emo / industrial / grunge.
+After lyrics, add a SHORT draft genre note (5–8 descriptors, no artist names). Optional brief exclude line.
+
+# Deliverable format (print all of this in your response)
+
+1. **Working title** (1–3 candidates ok; pick a primary)
+2. **One-sentence concept**
+3. **Metaphor axis** (one phrase)
+4. **COMPLETE lyrics** with section labels like:
+   [Intro]
+   [Verse 1]
+   [Pre-Chorus]
+   [Chorus]
+   [Verse 2]
+   [Bridge]
+   [Final Chorus]
+   [Outro]
+   (adjust structure if the song needs it — but fill every section with real lines)
+5. **Image list used** (bullet: source image → which section)
+6. **Short genre note** + exclude line
+
+Again: OUTPUT THE FULL LYRICS IN THE RESPONSE. Not an outline. Not a summary of changes.
