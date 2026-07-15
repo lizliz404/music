@@ -1,0 +1,130 @@
+# The Wrong Game — v4.1 Final
+
+[Intro: sparse electric guitar motif, close-mic hush, no drums yet]
+
+[two-bar instrumental rest]
+
+[Verse 1: hushed, close-mic, melodic, sparse piano, controlled sung vocal]
+
+I met you in a doorway I could never cross,
+ran the figures twice before I'd say hello.
+
+[one beat rest]
+
+I needed proof of profit, needed proof of loss,
+so I stood at the threshold with my numbers dry,
+waiting on a track record that could not begin —
+
+[rest]
+
+I never stepped in.
+
+[Chorus: intense, controlled, full band, incisive sung delivery, never shouted]
+
+I priced you like a stranger while you held me like a friend,
+and the second that you felt it, something quiet turned and left.
+
+[one beat rest]
+
+It was never that the math came out too thin —
+it's that you knew, from the counting, I had never let you in.
+
+[rest]
+
+Not the wrong sum. The wrong game.
+
+[Verse 2: denser, controlled, rhythmic pulse, tight drums, precise melodic vocal]
+
+I can't shut down — a server through the night —
+the moment I stop earning, every signal starts to fade.
+
+[one beat rest]
+
+I won't lie down beside you, won't turn off the light;
+the ledger writes me down the moment I lie still.
+
+[rest]
+
+A mile of useful faces and no hand to hold my own.
+I selected for the profit, then the profit selected me —
+
+[one beat rest]
+
+alone among the assets, with the whole network lit and no one home.
+
+[Chorus: intense, controlled, full band, incisive sung delivery, never shouted]
+
+You gave without a receipt and I gave to be repaid,
+and you saw it in the giving — how I flinched, how I appraised.
+
+[one beat rest]
+
+It was never that I chose the colder side —
+it's that I could not stop the counting long enough to let it slide.
+
+[rest]
+
+Not-keeping-score's the one thing that I never learned to do.
+
+[one beat rest]
+
+Not the wrong sum. The wrong game.
+No seasons, just the quarters — and a number, and no you.
+
+[Bridge: stripped to voice and guitar, intimate, fragile, spacious phrasing]
+
+On the grass that summer, before I had the words,
+I asked a friend to write my name, and didn't ask what for.
+
+[rest]
+
+That was me — who moved before he weighed and measured,
+who reached across a table just because.
+
+[one beat rest]
+
+So who stays for a man who can't stop taking inventory?
+
+[rest]
+
+I don't have the answer. I have a pen, a page, a night.
+I closed the book. I didn't tally. I let one gift just be a gift.
+
+[Final Chorus: peak intensity, controlled, denser arrangement, strings enter, sung never shouted]
+
+I priced you like a stranger while you held me like a friend,
+and the second that you felt it, something quiet turned and left.
+
+[one beat rest]
+
+It was never that the math came out too thin —
+it's that you knew, from the counting, I had never let you in.
+
+[rest]
+
+I can't unlearn the counting in a night —
+I only set the ledger down and let it lie.
+
+[one beat rest]
+
+Not cured. Not pure. Just a hand that won't compute,
+one uncollateralized reach across the dark.
+
+[rest]
+
+I'm standing where I couldn't stand before —
+in the doorway, not calculating, with my hand against the door.
+
+[Outro: guitar motif returns, strings exit, voice fades close-mic]
+
+[one beat rest]
+
+Not the wrong sum. The wrong game.
+
+---
+
+STYLE PROMPT (Container C — Pulse Under Glass — recommended first try)
+
+Style: rhythmic indie rock, precise midtempo groove, 84 BPM, pushed kick against laid-back snare, semitone guitar drone, male vocals incisive sung not shouted, punchy clean mix, density rises without explosion
+
+Exclude: pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, sacrificing melody for aggression, staccato aggression, abrupt jarring cuts, double-time thrash, anime OP energy, noise, harsh
