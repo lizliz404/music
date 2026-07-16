@@ -1,0 +1,116 @@
+# Old Weights — FINAL lyrics
+# Status: locked text (2026-07-16) — next step: demo / Suno, not v4 rewrite
+# Lineage: v1 Lyric + v2 Opus → external audits → v3 parallel → external v3 audit stitch → Cursor Opus surgical final
+# Base: v3 Lyric; Mon/Tue → Final Chorus; tags stripped; no wire / no she-he-mother stack; no stock "Not cured. Not pure."
+
+Title: Old Weights
+
+Concept: A kid labeled lazy/careless froze that verdict into identity; the adult's old weights still fire in soft rooms — not broken, just an outdated version still running after the labeler left, still moving small weights instead of staging a cure.
+
+---
+
+[Cold Open]
+Old weights fire when the room goes soft.
+
+[Intro]
+
+[Verse 1]
+Report card face-down under the kitchen light.
+Same three lines every problem kid got —
+lazy, careless, not like the good one.
+They said it soft. It landed like steel.
+I learned the shape before I learned the word.
+Froze the dial. Called the freeze "me."
+Wore the number on my chest
+like factory setting, not a guess.
+
+[Pre-Chorus]
+Then something soft —
+a quiet room, a kind face, a little rest —
+and the old hands move first.
+
+[Chorus]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Verse 2]
+You said I didn't have to earn the quiet.
+My throat still braced like something was due.
+New city, new keys — same flinch when you laugh
+a half-second longer than I planned for.
+I catch the script mid-sentence, mouth already wrong.
+The floor remembers the old dance first.
+Right answer once — for a house that's gone.
+The map still fits a country that's no more.
+
+[Pre-Chorus]
+Something soft —
+your hand open, nothing asked —
+and the old hands move first.
+
+[Chorus]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Bridge]
+Nine years old. I asked for something small.
+Watched a face go cold across the hall.
+Learned it in one breath:
+to need is to be too much — so want less.
+
+I hold the old report card.
+Both hands.
+Nobody's grading anymore —
+so who is this for?
+
+I stand up to say it.
+Sit back down. Stand up again.
+That's the whole update tonight.
+
+[Final Chorus]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Some nights they take the first round.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+the settings still run.
+I forget it by Monday.
+Try again Tuesday.
+Not the final build.
+Still moving what I can.
+
+[Outro]
+Same kitchen light. My house now.
+Same word for me —
+I get to weigh it now.
+Still here.
+Still training —
+on the next small weight
+I can actually move.
+
+---
+
+## Surgical changelog (final)
+- Cold open: removed `[breath]` tag
+- All choruses: removed `[one beat rest]`; rest via `OLD WEIGHTS —` + line break only
+- Bridge: ends on stand/sit update only (Mon/Tue removed from bridge)
+- Final Chorus: now carries `I forget it by Monday. / Try again Tuesday.`
+- Rejected: older wire; she/he/mother stack; stock "Not cured. Not pure."
+- Kept: v3 Lyric body — you, older version, freeze dial, floor dance, need-too-much, weigh it now
+
+## Stop
+Text locked. Next gradient = audio demo (Suno / real ears), not another lyric version unless phonetics break in generation.

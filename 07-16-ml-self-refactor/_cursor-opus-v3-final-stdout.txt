@@ -1,0 +1,110 @@
+# Old Weights
+
+**Concept:** A kid labeled lazy/careless froze that verdict into identity; the adult's old weights still fire in soft rooms — not broken, just an outdated version still running after the labeler left, still moving small weights instead of staging a cure.
+
+---
+
+[Cold Open]
+Old weights fire when the room goes soft.
+
+[Intro]
+
+[Verse 1]
+Report card face-down under the kitchen light.
+Same three lines every problem kid got —
+lazy, careless, not like the good one.
+They said it soft. It landed like steel.
+I learned the shape before I learned the word.
+Froze the dial. Called the freeze "me."
+Wore the number on my chest
+like factory setting, not a guess.
+
+[Pre-Chorus]
+Then something soft —
+a quiet room, a kind face, a little rest —
+and the old hands move first.
+
+[Chorus]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Verse 2]
+You said I didn't have to earn the quiet.
+My throat still braced like something was due.
+New city, new keys — same flinch when you laugh
+a half-second longer than I planned for.
+I catch the script mid-sentence, mouth already wrong.
+The floor remembers the old dance first.
+Right answer once — for a house that's gone.
+The map still fits a country that's no more.
+
+[Pre-Chorus]
+Something soft —
+your hand open, nothing asked —
+and the old hands move first.
+
+[Chorus]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Bridge]
+Nine years old. I asked for something small.
+Watched a face go cold across the hall.
+Learned it in one breath:
+to need is to be too much — so want less.
+
+I hold the old report card.
+Both hands.
+Nobody's grading anymore —
+so who is this for?
+
+I stand up to say it.
+Sit back down. Stand up again.
+That's the whole update tonight.
+
+[Final Chorus]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Some nights they take the first round.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+the settings still run.
+I forget it by Monday.
+Try again Tuesday.
+Not the final build.
+Still moving what I can.
+
+[Outro]
+Same kitchen light. My house now.
+Same word for me —
+I get to weigh it now.
+Still here.
+Still training —
+on the next small weight
+I can actually move.
+
+---
+
+**Surgical changelog**
+- Cold open `Old weights fire when the room goes soft. / [breath]` → same line, `[breath]` tag removed.
+- Chorus/Final Chorus `OLD WEIGHTS — / [one beat rest]` → `OLD WEIGHTS —` with em dash + line break only (all `[one beat rest]` stripped).
+- Bridge ended on `I'll forget by Monday. / Try Tuesday.` → Bridge now ends on `That's the whole update tonight.` (Mon/Tue removed here).
+- Final Chorus `the settings still run. / Not the final build. / Still moving what I can.` → now carries `I forget it by Monday. / Try again Tuesday.` before `Not the final build. / Still moving what I can.`
+- Opus `older wire` (fire/wire rhyme) → rejected; kept base `just an older version` for conceit purity.
+- Opus `she/he/my mother's voice/receipt` rewrite → rejected; kept genderless labeler + light present `you`.
+- Section headers with delivery notes (e.g. `[Verse 1 — hushed, close-mic]`) → bare structural labels only.
+- Base intact otherwise (freeze the dial, floor remembers old dance, need-too-much, report card both hands, weigh it now, next small weight) → unchanged.

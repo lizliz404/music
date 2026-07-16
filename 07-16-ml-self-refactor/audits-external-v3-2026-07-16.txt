@@ -1,0 +1,49 @@
+## 结论先行
+
+这版 v3 已经把上一轮点出的两个硬伤(冒号格式风险、"table light"歧义)修掉了,而且两个独立分支都自发做出了几乎一致的关键改动(cold open、bridge 改成动作而非标签、拒绝 stock ending)——**多个独立信号收敛到同一个方向,这本身就是强证据**,说明这几处不是审美偏好,是真实的结构性改进。
+
+但同时,这一版也带来了**两个新的、真实存在的技术问题**,是文件末尾"NAV"部分没有提到的。修完这两处,就该定稿去 demo,不该再有 v4 文本。
+
+## 打分:v3 Lyric vs v3 Opus
+
+| 维度 | v3 Lyric | v3 Opus | 备注 |
+|---|---|---|---|
+| Cold open执行 | 8.5 | 8.5 | 两版一致,都对 |
+| Bridge(stand/sit动作) | 9 | 9 | 比v1/v2的"wound/question/act"标签写法更高级——直接show不tell |
+| 副歌记忆点 | 8 | 7 | 见下方"wire vs weights"问题 |
+| 人称/代词清晰度 | 8.5 | 6 | Opus引入she/he/mother,有歧义风险 |
+| Suno格式安全度 | 7 | 8.5 | Opus去掉了`[one beat rest]`标签,Lyric没去 |
+| 具体感 vs 普适性平衡 | 8.5 | 7.5 | Lyric的"you"更适配大众代入 |
+| **综合** | **8.3** | **7.8** | |
+
+对比上一轮 v1(7.0)/v2(7.8),这轮 v3 Lyric 已经明显是目前最强版本。
+
+## 两个新问题(v3才出现,值得修)
+
+**1. Opus 版的代词体系有真实歧义**
+Intro 说"my mother's voice",Chorus 里labeler用"he",Verse 2 的安全感来源用"she"。听众很容易把"she"错读成回头的母亲(赎罪叙事),而不是新的伴侣/朋友(对照叙事)。这不是吹毛求疵——这是三个不同的性别代词,分别可能指向三个不同的人,却没有任何显式过渡。Lyric 版用无性别的"you"完全绕开了这个坑,同时更符合"广泛共鸣"目标:具体的感官细节(kitchen light、report card)留住真实感,但关系结构留白,让不同背景的听众都能把自己的"labeler"投射进去。**这是特异性叙事(autobiography)与普适性叙事(anthem)之间的经典权衡,Opus在这道题上选错了方向。**
+
+**2. "wire" 和 "weights" 是两套不同的隐喻系统**
+Opus 副歌把"older version"改成了"older wire"以押韵(fire/wire)。声韵更工整,但"wire"唤起的是硬件/神经元隐喻,"weights"是训练/统计学隐喻——这首歌的核心装置(conceit)全篇建立在ML weights/training/version上,中途混入"wire"是概念纯度的泄漏。建议为了概念一致性放弃这个韵脚。
+
+**3. Lyric版遗留的格式风险**
+`[breath]`单独成行、`[one beat rest]`写在每次副歌里——Opus已经验证了去掉这类标签、单纯靠破折号+断行暗示停顿是可行的,建议Lyric版也照做,降低被Suno误唱出来的概率。
+
+## 最终定稿建议(不是重写,是十分钟的拼接)
+
+- 主体用 **v3 Lyric** 全文(you、older version、无性别labeler)
+- 副歌押韵不动,不采纳"wire"
+- 去掉所有`[one beat rest]`和单独`[breath]`行,改用纯破折号+断行
+- Bridge 的 Monday/Tuesday 挪到 **Final Chorus** 收尾(Opus的位置选择更好——把全曲最具体、最好记的意象留到听众循环播放时最后停留的地方)
+
+## What/Why/How 归类
+
+分类结论和上一轮一致——概念驱动型自白民谣(conceit-driven confessional folk),这版的迭代没有改变类型归属,只是把装置执行得更干净。
+
+## 是不是完美主义陷阱
+
+判断标准:**能被具体指认、大概率影响真实播放效果的,是bug,该修;没有客观对错、纯粹"哪个形容词更美"的,才是过拟合。** 这次三点(代词歧义、隐喻混杂、标签格式)全部属于前者。
+
+修完这三处,**这就是最终文本**。下一次真正有信息量的反馈,只能来自 Suno 生成、放给人听。
+
+(Source: Liz-forwarded external audit on v3 parallel, 2026-07-16)
