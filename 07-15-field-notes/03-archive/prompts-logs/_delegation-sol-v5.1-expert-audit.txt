@@ -1,0 +1,112 @@
+OUTPUT THE FULL RESPONSE IN YOUR REPLY. Do not self-save. I will capture stdout. No outline-only. No "saved to file" stub.
+
+# Task
+You are an expert songwriter / producer / market-aware critic.
+
+Fully and structurally critique + score the CURRENT ship package of **Three Kinds of Stone** (v5.1 + Liz paste lock).
+
+Then answer: is further optimization needed, or is more polish a perfectionism trap?
+
+If optimization is warranted, specify ONLY falsifiable, high-leverage moves for:
+- lyric
+- style prompt
+- vocal tags
+- structure / breath / length
+Do NOT open a free rewrite unless the core assets fail. Prefer surgical list. If ship is ready, say STOP GENERATE clearly.
+
+# Liz instruction (verbatim — obey this framing)
+
+作为专家，全面而结构化的赏析，打分，该份歌词。
+
+what why how ？属于哪一类？
+
+如要进一步优化，无论是 lyric，又或是 style prompt、vocal tag 等，进一步纠偏和延展，要做出新的一版，要做些什么？
+
+还是说已经完全没必要了？因为艺术本来就偏主观，再多做很容易陷入完美主义的过度优化陷阱？
+
+最要避免的情况就是，又臭又长又无聊。曲高和寡、孤芳自赏、闭门造车、自以为是也需避免。尊重市场，因此尽可能与更广大的受众产生尽可能大的共鸣。我的野心比较大，想做到"有用且有趣"。
+
+希望你动用最大的思考能力，深入推理，大胆想象，考究取证，直击本质。拒绝平庸的正确和无聊的平衡，只求新的，有趣、有用的洞见。理性、客观、科学、专业。
+
+# Workspace files to READ (all of them before scoring)
+
+1. CURRENT SHIP (primary):
+   `/home/ubuntu/music/07-15-field-notes/02-current/three-kinds-of-stone-v5.1-final.txt`
+
+2. Prior dual producer audits (context — do not re-litigate already-applied surgery blindly):
+   `/home/ubuntu/music/07-15-field-notes/01-source/v4-producer-audits-dual.txt`
+
+3. Post-surgery recheck:
+   `/home/ubuntu/music/07-15-field-notes/01-source/v5-post-surgery-recheck-dual.txt`
+
+4. Optional raw field notes (source DNA; 公子哥 material was excluded from the song):
+   `/home/ubuntu/music/07-15-field-notes/01-source/raw-ningbo-notes.txt`
+
+5. MAP for lineage:
+   `/home/ubuntu/music/07-15-field-notes/00-read-me/MAP.txt`
+
+# Locked axis (do NOT reframe)
+脚底地面 / 石 / 重量  vs  屏幕 / 玻璃 / 符号 / 悬浮
+= atom world vs bit world shown through touch — never Atom/Bit slogan lines.
+Body home vs body-as-vehicle (Bridge only first appearance of car question).
+Digital is real (cognition). Long-only screen → processing info, not living.
+Evidence via feet/weight/skin.
+
+# Liz paste locks already applied (do not "fix" these away)
+- Bridge: "till the body felt" / "gone." line break
+- Length hard ceiling 3:50 (target still ~3:00)
+- distant female wordless hum in vocal profile + style containers
+- male close-mic controlled — NEVER belted/shouted
+- no 又臭又长又无聊 · rest/breath required
+
+# Deliverable structure (use these exact section headers)
+
+## 0. One-paragraph verdict
+Ship / Surgical / Rewrite — pick ONE. One sentence why.
+
+## 1. Taxonomy (what / why / how / category)
+- What is this song doing (job-to-be-done for a listener)?
+- Why does it exist / emotional utility?
+- How does craft deliver that?
+- Genre/market category (not only "documentary folk" label — where would a listener put it next to known comps, without inventing fake chart fiction)?
+
+## 2. Structured scores (0–10 + one-line why each)
+Score at least:
+- Image specificity / evidence
+- Emotional truth / non-didactic
+- Hook memorability + singability
+- Structure & pacing (incl. breath/rest)
+- Chorus architecture (mutation Final vs 1/2)
+- Prosody / mouthfeel (estimate from text)
+- Market resonance ("有用且有趣" potential vs 曲高和寡 risk)
+- Production package (style A/B/C + tags + excludes)
+- Overall
+
+## 3. What already works (protect list)
+Concrete lines/devices that must not be sanded.
+
+## 4. Falsifiable defects only
+If none: say none. Do not invent polish.
+
+## 5. Optimization decision tree
+Answer Liz directly:
+- Is a new version necessary?
+- Or STOP because further work = perfectionism trap / longer-boringer?
+Separate: lyric vs style prompt vs vocal tags vs arrangement notes.
+
+## 6. If surgical: exact patch list
+Numbered bullets, section-local, max ~8. Each: problem → replace/keep with → why market/utility.
+If STOP: skip rewrite; list only optional production/generate tactics.
+
+## 7. If you write a v5.2 (ONLY if surgical or rewrite)
+OUTPUT FULL revised complete package (lyrics + profile + style A/B/C + excludes + changelog).
+Otherwise do NOT produce a full alternate lyric — analysis only.
+
+## Constraints
+- Chinese OK for analysis sections if clearer; lyric lines stay English.
+- Reject 平庸正确 / fake balance. Prefer sharp, useful, interesting insight.
+- Respect market resonance ambition without turning the song into generic pop mush.
+- Do not re-import archived stock endings or force formulas.
+- Treat prior audits as evidence of what was already tried; note residual risk only if still live on current text.
+
+Begin after reading the files.

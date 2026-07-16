@@ -10,9 +10,11 @@
 
 | 文件 | 是什么 |
 |---|---|
-| three-kinds-of-stone-v5.1-final.txt | **定稿** · Suno-ready 完整包（歌词 + style A/B/C + exclude + changelog） |
+| three-kinds-of-stone-v5.1-final.txt | **Liz paste lock 正文** · 完整 Suno 包 |
+| three-kinds-of-stone-v5.2-duration-safe-candidate.txt | Sol 时长手术候选 · **未自动升格** |
 
-**当前不是多作者各一版在打架：English 1 轨定稿 = v5.1。**
+**Sol 2026-07-16（gpt-5.6-sol-xhigh）：Surgical · Overall 8.4 · 非 rewrite。**
+主风险 = 词量 vs 3:50 硬上限。完整 audit：`01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt`
 
 ## 轴（Liz locked）
 - 脚底地面 / 石 / 重量  vs  屏幕 / 玻璃 / 符号 / 悬浮
@@ -30,20 +32,23 @@
 | dual audits | 01-source/v4-producer-audits-dual.txt | 双审 |
 | v5 | 03-archive/drafts-v4-v5/…-v5-synthesis.txt | 手术合成 |
 | v5 recheck | 01-source/v5-post-surgery-recheck-dual.txt | 再审 |
-| **v5.1 final** | **02-current/…-v5.1-final.txt** | micro-fix 定稿 |
+| **v5.1 + Liz lock** | **02-current/…-v5.1-final.txt** | 当前正文 |
+| Sol expert | 01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt | 2026-07-16 专家赏析 |
+| v5.2 candidate | 02-current/…-v5.2-duration-safe-candidate.txt | 待 Liz 升格 |
 
 ## 目录结构
 
 ```
 00-看这里-CURRENT.txt   ← 一眼看最新
 00-read-me/MAP.txt      ← 本说明
-01-source/              ← raw 宁波随记 + dual audits
-02-current/             ← 只看这里：v5.1 final
+01-source/              ← raw + dual audits + Sol expert
+02-current/             ← v5.1 ship + v5.2 candidate
 03-archive/
-  drafts-v1-v3/         ← 早期稿
-  drafts-v4-v5/         ← v4/v5 合成（非 final）
-  prompts-logs/         ← 委托 prompt + Cursor stdout/stderr
+  drafts-v1-v3/
+  drafts-v4-v5/
+  prompts-logs/
 ```
 
 ## 推荐下一步
-停改词 → 用 `02-current/three-kinds-of-stone-v5.1-final.txt` Container A 进 Suno。
+1. 读 Sol audit → 决定 v5.1 直接生成，或升格 v5.2 后 STOP GENERATE。
+2. 升格后：Container A × 2–4；验收 ≤3:50，第一副歌 ≤1:15。

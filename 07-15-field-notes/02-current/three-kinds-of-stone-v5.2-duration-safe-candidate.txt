@@ -1,0 +1,210 @@
+# THREE KINDS OF STONE — v5.2 DURATION-SAFE SHIP CUT
+# Surgical compression only; core axis and Liz paste locks retained
+
+================================================================================
+SONG PROFILE
+================================================================================
+
+Title:            Three Kinds of Stone
+Alt titles:       Passenger Body · Quiet Number Eleven
+Axis:             feet / ground / stone / weight
+                  vs screen / glass / symbols / float
+BPM:              82–86 (84 preferred)
+Key:              D minor or E minor
+Length target:    approximately 3:15
+Preferred range:  3:05–3:35
+Hard ceiling:     3:50
+Bar target:       approximately 66–74 bars including rests
+Lyric budget:     approximately 434 words
+
+Lead vocal:
+male close-mic, controlled melodic, intimate and intelligible,
+conversational on long lines, NEVER belted or shouted
+
+Secondary vocal:
+distant female wordless hum, sparse;
+intro tail and outro only;
+never continuous, never doubles the lyric
+
+Hook:
+put my weight down · passenger body · three-stone landings
+
+Breath plan:
+- Two-bar instrumental breath after Intro
+- Two-bar breath after Chorus 1
+- Verse 2 dogs denser; grandma lines sparser
+- Short Refrain replaces full Pre 2 + Chorus 2
+- Half-bar silence after the Bridge question
+- Instrumental Break four bars maximum
+- One-bar lift into Final Chorus
+- Air between Outro fragments
+
+================================================================================
+LYRICS
+================================================================================
+
+[Intro: hushed close-mic, single fingerpicked guitar, sparse room air, almost spoken; distant female wordless hum enters only in the final two-bar breath]
+
+Sixteen floors. Thirty-two doors on this floor alone.
+Neighbors close enough to share a wall — far enough to never knock.
+Headphones on. I run the feed for the next bright thing.
+I put my socks on. I open the door.
+
+[two-bar instrumental breath]
+
+[Verse 1: conversational low melody, fingerpicked guitar only, walking pace, leave space between image lines]
+
+Frosted slab. Old bluestone that won't lie flat.
+River-round cobble that rolls under the sole.
+I slow like a kid and read the street with the feet —
+three different weights, three different truths in the bone.
+Cicadas swell and thin. A butterfly leaves one white stroke —
+lands without a word on the bank.
+Cranes bang near and far at the same thin second —
+the sound has weight; the phone in my pocket has none.
+
+[Pre-Chorus: breath closer, soft bass enters, near-spoken into melodic, controlled tightening]
+
+My head can run the whole day clean and never leave the room,
+reading the world from somewhere just above the wound.
+The glass stays flat under the thumb. The street doesn't.
+It asks for skin. It asks for time.
+
+[Chorus 1: full but grounded, controlled male vocal; first line an unhurried near-spoken descent, even syllable flow, no rising pop melody]
+
+I was living like a passenger in a body I forgot how to drive —
+floating two inches above the ride.
+Quiet number eleven — not the fire, not the rush —
+even the riders coast.
+So I put my weight down.
+
+[one beat rest]
+
+I put my weight down.
+Stone under the shoe. Glass in the hand.
+I came out of the screen to feel where the bluestone breaks.
+
+[two-bar instrumental breath, strip toward guitar]
+
+[Verse 2 — dogs: conversational return, intimate, moderate density]
+
+Two dogs at a kitchen door — grey-black, dirty white —
+oil-smoke in the fur, already against my legs.
+Not pretty. Not soft. They press me anyway.
+Something in the skin that symbols never fed
+stops asking the feed for a body.
+
+[Verse 2 — grandma: drop density, lower and sparser, more air]
+
+Grandma at the stop: which bus, which when?
+I open the little program I never need.
+A small kindness moves. My clever mouth goes quiet.
+
+[Short Refrain: bass warm, drums remain restrained; no full rebuild]
+
+So I put my weight down.
+
+[one beat rest]
+
+I put my weight down.
+I came out of the screen to feel where the cobble rolls.
+
+[Bridge: near-spoken, stripped to one guitar and room tone, wide white space]
+
+Ten square meters. Blinds down. Headphones on.
+Chasing the next bright thing till the body felt
+gone.
+Am I living in the skin —
+or is the body just a car
+for a brain that only trusts what lights up far?
+
+[silence half-bar — no instruments]
+
+I set the phone face-down on the floor.
+Then I put my socks on. Then I opened the door.
+
+[Instrumental Break: soft wood-court motif, dry light drums, four bars maximum; melodic exhale, not a solo]
+
+[Final Chorus: one-bar lift-in, denser but controlled; restrained late strings only here, sung never shouted]
+
+Quiet number eleven — trouble I dragged here still waits outside.
+Still close, still far. Still glass in the pocket, stone under the stride.
+So I put my weight down.
+
+[one beat rest]
+
+I put my weight down.
+Not cured. Not pure. The main thing stays unsolved.
+Socks on. Door ajar. Feet on the stone of the world.
+
+[Outro: instruments peel off; male voice close, distant female wordless hum returns behind the fragments only]
+
+Frosted slab. Old bluestone. River-round cobble.
+One more block with weight.
+Not floating.
+Not finished.
+
+[End]
+
+================================================================================
+STYLE CONTAINERS
+================================================================================
+
+----- A — Documentary Walking Folk (PRIMARY) -----
+
+Style of Music:
+intimate documentary walking folk, 84 BPM, close-mic controlled melodic male vocal, conversational narrative phrasing, distant female wordless hum only at intro tail and outro, fingerpicked acoustic guitar motif, warm upright bass, brushed dry drums, sparse field-recording air, restrained late strings Final Chorus only, dynamic instrumental rests, unresolved quiet tension, clean warm intelligible mix, concise approximately three-minute arrangement
+
+Exclude Styles:
+glossy mainstream pop, heavy autotune, trap hi-hats, EDM drops, synth-pop, choir-pad wash, continuous female backing vocal, spoken-word only, dream-pop haze, pop-punk, emo belting, industrial, grunge, screaming, shouting, belting, lo-fi mud, garage distortion, long guitar solos, arena rock, power ballad, aggressive vocal projection, loud master, driving drums, epic build, wall-to-wall vocal
+
+Sliders:
+Weirdness 30–40
+Style Influence 70–80
+
+----- B — Suspended Chamber -----
+
+Style of Music:
+sparse chamber folk art-pop, suspended 82 BPM, intimate close-mic controlled male vocal, conversational melodic delivery, distant female wordless hum only at intro tail and outro, muted electric guitar, soft Rhodes, warm wood bass, dry precise drums, cool glass texture, restrained string accents Final Chorus only, generous rests, unresolved undertow, polished quiet intelligible mix, concise arrangement under three minutes fifty seconds
+
+Exclude Styles:
+glossy mainstream pop, heavy autotune, trap hi-hats, EDM drops, synth-pop, choir-pad wash, continuous female backing vocal, spoken-word only, dream-pop haze, pop-punk, emo belting, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, arena rock, power ballad, aggressive vocal projection, loud master, driving drums, epic build, cinematic trailer, soaring climax, wall-to-wall vocal
+
+Sliders:
+Weirdness 40–50
+Style Influence 65–75
+
+----- C — Soft-Court Pulse (MARKET TEST) -----
+
+Style of Music:
+melodic narrative indie folk, body-forward midtempo pulse 86 BPM, close-mic controlled male vocal sung intimate and incisive, long lines conversational and intelligible, distant female wordless hum only at intro tail and outro, clean electric and acoustic guitars, tight dry kit with pushed kick and laid-back snare, warm bass, short recurring melodic motif, restrained late strings Final Chorus only, clear instrumental gaps, polished clean mix, concise approximately three-minute arrangement
+
+Exclude Styles:
+bubblegum pop, heavy autotune, trap hi-hats, EDM drops, choir-pad wash, continuous female backing vocal, synth-pop, spoken-word only, dream-pop haze, pop-punk, emo belting, industrial, grunge, screaming, shouting, belting, lo-fi mud, garage distortion, excessive distortion, long guitar solos, arena rock, power ballad, staccato aggression, double-time drums, aggressive vocal projection, loud master, epic build, wall-to-wall vocal
+
+Sliders:
+Weirdness 28–38
+Style Influence 72–82
+
+================================================================================
+CHANGELOG v5.1 → v5.2
+================================================================================
+
+1. Reduced lyric body from approximately 585 to approximately 434 words.
+2. Removed repeated Pre-Chorus 2.
+3. Replaced full Chorus 2 with a short weight/cobble refrain.
+4. Trimmed metaphor stacking in Chorus 1 while retaining passenger and float.
+5. Removed the V2 “Day one” city generalization.
+6. Final Chorus now begins with its mutation instead of repeating the passenger couplet.
+7. Outro ends on “Not finished” after Final Chorus already states the unresolved problem.
+8. Female wordless hum limited to intro tail and outro.
+9. Removed the “forward vocal” exclusion that conflicted with close-mic intelligibility.
+10. Retained all Liz locks:
+    - “till the body felt” / “gone.” line break
+    - hard ceiling 3:50
+    - distant female wordless hum in profile and every style container
+    - controlled close-mic male, never belted or shouted
+    - “Not pretty. Not soft.”
+    - Bridge-only first explicit car question
+    - no Atom/Bit slogan
+    - no cure ending

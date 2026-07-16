@@ -1,0 +1,334 @@
+## 0. One-paragraph verdict
+
+**Surgical.** 核心歌词已达发表级，但约 585 词与 82 BPM、强制留白、目标约 3:00／硬上限 3:50 存在可计算的工程冲突；只需一次删重复的时长手术，不应重写。
+
+## 1. Taxonomy (what / why / how / category)
+
+- **What / listener job**：替长期屏幕化、解离、脑先于身体生活的人，提供一套无需临床术语的身体语言：passenger → weight → stone。
+- **Why / emotional utility**：它不承诺治愈，只给一个今天能执行的微动作——穿袜、开门、把重量放下。它“有用”，因为不是抽象安慰；“有趣”，因为效用藏在狗、青石、公交小程序和脚底里，而不是自助口号里。
+- **How / craft**：
+  - 三种石头是物证；
+  - glass/phone/feed 是认知世界；
+  - skin/sole/weight 是身体世界；
+  - “put my weight down”把哲学翻成动作；
+  - “Not cured. Not pure.”拒绝廉价治愈；
+  - 副歌三次落点由 bluestone → cobble → stone of the world 完成结构回环。
+- **Category / listener shelf**：intimate indie folk、literate alternative singer-songwriter、spoken-melodic narrative song。听众会把它放在 Adrianne Lenker 的触觉亲密、Bill Callahan 的低声观察、Sufjan Stevens 的地点细节、Phoebe Bridgers 的现代疏离附近——是审美邻接，不是声线仿作。
+- **市场本质**：题材很宽，形式偏窄。数字漂浮感几乎是大众经验，但英文散文式民谣不是大众流行载体。它更像一首能建立作者辨识度和高粘性听众的 identity song，而非硬做广播榜单的 generic single。
+
+## 2. Structured scores (0–10 + one-line why each)
+
+| 维度 | 分数 | 一句话判断 |
+|---|---:|---|
+| Image specificity / evidence | **9.5** | 青石不肯躺平、油烟狗毛、白色一笔、拇指玻璃、塔吊声的重量，全是可验证物证。 |
+| Emotional truth / non-didactic | **9.3** | 不妖魔化数字、不神化自然、不宣布治愈，伦理成熟。 |
+| Hook memorability + singability | **8.4** | “I put my weight down”短、可做、可记；但副歌首句约 19 音节，当前重复密度增加工程风险。 |
+| Structure & pacing (incl. breath/rest) | **6.6** | 留白设计优秀，但约 585 词会把这些留白挤成纸面愿望。 |
+| Chorus architecture | **8.9** | bluestone/cobble/world 的变化漂亮，Final 也确实推进了意义，而非只加音量。 |
+| Prosody / mouthfeel | **7.3** | 短句硬朗，stone/shoe/glass/hand 很好唱；长叙述句和密集复现容易被模型赶拍。 |
+| Market resonance | **8.1** | 当代痛点广、核心动作强；主要风险是信息摄入量，而不是主题曲高和寡。 |
+| Production package | **8.0** | A/B/C 区隔清楚，但“close-mic”与 exclude “forward vocal”冲突，女声哼鸣也未限定出现位置。 |
+| **Overall** | **8.4** | 核心作品接近 9 分；当前硬时长执行性把完整 ship package 拉低。 |
+
+## 3. What already works (protect list)
+
+这些不能再被“润色”磨平：
+
+- **“Frosted slab. Old bluestone that won't lie flat.”**
+- **“three different weights, three different truths in the bone.”**
+- **“the sound has weight; the phone in my pocket has none.”**
+- **“reading the world from somewhere just above the wound.”**
+- **“The glass stays flat under the thumb. The street doesn't.”**
+- **“Not pretty. Not soft. They press me anyway.”**——既是呼吸点，也是抵抗→被身体击穿的小戏剧。
+- **“A small kindness moves. My clever mouth goes quiet.”**——证明数字工具也能服务真实关系，避免“屏幕邪恶”的蠢二元论。
+- **“I put my weight down” + one-beat rest**——沉默本身就是重量。
+- Bridge 的 **“felt / gone.”** 断行、首次明确 car question，以及 phone face-down → socks → door 的动作闭环。
+- **“Not cured. Not pure. The main thing stays unsolved.”**
+- 三石在副歌中的 bluestone → cobble → stone of the world 回环。
+- 公子哥、城市阶层长评等原料继续留在歌外；重新塞入只会制造第二首歌和旅游社会学旁白。
+
+## 4. Falsifiable defects only
+
+1. **时长合同目前数学上不成立。**  
+   按连字符作一词，正文约 585 词。82 BPM 下，明确要求的两次两小节呼吸、四小节 Break、半小节静默、一小节 lift-in、三次 one-beat rest，最低已占约 30 秒。  
+   - 3:50 上限只剩约 200 秒唱词：需要约 **176 WPM**。  
+   - 3:00 目标只剩约 150 秒唱词：需要约 **234 WPM**。  
+   这与“unhurried、melodic、controlled、breathing”直接矛盾，成品只能超时或赶词。
+
+2. **Pre 2 + Chorus 2 共约 116 词，却只新增 cobble landing。**  
+   可通过 A/B 成品验证：删去完整 Pre 2、把 Chorus 2 缩成短 refrain 后，如果听众仍能复述 passenger/weight/stone，原重复即无必要。
+
+3. **Prompt 存在可测试的混音冲突。**  
+   Profile 要求 close-mic intimate male，exclude 却写 “forward vocal”；生成器可能把主唱推后，损害歌词可懂度。
+
+4. **女声哼鸣没有位置边界。**  
+   全局写入三个 style container，可能生成持续 backing pad，反而违反 no wall-to-wall。应限定 intro tail/outro。
+
+除此之外，我不把 “little program” 或 “Quiet number eleven”算作缺陷。它们是不透明但有身份的文化细节，除非盲听测试证明多数听众因此脱离歌曲。
+
+## 5. Optimization decision tree
+
+### Is a new version necessary?
+
+**在 3:50 硬上限仍锁定的前提下：必要，但只做 duration-safe v5.2。**  
+若允许 4:30 左右的 album cut，v5.1 可以原样生成；当前约束不允许。
+
+### Lyric
+
+- 不增加新意象、新哲学、新段落。
+- 只删功能重复：第二 Pre、第二完整 Chorus、部分车辆隐喻叠加、一次城市概括、重复的未解决结尾。
+- 核心资产全部保留。
+
+### Style prompt
+
+- A 仍是主版本。
+- C 用作更宽市场的节奏对照。
+- B 容易把作品推向“漂亮但曲高和寡”，只作第三选择。
+- 删除 “forward vocal” 冲突；加入明确时长和女声位置。
+
+### Vocal tags
+
+- 男声继续 close-mic、controlled、never belted/shouted。
+- 女声仅 intro 尾部与 outro，不能持续垫底、不能替男声 doubling。
+- 不再继续添加情绪形容词；标签越多不等于控制越强。
+
+### Arrangement notes
+
+生成后采用硬验收：
+
+1. 目标约 **3:05–3:35**，超过 **3:50** 直接淘汰。
+2. 第一副歌理想上在 **1:05 前后**进入，最迟不超过 1:15。
+3. passenger 长句必须一遍可听懂，不能像赶公交。
+4. 两小节呼吸和 Bridge 半小节静默必须实际听见。
+5. 5 人盲听一次：至少 3 人能复述 weight/stone/passenger 中任一核心，且至多 1 人评价“太长/像讲课”。
+
+v5.2 完成后：**STOP GENERATE——停止改词，进入生成。**  
+若四次生成仍失败，先换 A/C 或单调 BPM，不再给歌词加东西。
+
+## 6. If surgical: exact patch list
+
+1. **总词量与时长冲突** → 约 585 词压至约 434 词 → 让真实留白进入音频，而不是只存在标签里。
+2. **Chorus 1 车辆隐喻叠加过量** → 删除 “brain at the wheel of nothing”，保留 “floating two inches above the ride”；“even the riders coast; no one is racing the dust”缩为“even the riders coast” → 更快抵达 weight hook，减少聪明话堆叠。
+3. **V2 最弱的城市概括** → 删除 “Day one, and I still haven't heard a temper break.” → 避免用一天样本替宁波下结论，也让 V2 完全服务触觉与善意。
+4. **Pre 2 无新增功能** → 整段删除 → 一次 Pre 已经完成 head/glass/street 的论证，重复只增加疲劳。
+5. **Chorus 2 重复 76 词只换一个石头** → 替换为 weight hook + cobble landing 的短 refrain → 保留三石结构，节省约 53 词。
+6. **Final 再唱完整 passenger couplet 延迟结论** → 直接从 “Quiet number eleven — trouble…”进入 → Final 成为真正 mutation，而非第三次复制。
+7. **Outro 第三次解释“问题未解决”** → 删去 “Just found the ground again / and the problems still wait”，停在 “Not finished.” → Final 已完成 no-cure，结尾更短、更有余震。
+8. **主唱位置及女声范围含糊** → 删除 exclude 中 “forward vocal”；明确 hum 仅 intro tail/outro → 提高可懂度并防止人声铺满。
+
+## 7. If you write a v5.2 (ONLY if surgical or rewrite)
+
+```text
+# THREE KINDS OF STONE — v5.2 DURATION-SAFE SHIP CUT
+# Surgical compression only; core axis and Liz paste locks retained
+
+================================================================================
+SONG PROFILE
+================================================================================
+
+Title:            Three Kinds of Stone
+Alt titles:       Passenger Body · Quiet Number Eleven
+Axis:             feet / ground / stone / weight
+                  vs screen / glass / symbols / float
+BPM:              82–86 (84 preferred)
+Key:              D minor or E minor
+Length target:    approximately 3:15
+Preferred range:  3:05–3:35
+Hard ceiling:     3:50
+Bar target:       approximately 66–74 bars including rests
+Lyric budget:     approximately 434 words
+
+Lead vocal:
+male close-mic, controlled melodic, intimate and intelligible,
+conversational on long lines, NEVER belted or shouted
+
+Secondary vocal:
+distant female wordless hum, sparse;
+intro tail and outro only;
+never continuous, never doubles the lyric
+
+Hook:
+put my weight down · passenger body · three-stone landings
+
+Breath plan:
+- Two-bar instrumental breath after Intro
+- Two-bar breath after Chorus 1
+- Verse 2 dogs denser; grandma lines sparser
+- Short Refrain replaces full Pre 2 + Chorus 2
+- Half-bar silence after the Bridge question
+- Instrumental Break four bars maximum
+- One-bar lift into Final Chorus
+- Air between Outro fragments
+
+================================================================================
+LYRICS
+================================================================================
+
+[Intro: hushed close-mic, single fingerpicked guitar, sparse room air, almost spoken; distant female wordless hum enters only in the final two-bar breath]
+
+Sixteen floors. Thirty-two doors on this floor alone.
+Neighbors close enough to share a wall — far enough to never knock.
+Headphones on. I run the feed for the next bright thing.
+I put my socks on. I open the door.
+
+[two-bar instrumental breath]
+
+[Verse 1: conversational low melody, fingerpicked guitar only, walking pace, leave space between image lines]
+
+Frosted slab. Old bluestone that won't lie flat.
+River-round cobble that rolls under the sole.
+I slow like a kid and read the street with the feet —
+three different weights, three different truths in the bone.
+Cicadas swell and thin. A butterfly leaves one white stroke —
+lands without a word on the bank.
+Cranes bang near and far at the same thin second —
+the sound has weight; the phone in my pocket has none.
+
+[Pre-Chorus: breath closer, soft bass enters, near-spoken into melodic, controlled tightening]
+
+My head can run the whole day clean and never leave the room,
+reading the world from somewhere just above the wound.
+The glass stays flat under the thumb. The street doesn't.
+It asks for skin. It asks for time.
+
+[Chorus 1: full but grounded, controlled male vocal; first line an unhurried near-spoken descent, even syllable flow, no rising pop melody]
+
+I was living like a passenger in a body I forgot how to drive —
+floating two inches above the ride.
+Quiet number eleven — not the fire, not the rush —
+even the riders coast.
+So I put my weight down.
+
+[one beat rest]
+
+I put my weight down.
+Stone under the shoe. Glass in the hand.
+I came out of the screen to feel where the bluestone breaks.
+
+[two-bar instrumental breath, strip toward guitar]
+
+[Verse 2 — dogs: conversational return, intimate, moderate density]
+
+Two dogs at a kitchen door — grey-black, dirty white —
+oil-smoke in the fur, already against my legs.
+Not pretty. Not soft. They press me anyway.
+Something in the skin that symbols never fed
+stops asking the feed for a body.
+
+[Verse 2 — grandma: drop density, lower and sparser, more air]
+
+Grandma at the stop: which bus, which when?
+I open the little program I never need.
+A small kindness moves. My clever mouth goes quiet.
+
+[Short Refrain: bass warm, drums remain restrained; no full rebuild]
+
+So I put my weight down.
+
+[one beat rest]
+
+I put my weight down.
+I came out of the screen to feel where the cobble rolls.
+
+[Bridge: near-spoken, stripped to one guitar and room tone, wide white space]
+
+Ten square meters. Blinds down. Headphones on.
+Chasing the next bright thing till the body felt
+gone.
+Am I living in the skin —
+or is the body just a car
+for a brain that only trusts what lights up far?
+
+[silence half-bar — no instruments]
+
+I set the phone face-down on the floor.
+Then I put my socks on. Then I opened the door.
+
+[Instrumental Break: soft wood-court motif, dry light drums, four bars maximum; melodic exhale, not a solo]
+
+[Final Chorus: one-bar lift-in, denser but controlled; restrained late strings only here, sung never shouted]
+
+Quiet number eleven — trouble I dragged here still waits outside.
+Still close, still far. Still glass in the pocket, stone under the stride.
+So I put my weight down.
+
+[one beat rest]
+
+I put my weight down.
+Not cured. Not pure. The main thing stays unsolved.
+Socks on. Door ajar. Feet on the stone of the world.
+
+[Outro: instruments peel off; male voice close, distant female wordless hum returns behind the fragments only]
+
+Frosted slab. Old bluestone. River-round cobble.
+One more block with weight.
+Not floating.
+Not finished.
+
+[End]
+
+================================================================================
+STYLE CONTAINERS
+================================================================================
+
+----- A — Documentary Walking Folk (PRIMARY) -----
+
+Style of Music:
+intimate documentary walking folk, 84 BPM, close-mic controlled melodic male vocal, conversational narrative phrasing, distant female wordless hum only at intro tail and outro, fingerpicked acoustic guitar motif, warm upright bass, brushed dry drums, sparse field-recording air, restrained late strings Final Chorus only, dynamic instrumental rests, unresolved quiet tension, clean warm intelligible mix, concise approximately three-minute arrangement
+
+Exclude Styles:
+glossy mainstream pop, heavy autotune, trap hi-hats, EDM drops, synth-pop, choir-pad wash, continuous female backing vocal, spoken-word only, dream-pop haze, pop-punk, emo belting, industrial, grunge, screaming, shouting, belting, lo-fi mud, garage distortion, long guitar solos, arena rock, power ballad, aggressive vocal projection, loud master, driving drums, epic build, wall-to-wall vocal
+
+Sliders:
+Weirdness 30–40
+Style Influence 70–80
+
+----- B — Suspended Chamber -----
+
+Style of Music:
+sparse chamber folk art-pop, suspended 82 BPM, intimate close-mic controlled male vocal, conversational melodic delivery, distant female wordless hum only at intro tail and outro, muted electric guitar, soft Rhodes, warm wood bass, dry precise drums, cool glass texture, restrained string accents Final Chorus only, generous rests, unresolved undertow, polished quiet intelligible mix, concise arrangement under three minutes fifty seconds
+
+Exclude Styles:
+glossy mainstream pop, heavy autotune, trap hi-hats, EDM drops, synth-pop, choir-pad wash, continuous female backing vocal, spoken-word only, dream-pop haze, pop-punk, emo belting, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, arena rock, power ballad, aggressive vocal projection, loud master, driving drums, epic build, cinematic trailer, soaring climax, wall-to-wall vocal
+
+Sliders:
+Weirdness 40–50
+Style Influence 65–75
+
+----- C — Soft-Court Pulse (MARKET TEST) -----
+
+Style of Music:
+melodic narrative indie folk, body-forward midtempo pulse 86 BPM, close-mic controlled male vocal sung intimate and incisive, long lines conversational and intelligible, distant female wordless hum only at intro tail and outro, clean electric and acoustic guitars, tight dry kit with pushed kick and laid-back snare, warm bass, short recurring melodic motif, restrained late strings Final Chorus only, clear instrumental gaps, polished clean mix, concise approximately three-minute arrangement
+
+Exclude Styles:
+bubblegum pop, heavy autotune, trap hi-hats, EDM drops, choir-pad wash, continuous female backing vocal, synth-pop, spoken-word only, dream-pop haze, pop-punk, emo belting, industrial, grunge, screaming, shouting, belting, lo-fi mud, garage distortion, excessive distortion, long guitar solos, arena rock, power ballad, staccato aggression, double-time drums, aggressive vocal projection, loud master, epic build, wall-to-wall vocal
+
+Sliders:
+Weirdness 28–38
+Style Influence 72–82
+
+================================================================================
+CHANGELOG v5.1 → v5.2
+================================================================================
+
+1. Reduced lyric body from approximately 585 to approximately 434 words.
+2. Removed repeated Pre-Chorus 2.
+3. Replaced full Chorus 2 with a short weight/cobble refrain.
+4. Trimmed metaphor stacking in Chorus 1 while retaining passenger and float.
+5. Removed the V2 “Day one” city generalization.
+6. Final Chorus now begins with its mutation instead of repeating the passenger couplet.
+7. Outro ends on “Not finished” after Final Chorus already states the unresolved problem.
+8. Female wordless hum limited to intro tail and outro.
+9. Removed the “forward vocal” exclusion that conflicted with close-mic intelligibility.
+10. Retained all Liz locks:
+    - “till the body felt” / “gone.” line break
+    - hard ceiling 3:50
+    - distant female wordless hum in profile and every style container
+    - controlled close-mic male, never belted or shouted
+    - “Not pretty. Not soft.”
+    - Bridge-only first explicit car question
+    - no Atom/Bit slogan
+    - no cure ending
+```
+
+这版之后不要再做 v5.3。真正剩下的变量已经是旋律、演唱和生成随机性，不是歌词智力不足。
