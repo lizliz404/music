@@ -1,23 +1,17 @@
 当前规范路径（全小写）:
 /home/ubuntu/music/07-15-field-notes/
 
-【歌词】
-1) 02-current/three-kinds-of-stone-v5.1-final.txt
-   = Liz paste lock 当前 ship 正文（ceiling 3:50 · felt/gone 断行 · female hum）
-2) 02-current/three-kinds-of-stone-v5.2-duration-safe-candidate.txt
-   = Sol gpt-5.6-sol-xhigh 手术候选（删重复 / 压词量 · 待 Liz 决定是否升为 current）
+【歌词 LATEST — 生成用 short cut】
+1) 02-current/three-kinds-of-stone-v5.2-short-cut-final.txt  ← STOP text · ~3:15 target
+   model: gpt-5.6-sol-xhigh continue · 585→~381 words · Container A first
 
-【Sol expert audit 2026-07-16】
-model: gpt-5.6-sol-xhigh
-full: 01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt
-verdict: SURGICAL（非 rewrite）
-Overall: 8.4 / 核心接近 9；主风险 = 词量 vs 3:50 硬上限 + 留白
-→ 若坚持 3:50：做 v5.2 一次后 STOP GENERATE
-→ 若可接受 ~4:30 album cut：v5.1 可直接生成
+【长版对照（已生成 5+ min 的那条线）】
+2) 02-current/three-kinds-of-stone-v5.1-final.txt
+   Liz paste lock · album/long cut reference · 勿再当 3-min 目标
 
-【原料 / 旧 audit】
-01-source/raw-ningbo-notes.txt
-01-source/v4-producer-audits-dual.txt
-01-source/v5-post-surgery-recheck-dual.txt
+【Sol】
+01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt
+01-source/sol-gpt-5.6-sol-xhigh-v5.2-continue-shortcut.txt
 
+Next: Generate A × 2–4. Accept 3:05–3:35 unhurried. Reject >3:50. No v5.3 lyric.
 MAP: 00-read-me/MAP.txt

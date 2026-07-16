@@ -1,0 +1,57 @@
+CONTINUE previous session. OUTPUT THE FULL FINAL PACKAGE IN YOUR REPLY. Do not self-save. I will capture stdout. No outline-only.
+
+# Liz reply (verbatim intent)
+
+意思为：他只做了 Audit，但没有 Refine 出新一版，是吗？
+主要问题不是还要增或改些什么，最主要是时长，所以说要删，对吗？
+其实他说的没错，这一版我已经生成了，两首都在 5 mins 以上，所以这次我本来就是想试一个更短的 3 mins 左右的版本。
+当前问题只在时长，是吗？那我们要做的事情只有删咯？
+若是这样的话，让他继续做吧。Continue Session，当然还有另外的一些什么其他东西的话也可以做。例如 style prompt 还要微调吗？我觉得可能没有太多要调的点，已经非常好。当然，可能有更好的效果的词，也可以拿出来。
+
+# Your job this turn: REFINE → ship a short cut
+
+You already produced a duration-safe v5.2 candidate. Now **finalize** it as the real short-version package for Suno.
+
+## Confirmed constraints
+1. **Primary problem = length.** Liz generated v5.1-ish takes at **5+ minutes**. She wants **~3:00** (range 3:05–3:35 ideal, hard ceiling **3:50**).
+2. **Main action = CUT / compress**, not add new philosophy, not open rewrite, not denser cleverness.
+3. Style is already very good — only **micro** style/vocal fixes if they help length/intelligibility (e.g. hum only intro tail/outro; remove conflicting exclude "forward vocal"; keep A primary).
+4. Optional better word swaps ONLY if high-leverage and still cut-friendly. Prefer protect-list lines from your audit.
+5. Keep Liz locks:
+   - Bridge `felt` / `gone.` line break
+   - distant female wordless hum (position-limited)
+   - male close-mic controlled never belted
+   - axis lock (feet/stone/weight vs screen/glass/float) — no Atom/Bit slogans
+   - no 又臭又长又无聊
+
+## Files
+- Current long ship: `02-current/three-kinds-of-stone-v5.1-final.txt`
+- Your candidate: `02-current/three-kinds-of-stone-v5.2-duration-safe-candidate.txt`
+- Your full prior audit: `01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt`
+
+## Deliverable (exact headers)
+
+### A. 1-page brief for Liz (Chinese OK)
+- Answer her questions directly: audit-only? main issue length? only delete?
+- What you cut and why (bullet)
+- Any style micro-tweaks or word upgrades (or "none needed")
+- Expected sung length rationale vs 5+ min failure mode
+
+### B. FINAL SHORT PACKAGE (complete Suno-ready TXT body)
+Full package including:
+- Song profile (BPM ~84 preferred for short cut OK)
+- Full lyrics with section vocal tags
+- Style containers A (primary) / B / C with single-line excludes
+- Changelog v5.1 → short-cut final
+- STOP GENERATE rule after this text
+
+### C. Diff summary
+Bullet list of every cut/swap vs v5.1 lyric body.
+
+## Quality bar
+- Must still feel like the same song (three stones, passenger, weight down, dogs, grandma, bridge car, not cured)
+- Must be shorter enough that unhurried delivery can land under ~3:30–3:50 with rests
+- Do not sand protect-list lines
+- Do not invent v5.3 polish loop language — this IS the stop text
+
+Begin.

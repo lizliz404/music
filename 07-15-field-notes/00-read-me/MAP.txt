@@ -10,45 +10,38 @@
 
 | 文件 | 是什么 |
 |---|---|
-| three-kinds-of-stone-v5.1-final.txt | **Liz paste lock 正文** · 完整 Suno 包 |
-| three-kinds-of-stone-v5.2-duration-safe-candidate.txt | Sol 时长手术候选 · **未自动升格** |
+| **three-kinds-of-stone-v5.2-short-cut-final.txt** | **生成用 LATEST** · ~3 min short cut · STOP text |
+| three-kinds-of-stone-v5.1-final.txt | 长版对照（已实测 5+ min）· Liz paste lock |
 
-**Sol 2026-07-16（gpt-5.6-sol-xhigh）：Surgical · Overall 8.4 · 非 rewrite。**
-主风险 = 词量 vs 3:50 硬上限。完整 audit：`01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt`
+**Sol continue 2026-07-16：duration-safe short cut 定稿。主问题 = 时长 → 删，不重写。**
+- Audit: `01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt`
+- Refine continue: `01-source/sol-gpt-5.6-sol-xhigh-v5.2-continue-shortcut.txt`
 
 ## 轴（Liz locked）
 - 脚底地面 / 石 / 重量  vs  屏幕 / 玻璃 / 符号 / 悬浮
 - Evidence via touch — never Atom/Bit slogan
 - Hook: put my weight down · passenger body · three-stone landings
 
-## 历史版本（现已进 archive）
+## 历史版本
 
 | 阶段 | 位置 | 说明 |
 |---|---|---|
-| v1 | 03-archive/drafts-v1-v3/field-notes-v1.md | Lyric 初稿 |
-| v2 | …/field-notes-v2-opus.md | Opus |
-| v3 | …/field-notes-v3-* | Lyric / Opus / independent Suno 包 |
-| v4 | 03-archive/drafts-v4-v5/…-v4-synthesis.txt | 三源合成 |
-| dual audits | 01-source/v4-producer-audits-dual.txt | 双审 |
-| v5 | 03-archive/drafts-v4-v5/…-v5-synthesis.txt | 手术合成 |
-| v5 recheck | 01-source/v5-post-surgery-recheck-dual.txt | 再审 |
-| **v5.1 + Liz lock** | **02-current/…-v5.1-final.txt** | 当前正文 |
-| Sol expert | 01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt | 2026-07-16 专家赏析 |
-| v5.2 candidate | 02-current/…-v5.2-duration-safe-candidate.txt | 待 Liz 升格 |
+| v1–v5 | 03-archive/… | 早期 + 合成 |
+| dual audits / recheck | 01-source/ | 双审 |
+| v5.1 + Liz lock | 02-current/…-v5.1-final.txt | 长版 |
+| Sol audit | 01-source/sol-…-v5.1-expert-audit.txt | Surgical |
+| early v5.2 candidate | 03-archive/drafts-v4-v5/…-candidate.txt | 中间稿 |
+| **v5.2 short-cut FINAL** | **02-current/…-v5.2-short-cut-final.txt** | **生成用** |
 
 ## 目录结构
 
 ```
-00-看这里-CURRENT.txt   ← 一眼看最新
-00-read-me/MAP.txt      ← 本说明
-01-source/              ← raw + dual audits + Sol expert
-02-current/             ← v5.1 ship + v5.2 candidate
-03-archive/
-  drafts-v1-v3/
-  drafts-v4-v5/
-  prompts-logs/
+00-看这里-CURRENT.txt
+00-read-me/MAP.txt
+01-source/              raw + audits + Sol reports
+02-current/             v5.2 short-cut FINAL + v5.1 long ref
+03-archive/             drafts + prompts-logs
 ```
 
 ## 推荐下一步
-1. 读 Sol audit → 决定 v5.1 直接生成，或升格 v5.2 后 STOP GENERATE。
-2. 升格后：Container A × 2–4；验收 ≤3:50，第一副歌 ≤1:15。
+用 `v5.2-short-cut-final` Container A × 2–4 → 验收 3:05–3:35 / ≤3:50 → 停改词。
