@@ -1,0 +1,17 @@
+当前规范路径（全小写）:
+/home/ubuntu/music/07-15-field-notes/
+
+【歌词 LATEST — English only】
+1) 02-current/three-kinds-of-stone-v5.1-final.txt
+   Title: Three Kinds of Stone
+   Alt: Passenger Body · Quiet Number Eleven
+   Status: FINAL lyric package before Suno (STOP — no v5.2 text iteration)
+   Style primary: Container A — Documentary Walking Folk
+
+【原料 / audit】
+2) 01-source/raw-ningbo-notes.txt
+3) 01-source/v4-producer-audits-dual.txt
+4) 01-source/v5-post-surgery-recheck-dual.txt
+
+Next: generate Container A × 2–4 → pick → archive. No lyric rewrite unless Liz reopens.
+MAP: 00-read-me/MAP.txt

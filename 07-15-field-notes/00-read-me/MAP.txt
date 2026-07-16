@@ -1,0 +1,49 @@
+# 07-15-field-notes — Three Kinds of Stone
+# 更新：2026-07-16
+
+## 路径规则
+- 唯一工作目录：`~/music/`（全小写）
+- 本项目：`/home/ubuntu/music/07-15-field-notes/`
+- 歌名：Three Kinds of Stone（folder 仍叫 field-notes = 原料来源名）
+
+## 你现在只需要看 02-current/
+
+| 文件 | 是什么 |
+|---|---|
+| three-kinds-of-stone-v5.1-final.txt | **定稿** · Suno-ready 完整包（歌词 + style A/B/C + exclude + changelog） |
+
+**当前不是多作者各一版在打架：English 1 轨定稿 = v5.1。**
+
+## 轴（Liz locked）
+- 脚底地面 / 石 / 重量  vs  屏幕 / 玻璃 / 符号 / 悬浮
+- Evidence via touch — never Atom/Bit slogan
+- Hook: put my weight down · passenger body · three-stone landings
+
+## 历史版本（现已进 archive）
+
+| 阶段 | 位置 | 说明 |
+|---|---|---|
+| v1 | 03-archive/drafts-v1-v3/field-notes-v1.md | Lyric 初稿 |
+| v2 | …/field-notes-v2-opus.md | Opus |
+| v3 | …/field-notes-v3-* | Lyric / Opus / independent Suno 包 |
+| v4 | 03-archive/drafts-v4-v5/…-v4-synthesis.txt | 三源合成 |
+| dual audits | 01-source/v4-producer-audits-dual.txt | 双审 |
+| v5 | 03-archive/drafts-v4-v5/…-v5-synthesis.txt | 手术合成 |
+| v5 recheck | 01-source/v5-post-surgery-recheck-dual.txt | 再审 |
+| **v5.1 final** | **02-current/…-v5.1-final.txt** | micro-fix 定稿 |
+
+## 目录结构
+
+```
+00-看这里-CURRENT.txt   ← 一眼看最新
+00-read-me/MAP.txt      ← 本说明
+01-source/              ← raw 宁波随记 + dual audits
+02-current/             ← 只看这里：v5.1 final
+03-archive/
+  drafts-v1-v3/         ← 早期稿
+  drafts-v4-v5/         ← v4/v5 合成（非 final）
+  prompts-logs/         ← 委托 prompt + Cursor stdout/stderr
+```
+
+## 推荐下一步
+停改词 → 用 `02-current/three-kinds-of-stone-v5.1-final.txt` Container A 进 Suno。
