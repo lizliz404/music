@@ -1,0 +1,166 @@
+# Old Weights — Suno Complete Package (Opus-synced with locked final)
+# Source: Cursor claude-opus-4-8-high --continue (production layer only)
+# Lyrics: verbatim old-weights-final.txt | Date: 2026-07-16
+# Supersedes: Lyric retrofit package (old-weights-suno-complete-package.txt) for production direction
+
+# Old Weights — Suno Complete Package
+
+## 1. Song profile
+
+- **Title:** Old Weights
+- **BPM range:** 76–82 (target 80; rubato-tolerant verses, don't quantize the phrasing)
+- **Key lean:** A minor or D dorian — modal color, avoid bright major-key resolutions
+- **Length target:** 3:00–3:20
+- **Hook line:** `OLD WEIGHTS — when I'm soft, they fire.` (cold-open plants it; each chorus lands it)
+- **Arrangement arc:** bare cold-open line → sparse intro → controlled verse → half-lift pre-chorus → dynamic-but-not-anthemic chorus → deeper verse → thinner pre → chorus → near-silent bridge (spoken-sung) → final chorus (denser, layered, **not louder**) → whispered outro decay
+- **Performance discipline (this song only):** peak stays at mf+, never full belt — this is diagnosis, not lament. Close-mic, dry, audible breath, conversational-melodic. No falsetto, no melisma, no ad-libs after chorus. Leave one full beat of silence after every `OLD WEIGHTS —` (do not fill with instrument). Bridge is a live-take feel — a small vocal hesitation or crack is welcome. Final chorus grows by layering (one low octave double, texture), not by volume.
+
+---
+
+## 2. Full lyrics with parameterized vocal tags
+
+[Cold Open: near-a-cappella, close-mic confession, very sparse, one held guitar note or none]
+Old weights fire when the room goes soft.
+
+[Intro: instrumental, sparse, room tone, fingerpicked nylon or clean neck-pickup guitar, felt piano enters low]
+
+[Verse 1: spoken-sung 60/40, chest voice low, close-mic dry, sparse — guitar + faint piano only, breath audible before phrases]
+Report card face-down under the kitchen light.
+Same three lines every problem kid got —
+lazy, careless, not like the good one.
+They said it soft. It landed like steel.
+I learned the shape before I learned the word.
+Froze the dial. Called the freeze "me."
+Wore the number on my chest
+like factory setting, not a guess.
+
+[Pre-Chorus: slight lift, mf, forward lean, upright bass enters on quarter-note pulse, no drums yet]
+Then something soft —
+a quiet room, a kind face, a little rest —
+and the old hands move first.
+
+[Chorus: sung 90/10, chest voice full but controlled at mf, diagnosis not lament — leave one full beat of silence after each "OLD WEIGHTS —", do not fill; medium density, guitar + piano + bass, still no kick]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Verse 2: chest voice tighter, wry, spoken-sung, close-mic dry — brushed drums enter soft on rims/brushes, no kick]
+You said I didn't have to earn the quiet.
+My throat still braced like something was due.
+New city, new keys — same flinch when you laugh
+a half-second longer than I planned for.
+I catch the script mid-sentence, mouth already wrong.
+The floor remembers the old dance first.
+Right answer once — for a house that's gone.
+The map still fits a country that's no more.
+
+[Pre-Chorus: thinner than first pre, p to mf, air around the voice, bass only under guitar]
+Something soft —
+your hand open, nothing asked —
+and the old hands move first.
+
+[Chorus: sung 90/10, controlled mf, one full beat silence after each "OLD WEIGHTS —" — full band but restrained, brushed kit now allowed, no big drums]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Bridge: near-silent, spoken drifting to sung, pp, young voice returns, single guitar or piano only, one live-take feel with a small hesitation allowed]
+Nine years old. I asked for something small.
+Watched a face go cold across the hall.
+Learned it in one breath:
+to need is to be too much — so want less.
+
+I hold the old report card.
+Both hands.
+Nobody's grading anymore —
+so who is this for?
+
+I stand up to say it.
+Sit back down. Stand up again.
+That's the whole update tonight.
+
+[Final Chorus: denser not louder, mf+ ceiling, one low octave vocal double, subtle Rhodes/Wurli pad underneath, humbled repetition — one full beat silence after each "OLD WEIGHTS —"]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Some nights they take the first round.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+the settings still run.
+I forget it by Monday.
+Try again Tuesday.
+Not the final build.
+Still moving what I can.
+
+[Outro: near-whisper, pp, sparse decay to guitar and room tone, no resolution swell]
+Same kitchen light. My house now.
+Same word for me —
+I get to weigh it now.
+Still here.
+Still training —
+on the next small weight
+I can actually move.
+
+[End: instrumental fade on single guitar note, let it ring, no big final chord]
+
+---
+
+## 3. Three distinct emotional containers (style prompts)
+
+### Container A — "Kitchen Confession" (intimate acoustic default)
+**Style of Music:**
+```
+confessional alt-folk, chamber-indie, close-mic singer-songwriter, fingerpicked nylon guitar, felt piano, upright bass, brushed drums, dry restrained male vocal, conversational-melodic, breath audible, sparse-to-layered arc, melancholic clear-eyed, 80 bpm, minor modal, peak dynamic mf
+```
+**Exclude Styles:**
+```
+screaming, belting, grit, falsetto, melisma, pop-punk, emo, EDM drops, autotune, anthemic stadium swell, worship-pad build, movie-trailer build, 4-on-the-floor kick, trap hats, gang vocals, choir pads
+```
+
+### Container B — "Diagnostic Cold" (spare electronic-tinged, clinical residual)
+**Style of Music:**
+```
+minimal art-pop, ambient folk-electronic, muted electric guitar, low sine sub-bass, sparse pulse percussion, felt piano, tape hiss and room tone, spoken-sung dry vocal, cold controlled delivery, negative-space heavy, slow-burn, unresolved, 76 bpm, minor
+```
+**Exclude Styles:**
+```
+warm strings, big drums, screaming, belting, dance beat, four-on-the-floor, festival synth, autotune runs, glossy pop sheen, uplifting key change, anthemic build, gang vocals
+```
+
+### Container C — "Torch Room" (dusk soul / slow-drag torch, more body warmth)
+**Style of Music:**
+```
+slow-burn indie soul, torch ballad, brushed drums with rim clicks, warm upright bass, muted Rhodes and Wurli, tremolo electric guitar, close-mic intimate male vocal, smoky restrained, late-night sway, gentle swell that stays low, 78 bpm, minor blues color
+```
+**Exclude Styles:**
+```
+big belting, gospel choir, horn section, key-change climax, screaming, pop-punk, EDM, trap hats, autotune-heavy, stadium rock, saccharine strings, triumphant cure-anthem
+```
+
+---
+
+## 4. Paste order (Suno Custom Mode)
+
+1. **Style of Music field** → paste ONE container's *Style of Music* block (start with **Container A**; regenerate with B and C to compare).
+2. **Exclude Styles field** → paste that same container's *Exclude Styles* single line.
+3. **Lyrics field** → paste the full Section 2 block. Keep the `[Section: …]` tags — Suno reads them as structure + delivery direction. If a generation *sings* a bracket tag, strip the descriptive text and leave the bare label (e.g. `[Verse 1]`), but try the full tags first.
+4. **Title field** → `Old Weights`
+5. Generate 3–5 takes per container. Judge by ear (real ground truth), not by re-reading text.
+
+---
+
+## 5. Changelog
+
+- Lyrics locked verbatim from `old-weights-final.txt` (surgical stitch final) — zero word/image/structure changes; only bracketed delivery tags and one `[End]` label added.
+- This pass = production layer only (Cursor Opus continue): song profile, per-section parameterized vocal tags, three distinct style containers + excludes, paste order — in sync with the locked text, no v5 rewrite.
