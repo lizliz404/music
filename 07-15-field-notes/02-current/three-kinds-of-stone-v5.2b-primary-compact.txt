@@ -1,0 +1,140 @@
+# THREE KINDS OF STONE — v5.2b PRIMARY COMPACT
+
+Title: Three Kinds of Stone
+BPM / Key: 84 BPM · D or E minor
+Target: 3:05–3:35 · reject over 3:50
+Axis: feet / stone / weight vs screen / glass / float
+Lead: close-mic controlled melodic male, never belted or shouted
+Hum: distant female wordless hum, Outro only
+Hook: passenger body · put my weight down · three-stone landings
+Production: immediate vocal start; brief natural breaths; no extra repeats or extended instrumentals
+Paste rule: Style field receives only the STYLE OF MUSIC paragraph below
+
+[STYLE OF MUSIC]
+
+intimate documentary folk, compact 84 BPM, D or E minor, immediate male vocal cold open, close-mic controlled melodic male, conversational verses, grounded descending chorus, never belted, fingerpicked acoustic guitar, warm upright bass, brushed dry drums, sparse room ambience, brief distant female wordless hum only in outro, restrained strings only in final chorus, tight 3-minute structure, no extra repeats or extended instrumentals
+
+[EXCLUDE]
+
+belting, shouting, soaring chorus, power ballad, arena rock, cinematic build, wall-to-wall vocals, choir pads, continuous female backing vocal, spoken-word only, long intro, long outro, repeated chorus, instrumental solo, extended interlude, slow ambient drift, heavy autotune
+
+[SLIDERS]
+
+Weirdness: 30–35
+Style Influence: 70–75
+
+[LYRICS]
+
+[Cold Open: immediate close-mic male]
+
+I was living like a passenger
+in a body I forgot how to drive —
+floating two inches above the ride.
+
+[Verse 1: low conversational melody]
+
+Sixteen floors. Thirty-two doors on this floor alone.
+Neighbors close enough to share a wall — far enough to never knock.
+I put my socks on. I open the door.
+
+Frosted slab. Old bluestone that won't lie flat.
+River-round cobble that rolls under the sole.
+I slow like a kid and read the street with the feet —
+three different weights, three different truths in the bone.
+Cranes bang near and far at the same thin second —
+the sound has weight; the phone in my pocket has none.
+
+[Pre-Chorus: subtle lift]
+
+My head can run the whole day clean and never leave the room,
+reading the world from somewhere just above the wound.
+The glass stays flat under the thumb. The street doesn't.
+It asks for skin. It asks for time.
+
+[Chorus: grounded descending phrase]
+
+Quiet number eleven — not the fire, not the rush —
+So I put my weight down.
+
+[Brief Rest]
+
+I put my weight down.
+Stone under the shoe. Glass in the hand.
+I came out of the screen to feel where the bluestone breaks.
+
+[Instrumental Breath]
+
+[Verse 2: intimate and sparse]
+
+Two dogs at a kitchen door — grey-black, dirty white —
+oil-smoke in the fur, already against my legs.
+Not pretty. Not soft. They press me anyway.
+
+Grandma at the stop: which bus, which when?
+I open the little program I never need.
+A small kindness moves. My clever mouth goes quiet.
+
+[Short Refrain: restrained]
+
+So I put my weight down.
+
+[Brief Rest]
+
+I put my weight down.
+I came out of the screen to feel where the cobble rolls.
+
+[Bridge: stripped, near-spoken]
+
+Ten square meters. Blinds down. Headphones on.
+Chasing the next bright thing till the body felt
+gone.
+Am I living in the skin —
+or is the body just a car
+for a brain that only trusts what lights up far?
+
+[Brief Silence]
+
+I set the phone face-down on the floor.
+Then I put my socks on. Then I opened the door.
+
+[Instrumental Turnaround]
+
+[Final Chorus: grounded, controlled]
+
+Quiet number eleven — trouble I dragged here still waits outside.
+Still close, still far. Still glass in the pocket, stone under the stride.
+So I put my weight down.
+
+[Brief Rest]
+
+I put my weight down.
+Not cured. Not pure. The main thing stays unsolved.
+Socks on. Door ajar. Feet on the stone of the world.
+
+[Outro: close male, distant female wordless hum]
+
+One more block with weight.
+Not floating.
+Not finished.
+
+[End]
+
+[CHANGELOG]
+
+- Collapsed the multi-block Style paste into one short genre-first paragraph.
+- Removed all exact bar-count instructions from Lyrics tags.
+- Moved the existing passenger couplet to an immediate vocal cold open; no words added.
+- Limited the female hum to Outro to protect entry speed and prevent pad expansion.
+- Lyrics otherwise unchanged; no B/C, no new metaphor, no re-expansion.
+
+[STOP]
+
+Paste only the STYLE OF MUSIC paragraph into Suno's Style field.
+Paste only the EXCLUDE line into Exclude Styles.
+Paste the LYRICS block into Lyrics.
+
+Generate 2–4 takes.
+Reject runtime over 3:50, belting, soaring chorus, continuous hum, extra section repeats, or extended instrumental drift.
+
+This is the final primary compact package.
+No v5.3.

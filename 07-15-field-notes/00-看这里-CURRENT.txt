@@ -1,18 +1,19 @@
-当前规范路径（全小写）:
+当前规范路径:
 /home/ubuntu/music/07-15-field-notes/
 
-【生成用 LATEST】
-02-current/three-kinds-of-stone-v5.2-short-cut-final.txt
-  · lyric = short-cut
-  · STYLE = PRIMARY ONLY（B/C 已删）
-  · 5+ min fails → 先查 style，不先开词
+【Suno 只贴这个 — 三字段，不杂】
+02-current/three-kinds-of-stone-v5.2b-suno-paste-only.txt  ← 生成用
 
-【长版对照】
+【完整包 + Sol 说明】
+02-current/three-kinds-of-stone-v5.2b-primary-compact.txt
+01-source/sol-gpt-5.6-sol-xhigh-v5.2b-style-compact.txt
+
+【上一版 short-cut / 长版】
+02-current/three-kinds-of-stone-v5.2-short-cut-final.txt
 02-current/three-kinds-of-stone-v5.1-final.txt
 
-【External dual audit 2026-07-16】
-01-source/external-audits-dual-after-v5.2-shortcut.txt
-  共享信号: 开头入口 / captivation；市场进入；style 过控 vs 时长
-
-Next: Liz pastes exact style used on 5-min fails → one targeted style rewrite.
-MAP: 00-read-me/MAP.txt
+v5.2b 要点:
+- Style = 单段 ~400 字以内；禁止把 Breath/Lead 拼进 Style
+- 删 bar-count 制作手册
+- passenger 冷开场（词不新增，只前移）
+- hum 仅 Outro

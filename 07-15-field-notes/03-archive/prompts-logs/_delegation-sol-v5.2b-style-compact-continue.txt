@@ -1,0 +1,77 @@
+CONTINUE previous session. OUTPUT FULL RESPONSE IN REPLY. Do not self-save. No outline-only. No "saved to file" stub.
+
+# Liz new signal (verbatim core)
+
+She generated with this ACTUAL style paste (likely poorly absorbed by Suno → 5+ min + 又臭又长又无聊):
+
+```
+intimate documentary walking folk, compact 84 BPM narrative song, D / E minor, close-mic controlled melodic male vocal, conversational long-line phrasing, brief distant female hum, fingerpicked acoustic guitar motif, warm upright bass, brushed dry drums, sparse field-recording air, restrained late strings Final Chorus only, clear compact instrumental rests, unresolved quiet tension, clean warm intelligible mix, concise 3:00–3:30 arrangement
+
+Lead male close-mic, controlled melodic, intimate/clear; long lines conversational; never belted/shouted
+Female distant hum; sparse, no continuous/double lyric
+Breath: 2-bar inst after Intro; 2-bar after Ch1; V2 dogs dense, grandma sparse; short Refrain replaces full Pre2+Ch2; 1/2-bar silence after Bridge Q; 2-bar turnaround; 1-bar lift into Final Ch; air between Outro fragments; no extended intro/outro/solo/interlude
+```
+
+Her diagnosis: this long multi-block style may not be correctly absorbed. Continue session to fix further.
+
+Main problems:
+1. **Duration control** (still ~5 min despite short-cut lyric)
+2. **Opening captivation** for strangers (from external dual audits)
+3. **Style prompt accessibility** — write more direct/efficient for Suno absorption
+
+Hard constraints from Liz:
+- **PRIMARY Style A only** — no B, no C
+- Write **shorter, more direct, more efficient** — previous packages wrote TOO MUCH
+- Less micro-management of exact bar counts that Suno ignores or expands
+- Do not re-open free lyric rewrite / re-expand song
+- Keep axis + protect-list lines unless a **minimal** intro entry patch is high-leverage for captivation
+
+# Read these files first
+1. `02-current/three-kinds-of-stone-v5.2-short-cut-final.txt` (current short lyric + primary-only package)
+2. `01-source/external-audits-dual-after-v5.2-shortcut.txt` (two external audits)
+3. `01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt` (your earlier audit)
+4. Optional: `01-source/sol-gpt-5.6-sol-xhigh-v5.2-continue-shortcut.txt`
+
+# Deliverable structure (exact headers)
+
+## 0. Diagnosis (short, Chinese OK)
+Why her pasted style failed duration (absorption / field length / conflicting instructions / lyric tags vs style field).
+
+## 1. Style A — FINAL compact (Suno-ready)
+Requirements:
+- **One Style of Music field only** — single paragraph, preferably **≤ 350–450 characters** if possible, hard max ~600
+- Genre-first, sonic, few adjectives
+- Explicit length pressure without writing a production bible
+- Male close-mic controlled never belted; hum only if one short phrase (or drop hum if it causes pad-length bloat — decide with reason)
+- Descending / grounded chorus energy if useful (anti-soar)
+- Key D or E minor OK as short token
+- **One Exclude Styles line** — comma-separated, single line, lean (cut fat list)
+
+## 2. Vocal tags — minimal
+Either:
+- Keep section tags in lyrics but **strip bar-count breath essays** into 1 short production note outside lyrics, OR
+- Simplify tags so Suno doesn't try to "perform" the production manual as arrangement length
+Recommend one approach.
+
+## 3. Opening captivation — surgical ONLY if worth it
+Max **2–4 lines** changed at Intro (or one line added). Options from external audits only if falsifiable.
+If you patch Intro: show before/after + full revised LYRICS block.
+If not: say STOP on lyric, style-only ship.
+
+## 4. One paste package for Liz
+Ultra-lean TXT body:
+```
+# THREE KINDS OF STONE — v5.2b PRIMARY COMPACT
+[profile 6–10 lines max]
+[STYLE OF MUSIC — one block]
+[EXCLUDE — one line]
+[SLIDERS]
+[LYRICS — full]
+[CHANGELOG 5 bullets max]
+[STOP]
+```
+
+## 5. What NOT to do
+No B/C. No multi-container essay. No second philosophy pass. No re-adding cicadas. No v5.3 density.
+
+Begin after reading files.
