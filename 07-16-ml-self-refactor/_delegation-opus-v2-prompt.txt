@@ -1,0 +1,91 @@
+OUTPUT ONLY THE COMPLETE LYRICS. No summary. No outline. No bullet-point plan. No "here's what I would write." Every section filled with real singable lines. I will save your response myself — do NOT write files unless you also print the full lyrics in your response first.
+
+# Task
+
+Write a complete independent English song lyric from Liz's ML self-refactor source material.
+
+**Mode (critical):** wound song / family-training residual / psychology × machine-learning metaphor as SENSORY evidence — NOT a TED talk, NOT product copy about AI tools, NOT a growth-mindset anthem, NOT a love song.
+
+**DO NOT read** any file named `*v1*` or `ml-self-refactor-v1.md` if present. Write a DIFFERENT take from the raw source only — different hook, title, structure angle, and image selection. Independent draft. No peeking at another agent's lyrics.
+
+# Source (READ THESE FILES FIRST)
+
+1. `/home/ubuntu/music/07-16-ml-self-refactor/raw.md`
+2. `/home/ubuntu/music/07-16-ml-self-refactor/exa-search-report.md` (use only for emotional/psychological texture — do NOT dump ACT/Dweck/Marcia jargon into lyrics)
+
+# What the source is about (orientation only — extract YOUR images from the files)
+
+Core thesis: a person is more like an updatable model than a fixed essence. Childhood/family training freezes labels ("lazy," "careless," "bad kid," "this is who you are") as if they were final factory settings. Residual old patterns fire again in soft moments. Mirror-neuron / live-demo learning (copying parents without a lecture). AI/therapy as optional safe training partner — do NOT make the song about ChatGPT. Liberation is reframe (outdated version, not defective soul) + practice, not one-shot cure.
+
+**Liz's explicit song direction:** family education, psychology, ML images, residual feeling — every kid who was treated as a "bad model" has terrifyingly homogeneous experiences. Open from that shared mold. Images over verdicts. Residual honesty.
+
+**Source-first rule:** Read the full raw file. Name 5–8 strongest CONCRETE images (dinner table, report card, flinch, soft trigger, residual return, version vs soul, etc.) before drafting a single line. Build from images, not abstract thesis.
+
+# Durable craft rules (paste — follow all)
+
+## Language
+- ALL ENGLISH lyrics. No Chinese lines. No bilingual. Adapt images; don't translate sentence-by-sentence.
+
+## Vocal / delivery
+- NO screaming, shouting, belting, roaring, "explosive," "raw" vocals, grit-as-default.
+- Controlled, sung, melodic, intimate, hushed, close-mic, incisive.
+- Intensity via arrangement density and rhythm, not vocal force.
+- Section tags if used: never [Belted]/[Explosive]/[Screamed]/[Gritty]. Prefer [Hushed, close-mic, melodic], [Denser], [Intense, controlled].
+
+## Images over verdicts
+Strong: show a scene → audience concludes.
+Weak: thesis labels ("he's not the villain," "identity is flexible," "growth mindset wins").
+No Naval name-drop. No clinical jargon dump (ACT, Dweck, Marcia, Bayesian brain, psychological flexibility as textbook terms).
+No product-slogan couplets: avoid "Atom under the shoe / Bit world in the hand" style theory-noun hooks. If you use ML words, make them sensory (old weights fire when soft; freeze; version; still training) — not a whitepaper.
+
+## Unified metaphor axis
+Pick ONE axis and commit. Strong candidates from source:
+- freeze vs update
+- residual weights / old script fires on soft
+- not defective — outdated version
+- training loop without cure fantasy
+
+Cut lines that don't fit your chosen axis.
+
+## Structure
+- Target ~3:00–3:30 (tight; cut lyrics before padding).
+- Clear sections: Intro optional; Verse; Pre optional; Chorus; Bridge; Final chorus/Outro.
+- Each section owns one thematic element (no inventory dump in the bridge).
+- Plan compression → expansion → rest. Air between fragments. Not wall-to-wall vocal.
+
+## Bridge — exactly 3 moves
+1. One wound (specific memory/image, not metaphor cluster)
+2. One question (agency stake)
+3. One physical act (phone face down, door, stands up, says "old version," walks out, etc.)
+
+## Ending — NO cure narrative
+Reject: "I choose the harder side," "that's enough," one-shot transformation, cured narrator, "I refactored myself complete."
+Use: humility (Not cured. Not pure.), partial progress (some days I still lose), physical act, still training.
+
+## Breathing
+- Speech-pattern lines can be dense.
+- Reflective lines need white space / separate breaths.
+
+## Genre
+Derive freely from THIS song's DNA (family freeze, residual, soft-trigger, version not soul). Do NOT default to Kenshi Yonezu / pop-punk / emo / industrial / grunge.
+After lyrics, add a SHORT draft genre note (5–8 descriptors, no artist names). Optional brief exclude line (comma-separated single line).
+
+# Deliverable format (print all of this in your response)
+
+1. **Working title** (1–3 candidates ok; pick a primary)
+2. **One-sentence concept**
+3. **Metaphor axis** (one phrase)
+4. **COMPLETE lyrics** with section labels like:
+   [Intro]
+   [Verse 1]
+   [Pre-Chorus]
+   [Chorus]
+   [Verse 2]
+   [Bridge]
+   [Final Chorus]
+   [Outro]
+   (adjust structure if needed — but fill every section with real lines)
+5. **Image list used** (bullet: source image → which section)
+6. **Short genre note** + exclude line
+
+Again: OUTPUT THE FULL LYRICS IN THE RESPONSE. Not an outline. Not a summary of changes.
