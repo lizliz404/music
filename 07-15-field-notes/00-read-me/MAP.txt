@@ -10,12 +10,11 @@
 
 | 文件 | 是什么 |
 |---|---|
-| **three-kinds-of-stone-v5.2-short-cut-final.txt** | **生成用 LATEST** · ~3 min short cut · STOP text |
-| three-kinds-of-stone-v5.1-final.txt | 长版对照（已实测 5+ min）· Liz paste lock |
+| **three-kinds-of-stone-v5.2-short-cut-final.txt** | **生成用 LATEST** · short lyric · **PRIMARY style only** |
+| three-kinds-of-stone-v5.1-final.txt | 长版对照 |
 
-**Sol continue 2026-07-16：duration-safe short cut 定稿。主问题 = 时长 → 删，不重写。**
-- Audit: `01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt`
-- Refine continue: `01-source/sol-gpt-5.6-sol-xhigh-v5.2-continue-shortcut.txt`
+**2026-07-16：** external dual audit 存档；B/C 删除；5+ min 失败优先当 style 问题。
+Audit file: `01-source/external-audits-dual-after-v5.2-shortcut.txt`
 
 ## 轴（Liz locked）
 - 脚底地面 / 石 / 重量  vs  屏幕 / 玻璃 / 符号 / 悬浮

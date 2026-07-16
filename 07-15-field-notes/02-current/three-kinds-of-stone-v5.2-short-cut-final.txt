@@ -49,11 +49,12 @@ HOW TO PASTE
 ================================================================================
 
 1. Paste the LYRICS block into the Lyrics field.
-2. Use Style Container A first.
-3. Paste that container's single Exclude Styles line.
+2. Paste Style of Music (PRIMARY only — B/C removed).
+3. Paste the single Exclude Styles line.
 4. Generate 2–4 takes.
 5. Accept 3:05–3:35 when phrasing remains unhurried.
-6. Reject anything over 3:50 or anything that rushes the passenger line.
+6. Reject anything over 3:50, wall-to-wall vocal, or again-smelly long meander.
+7. If still 5+ minutes with short lyrics: problem is style/arrangement drift — revise style, not lyric.
 
 ================================================================================
 LYRICS
@@ -156,93 +157,34 @@ Not finished.
 [End]
 
 ================================================================================
-STYLE CONTAINERS
+STYLE — PRIMARY ONLY (B/C removed 2026-07-16, Liz)
+Documentary Walking Folk
 ================================================================================
 
------ A — Documentary Walking Folk (PRIMARY) -----
-
 Style of Music:
-intimate documentary walking folk, compact 84 BPM narrative song, close-mic controlled melodic male vocal, conversational long-line phrasing, brief distant female wordless hum at intro tail and outro only, fingerpicked acoustic guitar motif, warm upright bass, brushed dry drums, sparse field-recording air, restrained late strings Final Chorus only, clear compact instrumental rests, unresolved quiet tension, clean warm intelligible mix, concise 3:05–3:35 arrangement
+intimate documentary walking folk, compact 84 BPM narrative song under 3:40, close-mic controlled melodic male vocal never belted, conversational phrasing with natural breath spaces, brief distant female wordless hum only at intro tail and outro, fingerpicked acoustic guitar motif, warm upright bass, brushed dry drums, sparse field-recording air, restrained late strings Final Chorus only, no long solos or extended interludes, unresolved quiet tension under calm surface, clean warm intelligible mix, concise radio-length arrangement
 
 Exclude Styles:
-glossy mainstream pop, heavy autotune, trap hi-hats, EDM drops, synth-pop, choir-pad wash, continuous female backing vocal, spoken-word only, dream-pop haze, pop-punk, emo belting, industrial, grunge, screaming, shouting, belting, lo-fi mud, garage distortion, long guitar solos, arena rock, power ballad, aggressive vocal projection, buried lead vocal, loud master, driving drums, epic build, extended intro, extended outro, long instrumental interlude, wall-to-wall vocal
+glossy mainstream pop, heavy autotune, trap hi-hats, EDM drops, synth-pop, choir-pad wash, continuous female backing vocal, spoken-word only, dream-pop haze, pop-punk, emo belting, industrial, grunge, screaming, shouting, belting, lo-fi mud, garage distortion, long guitar solos, arena rock, power ballad, aggressive vocal projection, buried lead vocal, loud master, driving drums, epic build, cinematic trailer, soaring climax, extended intro, extended outro, long instrumental interlude, ambient pad bed, wall-to-wall vocal, progressive suite, meandering jam
 
 Sliders:
 Weirdness 30–40
 Style Influence 70–80
 
------ B — Suspended Chamber -----
-
-Style of Music:
-sparse chamber folk art-pop, compact suspended 84 BPM, intimate close-mic controlled male vocal, conversational melodic delivery, brief distant female wordless hum at intro tail and outro only, muted electric guitar, soft Rhodes, warm wood bass, dry precise drums, cool glass texture, restrained string accents Final Chorus only, compact rests, unresolved undertow, polished quiet intelligible mix, concise 3:05–3:35 arrangement
-
-Exclude Styles:
-glossy mainstream pop, heavy autotune, trap hi-hats, EDM drops, synth-pop, choir-pad wash, continuous female backing vocal, spoken-word only, dream-pop haze, pop-punk, emo belting, industrial, grunge, screaming, shouting, belting, lo-fi mud, garage distortion, excessive distortion, long guitar solos, arena rock, power ballad, aggressive vocal projection, buried lead vocal, loud master, driving drums, epic build, cinematic trailer, soaring climax, extended intro, extended outro, long instrumental interlude, wall-to-wall vocal
-
-Sliders:
-Weirdness 40–50
-Style Influence 65–75
-
------ C — Soft-Court Pulse (MARKET TEST) -----
-
-Style of Music:
-melodic narrative indie folk, body-forward compact 86 BPM pulse, close-mic controlled male vocal sung intimate and incisive, long lines conversational and intelligible, brief distant female wordless hum at intro tail and outro only, clean electric and acoustic guitars, tight dry kit with pushed kick and laid-back snare, warm bass, short recurring melodic motif, restrained late strings Final Chorus only, clear compact instrumental gaps, polished clean mix, concise 3:05–3:30 arrangement
-
-Exclude Styles:
-bubblegum pop, heavy autotune, trap hi-hats, EDM drops, choir-pad wash, continuous female backing vocal, synth-pop, spoken-word only, dream-pop haze, pop-punk, emo belting, industrial, grunge, screaming, shouting, belting, lo-fi mud, garage distortion, excessive distortion, long guitar solos, arena rock, power ballad, staccato aggression, double-time drums, aggressive vocal projection, buried lead vocal, loud master, epic build, extended intro, extended outro, long instrumental interlude, wall-to-wall vocal
-
-Sliders:
-Weirdness 28–38
-Style Influence 72–82
+NOTE (post external audit + 5-min fails):
+- Lyric body is already short-cut; if runtime still ~5:00, revise THIS style block, not lyrics.
+- Prefer natural breath spaces over over-specified bar counts that Suno ignores or expands.
+- Optional next micro-tunes (only after Liz pastes the exact style she used): descending chorus hook; slightly earlier passenger entry; fewer arrangement constraints if over-control kills life.
 
 ================================================================================
-CHANGELOG v5.1 → v5.2 SHORT-CUT FINAL
+CHANGELOG
 ================================================================================
 
-1. Reduced lyric body from approximately 585 to approximately 381 words:
-   approximately 35% shorter.
-
-2. Removed the Intro feed line:
-   “Headphones on. I run the feed for the next bright thing.”
-
-3. Removed the decorative cicada/butterfly pair from Verse 1.
-
-4. Shortened the Chorus 1 vehicle stack:
-   “brain at the wheel of nothing, floating two inches above the ride.”
-   became:
-   “floating two inches above the ride.”
-
-5. Removed:
-   “even the riders coast; no one is racing the dust.”
-
-6. Removed the explanatory dog/feed couplet:
-   “Something in the skin that symbols never fed /
-    stops asking the feed for a body.”
-
-7. Removed the V2 city generalization:
-   “Day one, and I still haven't heard a temper break.”
-
-8. Removed repeated Pre-Chorus 2 completely.
-
-9. Replaced full Chorus 2 with a short weight/cobble refrain.
-
-10. Final Chorus now begins with:
-    “Quiet number eleven — trouble I dragged here still waits outside.”
-    The passenger couplet is not repeated a third time.
-
-11. Compressed Outro to:
-    “One more block with weight. /
-     Not floating. /
-     Not finished.”
-
-12. Reduced Instrumental Break from four bars maximum to a two-bar turnaround.
-
-13. Limited distant female wordless hum to intro tail and outro.
-
-14. Removed the conflicting “forward vocal” exclusion.
-
-15. Added explicit exclusions for extended intro, extended outro,
-    long instrumental interlude, and buried lead vocal.
+v5.1 → v5.2 short-cut lyric compression (~585 → ~381 words).
+v5.2 package → PRIMARY ONLY: style B/C deleted (Liz 2026-07-16).
+External dual audit archived: 01-source/external-audits-dual-after-v5.2-shortcut.txt
+  shared signal: opening entry / captivation risk; market entry; style over-control vs length.
+Live gen signal: still ~5 min + 又臭又长又无聊 → treat as style/arrangement failure until proven otherwise.
 
 ================================================================================
 LOCKS RETAINED
@@ -257,32 +199,18 @@ LOCKS RETAINED
 - Bridge “felt” / “gone.” line break remains.
 - Bridge explicit car question remains.
 - Male vocal remains close-mic, controlled, never belted or shouted.
-- Distant female wordless hum remains, now position-limited.
+- Distant female wordless hum remains, position-limited.
 - No Atom/Bit slogan.
 - “Not cured. Not pure.” remains.
 - Hard ceiling remains 3:50.
+- Style B/C off the table until Liz reopens.
 
 ================================================================================
-STOP GENERATE RULE
+STOP / NEXT
 ================================================================================
 
-THIS IS THE STOP TEXT.
-
-Stop editing.
-Generate 2–4 takes with Container A first.
-Use Container C only as the market-facing comparison.
-Choose and archive the strongest take.
-
-No v5.3.
-No new lyric.
-No new philosophy.
-No re-expansion.
-
-Only reject and regenerate if:
-- runtime exceeds 3:50,
-- the passenger line is rushed or unintelligible,
-- the male vocal belts or shouts,
-- the female hum becomes continuous,
-- the required rests disappear.
+Lyric: do not re-expand. Do not open free rewrite from external “intro hook” ideas unless Liz greenlights a surgical entry test.
+Style: PRIMARY only. Next action after Liz pastes the exact style field used on the 5-min fails → one targeted style rewrite for length + engagement, then re-generate.
+Reject if: runtime > 3:50, meander/boring pad, continuous female hum, belting, unintelligible passenger line.
 
 END
