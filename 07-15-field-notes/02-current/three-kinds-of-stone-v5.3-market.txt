@@ -1,0 +1,120 @@
+# THREE KINDS OF STONE — v5.3 MARKET
+Title: Three Kinds of Stone   ·   Alt: Passenger Body · Put My Weight Down
+BPM / Key: 84 BPM · D or E minor
+Target: sung 3:00–3:30 · hard reject > 3:50
+Axis: feet / stone / weight  vs  screen / glass / float — evidence by touch, never slogan
+Lead: close-mic controlled melodic male, conversational, NEVER belted or shouted
+Hum: distant female wordless hum — outro only, one soft exhale, optional (drop if it muddies)
+Hook: "I put my weight down" (twice, clean) · passenger body · three-stone landings
+Non-cure ending preserved: "Not cured. Not pure."
+Entry rule: stranger must feel "this is me" inside 15s; no private numbers, no invisible apps
+Paste rule: Style field receives ONLY the STYLE OF MUSIC paragraph below
+
+[STYLE OF MUSIC]
+intimate documentary folk, 84 BPM, D or E minor, immediate close-mic male vocal cold open, conversational controlled melodic male, warm and intelligible, grounded descending chorus with a repeated one-line hook, fingerpicked acoustic guitar, warm upright bass, brushed dry drums, sparse room air, one soft distant female wordless hum in the outro only, restrained strings in the final chorus only, tight three-minute song, natural breaths, no extra chorus repeats, no extended intro outro or instrumental
+
+[EXCLUDE]
+belting, shouting, soaring chorus, power ballad, arena rock, cinematic build, wall-to-wall vocals, choir pads, continuous female backing vocal, spoken-word only, long intro, long outro, repeated chorus, instrumental solo, extended interlude, ambient drift, heavy autotune
+
+[SLIDERS]
+Weirdness 30–35 · Style Influence 70–75
+
+[LYRICS]
+
+[Cold open: immediate close-mic male]
+
+I was living in my skin like a passenger —
+a body I forgot how to drive,
+floating two inches above the ride.
+
+[Verse 1: low conversational]
+
+Sixteen floors. Thirty-two doors on my floor alone.
+Close enough to share a wall, far enough to never knock.
+I pull my socks on. I open the door.
+
+Frosted slab. Old bluestone that won't lie flat.
+River-worn cobble that rolls under the sole.
+I slow like a kid and read the street with my feet —
+three different weights, three different truths in the bone.
+Cranes hammer near and far in the same thin second —
+the sound has weight; the phone in my pocket has none.
+
+[Pre-chorus: subtle lift]
+
+My head can run the whole day clean and never leave the room,
+reading the world from somewhere just above the wound.
+The glass stays flat under my thumb. The street doesn't.
+It asks for skin. It asks for time.
+
+[Chorus: grounded, descending, hook repeated]
+
+So I put my weight down.
+I put my weight down.
+Not the fire, not the rush — just the quietest street I could find.
+Stone under the shoe, glass in the hand,
+I came out of the screen to feel where the bluestone breaks.
+
+[Instrumental breath]
+
+[Verse 2: intimate and sparse]
+
+Two dogs at a kitchen door — grey-black, dirty white —
+oil-smoke in their fur, already against my legs.
+Not pretty. Not soft. They lean on me anyway.
+
+An old woman at the stop: which bus, and when?
+I open the app I never use myself.
+A small kindness moves. My clever mouth goes quiet.
+
+[Short refrain]
+
+So I put my weight down.
+I put my weight down.
+I came out of the screen to feel where the cobble rolls.
+
+[Bridge: stripped, near-spoken]
+
+Ten square meters. Blinds down. Headphones on.
+Chasing the next bright thing till the body felt
+gone.
+Am I living in the skin,
+or is the body just a car
+for a brain that only trusts what lights up far?
+
+[Brief silence]
+
+I set the phone face-down on the floor.
+Then I pulled my socks on. Then I opened the door.
+
+[Final chorus: controlled, strings enter, still no belt]
+
+So I put my weight down.
+I put my weight down.
+The trouble I dragged here is still waiting outside —
+still close, still far, still glass in the pocket, stone under the stride.
+
+Not cured. Not pure. The main thing stays unsolved.
+Socks on, door open, feet on the stone of the world.
+
+[Outro: close male, one distant female wordless hum]
+
+One more block with weight.
+Not floating.
+Not finished.
+
+[End]
+
+[WHAT CHANGED — listener benefit]
+- "Quiet number eleven" → "the quietest street I could find": the chorus no longer hides a private city-ranking code; a stranger gets it in one pass.
+- "the little program" → "the app I never use myself": the kindness beat is now visible to any listener, China context or not — the screen-serving-a-human irony survives.
+- Hook doubled clean ("So I put my weight down. / I put my weight down.") at every chorus: the strongest line finally repeats tightly enough to be hummable and to give Suno a melody to lock, discouraging drift/overrun.
+- Cold open leads with "in my skin": a stranger registers "person outside their own body" instantly, not "a song about a car."
+- "already against my legs / They lean on me" (was "press me"): warmer, more physical, less ambiguous for a first listen; the small resistance→contact drama is kept.
+- Female hum reduced to one exhale, outro only: protects the fast male entry and can be dropped in mix with zero structural loss.
+
+[STOP]
+Paste the STYLE OF MUSIC paragraph into Style. Paste EXCLUDE into Exclude. Paste LYRICS into Lyrics.
+Generate 2–4 takes. Accept 3:00–3:30 when the vocal stays unhurried and intelligible.
+Reject if: runtime > 3:50, belting/shouting, soaring chorus, continuous hum, extra chorus repeats, or the hook line gets rushed.
+This is the market ship candidate. No v5.4 unless a 5-person blind listen fails.

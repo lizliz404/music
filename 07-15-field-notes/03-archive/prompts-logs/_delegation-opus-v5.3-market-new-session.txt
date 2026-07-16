@@ -1,0 +1,122 @@
+# MODEL THIS RUN: claude-opus-4-8-xhigh (NEW session, not --continue)
+# User: Opus 4.8 · market/listener first · audit THEN full new version
+
+OUTPUT THE FULL RESPONSE IN YOUR REPLY. Do not self-save. No outline-only. No "saved to file". Write ACTUAL complete deliverables.
+
+# NEW SESSION — independent expert pass
+Do NOT assume prior Cursor chat memory. Read the files below. Fresh judgment.
+
+# Liz core complaint (this turn — highest priority)
+
+She already said: do not be 曲高和寡 / 孤芳自赏 / 闭门造车 / 自以为是.
+But **understanding cost may still be the #1 problem**.
+
+> 我们不是写论文，是写歌。定位要清楚。
+> 现在最大的问题是：完全按 Liz + AI 两人的理解水平制作 —— 不尊重市场，没有用户思维和读者视角。
+
+She wants:
+1. Full re-audit with **market / listener / first-time stranger** as primary judge
+2. Then a **new version** (not endless theory) that lowers entry cost while keeping soul
+3. Ambition still: **有用且有趣** — useful AND interesting; wider resonance without generic mush
+
+# Liz long-standing instruction (obey framing)
+
+作为专家，全面而结构化的赏析，打分。
+
+what why how？属于哪一类？
+
+如要进一步优化，无论 lyric / style prompt / vocal tag，要做出新的一版要做些什么？
+还是已经没必要、陷入完美主义陷阱？
+
+最要避免：又臭又长又无聊。
+也避免：曲高和寡、孤芳自赏、闭门造车、自以为是。
+尊重市场，与更广大受众产生尽可能大的共鸣。野心：有用且有趣。
+
+深入推理，直击本质。拒绝平庸正确和无聊平衡。理性客观专业。
+
+# Files to READ (all)
+
+CURRENT ship candidates:
+1. `02-current/three-kinds-of-stone-v5.2b-suno-paste-only.txt`  ← what she should generate with now
+2. `02-current/three-kinds-of-stone-v5.2b-primary-compact.txt`
+3. `02-current/three-kinds-of-stone-v5.2-short-cut-final.txt` (prior short cut)
+4. `02-current/three-kinds-of-stone-v5.1-final.txt` (long lock / 5+ min lineage)
+
+Audits / evidence:
+5. `01-source/external-audits-dual-after-v5.2-shortcut.txt`  ← two external AIs
+6. `01-source/sol-gpt-5.6-sol-xhigh-v5.1-expert-audit.txt`
+7. `01-source/sol-gpt-5.6-sol-xhigh-v5.2-continue-shortcut.txt`
+8. `01-source/sol-gpt-5.6-sol-xhigh-v5.2b-style-compact.txt`
+9. `01-source/v4-producer-audits-dual.txt`
+10. `01-source/v5-post-surgery-recheck-dual.txt`
+11. Optional DNA: `01-source/raw-ningbo-notes.txt` (公子哥 excluded from song)
+
+MAP: `00-read-me/MAP.txt`
+
+# Live generation facts
+- Long lyric package generated ~5+ minutes, often 又臭又长又无聊
+- Style was over-stuffed (style + lead + breath bar manual) → absorption fail
+- v5.2b already: compact single style paragraph, cold-open passenger couplet moved front, hum outro only, bar-counts stripped
+- Still treat **listener entry cost** as primary creative risk; duration as production risk
+
+# Axis lock (do not slogan-ize)
+feet / stone / weight  vs  screen / glass / float
+Evidence via touch. Never Atom/Bit theory lines.
+"Not cured. Not pure." — keep non-cure ending ethics unless you have a better non-preach ending that is MORE accessible without becoming self-help.
+
+# Deliverable structure (use exact headers)
+
+## A. Market-first re-audit
+Score 0–10 with one-line why:
+- Instant comprehension (first 15–20s for a stranger)
+- Emotional invitation ("this is about me")
+- Image clarity without insider code
+- Hook hummability / singability
+- Non-didactic truth
+- Market radius (useful+interesting vs 曲高和寡)
+- Duration/Suno absorbability of CURRENT v5.2b package
+- Overall
+
+Taxonomy: what / why / how / category for a **listener**, not for workshop peers.
+
+Name the top 3 **understanding-cost blockers** with line-level evidence from CURRENT v5.2b lyrics.
+
+Verdict: Ship / Surgical / Rewrite — pick ONE.
+
+## B. Decision
+Is a new version necessary? Why? What trap to avoid?
+
+## C. NEW VERSION — complete package (required)
+Produce **v5.3-market** as ONE clean Suno package. Not three competing options.
+
+Hard rules for the new version:
+1. **Primary style only** — one Style of Music paragraph ≤450 chars; one Exclude line; no B/C; no breath-bar production bible in Style field
+2. **Lyrics must be fully written** — every section real lines, not outline
+3. Lower understanding cost for a first-time English listener who does NOT share Liz's Ningbo notes
+4. Keep physical evidence (stone / weight / dogs / street) — do NOT become abstract therapy speech
+5. If private codes hurt entry (e.g. Quiet number eleven without anchor), either lightly recontextualize OR replace with equally strong accessible image — justify
+6. Opening must captivate a stranger in ≤15s of text
+7. Target sung ~3:00–3:30; hard reject design for >3:50 (compact structure, not essay length)
+8. Male close-mic controlled; never belted; female hum optional/minimal if it helps or drop if it hurts
+9. Preserve non-cure honesty
+10. Section tags minimal (no two-bar essays)
+
+Package format:
+```
+# THREE KINDS OF STONE — v5.3 MARKET
+[profile ≤12 lines]
+[STYLE OF MUSIC — one paragraph]
+[EXCLUDE — one line]
+[SLIDERS]
+[LYRICS — full]
+[WHAT CHANGED — bullets, listener benefit]
+[STOP]
+```
+
+## D. Diff vs v5.2b
+Bullet every material lyric change + why it helps market/listener.
+
+## E. What you refused to change
+Protect list.
+
+Begin after reading files. Be a producer + A&R + songwriter for humans, not for AI workshops.

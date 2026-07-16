@@ -1,19 +1,22 @@
 当前规范路径:
 /home/ubuntu/music/07-15-field-notes/
 
-【Suno 只贴这个 — 三字段，不杂】
-02-current/three-kinds-of-stone-v5.2b-suno-paste-only.txt  ← 生成用
+【生成用 LATEST — market ship】
+02-current/three-kinds-of-stone-v5.3-market-suno-paste-only.txt  ← 只贴三块
+02-current/three-kinds-of-stone-v5.3-market.txt                  ← 完整包
 
-【完整包 + Sol 说明】
-02-current/three-kinds-of-stone-v5.2b-primary-compact.txt
-01-source/sol-gpt-5.6-sol-xhigh-v5.2b-style-compact.txt
+【Opus audit 全文】
+01-source/opus-4-8-xhigh-v5.3-market-audit.txt
+  model: claude-opus-4-8-xhigh · NEW session
+  Instruction Prompt: 有用且有趣 / 尊重市场 / 反曲高和寡
+  Verdict: SURGICAL · Overall 6.8 (v5.2b) → v5.3-market
 
-【上一版 short-cut / 长版】
-02-current/three-kinds-of-stone-v5.2-short-cut-final.txt
+【前版对照】
+02-current/three-kinds-of-stone-v5.2b-suno-paste-only.txt
 02-current/three-kinds-of-stone-v5.1-final.txt
 
-v5.2b 要点:
-- Style = 单段 ~400 字以内；禁止把 Breath/Lead 拼进 Style
-- 删 bar-count 制作手册
-- passenger 冷开场（词不新增，只前移）
-- hum 仅 Outro
+核心手术:
+- Quiet number eleven → quietest street I could find
+- little program → app I never use myself
+- hook 双连重复
+- cold open 前移 skin
