@@ -1,0 +1,180 @@
+# Old Weights — Suno Complete Package (FINAL lyrics + production)
+# Date: 2026-07-16
+# Lyrics: locked (old-weights-final.txt) — production layer added after Liz asked for style/vocal package
+# Note: Final Cursor lyric pass was lyric-only by brief design; this package is the missing production layer.
+
+================================================================================
+SONG PROFILE
+================================================================================
+Title: Old Weights
+Length target: ~3:00–3:20
+BPM: 76–82 (prefer 78)
+Key lean: A minor or D dorian (minor color; avoid bright major resolve)
+Hook: OLD WEIGHTS — / when I'm soft, they fire
+Axis: residual fire on soft · labeler gone / settings on · not broken, older version
+Vocal gender: open (recommend close-mic adult voice; try male take + optional female take)
+Job of the track: confessional single — diagnosis not lament; residual honesty, no cure anthem
+Structure notes:
+- Cold open = a cappella / near bare signature line before narrative
+- After every "OLD WEIGHTS —" leave one beat of silence (em dash already in lyrics; do not fill with instrument)
+- Peak dynamic stays restrained (mf not f); final chorus denser layers, not louder belting
+- Bridge nearly spoken → stand/sit physical; Mon/Tue lands in Final Chorus
+
+================================================================================
+LYRICS FIELD (Custom Mode) — parameterized vocal tags
+================================================================================
+
+[Cold Open: near a cappella, one held guitar note under, close-mic, dry, confessional, tired calm]
+Old weights fire when the room goes soft.
+
+[Intro: sparse fingerpicked guitar or clean neck-pickup, room tone, no rush, instrumental 4–6 bars]
+
+[Verse 1: hushed close-mic, chest voice, conversational-melodic, reporting not reliving, sparse guitar + low piano]
+Report card face-down under the kitchen light.
+Same three lines every problem kid got —
+lazy, careless, not like the good one.
+They said it soft. It landed like steel.
+I learned the shape before I learned the word.
+Froze the dial. Called the freeze "me."
+Wore the number on my chest
+like factory setting, not a guess.
+
+[Pre-Chorus: slight lift, more air, denser but controlled, upright bass enters]
+Then something soft —
+a quiet room, a kind face, a little rest —
+and the old hands move first.
+
+[Chorus: clear hook, melodic restrained, chest voice ~70% max, dry center vocal, leave silence after title line]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Verse 2: same close-mic, tighter, wry adult residue, still sparse]
+You said I didn't have to earn the quiet.
+My throat still braced like something was due.
+New city, new keys — same flinch when you laugh
+a half-second longer than I planned for.
+I catch the script mid-sentence, mouth already wrong.
+The floor remembers the old dance first.
+Right answer once — for a house that's gone.
+The map still fits a country that's no more.
+
+[Pre-Chorus: thinner than first pre, intimate]
+Something soft —
+your hand open, nothing asked —
+and the old hands move first.
+
+[Chorus: same melody and words, slightly opened arrangement, still no belting]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Bridge: stripped, spoken-to-sung, live-take feel, allow small hesitation, near silent under]
+Nine years old. I asked for something small.
+Watched a face go cold across the hall.
+Learned it in one breath:
+to need is to be too much — so want less.
+
+I hold the old report card.
+Both hands.
+Nobody's grading anymore —
+so who is this for?
+
+I stand up to say it.
+Sit back down. Stand up again.
+That's the whole update tonight.
+
+[Final Chorus: denser layers not louder, one low octave double only, brushed drums optional, still restrained]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Some nights they take the first round.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+the settings still run.
+I forget it by Monday.
+Try again Tuesday.
+Not the final build.
+Still moving what I can.
+
+[Outro: near-whisper, sparse again, air between lines, fade clean]
+Same kitchen light. My house now.
+Same word for me —
+I get to weigh it now.
+Still here.
+Still training —
+on the next small weight
+I can actually move.
+
+[End]
+
+================================================================================
+STYLE CONTAINERS (pick one per generate; 2–3 distinct emotional containers)
+================================================================================
+
+--- Container A — Chamber confessional (primary demo) ---
+Style of Music (copy as one block, <350 chars if using short field; else full):
+alt-folk confessional singer-songwriter, chamber-indie, 78 BPM A minor, close-mic dry vocal conversational-melodic, fingerpicked nylon guitar, felt piano, upright bass, brushed drums late only, sparse-to-dense arc, restrained peak dynamics, melancholic clear-eyed no triumph
+
+Exclude Styles (single line):
+screaming, belting, grit, pop-punk, emo, industrial, EDM drops, autotune, trap hi-hats, anthemic stadium, worship pad swell, choir pads, reverse swell pop build, gang vocals, cure-anthem triumph, wall-to-wall vocal
+
+--- Container B — Soft-rock narrative (slightly more band) ---
+Style of Music:
+intimate narrative soft-rock, 80 BPM minor key, close-mic controlled male or female lead, clean electric guitar neck pickup, warm bass, light room drums, sparse-to-dense section contrast, no belting, adult confessional, polished but dry mix
+
+Exclude Styles (single line):
+screaming, shouting, belting, pop-punk, emo, grunge, EDM drops, autotune, trap hi-hats, stadium rock, choir pad spam, therapy-pop melisma, anime OP energy
+
+--- Container C — Bare piano residual (minimal / Tiny Desk lean) ---
+Style of Music:
+minimal confessional piano ballad, 76 BPM, close-mic intimate vocal, felt piano primary, almost no drums, subtle low strings final chorus only, conversational phrasing, dry room, unresolved minor color, quiet intensity
+
+Exclude Styles (single line):
+screaming, belting, big drums, EDM, trap, autotune, pop swell, gospel choir, wall of sound, cinematic trailer build
+
+================================================================================
+SLIDER STARTING POINTS (optional)
+================================================================================
+Weirdness: 30–40 (stable hook)
+Style Influence: 70–80
+Generate 2–4 takes max → pick by ear; freeze lyrics unless phonetic break
+
+================================================================================
+VOCAL TAG CHEAT SHEET (what the section tags are doing)
+================================================================================
+- Cold Open: dry confessional; no melisma
+- Verses: reporting, not reliving; chest, close
+- Pre: soft lift, not power-up
+- Chorus: hook clear; silence after OLD WEIGHTS —; max ~70% dynamic
+- Bridge: spoken-sung; physical stand/sit; hesitation OK
+- Final: denser layers, Mon/Tue memory lines; not louder belt
+- Outro: whisper; air between fragments
+
+================================================================================
+CHANGELOG
+================================================================================
+- v1 Lyric + v2 Opus independent drafts (2026-07-16)
+- External multi-AI audits on v1/v2
+- v3 Lyric + v3 Opus parallel after audits
+- External v3 audit stitch → Cursor surgical FINAL lyrics (text lock)
+- This file: production layer added (parameterized tags + 3 style containers + exclude + profile) — was missing because final lyric brief was scoped lyrics-only
+
+================================================================================
+PASTE ORDER INTO SUNO CUSTOM MODE
+================================================================================
+1) Style of Music → one container
+2) Exclude Styles → that container's single line
+3) Lyrics → full LYRICS FIELD block above
+4) Title → Old Weights
