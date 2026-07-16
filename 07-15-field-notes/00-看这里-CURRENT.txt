@@ -1,22 +1,17 @@
 当前规范路径:
 /home/ubuntu/music/07-15-field-notes/
 
-【生成用 LATEST — market ship】
-02-current/three-kinds-of-stone-v5.3-market-suno-paste-only.txt  ← 只贴三块
-02-current/three-kinds-of-stone-v5.3-market.txt                  ← 完整包
+【现在生成用 — style rewrite, lyric frozen】
+02-current/three-kinds-of-stone-v5.3-style-c-suno-paste.txt
 
-【Opus audit 全文】
-01-source/opus-4-8-xhigh-v5.3-market-audit.txt
-  model: claude-opus-4-8-xhigh · NEW session
-  Instruction Prompt: 有用且有趣 / 尊重市场 / 反曲高和寡
-  Verdict: SURGICAL · Overall 6.8 (v5.2b) → v5.3-market
+【歌词 FROZEN】
+02-current/three-kinds-of-stone-v5.3-market-suno-paste-only.txt  (lyric body only)
 
-【前版对照】
-02-current/three-kinds-of-stone-v5.2b-suno-paste-only.txt
-02-current/three-kinds-of-stone-v5.1-final.txt
+【Opus style continue 全文】
+01-source/opus-4-8-xhigh-v5.3-style-continue.txt
 
-核心手术:
-- Quiet number eleven → quietest street I could find
-- little program → app I never use myself
-- hook 双连重复
-- cold open 前移 skin
+要点:
+- Style1 vs Style2: DNA同；Style2丢了 tension/breath/motif → 坍成清汤
+- 时长词不是 API；靠 walking pulse + motif + exclude
+- Lyric: FREEZE，再改词负收益
+- Sliders: Weirdness 40–45 · SI 60–68 · 抽 4–6 条

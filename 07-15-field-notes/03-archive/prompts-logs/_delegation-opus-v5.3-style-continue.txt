@@ -1,0 +1,81 @@
+CONTINUE previous session (claude-opus-4-8-xhigh). OUTPUT FULL RESPONSE. Do not self-save. No outline-only.
+
+# Liz live listening feedback (verbatim intent — highest priority this turn)
+
+She compared TWO style prompts she actually used:
+
+### Style 1 — YESTERDAY (generated ~5 min takes)
+She was **actually quite satisfied with the NON-lyric result** from this era:
+```
+Documentary Walking Folk, intimate documentary folk, walking-pace narrative song 82 BPM, close-mic male vocal controlled melodic never shouted, fingerpicked acoustic guitar motif, warm upright bass, brushed dry drums, sparse field-recording air, dynamic breathing with instrumental rests, unresolved quiet tension under calm surface, clean warm mix
+
+D minor or E minor
+Length:           ~3:00 · hard ceiling 3:50
+Vocal:            male close-mic melodic controlled intimate — NEVER belted/shouted ; distant female hum
+```
+Problems when lyrics counted: too long, high understanding cost.
+But production feel: she liked it more.
+
+### Style 2 — JUST USED (v5.3 market style)
+Runtimes: one **3:59**, one **4+ min** (still over target, not the old 5-min disaster but not 3:00–3:30).
+Feeling:
+- First half NOT more impressive / captivating / eye-catching / ear-catching than before
+- Most of the time: **flat boring guitar melody** + **rough/cheap-sounding male vocal**
+- Super watery clear-soup — “boiled in a pot with no soy sauce”
+- Ed Sheeran-adjacent but boring — “super boring Supermarket Flowers / Perfect”
+- Only second half gets richer **female hum + strings**
+
+She asks:
+1. Are Style 1 and Style 2 actually not that different?
+2. Is this Suno lottery / model RNG more than prompt?
+3. **Lyric: already past marginal benefit / further lyric work = negative?** She feels it may be sliding toward 流水账 (diary-plain). Confirm honestly.
+4. **Style: can it get better?** Why does declaring length fail / sometimes reverse? Design guidance.
+5. **Give ONE new style prompt + guidance** (please). Primary only. Not three versions.
+
+# Context files (already in workspace)
+- Current lyric ship: `02-current/three-kinds-of-stone-v5.3-market-suno-paste-only.txt` and `…-v5.3-market.txt`
+- Prior style lineage: v5.2b paste-only, short-cut, v5.1
+- Her instruction prompt spirit still holds: 有用且有趣, not 又臭又长又无聊, not 曲高和寡
+
+# Your job THIS turn (narrow)
+
+## 0. Honest answers (short, Chinese OK)
+- Style1 vs Style2: same DNA? What actually changed for the model?
+- RNG vs prompt: how to allocate blame
+- Lyric: STOP further lyric? Or one tiny risk only? 流水账 risk real?
+- Why “3-minute / hard ceiling” language fails on Suno
+
+## 1. ONE Style of Music paragraph (PRIMARY only)
+Requirements:
+- **Single paragraph**, paste-ready, **≤450 characters** preferred, hard max ~550
+- Restore what made Style 1 feel better: walking-pace narrative, **motif**, **dynamic breathing**, **unresolved quiet tension under calm surface**, clean warm mix, field-recording air — WITHOUT Style1’s multi-block stuffing
+- Fix Style2 failures: bland Sheeran-ballad collapse, rough vocal, watery empty guitar, interest only arrives late
+- Push: earlier texture/interest (not only late strings+hum), warmer prettier male tone without belting, more melodic guitar motif (not noodle, not boring open-string loop), still intimate documentary folk
+- Length: prefer **mechanisms that actually shorten** (e.g. no long intro, no ballad sprawl, midtempo walk, compact arrangement) — do NOT rely on “3:00–3:30” as magic words; explain why
+- Key D or E minor OK; BPM: pick one number (82 or 84) based on walking feel vs bland-ballad risk
+- Female hum: **earlier light touch allowed if it prevents late-only interest**, but not continuous pad; OR keep outro-only if earlier hum causes bloat — decide with reason from her listen notes
+- Never belted / no soar / no power ballad
+
+## 2. ONE Exclude line
+Lean, comma-separated. Explicitly exclude: Ed Sheeran-type soft-pop ballad mush, supermarket-flowers sincerity, rough low-fi male, meandering acoustic loop, long ambient intro, etc. — whatever matches her complaint without banning the genre.
+
+## 3. Paste package for Style only
+```
+[STYLE OF MUSIC]
+...
+[EXCLUDE]
+...
+[SLIDERS]
+...
+[HOW TO PASTE / GENERATE]
+...
+[IF STILL BAD — next 3 levers, not more style adjectives]
+```
+
+## 4. Lyric policy this turn
+Do **NOT** rewrite full lyrics unless you must fix one line that causes Style2 blandness (unlikely). Default: **lyric freeze**. Say so clearly.
+
+## 5. What NOT to do
+No B/C. No multi-option style menus. No full v5.4 lyric. No production-bible breath bars. No more “tight three-minute song” spam if it doesn’t work — replace with better sonic constraints.
+
+Begin.

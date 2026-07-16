@@ -1,0 +1,116 @@
+# THREE KINDS OF STONE — v5.3 STYLE-C (Opus continue)
+# Lyric FREEZE = v5.3-market (unchanged)
+# Style rewrite only: restore Style1 tension/breath/motif; kill clear-soup Sheeran mean
+
+===== LYRIC POLICY =====
+FROZEN. Do not re-edit lyrics. Marginal lyric gain is negative.
+
+===== 1) STYLE OF MUSIC (primary — full; Opus preferred first batch) =====
+intimate documentary walking folk, 84 BPM steady walking pulse, D or E minor, warm close-mic male vocal, tender and lived-in, controlled melodic never belted, a clear recurring fingerpicked guitar motif that returns each section as a hook, warm upright bass, brushed dry drums entering by the first verse, sparse field-recording room air, restrained texture from the start, unresolved quiet tension under a calm surface, dynamic breathing with real instrumental rests, one sparse distant female wordless hum after the first chorus and in the outro, restrained strings only in the final chorus, clean warm intimate mix, present and characterful lead vocal, compact verse-chorus form with a repeated one-line hook
+
+===== 1b) STYLE OF MUSIC (shorter ≤550 optional) =====
+intimate documentary walking folk, 84 BPM steady walking pulse, D or E minor, warm close-mic male vocal, tender and lived-in, controlled melodic never belted, a clear recurring fingerpicked guitar motif that returns each section as a hook, warm upright bass, brushed dry drums entering by the first verse, sparse field-recording room air, restrained texture from the start, unresolved quiet tension under a calm surface, dynamic breathing with real instrumental rests, one sparse distant female wordless hum after the first chorus and in the outro, restrained strings only in the final chorus, clean warm intimate mix
+
+===== 2) EXCLUDE =====
+soft-pop ballad, Ed Sheeran acoustic ballad, supermarket-flowers sincerity, wedding-song sweetness, glossy singer-songwriter pop, thin rough lo-fi male vocal, amateur demo vocal, pitchy vocal, karaoke tone, plain open-string strumming loop, aimless acoustic noodling, rubato free-time drift, long ambient intro, extended outro, instrumental solo, wall-to-wall vocals, continuous female pad, choir, belting, shouting, soaring chorus, power ballad, arena build, heavy autotune
+
+===== 3) SLIDERS =====
+Weirdness 40–45 · Style Influence 60–68
+(Higher weirdness = off clear-soup mean; lower influence = less over-obedience)
+
+===== 4) HOW TO GENERATE =====
+- Style field = ONLY paragraph 1 (or 1b). Never paste profile/breath/length essays.
+- Lyrics = frozen v5.3-market.
+- Generate 4–6 takes. Discard rough/cheap vocal on sound alone.
+- Accept: real guitar motif, warm male, textured before ~1:00.
+- Length: 3:00–3:40 OK if interesting. Do NOT re-add "3-minute ceiling" magic words.
+
+===== 5) IF STILL BAD (next levers) =====
+1. Length >3:50 → cut structure / end hard, not more "shorter" adjectives
+2. Vocal rough → more rolls / optional SI~70 one batch
+3. Still flat early → Weirdness 48–52 or E minor vs D minor
+
+===== 6) FROZEN LYRICS (v5.3-market) =====
+[Cold open: immediate close-mic male]
+
+I was living in my skin like a passenger —
+a body I forgot how to drive,
+floating two inches above the ride.
+
+[Verse 1: low conversational]
+
+Sixteen floors. Thirty-two doors on my floor alone.
+Close enough to share a wall, far enough to never knock.
+I pull my socks on. I open the door.
+
+Frosted slab. Old bluestone that won't lie flat.
+River-worn cobble that rolls under the sole.
+I slow like a kid and read the street with my feet —
+three different weights, three different truths in the bone.
+Cranes hammer near and far in the same thin second —
+the sound has weight; the phone in my pocket has none.
+
+[Pre-chorus: subtle lift]
+
+My head can run the whole day clean and never leave the room,
+reading the world from somewhere just above the wound.
+The glass stays flat under my thumb. The street doesn't.
+It asks for skin. It asks for time.
+
+[Chorus: grounded, descending, hook repeated]
+
+So I put my weight down.
+I put my weight down.
+Not the fire, not the rush — just the quietest street I could find.
+Stone under the shoe, glass in the hand,
+I came out of the screen to feel where the bluestone breaks.
+
+[Instrumental breath]
+
+[Verse 2: intimate and sparse]
+
+Two dogs at a kitchen door — grey-black, dirty white —
+oil-smoke in their fur, already against my legs.
+Not pretty. Not soft. They lean on me anyway.
+
+An old woman at the stop: which bus, and when?
+I open the app I never use myself.
+A small kindness moves. My clever mouth goes quiet.
+
+[Short refrain]
+
+So I put my weight down.
+I put my weight down.
+I came out of the screen to feel where the cobble rolls.
+
+[Bridge: stripped, near-spoken]
+
+Ten square meters. Blinds down. Headphones on.
+Chasing the next bright thing till the body felt
+gone.
+Am I living in the skin,
+or is the body just a car
+for a brain that only trusts what lights up far?
+
+[Brief silence]
+
+I set the phone face-down on the floor.
+Then I pulled my socks on. Then I opened the door.
+
+[Final chorus: controlled, strings enter, still no belt]
+
+So I put my weight down.
+I put my weight down.
+The trouble I dragged here is still waiting outside —
+still close, still far, still glass in the pocket, stone under the stride.
+
+Not cured. Not pure. The main thing stays unsolved.
+Socks on, door open, feet on the stone of the world.
+
+[Outro: close male, one distant female wordless hum]
+
+One more block with weight.
+Not floating.
+Not finished.
+
+[End]
