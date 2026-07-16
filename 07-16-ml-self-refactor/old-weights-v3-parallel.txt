@@ -1,0 +1,241 @@
+# Old Weights — two independent v3 drafts (parallel, NOT merged)
+# Folder: ~/music/07-16-ml-self-refactor/
+# Context: v1+v2 + external multi-AI audits (audits-external-v1v2-2026-07-16.txt)
+# Policy: goal-open — no factory path-deps; stock "Not cured. Not pure." not forced
+# Date: 2026-07-16
+#
+# Part A = Lyric (Hermes) surgical synthesis
+# Part B = Cursor Opus 4.8 --continue independent v3
+
+================================================================================
+PART A — v3 Lyric
+================================================================================
+
+Axis: old weights fire when soft · labeler gone / settings on · version ≠ soul
+Concept: Residual childhood verdict fires in soft rooms; not defective — outdated; small clumsy updates, no cure show.
+
+--- LYRICS v3 Lyric ---
+
+[Cold Open — near bare, one held note under]
+Old weights fire when the room goes soft.
+[breath]
+
+[Intro — sparse piano or clean guitar]
+
+[Verse 1]
+Report card face-down under the kitchen light.
+Same three lines every problem kid got —
+lazy, careless, not like the good one.
+They said it soft. It landed like steel.
+I learned the shape before I learned the word.
+Froze the dial. Called the freeze "me."
+Wore the number on my chest
+like factory setting, not a guess.
+
+[Pre-Chorus]
+Then something soft —
+a quiet room, a kind face, a little rest —
+and the old hands move first.
+
+[Chorus]
+OLD WEIGHTS —
+[one beat rest]
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+[one beat rest]
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Verse 2]
+You said I didn't have to earn the quiet.
+My throat still braced like something was due.
+New city, new keys — same flinch when you laugh
+a half-second longer than I planned for.
+I catch the script mid-sentence, mouth already wrong.
+The floor remembers the old dance first.
+Right answer once — for a house that's gone.
+The map still fits a country that's no more.
+
+[Pre-Chorus]
+Something soft —
+your hand open, nothing asked —
+and the old hands move first.
+
+[Chorus]
+OLD WEIGHTS —
+[one beat rest]
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+[one beat rest]
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Bridge]
+Nine years old. I asked for something small.
+Watched a face go cold across the hall.
+Learned it in one breath:
+to need is to be too much — so want less.
+
+I hold the old report card.
+Both hands.
+Nobody's grading anymore —
+so who is this for?
+
+I stand up to say it.
+Sit back down. Stand up again.
+That's the whole update tonight.
+I'll forget by Monday.
+Try Tuesday.
+
+[Final Chorus]
+OLD WEIGHTS —
+[one beat rest]
+when I'm soft, they fire.
+Some nights they take the first round.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+the settings still run.
+Not the final build.
+Still moving what I can.
+
+[Outro]
+Same kitchen light. My house now.
+Same word for me —
+I get to weigh it now.
+Still here.
+Still training —
+on the next small weight
+I can actually move.
+
+--- KEY FIXES (Lyric) ---
+Cold open; v1 chorus rest + v2 labeler; no Wound: labels; kitchen light; light you; stand/sit residual; no stock Not cured/Not pure
+
+
+================================================================================
+PART B — v3 Opus 4.8 (continue, independent)
+================================================================================
+
+Axis: old weights fire when soft — not broken, old version, still running
+Concept: Flinch at unearned gentleness; work isn't a cure, it's Tuesday.
+
+--- LYRICS v3 Opus ---
+
+[Cold Open — one guitar note, near-a-cappella]
+Old weights fire when the room turns soft.
+
+[Intro — sparse, room tone]
+Same kitchen light. My mother's voice.
+Different house. Same door I close too soft.
+
+[Verse 1 — hushed, close-mic]
+Report card turned face-down on the kitchen table.
+A hand that only warms me if I'm able.
+Lazy. Careless. Not like the good one, they said —
+and I wore it like a name, not a guess in somebody's head.
+The ones who marked me wrong were scared and young,
+just doing to me what got done to them.
+No lecture. Just a look I learned by heart.
+Froze the dial there. Called the freeze my start.
+
+[Pre-Chorus — small lift, more air]
+Then something soft —
+a quiet room, her steady hands, a little rest —
+and the old ones move first.
+
+[Chorus — short lines, protect the rest]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older wire.
+OLD WEIGHTS —
+the labeler's long gone,
+but he left the settings on.
+Still learning how to live in it.
+
+[Verse 2 — a concrete second person, present tense]
+She says, "You don't have to earn a thing in here."
+My hand still reaches for the receipt.
+Rest still reads as guilt.
+Good news slides right off — the bad news sticks the landing at my feet.
+It isn't broken wiring, it was true:
+right answer, wrong world — the map still fits
+a country I don't live in. And it never grew.
+She built a room that's safe. The alarm goes off in it.
+
+[Pre-Chorus 2 — thinner]
+Not her fault. Not mine.
+Nobody's scoring me now.
+The rule that kept me small back then
+just doesn't hold out loud —
+
+[Chorus]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older wire.
+OLD WEIGHTS —
+the labeler's long gone,
+but he left the settings on.
+Still learning how to live in it.
+
+[Bridge — sparse, spoken drifting to sung]
+Nine years old. I asked for something small.
+Watched a face go cold across the hall.
+Learned the whole equation in one breath:
+to need is to be too much — so want nothing, want less.
+
+I'm holding the old report card.
+Both hands.
+Nobody's grading it anymore —
+so who am I still writing for?
+
+I stood up to say it. Sat back down.
+Stood up again. Sat down.
+That's the update. That's the whole of it tonight.
+
+[Final Chorus — layered, not louder]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not new —
+just less on the wire.
+OLD WEIGHTS —
+he's gone, and the room's just a room.
+I forget it by Monday.
+I try again Tuesday.
+Still learning how to live in it.
+
+[Outro — near-whisper]
+Same kitchen light. My house now.
+Same word for me —
+I get to weigh it now.
+Just the next small weight
+I can actually move.
+
+--- KEY FIXES (Opus) ---
+Cold open; she/receipt present scene; older wire; sticks the landing; stand/sit/sit; Mon/Tue in final chorus; rejected stock Not cured; thinned tech
+
+
+================================================================================
+NAV (not a merge)
+================================================================================
+
+Convergent keep-signals across BOTH v3s:
+- Title Old Weights + cold open signature
+- Chorus: OLD WEIGHTS — / fire when soft / labeler gone / settings on
+- Bridge: age-9 face go cold + need=too much + report card both hands + stand/sit clumsy act
+- Outro: kitchen light / weigh it now / next small weight
+- No stock "Not cured. Not pure."
+
+Divergence (useful if you pick later):
+- Lyric: "you" second person, floor/old dance, "older version", "Not the final build", still training in outro
+- Opus: "she" + receipt/safe room, "older wire", Mon/Tue in final chorus, denser V2, mother's voice intro
+
+Status: parallel v3 only. Audits say: after pick/micro-phonetic, go to demo — not endless v4 text.
