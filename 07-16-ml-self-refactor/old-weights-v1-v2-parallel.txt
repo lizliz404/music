@@ -1,0 +1,228 @@
+# Old Weights — two independent drafts (parallel, NOT merged)
+# Song folder: ~/music/07-16-ml-self-refactor/
+# Source: writing/2026-07-16/ml-self-refactor (raw.md + exa-search-report.md)
+# Date: 2026-07-16
+# Language: English | ~3:00–3:30 | no screaming | no cure ending
+#
+# v1 = Lyric (Hermes)
+# v2 = Cursor Agent · claude-opus-4-8-high · independent, no peek at v1
+# Convergent title/axis: Old Weights · residual fires when soft · not broken / outdated · still training
+
+================================================================================
+PART A — v1 (Lyric)
+================================================================================
+
+Working titles: Old Weights / Soft Mode / Not Broken
+Primary: Old Weights
+Axis: old weights / freeze vs update / residual on soft / version ≠ soul
+Concept: Kid freezes family labels as factory settings; adult residual fires when soft; not defective — outdated version; still training, not cured.
+
+--- LYRICS v1 ---
+
+[Intro — sparse piano or clean guitar, room tone, no rush]
+
+[Verse 1 — hushed, close-mic, melodic]
+Report card face-down on the table light.
+Same three lines every "problem" kid gets —
+lazy, careless, not like the good one.
+They say it soft. It lands like steel.
+I learn the shape before I learn the word:
+freeze the dial. Call the freeze "me."
+I wear the number they printed on my chest
+like it was factory setting, not a guess.
+
+[Pre-Chorus — denser, still controlled]
+Then something soft —
+a quiet room, a kind face, a little rest —
+and the old hands move first.
+
+[Chorus — clear hook, sung not shouted; protect title beat]
+OLD WEIGHTS —
+[one beat rest]
+when I'm soft, they fire.
+I'm not broken.
+I'm just an older version.
+OLD WEIGHTS —
+[one beat rest]
+under the new skin.
+Not the final build.
+Still learning how to live in it.
+
+[Verse 2 — same delivery; adult residual]
+New city. New keys. Same flinch in the throat
+when someone laughs a half-second too long.
+I catch the script mid-sentence, mouth already wrong —
+the good kid / bad kid split still running hot.
+Parents' loop in the mirror without a speech:
+live demo, no textbook, no neat speech.
+I try a different step. The floor remembers
+the old dance first. Then, maybe, mine.
+
+[Pre-Chorus]
+Something soft —
+a quiet room, a kind face, a little rest —
+and the old hands move first.
+
+[Chorus]
+OLD WEIGHTS —
+[one beat rest]
+when I'm soft, they fire.
+I'm not broken.
+I'm just an older version.
+OLD WEIGHTS —
+[one beat rest]
+under the new skin.
+Not the final build.
+Still learning how to live in it.
+
+[Bridge — stripped; three moves only]
+Wound: kitchen light. Chair scrapes. That sentence again.
+Question: if I rewrite one line, do I still count as me?
+Act: I say it out loud — old version — and leave the room
+with the body still shaking, but walking.
+
+[Final Chorus — denser arrangement; same controlled vocal]
+OLD WEIGHTS —
+[one beat rest]
+when I'm soft, they fire.
+I'm not broken.
+I'm just an older version.
+OLD WEIGHTS —
+some days they win the first round.
+Not cured. Not pure.
+Still training on the ground.
+
+[Outro — sparse again; air between lines]
+Not the final build.
+[two-bar instrumental breath]
+Just the next small weight
+I can actually move.
+
+--- GENRE (v1 draft) ---
+Intimate narrative soft-rock, close-mic male vocal controlled melodic, sparse-to-dense dynamics, piano/clean guitar core, subtle bass pulse, no belting, ~78–84 BPM, minor or modal color
+
+Exclude: pop-punk, emo, industrial, grunge, screaming, shouting, belting, trap hi-hats, EDM drops, autotune, choir pad spam, lo-fi garage rough, anime OP energy, wall-to-wall vocal, cure-anthem triumph
+
+
+================================================================================
+PART B — v2 (Cursor Opus 4.8 independent)
+================================================================================
+
+Model: claude-opus-4-8-high (Cursor Agent, non-thinking)
+Independence: source-only; did not read v1
+Working titles: Old Weights (primary) / Soft Rooms / The Labeler Left the Room
+Axis: old weights fire when it's soft — not defective, just an outdated version still training
+Concept: Grown kid finds the judgments were cheap labels from people who left; residual still fires in quiet moments; work is staying in the loop, not a cure.
+
+--- LYRICS v2 ---
+
+[Intro — hushed, close-mic, sparse]
+Same kitchen light. Different house.
+Same word for me, said low, said proud.
+Somebody wrote it down in me
+before I learned to read.
+
+[Verse 1 — spoken-close, dense]
+Report card face-down on the table,
+a hand that only warms if I'm able.
+"Lazy." "Careless." "That's just how you are."
+I wore the sticker like it came from God —
+but the ones who labeled me were kids themselves,
+scared people copying scared people's help.
+No lecture. Just a look I learned by heart —
+I became the mirror, not the art.
+
+[Pre-Chorus — lift, more air]
+And I ran that code so long
+I forgot it wasn't mine.
+Set to factory in a room
+that closed a long, long time —
+
+[Chorus — melodic, restrained, denser texture]
+Old weights fire when the moment goes soft.
+Somebody's fear I never asked to be taught.
+Not a broken soul — an outdated line,
+still running default in the back of my mind.
+The labeler left the room. Left the settings on.
+I keep re-reading a verdict
+from a court that's gone.
+
+[Verse 2 — controlled, a little tighter]
+So it works — the flinch when someone's kind,
+I brace for the bill behind the smile every time.
+Rest reads as guilt. A win reads as a fluke.
+The bad news lands, the good just slides off smooth.
+That wasn't broken wiring — that was true
+in a house where love came priced, and overdue.
+Right answer, wrong world. Same as before:
+the map still fits a country that's no more.
+
+[Pre-Chorus 2 — thinner]
+But the room I train in changed.
+Nobody's scoring me now.
+The rule that kept me small in there
+just doesn't hold out loud —
+
+[Chorus — repeat, slightly opened]
+Old weights fire when the moment goes soft.
+Somebody's fear I never asked to be taught.
+Not a broken soul — an outdated line,
+still running default in the back of my mind.
+The labeler left the room. Left the settings on.
+I keep re-reading a verdict
+from a court that's gone.
+
+[Bridge — three moves: wound / question / physical act]
+(wound)
+Nine years old. I asked for something small.
+Watched a face go cold across the hall.
+Learned the whole equation in one breath:
+to need is to be too much — so want nothing, want less.
+
+(question)
+So who gets the pen now? Who says what I am —
+the frightened room, or the one still standing?
+
+(physical act)
+I put the old report card down.
+I say it flat, no crown, no cure:
+"That was the version. Not the core."
+And I leave the light on. And I close the drawer.
+
+[Final Chorus — same melody, humbled, still training]
+Old weights still fire when the moment goes soft —
+some nights I lose to a fear I forgot.
+Not cured. Not pure. Not rebuilt overnight —
+just one more small update, one honest trial.
+The labeler's long gone. The room's just a room.
+I'm not the sentence they left me.
+I'm still in the loop.
+
+[Outro — near-whisper, one breath]
+Same kitchen light. My house now.
+Same word for me —
+I get to weigh it now.
+Still training.
+Still here.
+
+--- GENRE (v2 draft) ---
+Intimate alt-folk / chamber-pop; close-mic vocal, fingerpicked or muted electric, upright bass, brushed drums entering late; hushed verses building to a controlled, layered chorus; melancholic but clear-eyed; sparse-to-dense dynamic arc; conversational phrasing.
+
+Exclude: screaming, belting, grit, pop-punk, emo, industrial, EDM drops, autotune-heavy, anthemic stadium
+
+
+================================================================================
+QUICK DIFF (not a merge — navigation only)
+================================================================================
+
+Convergent keep-signals:
+- Title: Old Weights
+- Soft-trigger residual fire
+- Report card / lazy-careless labels
+- Not broken / outdated version
+- Not cured · still training
+
+v1 owns: beat-rest hook landing; "every problem kid" homogenization; freeze-the-dial; final-build / small weight I can move
+v2 owns: labeler left the room / court that's gone; mirror not the art; map/country distribution-shift; need=too much (age 9); still in the loop
+
+Status: parallel drafts only. No synthesis yet.
