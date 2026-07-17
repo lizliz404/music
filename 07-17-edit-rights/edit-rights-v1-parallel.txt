@@ -1,0 +1,169 @@
+EDIT RIGHTS — v1 平行双版本 (2026-07-18)
+Source: ~/music/07-17-edit-rights/01-source/ (raw-notes-liz + raw-chat-ccy + image-analysis)
+
+═══════════════════════════════════════
+VERSION A — Lyric (Kimi)
+═══════════════════════════════════════
+
+[Verse 1]
+Ninety yuan bought a night in the edit suite
+Where the trash sorts itself in the basement heat
+And the elevator hums like it's keeping a secret
+Every door closes soft — magnetic, no effort
+
+The security guard's young with a balanced-board glide
+Green plates in the garage, no ads on the ride
+I walked through the lobby like I paid for the view
+A tourist in a world with the friction removed
+
+[Pre-Chorus]
+They wrote "no entry" twice on the same sign
+Anxiety dressed up as border design
+Even the pipes wear fake vines in the dark
+Backstage performing for nobody's eyes
+
+[Chorus]
+It's not the marble, it's not the lake
+It's the right to choose what you see when you wake
+To delete every errand, every queue, every wait
+Edit rights — the real estate
+And I stood in that frame like a glitch in the code
+Ninety yuan for a night in the overflow
+Why not me? Why not me?
+The question that followed me home through the cold
+
+[Verse 2]
+She bought the first floor 'cause her parents can't climb
+Then they wouldn't move in, so she rents it online
+Auntie with two homes and a vegetable dream
+Counting money like it's nothing, like it's air, like it's steam
+
+I tutored a kid bound for Toronto's gates
+His English was broken, his future was paid
+A whole cabinet of luxury, gold bars in the drawer
+And KFC coupons by the door
+
+[Pre-Chorus]
+They don't perform rich — they just are
+The entitlement's quiet, it doesn't spar
+"You like me or you don't" — no moral debt
+While I'm still negotiating what I deserve to get
+
+[Chorus]
+It's not the marble, it's not the lake
+It's the right to choose what you see when you wake
+To delete every errand, every queue, every wait
+Edit rights — the real estate
+And I stood in that frame like a glitch in the code
+Ninety yuan for a night in the overflow
+Why not me? Why not me?
+The question that followed me home through the cold
+
+[Bridge]
+The fake vine on the pipe — that's the tell
+Even backstage has to look like it sells
+The gardener's pruning at six AM sharp
+So the residents never see the work, just the art
+
+And I'm back in the noise where the night market breathes
+Where the elevator's slow and the trash never leaves
+But something got lit in that frictionless night
+A hunger that doesn't ask for edit rights
+
+[Final Chorus]
+It's not the marble, it's not the lake
+It's the right to choose what you see when you wake
+To delete every errand, every queue, every wait
+Edit rights — the real estate
+I was a glitch in the code, now I'm writing my own
+Ninety yuan bought the seed, now it's grown
+Why not me? Why not me?
+Not a question anymore — it's a tone
+
+[Outro]
+The fake vine on the pipe
+The guard on his board
+The lake through the window
+I can't afford — yet
+
+
+═══════════════════════════════════════
+VERSION B — Grok 4.5 (via Cursor)
+═══════════════════════════════════════
+
+[Verse 1]
+Ninety yuan — one night behind the double sign
+"Residents only" twice, like they mean it this time
+Magnetic doors click shut, no handle, no scrape
+B1 eats the trash, the parcels, the shape
+
+Green plates glow colder in the garage light
+Guard on a balance board, silent, upright
+Fake vines on the pipes where no owner goes
+Front stage so clean you forget what it owes
+
+[Chorus]
+Edit rights — cut what you don't wanna see
+Edit rights — fold the friction under the street
+Not more square meters, not a prettier view
+Just the power to delete what gets through
+I paid ninety yuan to borrow the frame
+Why not me? Why not me? — saying the name
+
+[Verse 2]
+Auntie bought first floor so her parents won't climb
+They stayed upstairs — she rents out the time
+Counts cash like steam, small garden, soft dream
+Two flats, one building, money like cream
+
+Tutored a kid bound for Toronto's door
+English broke open on the living-room floor
+Whole wall of luxury, gold bars, new shoes
+KFC coupons stuck next to the news
+
+[Chorus]
+Edit rights — cut what you don't wanna see
+Edit rights — fold the friction under the street
+Not more square meters, not a prettier view
+Just the power to delete what gets through
+I paid ninety yuan to borrow the frame
+Why not me? Why not me? — saying the name
+
+[Bridge]
+Their quiet "I deserve this" hit my scarcity hard
+Abundance walks soft — scarcity keeps scorecards
+One night of silence, then the night market's roar —
+If they can edit the world, what's stopping me for?
+
+[Final Chorus]
+Edit rights — cut what you don't wanna see
+Edit rights — fold the friction under the street
+Not more square meters — I'm rewriting the view
+Taking the power to choose what gets through
+Ninety yuan lit something I can't put away
+Why not me? Why not me? — I mean it today
+
+
+═══════════════════════════════════════
+对比笔记
+═══════════════════════════════════════
+
+Hook:
+  A: "Edit rights — the real estate" (pun: 房地产/真正的状态)
+  B: "Edit rights — cut what you don't wanna see" (动作导向，更直接)
+
+结构:
+  A: ABABCB + Outro, 有 Pre-Chorus, 8段, 较完整
+  B: ABABCB, 无 Pre-Chorus 无 Outro, 6段, 更紧凑
+
+Bridge:
+  A: 假花藤意象 + 回到摩擦世界 → 点火
+  B: 配得感 vs 匮乏感正面碰撞 → "what's stopping me"
+
+最佳单行 (cross-version):
+  B: "Abundance walks soft — scarcity keeps scorecards"
+  A: "I stood in that frame like a glitch in the code"
+
+结尾:
+  A: "yet" 留白，冷收
+  B: "I mean it today" 宣言，热收
