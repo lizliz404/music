@@ -4,4 +4,4 @@
 【Cursor】
 new session · model: claude-opus-4-8-thinking-xhigh
 prompt = grow-the-fuck-up maturity analysis (EN Qs + ZH instruction)
-stdout → opus-4-8-thinking-xhigh-output.txt
+stdout → grow-the-fuck-up-opus-4.8-output.txt

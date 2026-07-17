@@ -7,11 +7,11 @@ raw-material.txt  — Liz 2026-07-17 intake（含「恶心态度」后补段）
 【Cursor】
 new session · model: gpt-5.6-sol-xhigh
 prompt = raw-material.txt 原样（无额外 instructions）
-stdout → sol-gpt-5.6-sol-xhigh-output.txt
+stdout → runxue-sol-output.txt
 
 【音频】
 audio/2026-07-17-runology-short-the-old-world.mp3
   Artist: claude-opus-4-8-thinking-xhigh
   Title:  2026-07-17-runology-short-the-old-world
-  Source: opus-4-8-thinking-xhigh-output.txt · Doubao TTS2 full listen
+  Source: runxue-opus-4.8-output.txt · Doubao TTS2 full listen
 
