@@ -1,0 +1,7 @@
+当前规范路径:
+/home/ubuntu/music/07-17-grow-the-fuck-up/
+
+【Cursor】
+new session · model: claude-opus-4-8-thinking-xhigh
+prompt = grow-the-fuck-up maturity analysis (EN Qs + ZH instruction)
+stdout → opus-4-8-thinking-xhigh-output.txt
