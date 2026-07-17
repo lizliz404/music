@@ -167,3 +167,64 @@ Bridge:
 结尾:
   A: "yet" 留白，冷收
   B: "I mean it today" 宣言，热收
+
+
+═══════════════════════════════════════
+VERSION A — SUNO STYLE PROMPT (Lyric)
+═══════════════════════════════════════
+
+Style:
+Alternative R&B with lo-fi hip-hop undertones, 92 BPM, D minor. Opens with sparse muted guitar and room-tone ambience — the sound of an empty marble lobby. Male vocals, low register, conversational and slightly detached in verses, like someone narrating a documentary to themselves. Pre-chorus adds subtle sub-bass pulse and filtered hi-hats, tension building. Chorus opens into warm analog synth pads with a hummable melodic hook — the vocal lifts but stays controlled, not belting, more like a quiet realization than an anthem. Second verse introduces a soft boom-bap drum pattern. Bridge strips to near-silence: just finger snaps on 2&4 and a single sustained synth drone, vocals drop to almost-whisper, then the final chorus returns fuller with layered harmonies and a crisp tongue-click fill on the turnaround. Outro fades with vinyl crackle and a single piano note. Overall mood: quiet observation turning into quiet fire. Not aggressive — smoldering.
+
+Exclude:
+EDM drops, trap hi-hat rolls, auto-tune, screamo, belting, power ballad, country twang, orchestral swell, dubstep
+
+Vocal Tags (inline):
+  [Verse] — [Male Vocals] [Smooth] [Low Energy] [Intimate]
+  [Pre-Chorus] — [Building Energy] [Breathy]
+  [Chorus] — [Soulful] [Melismatic] [Harmonies]
+  [Bridge] — [Whispered] [Staccato] [Quiet arrangement]
+  [Final Chorus] — [Powerful] [Harmonized Chorus] [Emotional Climax]
+  [Outro] — [Whispered] [Falling tension] [Vinyl Crackle]
+
+
+═══════════════════════════════════════
+VERSION B — SUNO STYLE PROMPT (Grok 4.5)
+═══════════════════════════════════════
+
+Style:
+Dark cinematic pop with trip-hop rhythm, 85 BPM, C minor. Cold open: a single detuned piano note, then a dry finger-snap groove establishes the pocket. Female vocals, alto range, precise and almost clinical in verses — each line lands like a photograph being placed on a table. Chorus shifts to a wider stereo image: analog synth bass, a hummable two-note hook on "edit rights," vocals double-tracked with slight delay. The energy is controlled but insistent — not a banger, a slow burn. Second verse adds a muted trumpet pad for texture. Bridge is the emotional pivot: drums drop out entirely, just piano and voice, the line "abundance walks soft — scarcity keeps scorecards" delivered with bare vulnerability. Final chorus returns with full arrangement plus a gospel-tinged backing choir on "why not me." Ends abruptly — no fade, just a hard cut to silence after "today." Mood: elegant anger, composed hunger.
+
+Exclude:
+rock guitars, EDM, country, folk acoustic, auto-tune, rap verses, dubstep, orchestral strings
+
+Vocal Tags (inline):
+  [Verse] — [Female Vocals] [Smooth] [Staccato] [Dark Atmosphere]
+  [Chorus] — [Soulful] [Harmonies] [Building Energy]
+  [Bridge] — [Whispered] [Intimate] [Quiet arrangement]
+  [Final Chorus] — [Powerful] [Choir] [Emotional Climax] [Explosive]
+
+
+═══════════════════════════════════════
+STYLE 对比笔记
+═══════════════════════════════════════
+
+Genre:
+  A: Alt R&B / lo-fi hip-hop, 92 BPM D minor, male vocal
+  B: Dark cinematic pop / trip-hop, 85 BPM C minor, female vocal
+
+Vocal persona:
+  A: 男声低音，纪录片旁白感，克制中冒烟
+  B: 女声中低音，临床精准，优雅愤怒
+
+Interest devices:
+  A: finger snaps on 2&4 (bridge), tongue-click fill (final chorus), vinyl crackle (outro)
+  B: finger-snap groove (intro), muted trumpet pad (V2), gospel choir (final chorus), hard cut ending
+
+Dynamic arc:
+  A: 冷观察 → 渐进升温 → bridge 近乎沉默 → final chorus 层叠和声 → 冷收
+  B: 冷开场 → 慢燃 → bridge 全裸 → final chorus 爆发 → 硬切
+
+Suno 适配:
+  A: 更长更完整，可能需要 Extend；pre-chorus 标签帮助过渡
+  B: 更紧凑，单次生成命中率高；无 outro 减少尾部漂移风险
