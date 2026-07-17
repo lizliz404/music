@@ -51,3 +51,20 @@ Not more square meters — I'm rewriting the view
 Taking the power to choose what gets through
 Ninety yuan lit something I can't put away
 Why not me? Why not me? — I mean it today
+
+
+---
+
+SUNO STYLE PROMPT (Grok 4.5)
+
+Style:
+Dark indie-electronic art-pop, 98 BPM, A minor. Female vocal persona: dry-eyed observer who catalogs details like evidence, then cracks into clinical hunger — not theatrical rage. Verses: tight 808, clipped muted guitar, sterile pads, half-whispered close-mic, almost spoken, zero vibrato. Chorus: bass thickens, gated clap, stacked doubles on "Edit rights," melody lifts but stays locked — claim, not plea. Bridge: bare vocal + single piano + distant night-market hum. Final chorus: full surge, distorted low-end, shout-harmony on last "Why not me?," then hard cut — no fade, door slam. Dry, punchy, mid-forward; arc: whisper → claim → bare → roar → cut.
+
+Exclude:
+Warm acoustic folk, bright major-key pop, trap hi-hat spam, EDM drops, gospel runs, overly sweet R&B belting, lo-fi chillhop, cinematic strings swells, male vocal, fade-out endings, stadium rock bombast, chipmunk pitched vocals
+
+Vocal Tags (inline):
+  [Verse] — [close-mic dry] [half-whispered] [clinical cadence] [cold fluorescent]
+  [Chorus] — [stacked doubles] [slow-burn assert] [mid-chest power] [locked pocket]
+  [Bridge] — [bare intimate] [dry single-take] [quiet scarcity] [almost spoken]
+  [Final Chorus] — [full surge] [layered shout-harmony] [explosive claim] [hard cut silence]

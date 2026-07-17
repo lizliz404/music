@@ -189,20 +189,20 @@ Vocal Tags (inline):
 
 
 ═══════════════════════════════════════
-VERSION B — SUNO STYLE PROMPT (Grok 4.5)
+VERSION B — SUNO STYLE PROMPT (Grok 4.5, self-written)
 ═══════════════════════════════════════
 
 Style:
-Dark cinematic pop with trip-hop rhythm, 85 BPM, C minor. Cold open: a single detuned piano note, then a dry finger-snap groove establishes the pocket. Female vocals, alto range, precise and almost clinical in verses — each line lands like a photograph being placed on a table. Chorus shifts to a wider stereo image: analog synth bass, a hummable two-note hook on "edit rights," vocals double-tracked with slight delay. The energy is controlled but insistent — not a banger, a slow burn. Second verse adds a muted trumpet pad for texture. Bridge is the emotional pivot: drums drop out entirely, just piano and voice, the line "abundance walks soft — scarcity keeps scorecards" delivered with bare vulnerability. Final chorus returns with full arrangement plus a gospel-tinged backing choir on "why not me." Ends abruptly — no fade, just a hard cut to silence after "today." Mood: elegant anger, composed hunger.
+Dark indie-electronic art-pop, 98 BPM, A minor. Female vocal persona: dry-eyed observer who catalogs details like evidence, then cracks into clinical hunger — not theatrical rage. Verses: tight 808, clipped muted guitar, sterile pads, half-whispered close-mic, almost spoken, zero vibrato. Chorus: bass thickens, gated clap, stacked doubles on "Edit rights," melody lifts but stays locked — claim, not plea. Bridge: bare vocal + single piano + distant night-market hum. Final chorus: full surge, distorted low-end, shout-harmony on last "Why not me?," then hard cut — no fade, door slam. Dry, punchy, mid-forward; arc: whisper → claim → bare → roar → cut.
 
 Exclude:
-rock guitars, EDM, country, folk acoustic, auto-tune, rap verses, dubstep, orchestral strings
+Warm acoustic folk, bright major-key pop, trap hi-hat spam, EDM drops, gospel runs, overly sweet R&B belting, lo-fi chillhop, cinematic strings swells, male vocal, fade-out endings, stadium rock bombast, chipmunk pitched vocals
 
 Vocal Tags (inline):
-  [Verse] — [Female Vocals] [Smooth] [Staccato] [Dark Atmosphere]
-  [Chorus] — [Soulful] [Harmonies] [Building Energy]
-  [Bridge] — [Whispered] [Intimate] [Quiet arrangement]
-  [Final Chorus] — [Powerful] [Choir] [Emotional Climax] [Explosive]
+  [Verse] — [close-mic dry] [half-whispered] [clinical cadence] [cold fluorescent]
+  [Chorus] — [stacked doubles] [slow-burn assert] [mid-chest power] [locked pocket]
+  [Bridge] — [bare intimate] [dry single-take] [quiet scarcity] [almost spoken]
+  [Final Chorus] — [full surge] [layered shout-harmony] [explosive claim] [hard cut silence]
 
 
 ═══════════════════════════════════════
@@ -211,20 +211,20 @@ STYLE 对比笔记
 
 Genre:
   A: Alt R&B / lo-fi hip-hop, 92 BPM D minor, male vocal
-  B: Dark cinematic pop / trip-hop, 85 BPM C minor, female vocal
+  B: Dark indie-electronic art-pop, 98 BPM A minor, female vocal
 
 Vocal persona:
   A: 男声低音，纪录片旁白感，克制中冒烟
-  B: 女声中低音，临床精准，优雅愤怒
+  B: 女声，dry-eyed observer，catalogs like evidence → clinical hunger
 
 Interest devices:
   A: finger snaps on 2&4 (bridge), tongue-click fill (final chorus), vinyl crackle (outro)
-  B: finger-snap groove (intro), muted trumpet pad (V2), gospel choir (final chorus), hard cut ending
+  B: gated clap (chorus), distant night-market hum (bridge), distorted low-end + shout-harmony (final chorus), hard cut ending
 
 Dynamic arc:
   A: 冷观察 → 渐进升温 → bridge 近乎沉默 → final chorus 层叠和声 → 冷收
-  B: 冷开场 → 慢燃 → bridge 全裸 → final chorus 爆发 → 硬切
+  B: whisper → claim → bare → roar → hard cut (no fade)
 
 Suno 适配:
   A: 更长更完整，可能需要 Extend；pre-chorus 标签帮助过渡
-  B: 更紧凑，单次生成命中率高；无 outro 减少尾部漂移风险
+  B: 更紧凑，单次生成命中率高；无 outro 减少尾部漂移风险；hard cut 结尾明确
