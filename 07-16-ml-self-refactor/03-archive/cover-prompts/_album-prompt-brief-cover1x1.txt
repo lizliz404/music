@@ -1,0 +1,168 @@
+# TASK
+OUTPUT ONLY album cover **image prompts** for this song.
+Aspect: **1:1 Cover only**. Do NOT write 16:9 / atmospheric / banner variants.
+
+OUTPUT THE FULL PROMPT TEXT DIRECTLY IN YOUR RESPONSE. Do not only summarize. I will save it myself.
+Do not render images. Do not rewrite lyrics.
+
+# SONG
+Title: Old Weights
+Status: locked final lyrics (2026-07-16)
+Axis: residual fire on soft · labeler gone / settings still on · not broken, just an older version
+Hook: OLD WEIGHTS — when I'm soft, they fire
+Job of the track: confessional residual honesty — diagnosis not cure anthem; no victory-lap healing poster
+
+# SKILL RULES (album-cover-prompt-generator — craft only, no style law)
+1. First extract from THIS song only:
+   - 3 strongest concrete images (objects/places/light)
+   - Dominant emotional temperature (one word)
+   - Palette pull from the song
+   - One compositional device
+   - Song-specific exclusions
+2. Then write **Cover 1:1** only:
+   - 3–6 sentences of dense visual language for Flux/Midjourney/DALL·E
+   - Concept ≠ illustration of the whole plot
+   - One metaphor (not three stacked)
+   - No typography / titles / logos / readable text (no report-card words, no “OLD WEIGHTS” text)
+   - Thumbnail-readable: strong silhouette, one focal point, negative space
+   - Figures optional; abstract/object/light often ages better
+   - Specific light/material/weather/color — not empty “cinematic moody epic”
+3. Do NOT paste Suno audio jargon into the visual prompt; translate to light/material/atmosphere.
+4. Avoid generic stock (stairs-to-heaven, trophy lens flare, motivational-poster light, phoenix rebirth) unless truly earned — this song does NOT earn cure/redemption poster.
+5. Quick self-test: pulls without knowing the song? Temperature not plot dump? Thumbnail ok? One focal point? Embarrassing as a real cover? If yes, simplify.
+
+# DELIVERABLE FORMAT
+```
+# Old Weights — Cover 1:1 only
+# Author: <Hermes-subagent | Cursor-Sol>
+# Date: 2026-07-16
+
+## EXTRACTION (this song only)
+- Concrete images:
+- Temperature word:
+- Palette:
+- Composition device:
+- Exclude (song-specific):
+
+## COVER PROMPT (1:1)
+[full paste-ready prompt paragraph(s)]
+
+## NOTES (optional, short)
+[why this metaphor; what you deliberately did not illustrate]
+```
+
+# SOURCE — LOCKED FINAL LYRICS (complete)
+--- begin old-weights-final.txt ---
+# Old Weights — FINAL lyrics
+# Status: locked text (2026-07-16) — next step: demo / Suno, not v4 rewrite
+# Lineage: v1 Lyric + v2 Opus → external audits → v3 parallel → external v3 audit stitch → Cursor Opus surgical final
+# Base: v3 Lyric; Mon/Tue → Final Chorus; tags stripped; no wire / no she-he-mother stack; no stock "Not cured. Not pure."
+
+Title: Old Weights
+
+Concept: A kid labeled lazy/careless froze that verdict into identity; the adult's old weights still fire in soft rooms — not broken, just an outdated version still running after the labeler left, still moving small weights instead of staging a cure.
+
+[Cold Open]
+Old weights fire when the room goes soft.
+
+[Intro]
+
+[Verse 1]
+Report card face-down under the kitchen light.
+Same three lines every problem kid got —
+lazy, careless, not like the good one.
+They said it soft. It landed like steel.
+I learned the shape before I learned the word.
+Froze the dial. Called the freeze "me."
+Wore the number on my chest
+like factory setting, not a guess.
+
+[Pre-Chorus]
+Then something soft —
+a quiet room, a kind face, a little rest —
+and the old hands move first.
+
+[Chorus]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Verse 2]
+You said I didn't have to earn the quiet.
+My throat still braced like something was due.
+New city, new keys — same flinch when you laugh
+a half-second longer than I planned for.
+I catch the script mid-sentence, mouth already wrong.
+The floor remembers the old dance first.
+Right answer once — for a house that's gone.
+The map still fits a country that's no more.
+
+[Pre-Chorus]
+Something soft —
+your hand open, nothing asked —
+and the old hands move first.
+
+[Chorus]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+but the settings stayed on.
+Still learning how to live in it.
+
+[Bridge]
+Nine years old. I asked for something small.
+Watched a face go cold across the hall.
+Learned it in one breath:
+to need is to be too much — so want less.
+
+I hold the old report card.
+Both hands.
+Nobody's grading anymore —
+so who is this for?
+
+I stand up to say it.
+Sit back down. Stand up again.
+That's the whole update tonight.
+
+[Final Chorus]
+OLD WEIGHTS —
+when I'm soft, they fire.
+Some nights they take the first round.
+Not broken —
+just an older version.
+OLD WEIGHTS —
+the labeler's long gone,
+the settings still run.
+I forget it by Monday.
+Try again Tuesday.
+Not the final build.
+Still moving what I can.
+
+[Outro]
+Same kitchen light. My house now.
+Same word for me —
+I get to weigh it now.
+Still here.
+Still training —
+on the next small weight
+I can actually move.
+--- end old-weights-final.txt ---
+
+# PRODUCTION TEMPERATURE (optional context; do not dump as audio tags)
+Confessional chamber folk/alt; ~78 BPM; minor color; restrained dynamics; kitchen-light intimacy; residual honesty not cure anthem.
+
+# HARD CONSTRAINTS
+- ONLY 1:1 Cover prompt (+ extraction block)
+- NO 16:9, NO 4:5 atmospheric
+- NO readable text/logos/report-card words on the image
+- Derive look from THIS song only; no global Liz cover kit
+- Do NOT illustrate “cure / healed / rebirth”
+- Prefer residual / outdated / still-running over dramatic trauma spectacle

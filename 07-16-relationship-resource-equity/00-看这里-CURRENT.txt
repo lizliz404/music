@@ -1,0 +1,16 @@
+当前规范路径（全小写）:
+/home/ubuntu/music/07-16-relationship-resource-equity/
+
+【歌词 LATEST】
+1) 02-current/cn-v3-生在温差里.txt
+2) 02-current/en-v3-between-temperatures.txt
+3) 02-current/opus-audit-and-v3.txt
+
+【封面 prompts 1:1 only — 中英共用一张】
+4) 02-current/album-prompts-dual-cover1x1-v2.txt  ← H Hermes + C Cursor 并排（最新）
+5) 02-current/album-prompts-hermes-cover1x1-v2.txt
+6) 02-current/album-prompts-cursor-cover1x1-v2.txt
+
+旧版（含 16:9）可忽略: album-prompts-dual-parallel.txt / lyric / cursor 无 v2 后缀
+
+STOP lyric v4. Cover: pick H or C then render.

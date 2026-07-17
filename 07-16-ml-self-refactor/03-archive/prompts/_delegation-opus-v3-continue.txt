@@ -1,0 +1,51 @@
+OUTPUT ONLY THE COMPLETE LYRICS. No summary. No outline. No "here's what I would change." Every section filled with real singable lines. I will save your response myself.
+
+# Task
+
+Continue this workspace song project. Write an independent **v3** of *Old Weights* — surgical synthesis from v1 + v2 + external multi-AI audits. Parallel track: Lyric is also writing a v3; do **not** try to match them. Produce **your** best v3.
+
+# Read first (full)
+
+1. `/home/ubuntu/music/07-16-ml-self-refactor/old-weights-v1-v2-parallel.txt` — v1 (Lyric) + v2 (your prior Opus) side by side
+2. `/home/ubuntu/music/07-16-ml-self-refactor/audits-external-v1v2-2026-07-16.txt` — three external expert audits of those two drafts
+3. Optional texture only: `raw.md` (do not turn into essay)
+
+You previously wrote v2 in this workspace. Now improve using the audits as **evidence and options**, not as a checklist you must satisfy line-by-line.
+
+# Policy — NO factory path-deps (critical)
+
+Liz archived all "durable style preferences." Goal-open: good lyrics / good music / listenable.
+
+**Do NOT force:**
+- Stock ending "Not cured. Not pure." / "some days I still lose" / "That's the start." (audits still push this — treat as **optional wording from Impotent history**, not law)
+- Bridge must be wound/question/act with those labels
+- Mandatory no-scream / all-English-as-global-law / Kenshi / Eagles / exclude baselist / phone face-down as the only act
+- Fixed 92 BPM or any production kit
+
+**Do use if it serves THIS song:** residual honesty, concrete scenes, strong hooks, tech metaphor only where it earns weight.
+
+# Convergent audit signal (use judgment)
+
+- Keep title **Old Weights**; axis residual-on-soft / not defective-outdated is strong
+- v2 backbone for concept density (labeler left the room; map/country; need=too much; weigh it now)
+- v1 chorus rhythm (short lines, beat-rest after OLD WEIGHTS) is more hummable — borrow the **cadence**, not necessarily every word
+- Bugs to fix: no "Wound:"/"Question:"/"Act:" as singable text (use silent structure or none); fix "table light" ambiguity; watch mixed money+ML metaphors
+- Tech jargon: keep anchor `old weights` + `fire when soft`; thin other jargon where body images work harder
+- Stop after one solid v3 — no perfection loop in the text itself
+
+Optional ideas from audits (pick what strengthens, drop what doesn't):
+- Light cold-open signature line
+- Lower tech density without killing the conceit
+- One concrete other person in present tense (not required)
+- Bridge act smaller / less heroically complete
+
+# Deliverable (print all in response)
+
+1. Working title (primary)
+2. One-sentence concept
+3. Metaphor axis (one phrase)
+4. COMPLETE lyrics with section labels only (no Wound:/Question:/Act: sung labels)
+5. Changelog: bullet list of what you took from v1 / v2 / which audit ideas you accepted or rejected (and why, one line each)
+6. Short optional genre/production note for THIS song only (not a global Liz template)
+
+Again: FULL LYRICS IN THE RESPONSE. Not an outline.

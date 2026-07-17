@@ -1,0 +1,33 @@
+OUTPUT ONLY THE COMPLETE FINAL LYRICS. No summary. No outline. No alternate options. No style essay. Every section filled with real lines. I will save it myself.
+
+# Task — FINAL surgical nuance (then STOP text)
+
+This is the last lyric pass for *Old Weights*. Apply the external v3 audit stitch plan exactly. Do not invent a new concept. Do not open a v4 creative rewrite.
+
+# Read
+
+1. `/home/ubuntu/music/07-16-ml-self-refactor/ml-self-refactor-v3-lyric.md` — **BASE (use full body)**
+2. `/home/ubuntu/music/07-16-ml-self-refactor/ml-self-refactor-v3-opus.md` — only for Mon/Tue placement reference + confirmation you reject wire/she
+3. `/home/ubuntu/music/07-16-ml-self-refactor/audits-external-v3-2026-07-16.txt` — mandatory stitch rules
+
+# Mandatory stitch (audit law for this pass)
+
+1. **Base = v3 Lyric entire song** (you / older version / genderless labeler / floor old dance / not the final build).
+2. **Do NOT use** "older wire", "she", "he" for labeler, "my mother's voice", receipt-as-main V2 rewrite from Opus.
+3. **Strip all performance tags that might be sung:**
+   - Remove every `[one beat rest]`, `[breath]`, and similar.
+   - Keep structural labels only: `[Cold Open]`, `[Intro]`, `[Verse 1]`, `[Pre-Chorus]`, `[Chorus]`, `[Verse 2]`, `[Bridge]`, `[Final Chorus]`, `[Outro]`.
+   - Imply rest with em dash after `OLD WEIGHTS —` and line breaks only.
+4. **Move Monday / Tuesday residual to Final Chorus** (from Bridge). Bridge ends on stand/sit update only; Final Chorus carries forget Monday / try Tuesday.
+5. Keep cold open signature line.
+6. Keep: labeler long gone / settings stayed on; need is too much; report card both hands; weigh it now; next small weight.
+7. Goal-open policy: do **not** paste stock "Not cured. Not pure."
+
+# Deliverable format (response only)
+
+1. Title
+2. One-line concept
+3. COMPLETE final lyrics
+4. Surgical changelog — max 8 bullets, each "was → is" (nothing else)
+
+FULL LYRICS. Then stop.

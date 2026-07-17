@@ -1,0 +1,31 @@
+# Craft backup (guidelines, not laws) — paste-relevant for this pass
+
+## Structure
+- Each section owns ONE thematic element (section ownership).
+- Bridge = one emotional core + one central question; changes terms of the song.
+- Overstuffed bridge kills momentum. Prefer cut over inventory dump.
+- Final chorus should escalate *meaning*, not only volume.
+
+## Lyrics
+- Show with concrete images; plain speech when harder-hitting.
+- Hook = what people remember; align title/melody/emotion.
+- Prosody: say aloud; stressed syllables matter more than total count.
+- Mix perfect/slant rhyme; avoid pure nursery lock or pure laziness.
+- Avoid: cliché autopilot, Yoda-speak for rhyme, flat dynamics all sections.
+
+## Market + ambition (Liz)
+- 有用且有趣. Mass resonance without dumbing down.
+- Avoid: 又臭又长又无聊 / 曲高和寡 / 闭门造车.
+- POV can be strange (咒怨) while content stays first-listen clear.
+- Hybrid: spirits subjecthood + dual-temperature craft (范玮琪 warmth) without dual-lover collapse.
+
+## Suno
+- Style field: genre + mood + vocal PERSONA + dynamic journey (not artist names).
+- Parameterized tags on every section (structure + delivery). 5–8 tags max per section.
+- Misaligned sweetness on tender spirit lines (critical for this song).
+- 2–3 distinct emotional containers + single-line comma exclude each.
+- Lyrics field ~40–60 lines; cut if bloated.
+
+## Anti-perfectism
+- Only change what moves market clarity / hook / length / Suno executability.
+- If already near-ship: say so, make minimal delta, stop.

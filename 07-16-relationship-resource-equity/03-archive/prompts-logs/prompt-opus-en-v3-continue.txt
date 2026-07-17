@@ -1,0 +1,27 @@
+CONTINUE this workspace song session. Same model, same project.
+
+You already delivered Chinese v3 + expert audit in the prior turn (see 02-current/opus-audit-and-v3.txt and 02-current/cn-v3-生在温差里.txt).
+
+Liz's request NOW:
+1) She did NOT see a full English version — only a short delta note. Fix that.
+2) Produce a COMPLETE English v3 package (not outline, not delta-only).
+3) Apply the same 3 surgical moves you named for A, to B:
+   - Verse1 avoid line: clearer + singable (your suggested "I stop your hand before it reaches out" or better)
+   - Final Chorus: cut didactic definition couplet about trust/receipt/overdraft; keep "starve between temperatures" + crack/"secure" energy; escalate meaning not inventory
+   - Bridge tail: one second-light image, not second+third stacked
+4) STYLE PROMPT: Liz says the current style prompt can largely be reused for English lyrics — it already works. Do NOT invent a whole new aesthetic. Keep misaligned-sweet curse quartet / dual temperature / phone glow / human clearer than spirits. Only minimal language tweaks if needed for EN delivery (e.g. "Mandarin" → bilingual-capable or "close-mic multi-voice" without forcing Chinese-only). Style can stay nearly identical.
+5) Full deliverable in response:
+   - TITLE + subtitle
+   - NOTE (what changed vs EN v2)
+   - STYLE PROMPT (reuse-based)
+   - FULL LYRICS with parameterized tags every section
+   - 2–3 emotional containers (style + comma exclude line)
+   - Song profile
+   - Changelog: EN v3 from CN v3 surgical parity, claude-opus-4-8-xhigh Cursor continue, 2026-07-16
+
+READ bases:
+- 02-current/en-v2-between-temperatures.txt
+- 02-current/cn-v3-生在温差里.txt (for structural parity)
+- 02-current/opus-audit-and-v3.txt (your prior EN delta note)
+
+OUTPUT THE FULL ENGLISH PACKAGE IN YOUR RESPONSE. No "saved to file" only. Real lyrics every section.

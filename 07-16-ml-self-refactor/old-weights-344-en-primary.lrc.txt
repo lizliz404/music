@@ -1,0 +1,84 @@
+[ti:Old Weights]
+[ar:Liz]
+[al:Old Weights / 旧权重]
+[by:Lyric v2]
+[length:03:44]
+[offset:0]
+[00:02.00]Old weights fire when the room goes soft.（房间一旦变得温柔，旧权重就发作。）
+
+[00:14.00]Report card face-down under the kitchen light.（成绩单反扣在厨房灯下。）
+[00:18.11]Same three lines every problem kid got —（问题小孩，人人都逃不过这三条——）
+[00:21.95]lazy, careless, not like the good one.（懒，粗心，不像那个乖的。）
+[00:25.59]They said it soft. It landed like steel.（他们说得很轻。落下来却像钢。）
+[00:29.43]I learned the shape before I learned the word.（我先认得了那模样，才认得那个词。）
+[00:33.75]Froze the dial. Called the freeze "me."（把刻度冻住了。把那一僵，叫成「我」。）
+[00:37.61]Wore the number on my chest（把那个数字戴在胸口）
+[00:40.41]like factory setting, not a guess.（像出厂设置，不是猜测。）
+
+[00:44.50]Then something soft —（然后，有一点柔软——）
+[00:47.37]a quiet room, a kind face, a little rest —（安静的房间，一张温柔的脸，一点休息——）
+[00:52.32]and the old hands move first.（是那双惯性的手，先动了。）
+
+[00:56.50]OLD WEIGHTS —（旧权重——）
+[00:58.25]when I'm soft, they fire.（我一软，它们就发作。）
+[01:01.83]Not broken —（不是坏了——）
+[01:03.56]just an older version.（只是版本旧了。）
+[01:06.77]OLD WEIGHTS —（旧权重——）
+[01:08.53]the labeler's long gone,（贴标签的人早走了，）
+[01:11.97]but the settings stayed on.（设置还开着。）
+[01:15.50]Still learning how to live in it.（还在学，怎么带着它活。）
+
+[01:24.00]You said I didn't have to earn the quiet.（你说我不必去挣这份安静。）
+[01:27.23]My throat still braced like something was due.（喉咙还是绷着，像欠着什么。）
+[01:30.76]New city, new keys — same flinch when you laugh（新城，新钥匙——你一笑，我还是会那样一颤，）
+[01:34.34]a half-second longer than I planned for.（只因比我料想的，笑得长了半秒。）
+[01:37.65]I catch the script mid-sentence, mouth already wrong.（话说到一半才惊觉又是旧台词，嘴已经先错了。）
+[01:41.63]The floor remembers the old dance first.（地板比我先记得，那旧舞步。）
+[01:44.73]Right answer once — for a house that's gone.（曾经答对过——给一座早就不在的房子。）
+[01:48.29]The map still fits a country that's no more.（这张地图，量的是个早就没了的国。）
+
+[01:52.50]Something soft —（有一点柔软——）
+[01:54.62]your hand open, nothing asked —（你的手张开，什么也不要——）
+[01:58.38]and the old hands move first.（是那双惯性的手，先动了。）
+
+[02:02.50]OLD WEIGHTS —（旧权重——）
+[02:04.25]when I'm soft, they fire.（我一软，它们就发作。）
+[02:07.83]Not broken —（不是坏了——）
+[02:09.56]just an older version.（只是版本旧了。）
+[02:12.77]OLD WEIGHTS —（旧权重——）
+[02:14.53]the labeler's long gone,（贴标签的人早走了，）
+[02:17.97]but the settings stayed on.（设置还开着。）
+[02:21.50]Still learning how to live in it.（还在学，怎么带着它活。）
+
+[02:28.00]Nine years old. I asked for something small.（九岁。我要过一件很小的东西。）
+[02:31.83]Watched a face go cold across the hall.（看着走廊对面，一张脸冷下来。）
+[02:35.31]Learned it in one breath:（一口气学会了：）
+[02:37.73]to need is to be too much — so want less.（需要，就是太多——所以少要一点。）
+[02:41.42]I hold the old report card.（我拿着那张旧成绩单。）
+[02:44.07]Both hands.（双手。）
+[02:45.28]Nobody's grading anymore —（没人再打分了——）
+[02:47.80]so who is this for?（那这是给谁的？）
+[02:49.86]I stand up to say it.（我站起来，想说点什么。）
+[02:52.04]Sit back down. Stand up again.（又坐下。再站起来。）
+[02:54.83]That's the whole update tonight.（今晚的更新，就这些。）
+
+[02:58.50]OLD WEIGHTS —（旧权重——）
+[02:59.84]when I'm soft, they fire.（我一软，它们就发作。）
+[03:02.58]Some nights they take the first round.（有些夜里，它们先赢一局。）
+[03:06.20]Not broken —（不是坏了——）
+[03:07.53]just an older version.（只是版本旧了。）
+[03:09.99]OLD WEIGHTS —（旧权重——）
+[03:11.33]the labeler's long gone,（贴标签的人早走了，）
+[03:13.97]the settings still run.（设置还在跑。）
+[03:16.41]I forget it by Monday.（周一就忘了。）
+[03:18.79]Try again Tuesday.（周二再试。）
+[03:20.87]Not the final build.（不是最终构建。）
+[03:23.16]Still moving what I can.（还在挪我能挪的。）
+
+[03:28.00]Same kitchen light. My house now.（还是那盏厨房灯。现在是我的房子。）
+[03:30.62]Same word for me —（同一个词指着我——）
+[03:32.13]I get to weigh it now.（现在轮到我来掂它。）
+[03:34.00]Still here.（还在。）
+[03:34.98]Still training —（还在练——）
+[03:36.32]on the next small weight（冲着下一个小权重——）
+[03:38.26]I can actually move.（那个我真的挪得动的。）

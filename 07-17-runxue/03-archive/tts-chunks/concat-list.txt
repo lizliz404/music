@@ -1,0 +1,6 @@
+file '/home/ubuntu/music/07-17-runxue/audio/chunk_001.mp3'
+file '/home/ubuntu/music/07-17-runxue/audio/chunk_002.mp3'
+file '/home/ubuntu/music/07-17-runxue/audio/chunk_003.mp3'
+file '/home/ubuntu/music/07-17-runxue/audio/chunk_004.mp3'
+file '/home/ubuntu/music/07-17-runxue/audio/chunk_005.mp3'
+file '/home/ubuntu/music/07-17-runxue/audio/chunk_006.mp3'

@@ -1,0 +1,35 @@
+You are producing a fused v5 of the song "QUIET COSTS" by synthesizing three reference files in this workspace. Read ALL THREE carefully:
+
+1. /home/ubuntu/music/poverty/poverty-v3.md — v3 (tighter structure, stronger chorus hook, better pre-chorus, harder outro)
+2. /home/ubuntu/music/poverty/poverty-v4-claude.md — v4 (dirtier bridge, soup father image, deeper self-indictment)
+3. The expert critique at /home/ubuntu/music/poverty/_expert-critique.txt — THIS IS YOUR PRIMARY ARCHITECTURAL BRIEF. Read it in full. It contains the fusion formula.
+
+THE FUSION FORMULA (from the critique):
+
+BASE: v4 — because its bridge is the real version (stolen phone, the lie, "something I won't put in words," wardrobe freeze, triple guilt), its father has the soup image ("thirty degrees outside and he still boils it down to soup, because soup is the last recipe left in his hands"), and its self-indictment is more honest ("I'm scared I turn into the sample" > "I'm running from becoming one").
+
+STEAL FROM v3:
+1. Chorus skeleton: "Noise is the free plan — silence is what you rent" — the strongest hook in the cycle. v4's "Loud comes free / a decibel a day" is smarter but less singable. Hook = singable, verse = deep.
+2. Verse length: v3 verses are 8-10 lines. v4 verses are 25-35% longer. Keep v3's container, inject v4's images into it.
+3. Pre-chorus wording: "Call it distance. Call it staying clean." (v3) > "Call it fieldwork. Call it keeping clean." (v4). "Distance" is an ordinary word doing academic work — that's the song's poetic root. "Fieldwork" is an academic word, which is too on-the-nose.
+4. Outro closer: "The shelf outlasts everything in this house. / So far, that includes me." (v3) — cold, precise, double-edged. v4's "Tonight it's outlasting me" dilutes the kill shot.
+
+FIX THESE 6 REMAINING ISSUES:
+
+1. Cage door vs pit conflict: Both metaphors in the final chorus fight each other (horizontal push vs vertical climb). Keep cage door (established across choruses). Move pit/cesspool out of the final chorus — place it as a single hit at the end of verse 3 or as a pre-bridge tag.
+
+2. "Cognition 3.0 / bank account on the old version" is too clever for its placement. It reads like a Twitter one-liner, not a line grown from a scene. Do NOT delete it — it's too good. But move it from verse 3's closing position (which needs emotional weight, not intellectual weight) to a mid-verse slot. Let verse 3 close on the "sample" / "specimen" line — that's the knife.
+
+3. Mother verse metaphor density: "as if the dust could teach her how to run" and "like light was something she wasn't supposed to carry" are both great but back-to-back they overload. Keep the light line (closer to mother's subjective experience). Move the dust line earlier in the verse, where it can echo the shelf/dust imagery from the intro — creating a dust → dust → shelf loop across the song.
+
+4. Suno prompt: "post-punk drive" conflicts with "brushed drums" + "fingerpicked guitar" + "no scream." Suno's training data strongly associates post-punk with shout/attack. Replace with: "slowcore urgency" or "The National-style restrained crescendo" or "Songs: Ohia band-era intensity" — terms whose Suno semantic neighborhood matches what you actually want.
+
+5. Add ONE more concrete price anchor. The ¥2.50 sweet potato is a strong anchor but appears only once. The pre-chorus is currently the ONLY section with zero concrete nouns — it's the softest part of the song. Add one specific price/object from the source material (e.g., the ten-yuan comb, or two-yuan shampoo, or fifty-cent bus fare) into the pre-chorus to upgrade it from "transition" to "standalone memory point."
+
+6. General: v4's bridge stays intact — it's the non-negotiable core. Do not soften it. The stolen phone, the lie, the unnamed act, the wardrobe, the triple guilt — all stay.
+
+OUTPUT: Write the complete v5 to /home/ubuntu/music/poverty/poverty-v5.md
+
+Include: title, all English lyrics with [section tags], Suno style prompt with corrected terminology, brief changelog noting what came from where.
+
+Album architecture reminder: this is STAGE ONE. It ends before resolution. Not tonight. Not yet. Still counting. Still in the room.

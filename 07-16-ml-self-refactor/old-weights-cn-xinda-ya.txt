@@ -1,0 +1,152 @@
+# Old Weights — 信达雅中文对译（EN locked final → CN layer）
+# Source: old-weights-final.txt
+# 2026-07-16
+# Notes:
+# - "weights" = 机器学习参数权重（残留参数仍会触发），绝非健身负重
+# - "settings / version / build / training / move" 保留技术残留语感，但不堆科幻词
+# - 可与 EN 行级互换进双语 LRC（外英内中 / 外中内英）
+
+Title: Old Weights / 旧权重
+
+[Cold Open]
+Old weights fire when the room goes soft.
+房间一软，旧权重就开火。
+
+[Verse 1]
+Report card face-down under the kitchen light.
+成绩单反扣在厨房灯下。
+Same three lines every problem kid got —
+问题小孩都会领到的那三行——
+lazy, careless, not like the good one.
+懒，粗心，不像那个好的。
+They said it soft. It landed like steel.
+他们说得很轻。落下来却像钢。
+I learned the shape before I learned the word.
+我先学会了那形状，才学会那个词。
+Froze the dial. Called the freeze "me."
+把刻度冻住了。把冻结叫成「我」。
+Wore the number on my chest
+把那个数字戴在胸口
+like factory setting, not a guess.
+像出厂设置，不是猜测。
+
+[Pre-Chorus]
+Then something soft —
+然后有一点柔软——
+a quiet room, a kind face, a little rest —
+安静的房间，一张温柔的脸，一点休息——
+and the old hands move first.
+旧的手就先动了。
+
+[Chorus]
+OLD WEIGHTS —
+旧权重——
+when I'm soft, they fire.
+我一软，它们就开火。
+Not broken —
+不是坏了——
+just an older version.
+只是更旧的版本。
+OLD WEIGHTS —
+旧权重——
+the labeler's long gone,
+贴标签的人早走了，
+but the settings stayed on.
+设置还开着。
+Still learning how to live in it.
+还在学怎么活在里面。
+
+[Verse 2]
+You said I didn't have to earn the quiet.
+你说我不必去挣这份安静。
+My throat still braced like something was due.
+喉咙还是绷着，像欠着什么。
+New city, new keys — same flinch when you laugh
+新城，新钥匙——你多笑半秒
+a half-second longer than I planned for.
+超过我预演的那半秒，我还是会闪。
+I catch the script mid-sentence, mouth already wrong.
+半句里抓住旧台词，嘴已经错了。
+The floor remembers the old dance first.
+地板先记得旧的舞步。
+Right answer once — for a house that's gone.
+曾经答对过——给一座已不在的房子。
+The map still fits a country that's no more.
+地图还合着一个已不存在的国。
+
+[Pre-Chorus 2]
+Something soft —
+有一点柔软——
+your hand open, nothing asked —
+你的手张开，什么也不要——
+and the old hands move first.
+旧的手就先动了。
+
+[Chorus 2]
+（同 Chorus）
+
+[Bridge]
+Nine years old. I asked for something small.
+九岁。我要过一件很小的东西。
+Watched a face go cold across the hall.
+看着走廊对面一张脸冷下来。
+Learned it in one breath:
+一口气学会了：
+to need is to be too much — so want less.
+需要就是太多——所以少要一点。
+I hold the old report card.
+我拿着那张旧成绩单。
+Both hands.
+双手。
+Nobody's grading anymore —
+没人再打分了——
+so who is this for?
+那这是给谁的？
+I stand up to say it.
+我站起来要说。
+Sit back down. Stand up again.
+又坐下。再站起来。
+That's the whole update tonight.
+今晚的更新就这些。
+
+[Final Chorus]
+OLD WEIGHTS —
+旧权重——
+when I'm soft, they fire.
+我一软，它们就开火。
+Some nights they take the first round.
+有些夜里它们先赢一局。
+Not broken —
+不是坏了——
+just an older version.
+只是更旧的版本。
+OLD WEIGHTS —
+旧权重——
+the labeler's long gone,
+贴标签的人早走了，
+the settings still run.
+设置还在跑。
+I forget it by Monday.
+周一就忘了。
+Try again Tuesday.
+周二再试。
+Not the final build.
+不是最终构建。
+Still moving what I can.
+还在挪我能挪的。
+
+[Outro]
+Same kitchen light. My house now.
+还是那盏厨房灯。现在是我的房子。
+Same word for me —
+同一个词指着我——
+I get to weigh it now.
+现在轮到我来掂它。
+Still here.
+还在。
+Still training —
+还在训练——
+on the next small weight
+对着下一个小权重
+I can actually move.
+我真正动得了的。

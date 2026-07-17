@@ -1,0 +1,36 @@
+# Album cover prompts — dual generation brief
+
+Song (ONE cover for both languages):
+- CN title: 《生在温差里》
+- EN title: Between Temperatures
+- Subtitle: (the curses, speaking)
+- Locked: CN v3 + EN v3 (same thesis)
+
+Read full packages:
+- 02-current/cn-v3-生在温差里.txt
+- 02-current/en-v3-between-temperatures.txt
+
+Also follow skill rules in ALBUM_COVER_SKILL.md (in this folder).
+
+TASK:
+Generate album/song cover IMAGE PROMPTS only (not generate images, not rewrite lyrics).
+Output exactly 2 prompts for THIS song (one Cover 1:1, one Atmospheric 16:9 or 4:5).
+Same artwork serves both CN and EN releases — do not make separate language covers.
+
+Song-specific extraction first (short):
+- 3 strongest concrete images
+- Dominant emotional temperature (one word)
+- Color palette pull
+- One compositional device
+- Explicit exclusions
+
+Rules:
+- Concept not illustration; single metaphor; no typography; no stock clichés
+- No cartoon ghosts / anime Jujutsu / dual-lover faces / literal receipt stacks as hero
+- Capture: dual temperature gap, soft curse presence (felt not drawn as monsters), phone-glow intimacy, misaligned sweetness (beautiful but wrong)
+- Dense visual language, 3–6 sentences each prompt
+- Aspect ratio named
+- Explicit exclusions in each prompt
+
+OUTPUT FULL TEXT IN RESPONSE. Also write to:
+02-current/album-prompts-cursor.txt

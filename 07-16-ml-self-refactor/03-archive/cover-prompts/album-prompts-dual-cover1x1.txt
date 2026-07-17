@@ -1,0 +1,67 @@
+# ALBUM COVER PROMPTS — dual parallel (1:1 Cover only)
+# Song: Old Weights
+# Folder: 07-16-ml-self-refactor
+# Context: old-weights-final.txt (locked)
+# Skill: album-cover-prompt-generator (best practices only)
+# Scope: Cover 1:1 ONLY — no 16:9 atmospheric
+# 2026-07-16
+
+================================================================================
+VERSION H — Hermes subagent
+Metaphor focus: small residual iron weight + face-down paper under kitchen tungsten
+================================================================================
+
+# Old Weights — Cover 1:1 only
+# Author: Hermes-subagent
+# Date: 2026-07-16
+
+## EXTRACTION (this song only)
+- Concrete images:
+  1. Report card face-down under kitchen light
+  2. Small residual iron weight still being moved / trained
+  3. Frozen dial / factory settings still ON after the labeler left
+- Temperature word: residual
+- Palette: warm tungsten kitchen amber; cool slate-gray residual shadow; muted cream paper; soft charcoal negative space; faint steel-iron dullness (no chrome glory)
+- Composition device: single object under one domestic light pool; off-center tabletop; soft empty room as negative space; thumbnail-clear silhouette
+- Exclude (song-specific): cure/healed/phoenix rebirth; motivational-poster light; trophy or stairs-to-heaven; readable report-card text/titles/logos/"OLD WEIGHTS"; gym-flex bodybuilding spectacle; shattered trauma drama; broken-glass pathos; victory-lap healing glow
+
+## COVER PROMPT (1:1)
+Square 1:1 album cover. A single small, slightly worn cast-iron dumbbell rests off-center on a bare kitchen table under one warm tungsten overhead light, its soft amber pool falling on dull metal and a cream paper turned face-down beside it with no readable writing. Beyond the light pool, a quiet empty room holds cool slate-gray shadow and soft domestic quiet—nothing broken, nothing triumphant, only residual presence. Photoreal intimate still life, shallow depth of field, matte surfaces, restrained contrast, kitchen-light honesty rather than studio drama. Strong simple silhouette readable at thumbnail size: one weight, one warm cone of light, generous negative space. No text, no logos, no faces, no phoenix fire, no cure or rebirth symbolism—just an older setting still running in a soft room.
+
+## NOTES (optional, short)
+Metaphor: residual old weight under kitchen light after the labeler is gone—settings still on, not broken. Deliberately did not illustrate the full plot (childhood hall, stand/sit loop, map/country); avoided literal graded report-card words and any healing-poster arc. Small weight + face-down paper + domestic tungsten = confessional residual honesty, still training on what can actually move.
+
+================================================================================
+VERSION C — Cursor Sol (gpt-5.6-sol-xhigh)
+Metaphor focus: obsolete thermostat dial frozen, inner coil still glowing in a soft room
+================================================================================
+
+# Old Weights — Cover 1:1 only
+# Author: Cursor-Sol (gpt-5.6-sol-xhigh)
+# Date: 2026-07-16
+
+## EXTRACTION (this song only)
+- Concrete images: frozen dial; new keys in a quiet room; obsolete map of a vanished country
+- Temperature word: residual
+- Palette: kitchen amber, frost blue, worn cream, dull steel
+- Composition device: one isolated mechanism surrounded by soft negative space
+- Exclude (song-specific): report card scene, readable labels, child portrait, dramatic trauma, cure/rebirth imagery, triumphant light
+
+## COVER PROMPT (1:1)
+Square album cover centered on a single obsolete mechanical thermostat mounted low on a vast worn-cream wall, its blank unmarked dial frozen off-center while the exposed inner coil glows a restrained ember-orange, still firing in an otherwise gentle room. Soft amber lamplight falls across faded paint and brushed steel; a frost-blue evening shadow gathers at the edges, with blurred linen and quiet domestic warmth barely visible beyond the shallow focus. Make the thermostat the only sharp focal point and the still-running outdated mechanism the sole metaphor, small but unmistakable against generous negative space. Intimate, tactile realism with fine scratches, dust, aged plastic and muted grain; no person, no report card, no readable numbers or words, no typography, logos, flames, spectacle, redemption glow or victorious mood.
+
+================================================================================
+QUICK COMPARE
+================================================================================
+| | H Hermes | C Cursor Sol |
+|---|---|---|
+| Core metaphor | Cast-iron dumbbell + face-down paper under kitchen light | Frozen blank thermostat / coil still firing |
+| Silhouette | Tabletop object in light pool | Wall mechanism in soft domestic negative space |
+| Risk | Dumbbell can read as gym-bro if rendered too heavy | Thermostat can feel too clever / prop-store |
+| Song fit | Literal “weight” + kitchen light + residual training | “Settings stayed on / freeze dial” residual fire |
+
+Pick H or C → paste COVER PROMPT into Flux / Midjourney / DALL·E / image_generate.
+
+================================================================================
+END
+================================================================================

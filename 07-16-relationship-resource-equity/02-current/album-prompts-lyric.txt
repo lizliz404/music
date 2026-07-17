@@ -1,0 +1,37 @@
+# Album Cover Prompts — 《生在温差里》/ Between Temperatures
+# Generator: Lyric (Hermes main) · 2026-07-16
+# ONE cover system for both CN + EN releases
+# Skill: album-cover-prompt-generator
+
+## Song-specific extraction
+
+| Field | Value |
+|---|---|
+| 3 strongest concrete images | (1) phone blue glow on unread long text (2) desk lamp over unfinished books vs chat-box light breathing a room (3) summer heat meeting autumn rain in one glass / one window |
+| Emotional temperature | **uncanny-tender** |
+| Palette pull | deep phone-blue, warm lamp amber, rain-slate grey, one thin frost-green accent |
+| Compositional device | **vertical temperature split / threshold** — warm half and cool half that never fully equalize; focal point in the seam |
+| Exclude | anime/JJK spirits, cartoon ghosts, dual-lover faces, literal receipt stacks, blue-tick UI chrome as hero, motivational couple silhouette, text/logos/titles |
+
+Thesis to capture (not illustrate): soft curses live in the *gap between temperatures* — beautiful wrong comfort; translation error as weather, not monsters.
+
+---
+
+## A — Cover (1:1 square)
+
+A single tall window at night, glass dividing the frame into two unequal weathers that refuse to equalize: left pane holds a thick summer haze of warm amber and gold, right pane holds a cool autumn rain film, slate-grey and blue. Where the panes meet, a thin vertical seam of soft phone-blue light bleeds like a read receipt without any UI, as if something living is breathing in the gap. No people, no faces, no spirits drawn as bodies — only the suggestion of presence as fog denser along the seam. Shot as medium-format still photography, slight asymmetry, large negative space of dark room around the window, matte grain, Wong Kar-wai adjacent color temperature clash without period costume. Palette: amber gold, rain slate, phone cobalt, black room. Aspect ratio 1:1. Exclude: text, logos, titles, cartoon ghosts, anime, couple silhouettes, literal smartphones with readable screens, receipt paper, horror red, lens flare trophy lighting.
+
+---
+
+## B — Atmospheric (16:9)
+
+Wide night interior: a desk lamp presses warm light onto a stack of unfinished books on the left; on the right, a faint rectangular phone-glow washes empty air as if a chat box were breathing for the room. Between them, humidity hangs like a soft curtain — summer dust motes crossing into cool rain-haze, never mixing clean. The air itself is the subject: two temperatures cohabiting, slightly wrong, tender. Cinematic still, shallow depth, off-center lamp as warm anchor, long horizontal negative space of darkness, film grain, quiet and expensive. Palette: lamp amber, cobalt phone light, cool grey-green moisture, deep charcoal. Aspect ratio 16:9. Exclude: text, logos, readable message UI, faces, dual-lover romance framing, cartoon spirits, horror fog clichés, stock “lonely person by window” figure, motivational poster contrast.
+
+---
+
+## Notes for generation (Flux / MJ / DALL·E)
+
+- Prefer Cover A for Spotify thumbnail / square release art.
+- Prefer Atmospheric B for banner / video still / Telegram header.
+- Same artworks for CN 《生在温差里》 and EN Between Temperatures — do not language-brand the image.
+- If model over-literalizes “curses,” re-roll with stronger “no figures, no ghosts, weather and light only.”

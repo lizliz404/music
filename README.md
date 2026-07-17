@@ -1,12 +1,21 @@
 # music
 
-Liz's music projects — lyrics, Suno prompts, LRC files, and production notes.
+Liz's music projects — lyrics, Suno prompts, LRC files, production notes, and TTS audio.
+
+**For AI agents: read [AGENTS.md](AGENTS.md) first.** It encodes all path/naming/structure conventions.
 
 ## Projects
 
-- **[climbing/](climbing/)** — "NO THIRD DOOR (Cash Flow Body)" — a song about stair-climbing as philosophy, adapted from Chinese prose. Multi-model creative comparison across DeepSeek, Grok, Claude, and GPT. Final integrated v2 exists.
-- **[grows-without-trying/](grows-without-trying/)** — "Grows Without Trying" LRC lyrics files.
+See subdirectories (`MM-DD-slug`). Key active projects:
+
+- `07-17-runxue/` — institutional short / 润学
+- `07-17-grow-the-fuck-up/` — maturity analysis, multi-model
+- `07-16-ml-self-refactor/` — "Old Weights" (ML self-refactor metaphor)
+- `07-16-relationship-resource-equity/` — "生在温差里 / Between Temperatures"
+- `07-15-field-notes/` — "Three Kinds of Stone" (宁波 field notes)
+- `07-15-reckoning/` — "The Wrong Game" / ledger / reckoning
 
 ## Workflow
 
 Songs are typically written via multi-model creative delegation (Hermes → Cursor/Claude Code), compared side-by-side, then integrated by Liz into a final version.
+

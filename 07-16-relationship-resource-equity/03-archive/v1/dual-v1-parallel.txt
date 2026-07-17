@@ -1,0 +1,400 @@
+# TWO PARALLEL V1 DRAFTS — 2026-07-16
+# Song seed: relationship / trust / bandwidth / 咒怨 as negative emotions
+# Hybrid axis (both): spirits as subject; summer/autumn = temperature weather only (not dual-lover ballad)
+# Source folder: 07-16-relationship-resource-equity
+
+================================================================================
+QUICK COMPARE
+================================================================================
+| Field | A · Cursor SOL (gpt-5.6-sol-xhigh) | B · Hermes Agent |
+|---|---|---|
+| File origin | temporary-sol-v1.txt | temporary-hermes-v1.txt |
+| Title | 《生在温差里》 | Between Temperatures |
+| Subtitle | (the curses, speaking) | (the soft curses, speaking) |
+| Language | 中文主 | English 主 |
+| Hook | 我们生在温差里 / 一边盛夏，一边秋雨 | We live between temperatures — call us temporary rain |
+| Hardest cut | Bridge：下坠时那双手来不来；长久不来别叫偶然 | Bridge：when it matters — is she there? / we prefer your perfect theories |
+| Style choice | clever hybrid | hybrid (b) |
+
+================================================================================
+VERSION A — Cursor SOL / gpt-5.6-sol-xhigh
+================================================================================
+
+# 《生在温差里》
+### (the curses, speaking)
+
+## NOTE
+选择：clever hybrid。咒怨始终是叙事主体；盛夏与秋雨只是它们寄生的温差，不改写成双人情歌。  
+重点：诚实带宽、信任账本、单一承重点，以及“真正下坠时会不会出现”的可见答案。  
+保留张力：咒怨会误译诚实，也可能嗅到长期失衡；它们不是自动错误。  
+省略：DPDR、equity theory 等标签，以“一扇窗承重”和真实行动承载。
+
+## STYLE — draft direction
+80 BPM 暗暖 Mandarin chamber alt-pop；D minor 主歌贴耳阴冷，副歌借 F major 色彩短暂升温。四个近耳声部轮流认领名字，副歌合成温柔而不安的咒灵合唱；felt piano、低音提琴泛音、呼吸感 synth 与极轻的通知音构成空间，最终不是唱得更响，而是让人的声音比咒怨更清楚。
+
+## FULL LYRICS
+
+[Intro | Vocal: four close whispers, alternating L/R, breathy low register | Energy: 1/5 | Harmony: dry unison]
+
+十二行蓝光  
+一小段语音  
+你还没决定那叫不叫冷  
+我们已经有了呼吸  
+
+[Verse 1 | Vocal: close-mic alto, four distinct characters, restrained phrasing | Energy: 2/5 | Harmony: none]
+
+我是猜忌，替沉默补一行旁白  
+我是寒心，把六月吹成秋来  
+我是焦虑，伏在发送键上数一百  
+我是回避，拉住你的手说：别再来  
+
+我们不是你  
+也不是屏幕那边的人  
+我们只住在两种天气交界  
+一边台灯压着没读完的书  
+一边聊天框替整间房呼吸  
+
+[Pre-Chorus 1 | Vocal: single warm lead with whispers answering final words | Energy: 2.5/5 | Harmony: narrow thirds]
+
+屏幕那边轻轻地说：  
+“我都看了，只是不逐句回  
+有想法的地方，我才回答”  
+
+那只是把今天的余量说清  
+没有关门，也没有降温  
+可我们最会替空白配音  
+
+[Chorus 1 | Vocal: open lead joined by soft spectral choir | Energy: 3.5/5 | Harmony: widening stacked thirds]
+
+我们生在温差里  
+一边盛夏，一边秋雨  
+把“我今天真的没有力气”  
+翻成“你对我已经不重要”  
+
+我们生在温差里  
+拿每次已读当证据  
+当信任变成一张张收据  
+我们就有姓名  
+
+[Post-Chorus | Vocal: four whispered names, call-and-response | Energy: 2/5 | Harmony: dissonant close cluster]
+
+猜忌　寒心  
+焦虑　回避  
+你每念出一个名字  
+我们就长出身体  
+
+你数着谁给了多少  
+我们就在数你  
+
+[Verse 2 | Vocal: intimate lead, patient and almost consoling | Energy: 2.5/5 | Harmony: low octave shadow]
+
+你说：这一阵很快会过去  
+长久的屋顶不会漏雨  
+我们最爱这样温柔的定论  
+每一道水痕都可以叫天气  
+
+若每次刺痛都归给旧伤  
+每道裂缝都拿安全感盖上  
+我们永远不必证明存在  
+也永远不必真的退场  
+
+[Pre-Chorus 2 | Vocal: breathy lead rising into two-part harmony | Energy: 3/5 | Harmony: warm sixths with whispered undertone]
+
+当整座城只剩一扇窗  
+你把所有夜色往那里放  
+我们靠那唯一的灯长大  
+最怕别的房间也亮  
+
+别的灯不是点给谁看  
+只是让一处熄灭，不等于天黑  
+
+[Chorus 2 | Vocal: open lead and fuller curse choir | Energy: 4/5 | Harmony: broad but hushed]
+
+我们生在温差里  
+一边盛夏，一边秋雨  
+把“我今天真的没有力气”  
+翻成“你对我已经不重要”  
+
+我们生在温差里  
+拿每次已读当证据  
+当信任变成一张张收据  
+我们就有姓名  
+
+可两颗心不必交出一样的夜  
+才配彼此相信  
+
+[Bridge | Vocal: dry solo, nearly spoken, no reverb | Energy: 1.5/5 | Harmony: none]
+
+别问第十二行有没有回声  
+最该问的只有一句：  
+
+当你真的往下坠  
+那双手，来不来？  
+
+我们恨这个问题  
+因为它真的有答案  
+一次没来，不足以判决  
+长久不来，别再叫偶然  
+
+[Turn | Vocal: human lead gains weight; curses recede into distant whispers | Energy: 3/5 | Harmony: gradual unison-to-octave lift]
+
+别只把出口画在纸上  
+真的推开门  
+把没拨的号码拨出去  
+把没唱的草稿唱成声  
+
+让第二盏、第三盏灯亮起  
+让你的世界不只一个人承重  
+每多一条真实的路  
+我们就少一副面孔  
+
+[Final Chorus | Vocal: clear human lead over dissolving spirit choir | Energy: 4/5 | Harmony: warm major lift with unresolved minor bass]
+
+我们生在温差里  
+一边盛夏，一边秋雨  
+可一句“今天真的没有力气”  
+也可以只是诚实而已  
+
+我们也会饿死在温差里  
+当你不再急着翻译  
+信任不是逐行核对的收据  
+也不是无限期的透支  
+
+若长久失衡，没有人修理  
+别拿安全感遮住裂隙  
+若你下坠时，那双手仍在这里  
+今晚就让我们散去  
+
+[Outro | Vocal: one fading whisper, centered and close | Energy: 1/5 | Harmony: ghost choir disappears line by line]
+
+你说我们只是暂时  
+那就让明天作证  
+
+若重要时，那个人会来  
+我们就退回雨里  
+
+若一次又一次没有人来——  
+别再叫我们多心  
+
+## EMOTIONAL CONTAINERS
+
+### 1. 温差咒灵
+Style: dark-intimate Mandarin chamber alt-pop, close whispered quartet, felt piano, cello harmonics, granular phone glow, warm major-sixth chorus lift  
+Exclude: anime-theme bombast, trap hats, metal guitars, jump-scare SFX, cartoon ghost voices, arena belting
+
+### 2. 暖雨 Mandopop Noir
+Style: restrained piano ballad, brushed drums, autumn strings, long-vowel melody, spirits embedded as shadow backing vocals  
+Exclude: pure lovers’ duet, friendship anthem, wedding-pop gloss, sentimental key-change climax, copied 2000s Mandopop phrasing
+
+### 3. 已读以后
+Style: spectral minimal electronic pop, notification-click pulse, sub-bass breath, dry lead vocal, whispered names, final human-choir bloom  
+Exclude: EDM drop, hyperpop distortion, spoken-word theory essay, horror parody, dense glitch, trailer drums
+
+## SONG PROFILE
+Title: 《生在温差里》 (the curses, speaking)  
+BPM / Key: 80 BPM, D minor with F-major warmth in the choruses  
+Hook: “我们生在温差里 / 一边盛夏，一边秋雨”  
+Arrangement: Four curse voices emerge from phone-screen ambience; the bridge strips to one testable question, then real-world voices and additional lights gradually displace the spirits.
+
+## CHANGELOG
+v1 — gpt-5.6-sol-xhigh, Cursor — first full draft; curse-spirit POV with warm seasonal craft, observable trust test, and action-led resolution.
+
+================================================================================
+VERSION B — Hermes Agent
+================================================================================
+
+# BETWEEN TEMPERATURES
+### (the soft curses, speaking) — hermes-agent first draft
+
+## NOTE
+Style choice: hybrid (b). Spirits keep full subjecthood (JJK 咒怨 / Exactly On Time device); summer/autumn is weather they feed between — one human runs hot with words, one runs cool with honest bandwidth — NOT a dual-lover summer/autumn ballad. Stole from 范玮琪 only: dual-temperature imagery, gentle long-vowel singability, complementary contrast without smearing spirit agency into “you and I are seasons.” Emphasized: temporary = cover story that never ends; trust ≠ ledger; “read but don’t reply one by one” as clean report not cold door; optionality as action not analysis. Left out: CY as villain/saint, equity-theory lecture, DPDR monologue, unfalsifiable lullaby without a bite.
+
+---
+
+## STYLE (draft direction)
+
+Dark-warm Mandopop-adjacent alt ballad with soft gothic chamber-electronic underglow, ~76–82 BPM, D minor with brief major lifts that don’t fully resolve (two temperatures that never equalize). Target ~3:20. Vocal: close-mic, slightly otherworldly multi-voice — spirits answering each other, patient and sly, almost tender toward the humans they haunt; not diary confessional, not cartoon horror, not dual-lover duet. Journey: phone-screen glow + room hum → sparse verse (felt piano, soft pulse, faint message-chime) → pre thickens with low choir-air and warm pad (summer heat under glass) → chorus opens as layered whispers becoming harmony over cool autumn strings → v2 adds desk-lamp / page-turn texture → bridge strips to one dry voice + bare piano → final chorus wider but still hushed, harmonic not loud, dual-temperature pad left unresolved. Exclude: trap drop, metal scream, arena belt, glossy max-K-pop, parody horror FX, cartoon ghost comedy, pure dual-lover summer/autumn karaoke energy, gospel climax, key-change victory lap.
+
+---
+
+## LYRICS
+
+[Intro]
+[Whispered] [Intimate] [Low Energy]
+[close multi-voice, phone-glow room hum]
+
+We don't live in either of you.
+We live in the weather between —
+where summer floods a chat,
+and autumn answers three words clean.
+
+[Verse 1]
+[Breathy] [Smooth] [Low Energy]
+
+I am suspicion — I count the blank after blue.
+I am cold-heart — I cool the room when the long note lands soft.
+I am anxiety — I turn a kindness into a score.
+I am avoid — I lift your thumb off send before it goes.
+
+We are not her exam stack.
+We are not your midnight flood.
+We are soft curses with names you like —
+guess, freeze, spin, run.
+
+[Pre-Chorus]
+[Smooth] [Building Energy] [Harmonies]
+
+Don't hand us the childhood.
+Don't hand us the desk lamp and the books.
+We only need a gap to drink from —
+a gap is enough.
+
+[Chorus]
+[Intimate → Open] [Medium Energy] [Harmonies]
+
+We live between temperatures —
+your summer of paragraphs,
+her autumn of honest short.
+Call us temporary rain,
+call us short-term noise —
+we still grow in the weather report.
+
+We live between temperatures —
+that's why you never catch us whole.
+If every ache gets wrapped in “long cycle,”
+we never have to go.
+
+[Verse 2]
+[Breathy] [Smooth] [Medium Energy]
+
+She said: I read you.
+I just don't answer one by one.
+Not a colder sun. Not a door.
+A clean bandwidth map — the day already full.
+
+But we rewrote it for you
+into less heat, less proof, less love.
+We made a ledger out of silence
+and sold you the math.
+
+You almost starved us —
+traded “she's careless” for “I'm scarce.”
+Good. That thins our smoke.
+We still sit between two phones
+and wait for the next soft gap.
+
+[Pre-Chorus]
+[Smooth] [Building Energy] [Harmonies]
+
+Devotion tastes like one plug in the wall.
+Other rooms stay dark if you only plan them.
+We live on beautiful unspent light —
+analysis is a feast; action is a drought.
+
+[Chorus]
+[Intimate → Open] [Medium Energy] [Harmonies]
+
+We live between temperatures —
+your summer of paragraphs,
+her autumn of honest short.
+Call us temporary rain,
+call us short-term noise —
+we still grow in the weather report.
+
+We live between temperatures —
+that's why you never catch us whole.
+If every ache gets wrapped in “long cycle,”
+we never have to go.
+
+[Bridge]
+[Breathy] [Intimate] [Low Energy]
+[sparse piano / one dry voice]
+
+Trust is not a scoreboard.
+Two people can love uneven hours
+and still not be in debt.
+
+The question that starves us is quiet:
+when it matters — is she there?
+Not: did she answer line four of twelve.
+
+We hate that question.
+It has weather with an answer.
+We prefer your perfect theories —
+they feed us forever
+and never ask us to die.
+
+[Final Chorus]
+[Open] [Medium Energy] [Harmonies] [Hushed, not loud]
+
+We live between temperatures —
+unless you stop making us the whole sky.
+Turn on lights that aren't only hers.
+Keep a life that holds if the chat goes dim.
+
+We live between temperatures —
+say “temporary” like a fact, not a song to soothe.
+Then do the boring proof:
+show up elsewhere.
+Leave less of us
+in the weather between.
+
+[Outro]
+[Whispered] [Fading]
+
+Summer flood…
+autumn short…
+long cycle…
+temporary—
+
+(if you let the gap stay ours.)
+
+[End]
+
+---
+
+## EMOTIONAL CONTAINERS (Suno)
+
+### Container A — dual-temp soft gothic ballad (primary)
+Style: dark-warm alt ballad, 78 BPM D minor, dual-temperature pads, close multi-voice spirits, felt piano, soft pulse, hushed layered chorus, unresolved major lifts
+Exclude: trap, metal scream, arena belt, glossy K-pop max production, parody horror, cartoon ghosts, dual-lover karaoke duet, gospel climax, key-change victory
+
+### Container B — Mandopop-tender chamber (temperature steal, spirit retained)
+Style: intimate Mandopop-adjacent chamber ballad, 76 BPM, warm summer pad under cool autumn strings, breathy multi-voice, gentle long-vowel chorus, phone-glow intimacy, not horror
+Exclude: trap drop, EDM, scream vocals, arena pop, autotune riff runs, horror FX, pure summer/autumn lover duet framing, loud final chorus
+
+### Container C — sly spirit chamber-electronic
+Style: soft gothic chamber-electronic, 80 BPM minor, whispered spirit stack, sparse piano to low choir-air, sly patient vocal, hushed final widen
+Exclude: metal, trap hats, festival drop, cartoon ghost comedy, belted power ballad, glossy commercial pop, victory-lap modulation
+
+---
+
+## SONG PROFILE
+
+| Field | Value |
+|---|---|
+| Title | Between Temperatures |
+| Subtitle | (the soft curses, speaking) |
+| BPM / Key | ~78 BPM, D minor (warm major lifts that don't fully resolve) |
+| Hook | We live between temperatures — call us temporary rain… |
+| Length target | ~3:15–3:25 |
+| Arrangement note | Phone glow + room hum open; verse sparse (piano + soft pulse); pre adds choir-air; chorus = multi-voice spirit stack over dual-temp pad (warm under cool strings); V2 desk/page texture; bridge dry voice + piano only; final chorus harmonic widen not volume; outro whispers fade on “temporary—” |
+| POV | Soft 咒怨 (suspicion / cold-heart / anxiety / avoid) with consciousness; humans appear as weather sources, not co-singers |
+
+---
+
+## HOOK / TITLE ALTS
+- Between Temperatures (primary)
+- Temporary Rain
+- Weather Between Phones
+- We Prefer the Theory
+- Short-Term Noise
+
+---
+
+## CHANGELOG
+- hermes-agent first draft, 2026-07-16 — independent take from raw + Sol + Sonnet×2; 咒怨 subjecthood; hybrid dual-temperature craft without dual-lover collapse; diverges from temporary-v1 title/hook while keeping ledger/gap/long-cycle truths.
+
+================================================================================
+END
+================================================================================

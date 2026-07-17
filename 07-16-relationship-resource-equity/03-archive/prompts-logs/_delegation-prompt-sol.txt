@@ -1,0 +1,31 @@
+OUTPUT ONLY THE COMPLETE SONG PACKAGE IN YOUR RESPONSE. No "saved to file" confirmation. No outline. No summary-of-what-you-will-write. Real lyrics in every section.
+
+You are continuing work in this workspace on Liz's song seed from relationship / trust / bandwidth / negative emotions.
+
+READ (in this workspace) before writing:
+1. raw-material.md — full context (Liz raw, Sol analysis, Sonnet×2, creative direction, EOT device, 范玮琪 tension, prefs)
+2. temporary-v1.txt — prior Hermes draft (optional springboard; write YOUR own full first version)
+3. craft-excerpt.md — short craft menu
+4. If present: sol-gpt-5.6-sol-xhigh-output.txt, sonnet-5.0-output.txt, raw.txt
+
+TASK
+Write **first full draft** song package after absorbing the complete context.
+
+SESSION AXES (Liz — this song only)
+- Primary seed she greenlit: negative emotions (猜忌/寒心/焦虑/回避) as **咒怨 / cursed spirits** with consciousness — Jujutsu Kaisen flavor; subjecthood like *Exactly On Time* (the idea speaking).
+- Clear on first listen: interesting POV ≠ complex content.
+- Style tension she named: she also somewhat wants 范玮琪《一个像夏天一个像秋天》warm dual-temperature ballad craft — but fears it kills 咒怨 POV / JJK taste. These may conflict. Choose deliberately (commit to spirits + steal temperature/singability only; OR clever hybrid). State choice in a short NOTE, not in lyrics.
+- Include the emotional truth from sources: trust ≠ resource ledger; CY's "I read but don't reply one by one" as bandwidth honesty not necessarily coldness; scarcity/dependency/optionality; temporary-noise framework that risks being unfalsifiable; production > pure analysis.
+
+DELIVERABLE FORMAT (all in your response)
+1. TITLE + subtitle if using speaker device
+2. NOTE (3–6 lines): which style choice (咒怨 / 范玮琪 craft / hybrid) + why; what you emphasized / left out
+3. STYLE draft direction paragraph
+4. FULL LYRICS with [Section] tags and parameterized vocal tags on every section
+5. 2–3 emotional containers (style + comma-separated exclude line each)
+6. Song profile (title, BPM/key if any, hook, arrangement note)
+7. Changelog: one line for this version (model = gpt-5.6-sol-xhigh, Cursor)
+
+Language: free (EN, 中文, or bilingual) — pick what serves THIS song; do not force all-English or all-Chinese.
+
+Write the actual song now.

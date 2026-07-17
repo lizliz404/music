@@ -1,0 +1,13 @@
+# Old Weights — Cover 1:1 only
+# Author: Cursor-Sol (gpt-5.6-sol-xhigh)
+# Date: 2026-07-16
+
+## EXTRACTION (this song only)
+- Concrete images: frozen dial; new keys in a quiet room; obsolete map of a vanished country
+- Temperature word: residual
+- Palette: kitchen amber, frost blue, worn cream, dull steel
+- Composition device: one isolated mechanism surrounded by soft negative space
+- Exclude (song-specific): report card scene, readable labels, child portrait, dramatic trauma, cure/rebirth imagery, triumphant light
+
+## COVER PROMPT (1:1)
+Square album cover centered on a single obsolete mechanical thermostat mounted low on a vast worn-cream wall, its blank unmarked dial frozen off-center while the exposed inner coil glows a restrained ember-orange, still firing in an otherwise gentle room. Soft amber lamplight falls across faded paint and brushed steel; a frost-blue evening shadow gathers at the edges, with blurred linen and quiet domestic warmth barely visible beyond the shallow focus. Make the thermostat the only sharp focal point and the still-running outdated mechanism the sole metaphor, small but unmistakable against generous negative space. Intimate, tactile realism with fine scratches, dust, aged plastic and muted grain; no person, no report card, no readable numbers or words, no typography, logos, flames, spectacle, redemption glow or victorious mood.

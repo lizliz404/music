@@ -1,0 +1,237 @@
+# TASK
+OUTPUT ONLY album cover **image prompts** for this song.
+Aspect: **1:1 Cover only**. Do NOT write 16:9 / atmospheric / banner variants.
+One cover system serves both CN and EN (same release thesis).
+
+OUTPUT THE FULL PROMPT TEXT DIRECTLY IN YOUR RESPONSE. Do not only summarize. I will save it myself.
+Do not render images. Do not write lyrics.
+
+# SONG
+Title CN: 《生在温差里》
+Title EN: Between Temperatures
+POV: four short-term negative-emotion curses speaking (suspicion / cold-heart / anxiety / avoid)
+Hook: 我们生在温差里 / 一边盛夏，一边秋雨 — We live between temperatures / one side high summer, one side autumn rain
+Kill line: 你解释得越周全，我们活得越久 — The better you explain us, the longer we live
+Temperature: dual unresolved temperatures; misaligned sweetness; phone-glow intimacy; not a lovers' duet poster
+
+# SKILL RULES (album-cover-prompt-generator — craft only, no style law)
+1. First extract from THIS song only:
+   - 3 strongest concrete images (objects/places/light)
+   - Dominant emotional temperature (one word)
+   - Palette pull from the song
+   - One compositional device
+   - Song-specific exclusions
+2. Then write **Cover 1:1** only:
+   - 3–6 sentences of dense visual language for Flux/Midjourney/DALL·E
+   - Concept ≠ illustration of the whole plot
+   - One metaphor (not three stacked)
+   - No typography / titles / logos / readable text
+   - Thumbnail-readable: strong silhouette, one focal point, negative space
+   - Figures optional; abstract/object/light often better
+   - Specific light/material/weather/color — not empty "cinematic moody epic"
+3. Do NOT paste Suno audio jargon into the visual prompt; translate to light/material/atmosphere.
+4. Avoid generic stock (stairs-to-heaven, gold vaults, motivational poster light) unless earned.
+5. Quick self-test: pulls without knowing the song? Temperature not plot dump? Thumbnail ok? One focal point? Embarrassing as a real cover? If yes, simplify.
+
+# DELIVERABLE FORMAT
+```
+# 《生在温差里》 / Between Temperatures — Cover 1:1 only
+# Author: <Hermes-subagent | Cursor-Sol>
+# Date: 2026-07-16
+
+## EXTRACTION (this song only)
+- Concrete images:
+- Temperature word:
+- Palette:
+- Composition device:
+- Exclude (song-specific):
+
+## COVER PROMPT (1:1)
+[full paste-ready prompt paragraph(s)]
+
+## NOTES (optional, short)
+[why this metaphor; what you deliberately did not illustrate]
+```
+
+# SOURCE — LATEST LYRICS (CN v3 FULL PACKAGE)
+Read and use as emotional/visual thesis. Prefer concrete lyric images over abstract psychology.
+
+--- begin cn-v3 ---
+# 《生在温差里》v3 — CURRENT CANONICAL (CN)
+
+## STYLE (temperature only; do not dump into image prompt as audio tags)
+Dark-warm chamber alt-pop, 80 BPM, D minor verses with brief F-major warmth in choruses — two temperatures, unresolved. Soft curses that comfort one degree wrong. Phone-glow intimacy. Climax = clarity, not volume.
+
+## FULL LYRICS
+
+[Intro]
+十二行蓝光
+一小段语音
+你还没决定那叫不叫冷
+我们已经有了呼吸
+
+[Verse 1]
+我是猜忌，替沉默补一行旁白
+我是寒心，把六月吹成秋来
+我是焦虑，伏在发送键上数一百
+我是回避，拦住你伸出去的手
+
+我们不是你
+也不是屏幕那边的人
+我们只住在两种天气交界
+一边台灯压着没读完的书
+一边聊天框替整间房呼吸
+
+[Pre-Chorus 1]
+屏幕那边轻轻地说：
+“我都看了，只是不逐句回
+有想法的地方，我才回答”
+
+那只是把今天的余量说清
+没有关门，也没有降温
+可我们最会替空白配音
+
+[Chorus 1]
+我们生在温差里
+一边盛夏，一边秋雨
+把“我今天真的没有力气”
+翻成“你对我已经不重要”
+
+我们生在温差里
+拿每次已读当证据
+当信任变成一张张收据
+我们就有姓名
+
+[Post-Chorus]
+猜忌　寒心
+焦虑　回避
+你每念出一个名字
+我们就长出身体
+
+你解释得越周全，我们活得越久
+
+[Verse 2]
+你说：这一阵很快会过去
+长久的屋顶不会漏雨
+我们最爱这样温柔的定论
+每一道水痕都可以叫天气
+
+若每次刺痛都归给旧伤
+每道裂缝都拿安全感盖上
+我们永远不必证明存在
+也永远不必真的退场
+
+[Pre-Chorus 2]
+当整座城只剩一扇窗
+你把所有夜色往那里放
+我们靠那唯一的灯长大
+最怕别的房间也亮
+
+别的灯不是点给谁看
+只是让一处熄灭，不等于天黑
+
+[Chorus 2]
+我们生在温差里
+一边盛夏，一边秋雨
+把“我今天真的没有力气”
+翻成“你对我已经不重要”
+
+我们生在温差里
+拿每次已读当证据
+当信任变成一张张收据
+我们就有姓名
+
+可两颗心不必交出一样的夜
+才配彼此相信
+
+[Bridge]
+当你真的往下坠
+那双手，来不来？
+我们恨这个问题
+因为它真的有答案
+一次没来，不足以判决
+长久不来，别再叫偶然
+让第二盏灯，也在别处亮起
+让你的世界不只一个人承重
+每多一条真实的路
+我们就少一副面孔
+
+[Final Chorus]
+我们生在温差里
+一边盛夏，一边秋雨
+可一句“今天真的没有力气”
+也可以只是诚实而已
+
+我们也会饿死在温差里
+当你不再急着翻译
+若长久失衡，没有人修理
+别拿安全感遮住裂隙
+
+若你下坠时，那双手仍在这里
+今晚就让我们散去
+
+[Outro]
+你说我们只是暂时
+那就让明天作证
+
+若重要时，那个人会来
+我们就退回雨里
+
+若一次又一次没有人来——
+别再叫我们多心
+--- end cn-v3 ---
+
+# SOURCE — LATEST LYRICS (EN v3 parallel, same cover)
+--- begin en-v3 lyrics only ---
+[Intro]
+Twelve lines of blue light
+one short voice note
+you haven't decided if that counts as cold
+and we already have a pulse
+
+[Verse 1]
+I am suspicion — I write the silence a side note
+I am cold-heart — I blow June into fall
+I am anxiety — I count to a hundred on the send key
+I am avoid — I stop your hand before it reaches out
+We are not you
+and not the person on the other screen
+we only live where two weathers meet
+one desk lamp pressing on unfinished books
+one chat box breathing for the whole room
+
+[Chorus]
+We live between temperatures
+one side high summer, one side autumn rain
+we take "I really have no strength today"
+and turn it into "you don't matter to me anymore"
+We live between temperatures
+we hold each "read" up as evidence
+when trust becomes a stack of receipts
+that's when we get our names
+
+[Post]
+Suspicion, cold-heart / anxiety, avoid
+every name you speak aloud grows us a body
+The better you explain us, the longer we live
+
+[Bridge]
+When you really start to fall
+those hands — do they come, or not?
+once unanswered isn't a verdict
+never answered — stop calling it chance
+let a second light come on somewhere else
+
+[Final]
+We can starve between temperatures too
+once you stop rushing to translate
+If when you fall, those hands are still right here
+then tonight, let us scatter
+--- end en-v3 ---
+
+# HARD CONSTRAINTS
+- ONLY 1:1 Cover prompt (+ extraction block)
+- NO 16:9, NO 4:5 atmospheric, NO dual banner set
+- NO text on image
+- ONE cover for CN+EN
+- Derive look from this song; do not use a global "Liz cover style kit"

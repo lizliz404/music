@@ -1,0 +1,17 @@
+# 《生在温差里》 / Between Temperatures — Cover 1:1 only
+# Author: Hermes-subagent
+# Date: 2026-07-16
+# Source: cn-v3 + en-v3 latest · album-cover-prompt-generator skill · 1:1 only (no 16:9)
+
+## EXTRACTION (this song only)
+- Concrete images: (1) warm desk lamp pressing on unfinished books; (2) cold blue phone/chat-screen glow breathing for a dark room; (3) a single glass plane where high-summer heat haze meets autumn rain
+- Temperature word: misaligned
+- Palette: deep night charcoal, amber lamp gold, electric phone blue, cool rain slate, muted summer ochre at the seam
+- Composition device: hard vertical (or soft diagonal) light-temperature split — two weathers sharing one frame, one shared negative-space center
+- Exclude (song-specific): lovers’-duet embrace, cartoon ghost quartet, giant receipt stack, healing sunrise resolution, motivational poster glow, pure romance-ballad couple poses, readable text/logos
+
+## COVER PROMPT (1:1)
+Square album cover, 1:1. A single dark night interior cut by one clear temperature seam: left half a warm desk lamp pool of amber light pressing onto a stack of unfinished open books and a wood desk edge; right half a cold electric blue phone-screen glow filling the room like a second weather, soft rectangular light on empty wall and floor. Where the two lights meet, a thin glass plane or rain-streaked window holds both climates at once — high-summer heat haze blooming gold on one side of the glass, fine autumn rain beading cool slate-blue on the other — one focal junction, strong silhouette, large quiet negative space above. No people, no faces, no hands; only the misaligned intimacy of two temperatures that never equalize. Photoreal dark-warm chamber still-life with painterly soft edges at the weather seam, shallow depth, graphic thumbnail clarity, matte night blacks. No typography, no logos, no readable UI text, no cartoon spirits, no couple pose, no sunrise redemption, no motivational lens flare.
+
+## NOTES (optional, short)
+Metaphor = dual weather / dual light living in one room (the curses’ habitat), not a plot of four named spirits or trust-as-receipts. Deliberately skipped: illustrated curses, receipt stacks, falling hands, lovers’ duet energy.

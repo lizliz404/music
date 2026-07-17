@@ -1,0 +1,5 @@
+file '/home/ubuntu/music/07-17-grow-the-fuck-up/audio/v1-chunk_001.mp3'
+file '/home/ubuntu/music/07-17-grow-the-fuck-up/audio/v1-chunk_002.mp3'
+file '/home/ubuntu/music/07-17-grow-the-fuck-up/audio/v1-chunk_003.mp3'
+file '/home/ubuntu/music/07-17-grow-the-fuck-up/audio/v1-chunk_004.mp3'
+file '/home/ubuntu/music/07-17-grow-the-fuck-up/audio/v1-chunk_005.mp3'

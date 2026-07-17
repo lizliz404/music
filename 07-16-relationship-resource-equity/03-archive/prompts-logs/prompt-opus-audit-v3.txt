@@ -1,0 +1,39 @@
+OUTPUT THE FULL RESPONSE IN YOUR MESSAGE. Do not only say "saved to file." No outline-only. Real lyrics if you produce a new version.
+
+You are in a NEW Cursor session (not continuing prior Sol session). Model role: expert lyricist + critic + Suno production editor.
+
+## READ these workspace files first (in order)
+1) 01-source/liz-expert-audit-brief.txt  — Liz's full expert audit brief + creative seed + raw material
+2) 02-current/cn-v2-生在温差里.txt  — LATEST Chinese (primary track)
+3) 02-current/en-v2-between-temperatures.txt  — LATEST English (parallel track)
+4) 01-source/craft-backup-for-opus.txt  — songwriting skill backup (guidelines)
+5) Optional: 01-source/audit-dual-v1.txt — prior audit already applied surgically to v2
+
+## TASK (two parts in ONE response)
+
+### PART 1 — Expert audit (structured)
+Apply Liz's brief: 全面而结构化的赏析 + 打分.
+- What / Why / How / 归类
+- Score table (popular lyric standard, 10-point dimensions) for A 中文 v2 and B 英文 v2
+- Hard assets (具体强处) + real defects (不回避)
+- 范玮琪 vs JJK tension: resolved or still fighting?
+- Market test: 有用且有趣? 会不会又臭又长又无聊? 曲高和寡?
+- Verdict: STOP and ship / MINIMAL surgical only / or NEED a new version — pick one with reasons
+- If STOP: say exactly why further polish is the trap the song already sings about
+
+### PART 2 — New version (only if you judge it needed; if STOP, still deliver a clean "ship package" = polish tags/style only without lyric rewrite)
+If you judge a new version is worth it:
+- Primary deliverable: **Chinese v3** (main market track). English only if a short delta note is enough; do NOT force a full EN rewrite unless it unlocks something A lacks.
+- Preserve core assets: 翻译错误 chorus, 下坠那双手, 水痕/天气, 解释得越周全/perfect theories energy, 咒怨 POV, misaligned sweetness.
+- Kill: length bloat, didactic residue, anything that makes first listen dense without payoff.
+- Include: style prompt + parameterized vocal tags every section + 2–3 emotional containers (style + comma exclude) + song profile + changelog
+
+If STOP with no lyric rewrite: still output ship-ready CN package (lyrics as v2-locked + improved style/vocal tags only), labeled clearly.
+
+## Constraints
+- Refuse mediocre balance and empty "both sides" filler. New, useful, interesting insights only.
+- Language of audit: Chinese OK (Liz). Lyrics: CN primary.
+- OUTPUT ALL sections of deliverable fully — no "see file".
+
+## Footer
+Changelog line: model claude-opus-4-8-xhigh, Cursor new session, 2026-07-16

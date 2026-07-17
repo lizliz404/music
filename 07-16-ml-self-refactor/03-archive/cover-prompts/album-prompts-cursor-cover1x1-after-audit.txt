@@ -1,0 +1,23 @@
+# Old Weights — Cover 1:1 only
+# Author: Cursor-Sol (gpt-5.6-sol-xhigh) · continue pass after audit
+# Date: 2026-07-16
+
+## REASONING (short, sharp — what you rejected and why)
+- On H: Dumbbell is a category error: it turns ML parameter weights into gym mass and imports conquest, discipline, and self-help.
+- On C: The thermostat encodes the right thesis but requires too many translation steps; at thumbnail it is merely an old appliance.
+- On Liz paper+underlight: Best existing object and composition, but the impossible glow risks reading as hidden monster, phone screen, or literal fire rather than learned recurrence.
+- Chosen path: new metaphor: the paper that refolds itself
+- Why this is better (or why paper still wins): It keeps the song’s most specific object but replaces supernatural glow with material memory—the hands are gone, yet an old crease still determines what the paper does.
+
+## EXTRACTION (this song only)
+- Concrete images: face-down report card under kitchen light; a quiet room offering rest; a floor remembering the old dance first
+- Temperature word: residual
+- Palette: worn paper cream, muted kitchen amber, cool slate dusk, dark walnut brown
+- Composition device: one lifted diagonal fold interrupting a broad field of still negative space
+- Exclude (song-specific): readable grading marks, extra props, people, gym objects, technological diagrams, supernatural horror, flames, cure or triumph imagery
+
+## COVER PROMPT (1:1)
+Square 1:1 album cover, photoreal intimate still life: a single worn cream sheet lies face-down on a bare dark wooden kitchen table, one half resting flat while the other has sprung upward along a deep old crease, caught as if the paper is quietly folding itself closed again after every hand has left. Warm tungsten kitchen light skims the raised edge and fibrous surface while cool slate-gray dusk holds the surrounding room; a long narrow shadow makes the returning fold unmistakable, with no glow or object beneath the paper. Place the sheet slightly below center, its tense diagonal silhouette the only focal point amid generous uncluttered tabletop negative space, rendered with matte wood grain, softened corners, restrained contrast, and quiet domestic realism. The visible paper surface is completely blank and unreadable; no typography, grades, logos, people, additional objects, blue device light, supernatural illumination, fire, gym or fitness imagery, neural-network graphics, machinery, victory, healing, or rebirth symbolism.
+
+## NOTES
+The ML meaning is translated through persistent behavior, not depicted as technology: an old parameter survives as a crease that still controls the output. No dumbbell, appliance, glowing hidden presence, report-card words, or cure narrative.

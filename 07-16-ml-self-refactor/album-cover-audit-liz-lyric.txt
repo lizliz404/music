@@ -1,0 +1,99 @@
+# Old Weights — Cover prompt AUDIT (Liz synthesis + Lyric)
+# Date: 2026-07-16
+# Song folder: 07-16-ml-self-refactor
+# Status: diagnostic + preferred synthesis candidate (NOT a locked law for next pass)
+
+================================================================================
+LIZ NOTE (mandatory context — get this or the cover fails)
+================================================================================
+
+而且我觉得很傻逼的点：他们很可能根本没 get 到点：这里的 weight 不是重量的意思，不是 GYM 里面那个 weight，而是 machine learning 中参数权重，那个 weight 的意思。
+
+TRANSLATION / FORCE:
+- "weight" in this song = **machine-learning parameter weight** (residual model parameters still firing), NOT gym mass / dumbbell / barbell.
+- Any visual that reads as fitness, training-as-self-help, iron sport = **category error**.
+- The song thesis: old parameters still activate in soft rooms after the labeler is gone — not broken, just an older version; residual, non-voluntary, no victory.
+
+================================================================================
+DIAGNOSIS (Liz): H and C failed for the SAME class of error
+================================================================================
+
+Both H and C are not "under-polished details." Each is a variant of the same pit:
+**wrong concrete layer when translating the metaphor across media.**
+
+Same class as mixing "wire vs weights" inside the lyric — but now visual, not verbal.
+
+### H (dumbbell) — FAIL
+- Word "weight" in-song = ML weights (statistical parameters).
+- Visualized as solid iron dumbbell → 99% of viewers: gym / strength training.
+- Risk was already noted ("can read as gym-bro") but only labeled, not solved.
+- Not aesthetic: **semantic-domain mismatch / category error**.
+- Gym associations (discipline, muscle, conquest) are **opposite** of song core (residual reaction, involuntary old program, no victory). More realistic/stronger dumbbell = worse error.
+
+### C (thermostat) — FAIL (softer, different failure mode)
+- Direction not wrong ("frozen dial" is in the lyric).
+- But "exposed coil still glowing in old thermostat" requires the viewer to complete the translation: thermostat=old settings, coil=residual firing → then feel the emotion.
+- At phone thumbnail, 0.5s scan → reads as "old appliance" only — does **not** deliver residual / involuntary / still-firing.
+- Over-clever visual metaphor beats instant readability = "曲高和寡".
+
+================================================================================
+LYRIC AUDIT OF LIZ'S SYNTHESIS (Lyric)
+================================================================================
+
+Liz synthesis concept:
+> Face-down worn paper on empty kitchen table; warm tungsten glow seeps from under the edges as if something still quietly running underneath — unclaimed, unread. Cool slate dusk room. One object, residual light.
+
+### Diagnosis correctness
+| Claim | Verdict |
+|---|---|
+| H dumbbell = category error (ML weight → gym weight) | CORRECT. Not a polish issue. |
+| C thermostat = too many translation hops for thumbnail | CORRECT. Dial in lyric ≠ must paint a thermostat. |
+| Same cross-media wrong-layer error as lyric wire/weights | CORRECT. |
+
+### Why Liz's paper+underlight wins (as a candidate)
+| Test | Result |
+|---|---|
+| One metaphor | PASS: face-down paper + residual light-under |
+| Song cite | STRONG: V1 report card face-down + chorus "settings stayed on" |
+| Association pollution | STRONG: paper has almost no hijack domains |
+| Thumbnail 0.5s | STRONG: empty room / one paper / light that shouldn't be there |
+| Anti cure-poster | PASS |
+| No readable text | PASS |
+
+Better than "half H + half C props" — **one object carries two functions**.
+
+### Residual risks (not vetoes)
+1. Under-paper glow can drift supernatural/horror if too green/strong/edge-lit → keep soft tungsten amber, weak, diffuse.
+2. Don't turn paper into prop pile (no envelopes, red pen, visible grade lines).
+3. Don't let "alive under paper" become phone blue / open flame.
+
+### Hard compare
+| | H dumbbell | C thermostat | Liz paper+underlight |
+|---|---|---|---|
+| Semantic domain | WRONG (gym) | OK but abstract | OK + everyday |
+| Thumbnail | Medium (reads wrong) | Weak | Strong |
+| Song fit | Literal wrong sense of weight | Dial ok, whole cool | face-down + still running |
+| Misread cost | High | Medium (numb) | Low (mild uncanny; fixable via light) |
+
+### Lyric verdict on Liz synthesis
+- **Best among H / C / Liz-paper for ship as of this audit.**
+- H/C = failure specimens only.
+- **However: this is NOT a locked visual constitution.** Next generative pass may overturn all frames if a stronger, clearer, more song-true image appears — as long as it does NOT reintroduce gym-weight, prop-store cleverness without thumbnail hit, cure/rebirth poster, or readable text.
+
+================================================================================
+LIZ SYNTHESIS — FULL PROMPT TEXT (candidate reference only)
+================================================================================
+
+**EXTRACTION**
+- Concrete image: a single face-down sheet of paper, warm light glowing from beneath its edges, on an otherwise empty table
+- Temperature word: residual
+- Palette: tungsten amber glow, cool slate-gray dusk, worn cream paper, no chrome/trophy tones
+- Composition device: one small paper as sole light source in a large dark negative space; thumbnail-legible silhouette
+- Exclude: gym/fitness objects, exposed machinery/props, readable text or titles, faces/people, trophies, broken glass, phoenix/rebirth glow, motivational-poster lighting
+
+**COVER PROMPT**
+Square 1:1 album cover, photoreal intimate still life. A single sheet of worn cream paper lies face-down and slightly curled at one corner on a bare wooden kitchen table, in an otherwise empty, dim room. From beneath the paper's edges, a soft warm tungsten-amber glow seeps into the surrounding shadow, as if something quietly alive is still running underneath it, unclaimed and unread. The rest of the room falls into cool slate-gray dusk — generous negative space, no other objects, no clutter. Shallow depth of field, matte tabletop grain, restrained low-key lighting, no studio gloss, no lens flare, no dramatic spotlight. Strong, simple silhouette readable at thumbnail size: one dim room, one small paper, one impossible warm light glowing from beneath it. No text, no logos, no titles, no visible words on the paper, no faces, no people, no trophies, no broken glass, no phoenix or triumphant light, no gym or fitness objects, no exposed machinery — just an ordinary, quiet room where something old is still, faintly, running.
+
+================================================================================
+END AUDIT
+================================================================================

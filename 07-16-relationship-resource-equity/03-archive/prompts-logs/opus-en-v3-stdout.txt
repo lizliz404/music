@@ -1,0 +1,192 @@
+I have the CN v3 canonical and my prior EN delta note. Now I'll produce the complete English v3 package with exact structural parity to CN v3 and the three surgical moves applied. Full output in-response.
+
+---
+
+# BETWEEN TEMPERATURES
+### (the curses, speaking)
+
+## NOTE — what changed vs EN v2
+
+EN v3 is a **minimal-surgical parity pass** on B v2 — same three cuts I made for CN v3, nothing invented. It does **not** rewrite the song; it removes what CN v3 removed.
+
+1. **Verse 1 avoid line (clarity + singability)**: v2's `I am avoid — I grip your hand so it won't reach out.` had a double-*it* ambiguity (whose hand, what reaches?). → `I am avoid — I stop your hand before it reaches out.` Subject-clear, matches the CN v3 fix (回避拦住*你*伸出的手), scans cleanly against lines 1–3.
+2. **Final Chorus (kill didactic couplet, escalate meaning not inventory)**: deleted the definition lines `Trust is not a line-by-line receipt — / and not an open-ended overdraft.` (telling, not showing — it deflated the translation-error image). Kept the sharp `We can starve between temperatures` + the `wallpaper the crack with "secure"` reversal. Final chorus now lands on the falsifiable "hands" test, not a lecture.
+3. **Bridge tail (one light, not stacked)**: `Let a second light, a third light, come on.` → `Let a second light come on somewhere else.` — one diversification image so the `do those hands come, or not?` knife stays the bridge's single point.
+
+Everything else is **untouched**: perfect-theories kill line, translation-error chorus, falling-hands test, water-mark/weather, curse-quartet POV, misaligned sweetness. Hybrid spirit POV kept — humans are weather sources + one falsifiable presence, not co-singers in a lovers' duet.
+
+## STYLE PROMPT (Suno — reuse-based, minimal EN tweaks only)
+
+Dark-warm chamber alt-pop, bilingual-capable delivery, 80 BPM, D minor verses (close, cold, intimate) with brief F-major warmth lifting the choruses without ever fully equalizing — two temperatures, unresolved. Vocal: a close-mic quartet of soft curses, patient and sly, almost consoling; they sing sweetly but one degree wrong — like something that should not know how to comfort you, comforting you. A single human lead gains clarity and weight only in the bridge and final chorus as the spirit stack thins. Texture: felt piano, double-bass harmonics, breath-heavy synth pad, a faint notification click as pulse; chorus opens as layered whispers becoming hushed harmony over cool autumn strings. The climax is not louder — it is the human voice finally being clearer than the curses. **Critical: every tender curse line must carry an audible wrongness. Do NOT render Verse 2 and Pre-Chorus 2 as sincere ballad sincerity — sweetness with a crack in it.**
+Exclude: anime-theme bombast, trap hats, metal guitar, jump-scare SFX, cartoon ghost voices, arena belting, key-change victory lap, gospel climax, pure sincere balladry, dual-lover karaoke duet.
+
+## FULL LYRICS
+
+[Intro | tags: whispered quartet, alternating L/R, breathy low register, dry unison, phone-glow room hum, energy 1/5]
+
+Twelve lines of blue light  
+one short voice note  
+you haven't decided if that counts as cold  
+and we already have a pulse  
+
+[Verse 1 | tags: close-mic alto, four distinct curse characters, restrained phrasing, no harmony, cold-intimate, energy 2/5]
+
+I am suspicion — I write the silence a side note  
+I am cold-heart — I blow June into fall  
+I am anxiety — I count to a hundred on the send key  
+I am avoid — I stop your hand before it reaches out  
+
+We are not you  
+and not the person on the other screen  
+we only live where two weathers meet  
+one desk lamp pressing on unfinished books  
+one chat box breathing for the whole room  
+
+[Pre-Chorus 1 | tags: single warm lead, whispers answering final words, narrow thirds, building, energy 2.5/5]
+
+Soft from the other side she says:  
+"I read it all, I just don't answer line by line  
+where I have a thought, that's where I reply"  
+
+That was only today's bandwidth, said clean  
+no door shut, no drop in the weather  
+but we're the best at dubbing the blank  
+
+[Chorus 1 | tags: open lead + soft spectral choir, widening stacked thirds, sweet but unsettled, not a love song, energy 3.5/5]
+
+We live between temperatures  
+one side high summer, one side autumn rain  
+we take "I really have no strength today"  
+and turn it into "you don't matter to me anymore"  
+
+We live between temperatures  
+we hold each "read" up as evidence  
+when trust becomes a stack of receipts  
+that's when we get our names  
+
+[Post-Chorus | tags: four whispered names, call-and-response, dissonant close cluster, still tender still wrong, energy 2/5]
+
+Suspicion, cold-heart  
+anxiety, avoid  
+every name you speak aloud  
+grows us a body  
+
+The better you explain us, the longer we live  
+
+[Verse 2 | tags: sweet close-mic curse lead, tender but clearly misaligned — like something that should not comfort you, comforting you; NOT pure ballad sincerity, low octave shadow, energy 2.5/5]
+
+You said: this spell of weather passes soon  
+a lasting roof won't leak for long  
+we love a gentle verdict just like that  
+every water mark can be called the weather  
+
+If every sting gets charged to an old wound  
+if every crack gets capped with "secure base"  
+we never have to prove that we exist  
+and never have to truly leave the stage  
+
+[Pre-Chorus 2 | tags: breathy lead rising to two-part, warm sixths with whispered undertone, patient and uncanny, deliberately misaligned sweetness, energy 3/5]
+
+When the whole city is a single window  
+you pour all your nightfall into that one frame  
+we grow up feeding on that only lamp  
+most afraid another room lights up  
+
+Other lights aren't lit for someone to see  
+one window going dark doesn't mean the sky went dark  
+
+[Chorus 2 | tags: open lead + fuller curse choir, broad but hushed, sweetness with a wrong grain, energy 4/5]
+
+We live between temperatures  
+one side high summer, one side autumn rain  
+we take "I really have no strength today"  
+and turn it into "you don't matter to me anymore"  
+
+We live between temperatures  
+we hold each "read" up as evidence  
+when trust becomes a stack of receipts  
+that's when we get our names  
+
+Two hearts don't have to hand over the same nights  
+to deserve believing each other  
+
+[Bridge | tags: dry near-spoken solo → human lead gains weight as curses recede, none → gradual octave lift, the question is the knife, energy 1.5→3/5]
+
+When you really start to fall  
+those hands — do they come, or not?  
+we hate this question  
+because it actually has an answer  
+once unanswered isn't a verdict  
+never answered — stop calling it chance  
+let a second light come on somewhere else  
+let your world not rest on one person's weight  
+every real road you open  
+takes one more face from us  
+
+[Final Chorus | tags: clear human lead over dissolving spirit choir, warm major lift with unresolved minor bass, sweetness thinning to clean air, energy 4/5]
+
+We live between temperatures  
+one side high summer, one side autumn rain  
+but "I really have no strength today"  
+can also just be honesty, nothing more  
+
+We can starve between temperatures too  
+once you stop rushing to translate  
+if the imbalance lasts and no one repairs it  
+don't wallpaper the crack with "secure"  
+
+If when you fall, those hands are still right here  
+then tonight, let us scatter  
+
+[Outro | tags: one fading centered whisper, ghost choir disappears line by line, energy 1/5]
+
+You say we're only temporary  
+then let tomorrow be the witness  
+
+If when it matters, that person comes  
+we'll fold back into the rain  
+
+If time after time, no one comes —  
+stop calling us paranoid  
+
+## EMOTIONAL CONTAINERS
+
+### 1. Temperature Curses (primary)
+Style: dark-intimate chamber alt-pop, 80 BPM D minor, close whispered curse quartet, felt piano, cello harmonics, granular phone glow, warm major-sixth chorus lift that never resolves, misaligned-sweet spirit comfort  
+Exclude: anime-theme bombast, trap hats, metal guitars, jump-scare SFX, cartoon ghost voices, arena belting, pure sincere ballad
+
+### 2. Warm-Rain Noir (temperature steal, spirit kept)
+Style: restrained piano ballad, brushed drums, autumn strings, long-vowel melody, sweet tender curse vocals with an uncanny comforting wrongness, phone-glow intimacy  
+Exclude: pure lovers' duet, friendship anthem, wedding-pop gloss, sentimental key-change climax, copied retro pop phrasing
+
+### 3. After the Read (spectral electronic)
+Style: spectral minimal electronic pop, notification-click pulse, sub-bass breath, dry lead vocal, whispered names, misaligned tender undertones, final human-choir bloom  
+Exclude: EDM drop, hyperpop distortion, spoken-word theory essay, horror parody, dense glitch, trailer drums
+
+## SONG PROFILE
+- **Title**: Between Temperatures (the curses, speaking)
+- **BPM / Key**: 80 BPM, D minor with unresolved F-major warmth in choruses
+- **Hook**: "We live between temperatures / one side high summer, one side autumn rain"
+- **Kill line**: "The better you explain us, the longer we live"
+- **Falsifiable-test line**: "once unanswered isn't a verdict / never answered — stop calling it chance"
+- **POV**: four short-term negative-emotion curses (suspicion / cold-heart / anxiety / avoid) with subjecthood; humans appear only as "weather sources" + one falsifiable presence test, never as co-singers
+- **Arrangement**: phone-screen room hum opens → sparse verse (felt piano + soft pulse + faint notification click) → pre adds choir-air → chorus = curse voices stacking into hushed harmony → V2 desk-lamp / page-turn texture → bridge strips to one falsifiable question + one continuous turn toward action → real-world voices and new lights gradually displace the curses; climax rides "the human voice being clearer than the curses," not volume
+
+## CHANGELOG
+- **EN v3 from CN v3 surgical parity, claude-opus-4-8-xhigh, Cursor continue, 2026-07-16.**
+- Parity basis: `02-current/cn-v3-生在温差里.txt` (canonical CN) + `02-current/en-v2-between-temperatures.txt` (base) + prior EN delta note in `02-current/opus-audit-and-v3.txt`.
+- **Change 1 (Verse 1 avoid — clarity + singable)**: `I grip your hand so it won't reach out` → `I stop your hand before it reaches out`. Removes double-*it* ambiguity, mirrors CN v3「拦住你伸出去的手」, scans against lines 1–3.
+- **Change 2 (Final Chorus — cut didactic couplet)**: deleted `Trust is not a line-by-line receipt — / and not an open-ended overdraft.`; kept `We can starve between temperatures` + `don't wallpaper the crack with "secure."` Escalates meaning (falling-hands test), not inventory. Mirrors CN v3 three-stanza → two-stanza cut.
+- **Change 3 (Bridge tail — single light)**: `Let a second light, a third light, come on.` → `Let a second light come on somewhere else.` One diversification image so the falling-hands question stays the single knife. Mirrors CN v3「让第二盏灯，也在别处亮起」.
+- **Preserved intact**: perfect-theories kill line ("The better you explain us, the longer we live"), translation-error chorus, falling-hands test, water-mark/weather, curse-quartet POV, misaligned-sweet vocal tags (STYLE + every V2/PC2 tag).
+- **Style**: reused CN v3 style prompt near-identically; only EN-delivery tweaks (`Mandarin chamber alt-pop` → `chamber alt-pop, bilingual-capable delivery`; `pure sincere Mandopop` → `pure sincere balladry`). Same aesthetic: misaligned-sweet curse quartet / dual temperature / phone glow / human clearer than spirits.
+- Suno: parameterized vocal tags on every section (structure + delivery + misalignment), 3 emotional containers w/ single-line comma exclude, style prompt, song profile.
+- **After generating: STOP.** Further passes = the exact move this song indicts ("the better you explain us, the longer we live").
+
+---
+
+EN v3 is now at full structural parity with CN v3 — same 11 sections, same three cuts, same preserved assets, style prompt reused with only two EN-delivery word swaps. 
+
+Note on one honest judgment call: I kept "you don't matter to me anymore" in the chorus (v2 had "you already don't matter"). It's one syllable longer but removes the ambiguity of who the subject is and sings more naturally on the descending line — tell me if you'd rather keep v2's tighter phrasing.
+
+This response is output in full; nothing was written to a file. Say the word and I'll save it to `02-current/en-v3-between-temperatures.txt`.

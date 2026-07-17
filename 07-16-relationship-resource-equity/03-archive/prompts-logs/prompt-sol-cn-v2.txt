@@ -1,0 +1,28 @@
+SURGICAL ONLY. No full rewrite. No outline. OUTPUT THE COMPLETE PACKAGE IN YOUR RESPONSE (I will save it). Do not write "saved to file" only.
+
+Workspace: /home/ubuntu/Music/07-16-relationship-resource-equity/
+
+READ:
+- temporary-sol-v1.txt  (BASE = A 中文 《生在温差里》)
+- audit-dual-v1.txt     (audit — follow exactly)
+- temporary-hermes-v1.txt (only for the one transplant line)
+
+TASK: produce **Chinese v2** of 《生在温差里》 by applying ONLY these changes to A:
+
+1) Verse1 回避句 → 「我是回避，攥住你的手不许它伸出」
+2) Merge [Turn] into [Bridge] as ONE continuous section (delete separate Turn label). Keep the best lines from both without double-climax padding.
+3) Replace post-chorus weakest didactic lines 「你数着谁给了多少 / 我们就在数你」 with transplanted insight, e.g. 「你解释得越周全，我们活得越久」 (or equally sharp Chinese of B's "We prefer your perfect theories — they feed us forever and never ask us to die"). Keep post-chorus name-stack if it still works; only kill the weak ledger-count couplet.
+4) Vocal/arrangement: on Verse2 and Pre-Chorus2 (and any "tender" spirit sections), add explicit misalignment tags/instructions in section headers AND style note — 甜美/温柔 but 错位: like something that shouldn't know how to comfort is comforting. Not pure Mandopop sincerity.
+
+Preserve: hook 翻译错误, bridge 我们恨这个问题/下坠双手, verse2 水痕/天气, hybrid 咒怨 POV, seasonal craft not dual-lover.
+
+DELIVERABLE in response:
+- TITLE + subtitle
+- NOTE (what changed — bullet the 3+1 patches only)
+- STYLE paragraph (include misalignment vocal instruction)
+- FULL LYRICS with parameterized tags every section
+- 2–3 emotional containers (style + single-line comma exclude)
+- Song profile
+- Changelog: v2 surgical from audit, gpt-5.6-sol-xhigh Cursor, 2026-07-16
+
+Chinese primary. Real lyrics only.

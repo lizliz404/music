@@ -1,0 +1,181 @@
+# 《生在温差里》
+### (the curses, speaking) — v2 surgical (audit-locked)
+
+## NOTE
+v2 = A 的三处手术 + 声线错位标注，不重写。
+1) Verse1 回避句：攥住你的手不许它伸出
+2) Bridge 合并原 Turn（一段连续，不再双拆）
+3) Post-chorus 弱说教 → 「你解释得越周全，我们活得越久」
+4) Verse2 / Pre-Chorus2：甜美但错位的咒灵声线标注
+
+## STYLE — draft direction
+80 BPM 暗暖 Mandarin chamber alt-pop；D minor 主歌贴耳阴冷，副歌借 F major 色彩短暂升温。四个近耳声部轮流认领名字。
+**声线关键**：Verse2、Pre-Chorus2 及所有“温柔”段落——甜美地唱，但带一丝不该存在的错位感：像不该会安慰人的东西在安慰人。禁止普通深情 Mandopop 真诚暖男腔。
+编曲：felt piano、低音提琴泛音、呼吸感 synth、极轻通知音；最终不是唱得更响，而是人的声音比咒怨更清楚。
+
+## FULL LYRICS
+
+[Intro | Vocal: four close whispers, alternating L/R, breathy low register | Energy: 1/5 | Harmony: dry unison]
+
+十二行蓝光
+一小段语音
+你还没决定那叫不叫冷
+我们已经有了呼吸
+
+[Verse 1 | Vocal: close-mic alto, four distinct characters, restrained phrasing | Energy: 2/5 | Harmony: none]
+
+我是猜忌，替沉默补一行旁白
+我是寒心，把六月吹成秋来
+我是焦虑，伏在发送键上数一百
+我是回避，攥住你的手不许它伸出
+
+我们不是你
+也不是屏幕那边的人
+我们只住在两种天气交界
+一边台灯压着没读完的书
+一边聊天框替整间房呼吸
+
+[Pre-Chorus 1 | Vocal: single warm lead with whispers answering final words | Energy: 2.5/5 | Harmony: narrow thirds]
+
+屏幕那边轻轻地说：
+“我都看了，只是不逐句回
+有想法的地方，我才回答”
+
+那只是把今天的余量说清
+没有关门，也没有降温
+可我们最会替空白配音
+
+[Chorus 1 | Vocal: open lead joined by soft spectral choir | Energy: 3.5/5 | Harmony: widening stacked thirds]
+
+我们生在温差里
+一边盛夏，一边秋雨
+把“我今天真的没有力气”
+翻成“你对我已经不重要”
+
+我们生在温差里
+拿每次已读当证据
+当信任变成一张张收据
+我们就有姓名
+
+[Post-Chorus | Vocal: four whispered names, call-and-response | Energy: 2/5 | Harmony: dissonant close cluster]
+
+猜忌　寒心
+焦虑　回避
+你每念出一个名字
+我们就长出身体
+
+你解释得越周全
+我们活得越久
+
+[Verse 2 | Vocal: intimate lead, patient, almost consoling — sweet but misaligned, like a curse that shouldn't know how to comfort | Energy: 2.5/5 | Harmony: low octave shadow]
+
+你说：这一阵很快会过去
+长久的屋顶不会漏雨
+我们最爱这样温柔的定论
+每一道水痕都可以叫天气
+
+若每次刺痛都归给旧伤
+每道裂缝都拿安全感盖上
+我们永远不必证明存在
+也永远不必真的退场
+
+[Pre-Chorus 2 | Vocal: breathy lead, warm sixths — sweet misalignment, uncanny comfort, NOT pure romantic Mandopop sincerity | Energy: 3/5 | Harmony: warm sixths with whispered undertone]
+
+当整座城只剩一扇窗
+你把所有夜色往那里放
+我们靠那唯一的灯长大
+最怕别的房间也亮
+
+别的灯不是点给谁看
+只是让一处熄灭，不等于天黑
+
+[Chorus 2 | Vocal: open lead and fuller curse choir | Energy: 4/5 | Harmony: broad but hushed]
+
+我们生在温差里
+一边盛夏，一边秋雨
+把“我今天真的没有力气”
+翻成“你对我已经不重要”
+
+我们生在温差里
+拿每次已读当证据
+当信任变成一张张收据
+我们就有姓名
+
+可两颗心不必交出一样的夜
+才配彼此相信
+
+[Bridge | Vocal: dry solo → human lead gains weight; curses recede to distant whispers | Energy: 1.5→3/5 | Harmony: none then gradual unison-to-octave]
+
+别问第十二行有没有回声
+最该问的只有一句：
+
+当你真的往下坠
+那双手，来不来？
+
+我们恨这个问题
+因为它真的有答案
+一次没来，不足以判决
+长久不来，别再叫偶然
+
+别只把出口画在纸上
+真的推开门
+把没拨的号码拨出去
+把没唱的草稿唱成声
+
+让第二盏、第三盏灯亮起
+让你的世界不只一个人承重
+每多一条真实的路
+我们就少一副面孔
+
+[Final Chorus | Vocal: clear human lead over dissolving spirit choir | Energy: 4/5 | Harmony: warm major lift with unresolved minor bass]
+
+我们生在温差里
+一边盛夏，一边秋雨
+可一句“今天真的没有力气”
+也可以只是诚实而已
+
+我们也会饿死在温差里
+当你不再急着翻译
+信任不是逐行核对的收据
+也不是无限期的透支
+
+若长久失衡，没有人修理
+别拿安全感遮住裂隙
+若你下坠时，那双手仍在这里
+今晚就让我们散去
+
+[Outro | Vocal: one fading whisper, centered and close | Energy: 1/5 | Harmony: ghost choir disappears line by line]
+
+你说我们只是暂时
+那就让明天作证
+
+若重要时，那个人会来
+我们就退回雨里
+
+若一次又一次没有人来——
+别再叫我们多心
+
+## EMOTIONAL CONTAINERS
+
+### 1. 温差咒灵
+Style: dark-intimate Mandarin chamber alt-pop, close whispered quartet, felt piano, cello harmonics, granular phone glow, warm major-sixth chorus lift, sweet-but-misaligned tender verses
+Exclude: anime-theme bombast, trap hats, metal guitars, jump-scare SFX, cartoon ghost voices, arena belting, pure sincere Mandopop warmth
+
+### 2. 暖雨 Mandopop Noir
+Style: restrained piano ballad, brushed drums, autumn strings, long-vowel melody, spirits as uncanny shadow backing vocals, misaligned comfort tone
+Exclude: pure lovers' duet, friendship anthem, wedding-pop gloss, sentimental key-change climax, copied 2000s Mandopop phrasing, sincere-only warmth
+
+### 3. 已读以后
+Style: spectral minimal electronic pop, notification-click pulse, sub-bass breath, dry lead vocal, whispered names, final human-choir bloom
+Exclude: EDM drop, hyperpop distortion, spoken-word theory essay, horror parody, dense glitch, trailer drums
+
+## SONG PROFILE
+Title: 《生在温差里》 (the curses, speaking)
+BPM / Key: 80 BPM, D minor with F-major warmth in choruses
+Hook: “我们生在温差里 / 一边盛夏，一边秋雨” + 翻译错误 couplet
+Arrangement: Four curse voices from phone-glow; tender sections must sound uncanny; bridge = falsifying question + action (merged); final chorus human clearer than spirits.
+Length target: ~3:10–3:25 after merge
+
+## CHANGELOG
+- v1 — gpt-5.6-sol-xhigh Cursor — first full draft
+- v2 — surgical from audit-dual-v1 (Lyric Hermes): V1 avoid-hand fix; post-chorus theory-feed transplant; Bridge+Turn merge; misaligned-sweet vocal tags on V2/Pre2. No full rewrite. 2026-07-16

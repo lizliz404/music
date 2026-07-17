@@ -1,0 +1,191 @@
+# BETWEEN TEMPERATURES
+### (the soft curses, speaking) — hermes-agent first draft
+
+## NOTE
+Style choice: hybrid (b). Spirits keep full subjecthood (JJK 咒怨 / Exactly On Time device); summer/autumn is weather they feed between — one human runs hot with words, one runs cool with honest bandwidth — NOT a dual-lover summer/autumn ballad. Stole from 范玮琪 only: dual-temperature imagery, gentle long-vowel singability, complementary contrast without smearing spirit agency into “you and I are seasons.” Emphasized: temporary = cover story that never ends; trust ≠ ledger; “read but don’t reply one by one” as clean report not cold door; optionality as action not analysis. Left out: CY as villain/saint, equity-theory lecture, DPDR monologue, unfalsifiable lullaby without a bite.
+
+---
+
+## STYLE (draft direction)
+
+Dark-warm Mandopop-adjacent alt ballad with soft gothic chamber-electronic underglow, ~76–82 BPM, D minor with brief major lifts that don’t fully resolve (two temperatures that never equalize). Target ~3:20. Vocal: close-mic, slightly otherworldly multi-voice — spirits answering each other, patient and sly, almost tender toward the humans they haunt; not diary confessional, not cartoon horror, not dual-lover duet. Journey: phone-screen glow + room hum → sparse verse (felt piano, soft pulse, faint message-chime) → pre thickens with low choir-air and warm pad (summer heat under glass) → chorus opens as layered whispers becoming harmony over cool autumn strings → v2 adds desk-lamp / page-turn texture → bridge strips to one dry voice + bare piano → final chorus wider but still hushed, harmonic not loud, dual-temperature pad left unresolved. Exclude: trap drop, metal scream, arena belt, glossy max-K-pop, parody horror FX, cartoon ghost comedy, pure dual-lover summer/autumn karaoke energy, gospel climax, key-change victory lap.
+
+---
+
+## LYRICS
+
+[Intro]
+[Whispered] [Intimate] [Low Energy]
+[close multi-voice, phone-glow room hum]
+
+We don't live in either of you.
+We live in the weather between —
+where summer floods a chat,
+and autumn answers three words clean.
+
+[Verse 1]
+[Breathy] [Smooth] [Low Energy]
+
+I am suspicion — I count the blank after blue.
+I am cold-heart — I cool the room when the long note lands soft.
+I am anxiety — I turn a kindness into a score.
+I am avoid — I lift your thumb off send before it goes.
+
+We are not her exam stack.
+We are not your midnight flood.
+We are soft curses with names you like —
+guess, freeze, spin, run.
+
+[Pre-Chorus]
+[Smooth] [Building Energy] [Harmonies]
+
+Don't hand us the childhood.
+Don't hand us the desk lamp and the books.
+We only need a gap to drink from —
+a gap is enough.
+
+[Chorus]
+[Intimate → Open] [Medium Energy] [Harmonies]
+
+We live between temperatures —
+your summer of paragraphs,
+her autumn of honest short.
+Call us temporary rain,
+call us short-term noise —
+we still grow in the weather report.
+
+We live between temperatures —
+that's why you never catch us whole.
+If every ache gets wrapped in “long cycle,”
+we never have to go.
+
+[Verse 2]
+[Breathy] [Smooth] [Medium Energy]
+
+She said: I read you.
+I just don't answer one by one.
+Not a colder sun. Not a door.
+A clean bandwidth map — the day already full.
+
+But we rewrote it for you
+into less heat, less proof, less love.
+We made a ledger out of silence
+and sold you the math.
+
+You almost starved us —
+traded “she's careless” for “I'm scarce.”
+Good. That thins our smoke.
+We still sit between two phones
+and wait for the next soft gap.
+
+[Pre-Chorus]
+[Smooth] [Building Energy] [Harmonies]
+
+Devotion tastes like one plug in the wall.
+Other rooms stay dark if you only plan them.
+We live on beautiful unspent light —
+analysis is a feast; action is a drought.
+
+[Chorus]
+[Intimate → Open] [Medium Energy] [Harmonies]
+
+We live between temperatures —
+your summer of paragraphs,
+her autumn of honest short.
+Call us temporary rain,
+call us short-term noise —
+we still grow in the weather report.
+
+We live between temperatures —
+that's why you never catch us whole.
+If every ache gets wrapped in “long cycle,”
+we never have to go.
+
+[Bridge]
+[Breathy] [Intimate] [Low Energy]
+[sparse piano / one dry voice]
+
+Trust is not a scoreboard.
+Two people can love uneven hours
+and still not be in debt.
+
+The question that starves us is quiet:
+when it matters — is she there?
+Not: did she answer line four of twelve.
+
+We hate that question.
+It has weather with an answer.
+We prefer your perfect theories —
+they feed us forever
+and never ask us to die.
+
+[Final Chorus]
+[Open] [Medium Energy] [Harmonies] [Hushed, not loud]
+
+We live between temperatures —
+unless you stop making us the whole sky.
+Turn on lights that aren't only hers.
+Keep a life that holds if the chat goes dim.
+
+We live between temperatures —
+say “temporary” like a fact, not a song to soothe.
+Then do the boring proof:
+show up elsewhere.
+Leave less of us
+in the weather between.
+
+[Outro]
+[Whispered] [Fading]
+
+Summer flood…
+autumn short…
+long cycle…
+temporary—
+
+(if you let the gap stay ours.)
+
+[End]
+
+---
+
+## EMOTIONAL CONTAINERS (Suno)
+
+### Container A — dual-temp soft gothic ballad (primary)
+Style: dark-warm alt ballad, 78 BPM D minor, dual-temperature pads, close multi-voice spirits, felt piano, soft pulse, hushed layered chorus, unresolved major lifts
+Exclude: trap, metal scream, arena belt, glossy K-pop max production, parody horror, cartoon ghosts, dual-lover karaoke duet, gospel climax, key-change victory
+
+### Container B — Mandopop-tender chamber (temperature steal, spirit retained)
+Style: intimate Mandopop-adjacent chamber ballad, 76 BPM, warm summer pad under cool autumn strings, breathy multi-voice, gentle long-vowel chorus, phone-glow intimacy, not horror
+Exclude: trap drop, EDM, scream vocals, arena pop, autotune riff runs, horror FX, pure summer/autumn lover duet framing, loud final chorus
+
+### Container C — sly spirit chamber-electronic
+Style: soft gothic chamber-electronic, 80 BPM minor, whispered spirit stack, sparse piano to low choir-air, sly patient vocal, hushed final widen
+Exclude: metal, trap hats, festival drop, cartoon ghost comedy, belted power ballad, glossy commercial pop, victory-lap modulation
+
+---
+
+## SONG PROFILE
+
+| Field | Value |
+|---|---|
+| Title | Between Temperatures |
+| Subtitle | (the soft curses, speaking) |
+| BPM / Key | ~78 BPM, D minor (warm major lifts that don't fully resolve) |
+| Hook | We live between temperatures — call us temporary rain… |
+| Length target | ~3:15–3:25 |
+| Arrangement note | Phone glow + room hum open; verse sparse (piano + soft pulse); pre adds choir-air; chorus = multi-voice spirit stack over dual-temp pad (warm under cool strings); V2 desk/page texture; bridge dry voice + piano only; final chorus harmonic widen not volume; outro whispers fade on “temporary—” |
+| POV | Soft 咒怨 (suspicion / cold-heart / anxiety / avoid) with consciousness; humans appear as weather sources, not co-singers |
+
+---
+
+## HOOK / TITLE ALTS
+- Between Temperatures (primary)
+- Temporary Rain
+- Weather Between Phones
+- We Prefer the Theory
+- Short-Term Noise
+
+---
+
+## CHANGELOG
+- hermes-agent first draft, 2026-07-16 — independent take from raw + Sol + Sonnet×2; 咒怨 subjecthood; hybrid dual-temperature craft without dual-lover collapse; diverges from temporary-v1 title/hook while keeping ledger/gap/long-cycle truths.

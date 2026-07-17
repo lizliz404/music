@@ -1,0 +1,19 @@
+# Old Weights — Cover 1:1 only
+# Author: Hermes-subagent
+# Date: 2026-07-16
+
+## EXTRACTION (this song only)
+- Concrete images:
+  1. Report card face-down under kitchen light
+  2. Small residual iron weight still being moved / trained
+  3. Frozen dial / factory settings still ON after the labeler left
+- Temperature word: residual
+- Palette: warm tungsten kitchen amber; cool slate-gray residual shadow; muted cream paper; soft charcoal negative space; faint steel-iron dullness (no chrome glory)
+- Composition device: single object under one domestic light pool; off-center tabletop; soft empty room as negative space; thumbnail-clear silhouette
+- Exclude (song-specific): cure/healed/phoenix rebirth; motivational-poster light; trophy or stairs-to-heaven; readable report-card text/titles/logos/"OLD WEIGHTS"; gym-flex bodybuilding spectacle; shattered trauma drama; broken-glass pathos; victory-lap healing glow
+
+## COVER PROMPT (1:1)
+Square 1:1 album cover. A single small, slightly worn cast-iron dumbbell rests off-center on a bare kitchen table under one warm tungsten overhead light, its soft amber pool falling on dull metal and a cream paper turned face-down beside it with no readable writing. Beyond the light pool, a quiet empty room holds cool slate-gray shadow and soft domestic quiet—nothing broken, nothing triumphant, only residual presence. Photoreal intimate still life, shallow depth of field, matte surfaces, restrained contrast, kitchen-light honesty rather than studio drama. Strong simple silhouette readable at thumbnail size: one weight, one warm cone of light, generous negative space. No text, no logos, no faces, no phoenix fire, no cure or rebirth symbolism—just an older setting still running in a soft room.
+
+## NOTES (optional, short)
+Metaphor: residual old weight under kitchen light after the labeler is gone—settings still on, not broken. Deliberately did not illustrate the full plot (childhood hall, stand/sit loop, map/country); avoided literal graded report-card words and any healing-poster arc. Small weight + face-down paper + domestic tungsten = confessional residual honesty, still training on what can actually move.

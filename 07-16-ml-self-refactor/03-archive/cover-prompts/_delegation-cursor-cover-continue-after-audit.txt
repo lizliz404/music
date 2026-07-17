@@ -1,0 +1,78 @@
+# CONTINUE — Old Weights cover, next generative pass (Sol)
+# Model: gpt-5.6-sol-xhigh
+# Workspace: /home/ubuntu/music/07-16-ml-self-refactor
+# Mode: CONTINUE previous Cursor session in this folder
+
+You previously wrote VERSION C (thermostat) for Old Weights 1:1 cover.
+That pass is **diagnosed as failed** (with Hermes dumbbell as co-failure). Do a new pass.
+
+## READ FIRST (full files in workspace — read them, don't guess)
+1. `old-weights-final.txt` — locked lyrics
+2. `album-prompts-dual-cover1x1.txt` — H Hermes + C Cursor (your prior) full texts
+3. `album-cover-audit-liz-lyric.txt` — full diagnosis + Liz synthesis candidate + Lyric audit
+4. Optional: `_album-prompt-brief-cover1x1.txt` skill-shaped brief
+
+## LIZ VERBATIM (must internalize — this is why H failed)
+「而且我觉得很傻逼的点：他们很可能根本没 get 到点：这里的 weight 不是重量的意思，不是 GYM 里面那个 weight，而是 machine learning 中参数权重，那个 weight 的意思。」
+
+- weight = **ML parameter weights**, residual parameters still firing
+- NOT mass, NOT dumbbell, NOT gym, NOT “training harder” self-help
+- Thesis: old parameters still fire when the room goes soft; labeler gone; settings stayed on; not broken — older version; still moving what can actually move — **no cure anthem**
+
+## WHAT THE AUDIT SAYS (evidence, not cage)
+- H dumbbell = category error (wrong sense of weight)
+- C thermostat = too clever, thumbnail only reads “old appliance”
+- Liz paper-with-light-under is currently the **best of the three candidates**
+- Residual risks on that candidate: horror glow, prop clutter, phone-blue/flame misread
+
+## YOUR FREEDOM (Liz explicit)
+You are **NOT required** to copy Liz’s paper+underlight synthesis.
+You **MAY overturn** prior frameworks, objects, composition, and the audit’s preferred image
+**if and only if** the new image is **clearly better** on:
+1. Instant thumbnail emotion (0.5s) without ML literacy
+2. Zero gym / fitness association pollution
+3. Song-true residual / involuntary / still-running (not cure, not conquest)
+4. One metaphor, not prop inventory
+5. No readable text/logos/titles
+
+If Liz’s paper is still best after deep reasoning, refine it surgically (light temperature, anti-horror, anti-phone-blue) rather than rearranging furniture for novelty.
+
+If you invent a new metaphor, **name why it beats paper+underlight** in NOTES. Be ruthless. Refuse boring balance and safe-correct mediocrity. Prefer one sharp new insight over three average ones.
+
+## HARD BANS
+- Gym weights, dumbbells, barbells, plates, “lifting” symbolism
+- Cure / phoenix / sunrise / motivational poster / trophy
+- Readable report-card words, “OLD WEIGHTS” typography, UI text
+- Cartoon neural nets, matrix code rain, sci-fi HUD, brain-with-chips cliché (ML is the *meaning* of weight, not a license for tech-bro cover)
+- Dual-prop clutter that dilutes silhouette
+- 16:9 / atmospheric variants — **1:1 Cover only**
+
+## OUTPUT (full text in response; I save it)
+```
+# Old Weights — Cover 1:1 only
+# Author: Cursor-Sol (gpt-5.6-sol-xhigh) · continue pass after audit
+# Date: 2026-07-16
+
+## REASONING (short, sharp — what you rejected and why)
+- On H:
+- On C:
+- On Liz paper+underlight:
+- Chosen path: [refine Liz | new metaphor: ___]
+- Why this is better (or why paper still wins):
+
+## EXTRACTION (this song only)
+- Concrete images:
+- Temperature word:
+- Palette:
+- Composition device:
+- Exclude (song-specific):
+
+## COVER PROMPT (1:1)
+[3–6 dense visual sentences, paste-ready for Flux/MJ/DALL·E]
+
+## NOTES
+[deliberate non-illustrations; association risks killed]
+```
+
+OUTPUT THE FULL CONTENT DIRECTLY. No summary-only. No “saved to file” without the prompt body.
+Think hard. Prefer new, useful, interesting insight over polite compromise.
