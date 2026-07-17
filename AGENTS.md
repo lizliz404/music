@@ -38,60 +38,29 @@ MM-DD-slug/
 
 ## 3. File naming convention
 
-### Lyrics / song output
+**The base pattern is the project slug.** Everything derives from it:
+
 ```
-# Final / frozen versions:
-[slug]-v[N].txt                e.g. all-beings-v1.txt
-[slug]-v[N]-final.txt          e.g. the-wrong-game-v4.1-final.txt
-[slug]-v[N]-[model].txt        e.g. ml-self-refactor-v2-opus.md
+# Primary: date-prefixed (for AI-generated output, audio, cross-project files)
+YYYY-MM-DD-[slug]-[descriptor].ext   e.g. 2026-07-17-grow-the-fuck-up-grok-4.5.txt
 
-# AI-generated raw output (date-prefixed):
-YYYY-MM-DD-[slug]-[model].txt  e.g. 2026-07-17-grow-the-fuck-up-grok-4.5.txt
-
-# Suno paste-only packages:
-[slug]-suno-paste-only.txt     e.g. three-kinds-of-stone-v5.3-market-suno-paste-only.txt
-
-# Style variants (lettered):
-[slug]-v[N]-style-[letter].md  e.g. nextstep-v5-style-c.md
+# Shorthand: slug-only (for versioned drafts, finals, audits within a project)
+[slug]-[descriptor].ext              e.g. all-beings-v1.txt, poverty-audit-v2.txt
 ```
 
-### LRC files
-```
-[slug]-[linecount]-[lang]-primary.lrc      e.g. old-weights-344-en-primary.lrc
-[slug]-[linecount]-[lang]-primary.lrc.txt  (Telegram-compatible copy, same content)
-```
-- `lang` = `en` or `cn`
-- `linecount` = line count for version tracking (e.g. 344, 518)
-- `.lrc.txt` is the Telegram-deliverable copy; `.lrc` is canonical.
+Common descriptors: `v1`, `v2-final`, `opus`, `suno-paste-only`, `audit-v2`, `style-c`, etc.
 
-### Source / raw material
-```
-raw-[desc].txt               e.g. raw-ningbo-notes.txt
-raw-material.txt             (standard name for session intake)
-source-[desc].md             e.g. source-zhongshengxiang.md
-```
+### Special cases
 
-### Audits / critique
-```
-[slug]-audit-v[N].txt        e.g. poverty-audit-v2.txt
-audit-[source]-v[N].txt      e.g. audit-dual-v1.txt
-```
+**LRC** — `[slug]-[linecount]-[lang]-primary.lrc` + `.lrc.txt` copy (Telegram-compatible).
+  Lang = `en` / `cn`. Linecount for version tracking (e.g. 344, 518).
 
-### Audio
-```
-YYYY-MM-DD-[slug]-[source].mp3   e.g. 2026-07-17-grow-the-fuck-up-grok-4.5.mp3
-```
-- `source` = model name (claude-opus-4.7) or TTS source (doubao-v1)
+**Source/raw** — `raw-[desc].txt` or `source-[desc].md`. Standard intake = `raw-material.txt`.
 
-### Intermediate / process files
-```
-# Prefixed with _ underscore — means "not song content, process artifact"
-_delegation-[desc].txt       delegation prompts sent to external agents
-_cursor-[desc].txt           Cursor stdout/stderr logs
-_run-[desc].py               TTS runner / automation scripts
-_prompt-[desc].txt           prompt briefs for external agents
-```
-- All `_`-prefixed files go in `03-archive/`. Never leave at project root.
+**Audio** — `YYYY-MM-DD-[slug]-[source].mp3`. Source = model or TTS engine.
+
+**Intermediate** — `_` prefix (e.g. `_delegation-*.txt`, `_cursor-*.txt`, `_run-*.py`).
+  These go in `03-archive/`, never at project root.
 
 ## 4. Version soup convention
 
