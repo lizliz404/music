@@ -1,14 +1,18 @@
 # 07-19-eat-rich — 如何吃成富人
 
 ## 当前状态
-- **阶段**：调研完成，待 Liz 审阅 → 确认方向后写 v1
-- **已完成**：五首 comedy rap 经典案例结构化调研（Grok 4.5 via Cursor）
+- **阶段**：v1 双版平行完成，待 Liz 审 → 选定方向后 v2
+- **已完成**：五首 comedy rap 调研（Grok 4.5）→ v1 双版（Lyric + Grok via Cursor continue）
 
 ## 文件导航
 - `01-source/raw-material.md` — Liz 原话 + 核心张力 + 初步调研
-- `01-source/reference-study-report.md` — ★ 五首 comedy rap 深度调研报告（22KB，Grok 4.5 产出）
-  - 每首歌：基本信息 / 结构拆解 / 喜剧机制 / 歌词分析 / 对本项目启示
-  - 横向对比表 + 8 条可复用公式 + 5 条对「吃成富人」的具体建议
+- `01-source/reference-study-report.md` — 五首 comedy rap 深度调研报告（22KB，Grok 4.5）
+- `eat-rich-v1-dual-parallel.txt` — ★ v1 双版对照 + 独立性披露 + 对比笔记（主文件，审这个）
+- `eat-rich-v1-lyric.txt` — Lyric 版单文件（泡面俘虏→营养富人）
+- `eat-rich-v1-grok.txt` — Grok 版单文件（冰箱鉴宝师，= eat-rich-v1.txt 同内容带 craft note）
+- `eat-rich-v1.txt` — Grok 版纯歌词（Cursor 直接落盘版）
+- `03-archive/prompts-logs/_v1-delegation-prompt.txt` — v1 Cursor brief
+- `03-archive/prompts-logs/_v1-cursor-stdout.txt` — Grok v1 原始输出
 
 ## 核心调研结论（必读）
 1. 先站队到听众这边，再谈纠正（"我也曾…" 不是 "你们应该…"）
