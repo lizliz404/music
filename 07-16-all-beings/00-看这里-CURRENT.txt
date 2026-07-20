@@ -1,22 +1,22 @@
 # 07-16-all-beings — CURRENT
 
 ## Status
-- **Two maximize candidates** (not locked final)
-- Source lock: 众生相 正文 2.0 only
+**Dual v3 candidates** after Liz audit. Not locked. **No v4** unless new falsifiable defect.
 
-## Read first
-1. **Dual compare (start here):** `02-current/all-beings-dual-lyric-v2-vs-composer.txt`
-2. **A — Lyric v2:** `02-current/all-beings-v2.txt` (Grok / this agent)
-3. **B — Composer independent:** `02-current/all-beings-composer-v2.txt` (composer-2.5, blind)
-4. Prior: `02-current/all-beings-v1.txt`
-5. Audit: `01-source/squeeze-audit-v1.md`
-6. Canon essay: `01-source/zhongshengxiang-body-2.0-only.md`
+## Start here
+`02-current/all-beings-dual-v3-surgical-vs-warm.txt`
 
-## Transparency
-- B did **not** see A lyrics (brief forbid + independence note).
-- B ≠ Grok (avoid same-model echo). Opus capped → Composer 2.5.
+## Lines
+| | File | Route |
+|---|---|---|
+| A | `02-current/all-beings-v3-lyric-surgical.txt` | Surgical Spell (4-line cold spell) |
+| B | `02-current/all-beings-v3-composer-warm.txt` | Warm Hook + universal rope |
+
+## Audit
+`01-source/all-beings-dual-audit-v2.txt`
+
+## Prior
+v1 / v2 Lyric / composer-v2 / dual-v2 compare in `02-current/`
 
 ## Next
-- Liz pick A / B / mashup
-- Or Suno paste-only from chosen line
-- Do not auto-merge without her call
+Liz pick A / B / partial mash → Suno paste-only → generate. Stop lyric loop.

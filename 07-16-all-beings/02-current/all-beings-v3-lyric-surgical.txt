@@ -1,0 +1,158 @@
+# ALL BEINGS — v3 (Lyric · Surgical Spell route)
+# Date: 2026-07-20 · Lyric (Grok)
+# Route: audit §七 — 4-line spell chorus · ~60% of A · B motion frames densified
+# NOT Route Warm Hook (that line = Composer)
+# Source: 众生相 正文 2.0 · Audit: 01-source/all-beings-dual-audit-v2.txt
+# Preserve: rope-circle line · not-hurt/can't-hear · bread through dark
+# Cut: listy chorus · rescue slogan · soft filler · same-model folk triple selfie
+# Status: candidate — stop after this pass unless Liz opens new defect list
+
+================================================================================
+SONG PROFILE
+================================================================================
+Title:            All Beings
+Alt:              Rope Radius · Learn to Look
+Axis:             witness ballad — pet-as-thing vs free being; parade of mouths; see, don't rescue
+BPM:              88 (Container X) / try 92 · 100 on Y/Z
+Key lean:         A minor
+Length:           ~3:05–3:15
+Hook / spell (identical each chorus except final micro-vary line 4):
+  1 Some pets are only things.
+  2 A rope draws a circle — and that is the world.
+  3 The door goes numb. The dog goes free.
+  4 I don't rescue it. I learn to look.
+Certified keep:
+  - I decide not to get hurt / And the dog? He can't hear the words.
+  - I slide bread through the dark and leave.
+  - Under-bridge stand-on-two + ramp arms (motion body)
+Breath: air after C1; hang after can't-hear; bar before outro whisper
+
+================================================================================
+HOW TO PASTE
+================================================================================
+1. Lyrics field → block below
+2. Style → Container X first (Late-Night Bus)
+3. Exclude → that container's line
+4. Generate 2–4 → pick · STOP lyric loop
+
+================================================================================
+LYRICS
+================================================================================
+
+[Intro: murmured, close dry mic, nylon guitar two bars + air]
+Ears up. Fox face. Dirty gold.
+[two bars air]
+
+[Verse 1: matter-of-fact chest voice, picked nylon, walking — fox meet]
+I touch the middle of his skull — both ears fold down.
+He stares a beat, then runs like the ground is news.
+Soft under the grime, a twitch mid-step —
+every next patch of dust still chosen by him.
+He sits, he rolls — ruins the clean I wiped.
+Not mine. Not anyone's. Still he finds me.
+
+[Chorus: same four lines every time — unhurried, almost spoken into pitch]
+Some pets are only things.
+A rope draws a circle — and that is the world.
+The door goes numb. The dog goes free.
+I don't rescue it. I learn to look.
+[two-bar strip]
+
+[Verse 2: slightly denser, light upright bass — garage]
+Black garage — dust smell before you see him.
+A hole chewed under the door where longing learned to dig.
+Door locked: eyes go numb — worse than fear.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — to manage, to walk?
+I slide bread through the dark and leave.
+
+[Chorus]
+Some pets are only things.
+A rope draws a circle — and that is the world.
+The door goes numb. The dog goes free.
+I don't rescue it. I learn to look.
+
+[Bridge: near-spoken parade, one string + room — 众人]
+"Don't raise that kind of thing."
+"Look. Don't touch."
+"That dead-lame dog — walking like that —"
+I stare one second too long.
+I decide not to get hurt.
+And the dog? He can't hear the words.
+[hang]
+"Is he yours?" — fake smile. I say no. I walk.
+Then she curses a body that can't talk back.
+"You fear he harms you — he will."
+
+[Verse 3: open air, light lift under — two motion frames + pure exchange spark]
+Under the bridge he stands on two legs, looking for me —
+then hits the ground and runs.
+Girl on the ramp opens both arms.
+He jumps the whole slope like the air owes him.
+With him it's simple — heat for heat, no interest in the kindness.
+Kids pour around him. Some people live thinner than the dog.
+
+[Final Chorus: same spell; line 4 micro-vary only; optional thin pad]
+Some pets are only things.
+A rope draws a circle — and that is the world.
+The door goes numb. The dog goes free.
+I don't rescue it. I learn to look —
+still not mine. Still free.
+
+[Outro: whisper dry, guitar only]
+I crouch. I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[End]
+
+================================================================================
+STYLE CONTAINERS (orthogonal — anti clear-soup triple selfie)
+================================================================================
+
+----- X — Late-Night Bus (PRIMARY) -----
+Style of Music:
+88 BPM A minor, intimate witness folk, male low chest vocal matter-of-fact non-breathy dry close-mic no long reverb tail, nylon-string guitar picked not strummed, upright bass fingertip attack, single tambourine on 2 and 4 from verse 2 only, brief harmonium swell final chorus only, room-tight dry mix, conversational not performed, sparse rests structural
+
+Exclude Styles:
+female breathy vocal, felt piano, tape hiss lo-fi mumble, cinematic swell, dramatic build, folk twang, country slide, whispered ASMR, indie-girl pop, soaring belt, ethereal pad spam, children's choir, cutesy pet jingle, trap hi-hats, EDM drops, autotune gloss
+
+----- Y — Public Square -----
+Style of Music:
+92 BPM D major with soft modal dips, warm declarative folk-soul, mixed light call-response colors neither theatrical, steel-string fingerpick, cajon and shaker, warm room mic light plate, three-part harmony only on last spell line of final chorus, bridge near-spoken, chorus lifts without arena size
+
+Exclude Styles:
+solo confessional whisper, lo-fi bedroom, gothic minor drone, cello sadness wallpaper, indie-folk mumble, introverted dead mix, felt piano default, power ballad, scream, trap, EDM, cute ukulele jingle
+
+----- Z — Concrete Room -----
+Style of Music:
+100 BPM drop-D adjacent, dry industrial-leaning folk, clean-to-grit single electric guitar, tight saturated drum machine not mush lo-fi, male vocal doubled octave-down on chorus only, no acoustic bed, no reverb wash, rhythmic insistence under matter-of-fact lead, unresolved short ending
+
+Exclude Styles:
+acoustic-forward gentle folk, breathy vocal, ambient pads, felt piano, cello drone, warm chamber, soft brushes only, female indie default, cinematic trailer swell, motivational pop build, reggae, metal scream
+
+================================================================================
+VOCAL TAG BANK
+================================================================================
+Prefer on sections: intimate close-mic · matter-of-fact · no vibrato · chest register · dry · conversational · slight rasp on consonants
+Avoid as global spam: emotional · powerful · soaring · breathy · whispered · ethereal · angelic · heartfelt · passionate
+
+================================================================================
+CRAFT / AUDIT FIX NOTES
+================================================================================
+- Route Surgical Spell only — did NOT pivot to second-person warm-hook (Composer line).
+- Chorus = identical 4-line spell (A best line + B look stance + door/free hinge).
+- Word target cut vs A/B bloat; 众人 kept as mosaic not verse essay.
+- Audit claim "A lacks two frames" is false (A final had them) — densified into own V3 block for body motion.
+- "and I do" already absent from Lyric v2; not reintroduced.
+- Stop: one v3. Demo next unless new falsifiable defect.
+
+================================================================================
+CHANGELOG
+================================================================================
+v1 — first essay harvest, thin 相处/众人
+v2 — maximize fill; still weak chorus addictiveness (audit)
+v3 Lyric Surgical Spell — 4-line spell lock; cut bulk; motion V3; orthogonal X/Y/Z; no warm-hook twin
+
+================================================================================
+END
+================================================================================
