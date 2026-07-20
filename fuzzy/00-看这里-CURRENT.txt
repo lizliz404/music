@@ -1,0 +1,90 @@
+# fuzzy/ — multi-song seed library
+
+Status: **raw library only** (not a song project).
+Date reorganized: 2026-07-20
+
+## What this is
+
+Photo dump + Notion Puppy export (dailies + essay) + image-analysis raw.
+Material is split into **sibling song seeds**. One song already spun out.
+
+## Existing draft (song project)
+
+| Path | What |
+|---|---|
+| **`~/music/07-16-all-beings/`** | *All Beings* v1 — source = essay **众生相** only |
+| `02-current/all-beings-v1.txt` | Suno-ready package (after reorg) |
+| `01-source/source-zhongshengxiang.md` | Essay copy used for that track |
+
+**Scope lock (Liz 2026-07-16):** dailies + photos stay here as sibling fuel — do **not** auto-merge into All Beings.
+
+## Layout
+
+```
+fuzzy/
+  00-看这里-CURRENT.txt          ← this file
+  assets/                        ← 36 photos (pets / threshold / proximity)
+  notes/
+    essays/zhongshengxiang.md    ← 众生相 (canonical in library)
+    dailies/daily-MM-DD.md       ← 31 field notes (Aug–Oct)
+    raw/raw-image-analysis-…md   ← threshold vs zero-distance photo reads
+    export/                      ← notion zip + csv index + empty stubs
+```
+
+## Sibling seed titles (not committed)
+
+From All Beings README + image-analysis raw:
+
+1. **Free Dirt** — fox-dog daily intimacy (dailies: 08-11, 08-18, 08-23…)
+2. **Rope Radius** — garage dog only (rope / black door / hole)
+3. **All the Kids** — Tang Ke / construction-play / cluster love
+4. **Threshold / Half in Light** — paws in light, chain still in shadow
+5. **Zero Distance** — low angle, shoes as frame, throat exposed
+6. **Hesitation Paw** — garage yellow dog mid-decide
+
+## Photo bank
+
+- `assets/` — 36 jpgs (hash-named `img_*.jpg` + `fuzzy-peek-pole-bucket.jpg`)
+- Root duplicate of peek photo **removed** 2026-07-20 (identical to assets copy)
+
+## Daily index (one-line tips)
+
+| File | First body line |
+|---|---|
+| `daily-08-11.md` | 19:25——跟狗狗和一群小朋友的相处让我觉得很舒服，不再是觉得他们很闹腾，他们有自己的好奇心和善良，关键是他们为什么还不回家。——而且相处 |
+| `daily-08-13.md` | 那几个人在与他们的交互中所呈现出来的状态都值得再仔细分析描述。就是最久，我观察的最久的那4个人。——他们似乎很在意读什么年级的，比较谁大谁小 |
+| `daily-08-14.md` | 傻狗子在被其他人投食 |
+| `daily-08-15.md` | 💡 不仅仅是新的关系、新的情节，更是新的观察。 |
+| `daily-08-17.md` | 奇怪癖好 |
+| `daily-08-18.md` | 新的见面方式——现在一见面，就是我蹲下来张开双臂，他也一把子冲过来冲到怀里，然后想着直力起身子，就是拥抱似的，然后就扑在你身上，然后又开始舔 |
+| `daily-08-22.md` | 大黄子 |
+| `daily-08-23.md` | 看一下记录，关于傻狗的。 |
+| `daily-08-24.md` | 奶牛色人脸狗很凶，不想跟两个小狗子交朋友，在他们靠近时也总是会发出那种奇怪的声音，然后准备大吼大叫。——他跟昨天那个被锁住的黄狗子是一种很奇 |
+| `daily-08-25.md` | 24年8月20 50 9.5 12——但无论如何还是享受这一刻吧。你至少还可以抱着狗子散步呢，这样的悠闲时刻难得啊。——看得出是真饿了，别人 |
+| `daily-08-27.md` | 这个小黑狗子和母狗之间好像有一些关系，有一种妈妈看着孩子的感觉，不准她乱跑，但其实很明显的，他们肯定是没血缘的。动机是什么呢？不会真把它当孩 |
+| `daily-08-29.md` | 其实当狗子饿了的时候，它的状态是很明显的。——没力气叫，见到你也只是舔一下就赶紧想着躺下，现在就稍微有点力气。——有力气了，现在就好了，开始 |
+| `daily-09-01.md` | “在意” |
+| `daily-09-02.md` | 灰猫子 |
+| `daily-09-03.md` | 傻狗子——总是期盼着幻想着哪天在哪个拐角可以突然遇到他，然后两个人又是突然愣一下，然后（）。 |
+| `daily-09-05.md` | 小区中的新猫子角色出现——也是雪豹色的，但颜色更浅，肉更多，更肥。看起来也是懒懒的那种，非常有意思。但我还是喜欢灰猫子，——“这猫太肥了”小 |
+| `daily-09-06.md` | 有一点不好 |
+| `daily-09-08.md` | 喂东西给狗子 |
+| `daily-09-10.md` | 应激反应 |
+| `daily-09-12.md` | 婴幼儿时期的猫 |
+| `daily-09-13.md` | “带孩子的爷爷” |
+| `daily-09-14.md` | 最开始的黑灰色豹纹猫 |
+| `daily-09-17.md` | 注意这个老年人——动机很好，是想逗自己孙子开心。但你注意到他的咂嘴和口哨声了吗，我以前习以为常，但现在觉得有点恶心。 |
+| `daily-09-18.md` | “互联网最喜欢的猫猫博主，很高兴持续为你放送” |
+| `daily-09-21.md` | 意愿的高低起伏 |
+| `daily-09-22.md` | 大黄 |
+| `daily-09-23.md` | 傻逼雪豹公猫 |
+| `daily-09-27.md` | 大黄 |
+| `daily-10-07.md` | 黑黑棕棕狗 |
+| `daily-10-12.md` | 大黄 |
+| `daily-10-17.md` | 黑黑的流浪狗 |
+
+## Ops notes
+
+- Non-song folder exception to `MM-DD-slug` (see `~/music/AGENTS.md`).
+- Empty Notion stubs kept under `notes/export/stubs/` for completeness; not song fuel.
+- When spinning a new song: copy needed sources into `~/music/MM-DD-<slug>/01-source/`; leave fuzzy as library.

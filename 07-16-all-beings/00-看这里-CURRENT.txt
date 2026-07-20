@@ -1,0 +1,30 @@
+# 07-16-all-beings — CURRENT
+
+## Status
+- **Draft:** v1 exists (Suno-ready complete package)
+- **Not locked final.** Candidate-level first pass from essay only.
+- **Related library:** `~/music/fuzzy/` (dailies + photos + image-analysis raw)
+
+## Read first
+1. **Current package:** `02-current/all-beings-v1.txt`
+2. **Source essay:** `01-source/source-zhongshengxiang.md` (= fuzzy `notes/essays/zhongshengxiang.md`)
+3. **Scope note:** `01-source/README-scope.md`
+4. **Sibling image raw (NOT fused into v1):** `01-source/raw-image-analysis-threshold-proximity.md`
+
+## Axis (v1)
+宠"物" — pet as object vs living companion
+free fox-dog vs garage dog (rope radius) · 众生相 = parade of human faces around one animal
+
+## Hooks (v1)
+- Some pets are only things
+- I'll take care of him
+- the hole under the door
+
+## Next options (not started)
+- Liz audit / micro-edit v1
+- Independent Opus v2 (essay only, blind to v1)
+- Sibling spin from fuzzy dailies (Free Dirt / Rope Radius / Threshold…)
+- Do **not** dump full fuzzy library into this track without explicit direction
+
+## Fuzzy pointer
+Library MAP: `~/music/fuzzy/00-看这里-CURRENT.txt`
