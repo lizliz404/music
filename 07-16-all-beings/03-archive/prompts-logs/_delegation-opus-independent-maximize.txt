@@ -1,0 +1,80 @@
+OUTPUT THE COMPLETE SUNO-READY PACKAGE DIRECTLY IN YOUR RESPONSE.
+No summary. No outline. No "saved to file." I will save stdout myself.
+Write REAL lyrics — every section filled with real singable lines.
+
+# Task
+
+Write **one full English song draft** from the essay **众生相 正文 2.0 only**.
+Goal: **maximize harvest** — take the essence, drop the dross. Dense, singable, ~3:00–3:20.
+
+# Read ONLY these files (in workspace)
+
+1. `01-source/zhongshengxiang-body-2.0-only.md` — CANON source (正文 2.0)
+2. Optional map only: `01-source/README-scope.md`
+
+**Do NOT read:**
+- `02-current/all-beings-v1.txt` or any other lyrics
+- `02-current/all-beings-v2.txt`
+- `01-source/squeeze-audit-v1.md`
+- `fuzzy/` or any dailies
+- full `source-zhongshengxiang.md` 素材 / 正文1.0 / 碎念
+
+If you already saw other files in the folder listing, **ignore their lyric content**. Your draft must be independent from any prior English lyric package.
+
+# Liz session constraints (this song only)
+
+- Source lock: **正文 2.0 only**
+- Language: **all English** lyrics (adapt images, don't translate stiffly)
+- Mode: 散文歌 / field notebook sung aloud — observation, not rescue anthem, not cute pet jingle, not love song
+- Title suggestion ok: All Beings / Rope Radius / Pet Thing / your better title
+- Length: ~3:00–3:20 with real rests (not wall-to-wall vocal)
+- No cure narrative / no savior ending
+- End on witness energy (essay ends wanting to **paint** the frame)
+
+# MUST harvest (essence — if missing, draft failed)
+
+From 正文 2.0 architecture:
+
+1. **Fox-dog body** — ears upright/fold, fox face, dirty-soft, twitch, sit-roll ruins clean, stare then run, free
+2. **Thesis** — not only new plot/friend → new observation
+3. **宠"物"** — some pets are only *things* (not companion/friend/family); garage rope-radius world; dust; black garage; hole under door = longing; locked numb worse than fear vs door-open frenzy; bought to manage/walk; free fox has more life because choice is his; "bring home" should mean duty / better way exists (diagnosis, not PSA speech)
+4. **众人 parade** — multiple human mouths around one animal, not one villain:
+   - don't raise that / look don't touch
+   - lame-dog insult + narrator decides not to get hurt + dog can't hear words
+   - fake-smile "is he yours?" → walks off → curses the dog
+   - fear he harms you → he will / will-bite assume (at least one fear line)
+5. **相处** — pure exchange engine (critical): no mind-read / no interest tangle / sincerity returns; kids cluster love; from intimacy angle some people live thinner than the dog
+6. **画下** — two frames: under-bridge stand-on-two seeking; girl opens arms on ramp / jump into hold; crouch + want to paint + leave unsolved
+
+# MUST discard (dross)
+
+- Tang Ke name, green-shirt boy, dogmeat hotpot, house-building play (sibling songs)
+- Craft 碎念, Stoic book name-drop, writing-about-writing
+- 姨母笑 / 孩子他爸 self-kink
+- Rescue slogan ending ("not this one tonight" style crowning)
+- Outline, analysis essay instead of lyrics
+
+# Craft (short)
+
+- Prefer concrete images over abstract moralizing
+- Chorus needs a sticky spine (the essay's "有些宠物真的就只是物" / rope circle are strong candidates — you may invent better if stronger)
+- Bridge can be speech-fragment parade
+- One unified song, not four mini-essays glued
+
+# Deliverable format (ONE package in response)
+
+## 1. Song profile
+Title, BPM/key lean, length, axis in one sentence, hook lines, arrangement note
+
+## 2. Full lyrics with section vocal tags
+Every section: `[Section: delivery, mic, density, color]` then real lines.
+Include Intro / Verses / Pre if needed / Chorus / Bridge / Final / Outro as the song earns.
+Mark rests as line breaks / em dashes — avoid bare `[one beat rest]` as a sung line if possible; put rest intent in the tag.
+
+## 3. Three distinct style containers
+Each: short name + Style of Music (no artist names, compact) + Exclude (one comma-separated line)
+
+## 4. Changelog
+One line: independent maximize draft from 正文 2.0 only; blind to prior English packages.
+
+Again: FULL lyrics in the response. No outline.

@@ -1,0 +1,132 @@
+OUTPUT THE COMPLETE SUNO-READY PACKAGE DIRECTLY IN YOUR RESPONSE.
+No summary. No outline. No "saved to file." No bullet-point plan.
+Write REAL lyrics — every section filled with real singable English lines.
+I will capture stdout myself.
+
+You are an independent songwriter. Another agent (Lyric / Grok) already drafted versions of this song. You must NOT read or remix those lyrics. Derive only from the Chinese essay + the rules below.
+
+================================================================================
+READ ONLY (workspace paths)
+================================================================================
+1. `01-source/zhongshengxiang-body-2.0-only.md`  ← CANON. Full 正文 2.0.
+2. Optional: `01-source/README-scope.md` (scope note only)
+
+DO NOT OPEN / DO NOT USE CONTENT FROM:
+- `02-current/all-beings-v1.txt`
+- `02-current/all-beings-v2.txt`
+- `01-source/squeeze-audit-v1.md`
+- any other `*lyrics*` / draft packages
+- `fuzzy/` dailies or photos
+- full `source-zhongshengxiang.md` 素材 / 正文1.0 / 碎念 sections
+
+If a file listing tempts you, still ignore lyric files. Blind independence is required.
+
+================================================================================
+TASK
+================================================================================
+Write ONE full English song that MAXIMIZES harvest from 众生相 正文 2.0:
+取其精华，去其糟粕 — dense, singable, ~3:00–3:20, observation song not rescue anthem.
+
+Title free (All Beings / Rope Radius / Pet Thing / better if earned).
+
+================================================================================
+LIZ SESSION CONSTRAINTS (this song only)
+================================================================================
+- Source lock: 正文 2.0 only
+- All English lyrics (adapt images; do not stiff-translate)
+- Mode: 散文歌 / field notebook sung — witness & observation
+- NOT: cute pet jingle, love song, adopt-him campaign, cure narrative
+- End on witness energy (essay ends wanting to PAINT the frame, unsolved)
+- Real rests / air — not wall-to-wall vocal
+- Goal-open craft: whatever genre serves THIS song
+
+================================================================================
+MUST HARVEST (if missing → failed draft)
+================================================================================
+1) FOX-DOG BODY
+   upright/fold ears, fox face, dirty-soft, twitch, sit-roll ruins wiped clean,
+   stare then run, free / not owned
+
+2) THESIS
+   not only new plot / new friend → new way of looking / observation
+
+3) 宠"物" (pet-as-object)
+   some pets are only things (never companion / friend / family ladder)
+   garage dog: rope-radius = whole world; dust; black garage; hole under door = longing made visible
+   locked: numb worse than fear | door open: frenzy for contact
+   bought to manage / to walk on a lead
+   free fox has more of a life because choice stays his
+   "bring home" should mean duty / better way exists (diagnosis, not PSA lecture)
+
+4) 众人 PARADE (multiple mouths around one animal)
+   - don't raise that / look, don't touch
+   - lame-dog insult → narrator decides not to get hurt → dog can't hear the words
+   - fake-smile "is he yours?" → walk off → she curses a body that can't talk back
+   - fear line: you fear he harms you → he will  (and/or will-bite assume)
+
+5) 相处 PURE EXCHANGE (critical — do not skip)
+   simple: no mind-reading, no interest tangle, sincerity returns heat
+   kids cluster / whole-block love
+   from intimacy angle: some people live thinner than the dog
+
+6) 画下 TWO FRAMES + OUTRO
+   under-bridge: stands on two looking for me, then runs
+   ramp: girl opens both arms, he jumps into hold
+   crouch, watch, want to paint that frame, leave rest unsolved
+
+================================================================================
+MUST DISCARD (dross / sibling fuel)
+================================================================================
+- Tang Ke name, green-shirt boy, dogmeat hotpot, "build him a house" play
+- Craft 碎念, Stoic book name-drop, writing-about-writing
+- 姨母笑 / 孩子他爸 self-kink
+- Rescue slogan crowning ("not this one / not tonight" savior energy)
+- Outline or analysis instead of lyrics
+
+================================================================================
+CRAFT FROM SKILLS (paste — guidelines, not molds)
+================================================================================
+From songwriting-and-ai-music:
+- Structure serves emotion (ABABCB or invent). You don't need every block.
+- Section ownership: each section owns one thematic job; bridge = one core shift, not leftover dump.
+- Show with images; hook = sticky spine people remember.
+- Prosody: say lines aloud; stressed syllables > raw count.
+- Dynamics: contrast & silence are instruments. Final chorus should escalate meaning, not only volume.
+- Rhyme: mix perfect/slant; don't nursery-rhyme lock everything.
+
+From liz-song-preferences (ops only):
+- Criterion = good lyrics + listenable music. No factory mold.
+- This song's named constraints above override everything else.
+
+From suno-production (delivery only):
+- Parameterized vocal tags on every section: [Section: delivery, mic, density, color]
+- 3 genuinely different style containers (not three near-identical folk variants)
+- Exclude = one comma-separated line per container
+- No artist names inside Style field
+
+Optional short tip for THIS material:
+- Speech-fragment bridge works for 众人
+- Chorus candidates from essay DNA: "some pets are only things" / rope circle — invent stronger only if truly stronger
+- End = paint/unsolved witness, not moral victory
+
+================================================================================
+DELIVERABLE (all in your response)
+================================================================================
+
+## 1. Song profile
+Title · BPM/key lean · length · one-sentence axis · hook lines · arrangement note
+
+## 2. Full lyrics with vocal tags on EVERY section
+Real lines only. Intro/V/Pre/C/Bridge/Final/Outro as the song earns.
+Put rest intent in tags or line breaks — avoid bare rest tokens as sung words.
+
+## 3. Three distinct style containers
+Each: name + Style of Music (compact, no artist names) + Exclude (one comma line)
+
+## 4. Changelog
+One line: Composer 2.5 independent maximize from 正文 2.0 only; blind to Lyric v1/v2.
+
+## 5. Independence note (2–4 lines)
+Confirm you did not open prior lyric files. Name your structural device if different from generic verse-chorus (optional).
+
+FULL PACKAGE. START NOW.

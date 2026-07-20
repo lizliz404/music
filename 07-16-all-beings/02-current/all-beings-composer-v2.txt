@@ -1,0 +1,153 @@
+# ALL BEINGS / ROPE RADIUS — Composer 2.5 independent maximize
+# Date: 2026-07-20
+# Model: composer-2.5 via Cursor (new session)
+# Source: 01-source/zhongshengxiang-body-2.0-only.md ONLY
+# Blind: did not read Lyric all-beings-v1 / v2
+# Brief: 03-archive/prompts-logs/_delegation-composer-independent-maximize.txt
+#
+# Status: candidate draft — not auto-promoted over Lyric line
+
+## 1. Song profile
+
+**Title:** Rope Radius  
+**BPM / key lean:** 94 BPM · Am (modal, drifts A Dorian on chorus lift)  
+**Length:** ~3:12  
+**Axis:** Field-notebook witness song — two dogs, many mouths, one way of looking that ends wanting to paint a frame, not fix a life.  
+**Hook lines:**  
+- *Some pets are only things*  
+- *Rope circle, dust and door*  
+- *Want to paint that frame — leave the rest unresolved*  
+**Arrangement note:** Acoustic spine, brushed percussion entering verse 2, bridge strips to voice + single plucked string, final section widens with harmonium or bowed pad then exhales to near-silence. Rests are structural — leave bars empty after chorus 1 and before the ramp scene.
+
+---
+
+## 2. Full lyrics
+
+```
+[Intro: murmured witness, close room mic, very sparse, dry amber — two bars guitar, two bars air]
+
+Ears up. Fox face. Dirty gold.
+
+[Verse 1: conversational sung, close condenser, mid-density, soft street-light]
+
+Ears stand upright, mouth pushed out like a fox in the lane
+Pale yellow fur, soft till you feel the thin and the stain
+A stray's lean body, a twitch that won't quit
+Patch of fur gone here, a scrape took a bit
+Sits on the pavement, rolls — I wipe him clean
+Ten minutes later, mud where the clean had been
+Touch his small head — both ears fold down on their own
+He holds my gaze, solemn, then he's suddenly gone
+
+[Pre-Chorus: breath forward, rising half-step, thinning arrangement, clear thesis]
+
+This isn't a new plot, isn't a friend I won
+It's a new way of looking — that's what I've begun
+
+[Chorus: open chest, light room verb, full vocal density, warm but unsentimental]
+
+Some pets are only things — never playmate, friend, or kin
+Rope circle, dust and door, the whole world he lives in
+A hole chewed under the roll-up — longing you can see
+Locked up: numb sits worse than fear staring back at me
+Door slides open: frenzy — run, jump, beg to be touched
+Bought to manage, bought to walk — leashed because he's "much"
+The fox-dog's free — each turn of the path is his to choose
+"Bring him home" should mean duty — better ways exist, and I do
+
+[Verse 2: lower register, dry close mic, mid-density, gray concrete color]
+
+Black garage, junk and shadow, dust you taste in the air
+Light cuts in sideways — you know nobody stores love in there
+His radius is rope-length, a circle on the floor
+Outside goes loud or quiet — it isn't his anymore
+They shove him back to darkness, no sky, no passing view
+Through the hole at the bottom you read what that life will do
+Eyes when the lock's on: grief gone flat, gone numb, gone still
+Eyes when the door opens: starving for touch, for any thrill
+
+[Chorus: open chest, room verb, full-density, slightly fuller arrangement]
+
+Some pets are only things — never playmate, friend, or kin
+Rope circle, dust and door, the whole world he lives in
+A hole chewed under the roll-up — longing you can see
+Locked up: numb sits worse than fear staring back at me
+Door slides open: frenzy — run, jump, beg to be touched
+Bought to manage, bought to walk — leashed because he's "much"
+The fox-dog's free — each turn of the path is his to choose
+"Bring him home" should mean duty — better ways exist, and I do
+
+[Bridge: speech-fragments, half-spoken half-sung, narrow mic, burst then drop, brittle parade]
+
+"Don't raise things like that — look, don't touch, that's enough"
+Old man to his kid — curiosity cooling to rough
+"Lame dog, watch him limp" — I stare, can't believe
+Maybe she's hurting too — still, nothing I receive
+Staring back won't change her, won't change me, won't change him
+I choose not to bleed — the words go dim
+He can't hear English anyway — tail still, unbruised
+"Is he yours?" — fake smile — "no" — she walks off, loose
+Then curses a body that can't curse her back
+"Don't go there — there's a dog" — "he'll bite" — same attack
+You fear he'll harm you — you swear that he will
+Why does everyone live inside that drill?
+
+[Verse 3: warm close, softer density, honey afternoon light]
+
+With him it's simple — no mind-reading games
+No tangled interest, no decoding names
+No panic if I'm busy, no wounded quiet war
+No scanning for insult in a look toward the door
+Just be real — the heat comes back the same
+Kids swarm the block — whole-neighborhood love, no shame
+From the intimacy angle, some people live thin
+Less held than this dog with no collar, no kin
+A stranger: "he looks poor" — I answer before I think
+"I'll see to him" — said it — now I stand at the brink
+
+[Final: slow widen, stereo bloom, rising then held, gold unresolved — leave a full bar before last line]
+
+Under the bridge I walk the stone path overhead
+He loses me in the brush — stands up on two legs instead
+Bent front paws, fox-serious, searching left and right
+Spots me — drops down — twitching sprint into sight
+Another day, ramp out of the garage, her voice from above
+Girl on the slope — calls his name — opens both arms with love
+He flies into her hold — tail up, face in bliss
+Kids' hands on his fur — he doesn't resist
+I crouch where I stand, smiling small, holding still
+Want to paint that frame — leave the rest unresolved
+
+[Outro: fade whisper, distant room tone, thinning to air, witness amber — guitar only, three beats silence]
+
+Rope radius. Folded ears. Free dog in the dirt.
+I don't rescue it. I learn to look — alert.
+```
+
+---
+
+## 3. Three distinct style containers
+
+**Container A — Field Folk**  
+**Style of Music:** intimate indie folk, 94 BPM, fingerpicked acoustic guitar, brushed snare, close warm female vocal, field-recording air, Am modal, sparse intro, dynamic swell on final section  
+**Exclude:** EDM, trap beats, heavy distortion, choir, auto-tune, epic orchestral, cute ukulele jingle, anthemic pop belt
+
+**Container B — Grey Chamber**  
+**Style of Music:** minimalist chamber folk, 92 BPM, cello drone, soft piano chords, subtle tape hiss, restrained male-female duet optional on chorus only, cinematic silence between phrases, dark garage verses, luminous final lift  
+**Exclude:** rock drums, synth pop, country twang, rap, metal, bright commercial pop, children's music, gospel swell, four-on-the-floor dance
+
+**Container C — Urban Observation**  
+**Style of Music:** art-pop folk, 96 BPM, muted electric guitar harmonics, lo-fi kick and rimshot, mellotron pad on chorus, spoken-word bridge over single plucked note, dry upfront vocal, bittersweet unresolved outro fade  
+**Exclude:** heavy bass drop, reggae, punk, opera, tropical house, metal screaming, glossy radio production, motivational build, happy whistle hook
+
+---
+
+## 4. Changelog
+
+Composer 2.5 independent maximize from 正文 2.0 only; blind to Lyric v1/v2.
+
+---
+
+## 5. Independence note
+
+I opened only `01-source/zhongshengxiang-body-2.0-only.md` and `01-source/README-scope.md`. I did not open `02-current/all-beings-v1.txt`, `02-current/all-beings-v2.txt`, `squeeze-audit-v1.md`, or any other lyric/draft package. Structural device: thesis pre-chorus + speech-fragment bridge (众人 as overheard parade) feeding a two-frame final section that refuses resolution — witness notebook, not verse-chorus rescue arc.

@@ -1,32 +1,22 @@
 # 07-16-all-beings — CURRENT
 
 ## Status
-- **Latest draft:** v2 squeeze pass (2026-07-20) — not locked final
-- **Prior:** v1 kept for diff
-- **Library:** `~/music/fuzzy/` (siblings only)
+- **Two maximize candidates** (not locked final)
+- Source lock: 众生相 正文 2.0 only
 
 ## Read first
-1. **Current package:** `02-current/all-beings-v2.txt`
-2. **Prior package:** `02-current/all-beings-v1.txt`
-3. **Squeeze audit:** `01-source/squeeze-audit-v1.md`  ← used / missed / dross
-4. **Source essay:** `01-source/source-zhongshengxiang.md` (canon = 正文 2.0)
-5. **Scope:** `01-source/README-scope.md`
+1. **Dual compare (start here):** `02-current/all-beings-dual-lyric-v2-vs-composer.txt`
+2. **A — Lyric v2:** `02-current/all-beings-v2.txt` (Grok / this agent)
+3. **B — Composer independent:** `02-current/all-beings-composer-v2.txt` (composer-2.5, blind)
+4. Prior: `02-current/all-beings-v1.txt`
+5. Audit: `01-source/squeeze-audit-v1.md`
+6. Canon essay: `01-source/zhongshengxiang-body-2.0-only.md`
 
-## Verdict on v1 maximize?
-**No.** v1 nailed 宠"物" + two 画下 frames. Left thin: **相处** (pure exchange) and fuller **众人** parade (fake-smile→curse, fear-harms).
+## Transparency
+- B did **not** see A lyrics (brief forbid + independence note).
+- B ≠ Grok (avoid same-model echo). Opus capped → Composer 2.5.
 
-## v2 harvest adds
-- 物 ladder (thing / not friend / not family)
-- dust-smell · choice-in-his-hands · duty ghost
-- fake-smile curse · "fear he harms you — he will" · old self-fear
-- 相处 block · kids cluster · people can live thinner than dog
-- cut: "Not this one. Not tonight." rescue drift
-
-## Axis
-宠"物" · free fox vs rope garage · 众生相 faces · 相处 pure return
-
-## Next options
-- Liz micro-edit / cut heartbeat or 相处 if long
-- Blind Opus pass on 正文 2.0 only (optional)
-- Suno paste-only from v2
-- Sibling spin from fuzzy (not this folder)
+## Next
+- Liz pick A / B / mashup
+- Or Suno paste-only from chosen line
+- Do not auto-merge without her call
