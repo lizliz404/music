@@ -241,10 +241,22 @@ EDM festival drop, generic mainstream pop belting, melodic R&B crooner
 
 ---
 
-## Craft note（≤8 行）
+## Changelog
 
-1. v4.1 相对 v4 仅外科：V2 干货锐化（每餐蛋白质 + 配料表前三见糖）；未加 16+8/进餐顺序等 L2。
-2. EN chorus「Real goods only — cash it」咬「鉴出真货就进腰包」；其余 punchline 全保留。
-3. 守住：咚！/stamp!、鉴宝装置、加血/喷头/泡面筷子/系统更新/弹簧/锁门闭环。
-4. 知识锁 L0–L1 三轴：识破包装 · 蛋白优先 · 吃饱≠吃对/弹簧。扩 cheat = 另曲。
-5. 出片用 `eat-rich-suno-paste-only.txt`；2–3 take 测「咚」能否跟哼。停文本。
+### v4 → v4.1 词面 / 交付
+- CN V2：蛋白质摆前排 → **每餐先落蛋白质**（进食结构，不只是购物车排序）
+- CN V2：配料表超过五行 → **配料表前三见糖的 一律不请进门**（可执行规则）
+- EN V2 sync：Protein first each plate；Sugar in the top three on the label?
+- EN Chorus：Real deal certified, I cash it → **Real goods only — cash it**
+- 补齐 CN/EN **Exclude Styles**；另附 `eat-rich-suno-paste-only.txt` 三字段
+- 守住未动：咚！/stamp!、鉴宝装置、加血/喷头/泡面筷子/系统更新/弹簧、Final 锁门闭环
+
+### 知识面广度讨论（Liz 原意 → 决议）
+- Liz：营养学上还有很多 cheat code（例：**16+8**；**吃饭顺序**蛋白→膳食纤维→最后碳水/脂肪，利饭后胰岛素与血糖）——会不会本曲太窄？
+- Liz：若一篇塞太多会更臃肿；当前内容可能已够多、已够覆盖更广受众与更大共鸣；那些或已算更突出/更下游的知识？
+- 决议：**不是受众窄，是论点故意窄**（edu-comedy 保命）。共鸣靠共同羞耻+共同敌人+可模仿身份，不靠知识点目录全。
+- 本曲只锁 **L0–L1 三轴**：①识破包装/真货 ②蛋白优先 ③吃饱≠吃对 + 精制碳水弹簧。这是最大公约数失败现场。
+- **16+8 = 不进本曲**：属 L3 协议/生活方式；且与 V1「不吃晚饭那年我以为要飞升」摩擦，硬塞易逆火或变免责声明说教。
+- **进餐顺序 = 不进本曲正文**：属 L2 同轴升级包（盘中程序），与「鉴宝/反包装」主场不同层；塞 V2 会变 PPT、肿。可作系列种子（另曲），不改本稿装置。
+- 不扩第 4/5 条营养点、不开新概念分支、不把副歌改成论点清单。
+- 下一杠杆：Suno 2–3 take 测「吃成富人——咚」跟哼；文本循环停。
