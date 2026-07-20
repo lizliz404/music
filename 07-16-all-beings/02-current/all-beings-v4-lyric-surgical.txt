@@ -1,0 +1,160 @@
+# ALL BEINGS — v4 (Lyric · Surgical Spell, audit-v3 squeeze)
+# Date: 2026-07-20 · Lyric (Grok)
+# Base: v3-lyric-surgical · Route stays COLD SPELL (not warm-hook twin)
+# Audit: 01-source/all-beings-dual-audit-v3.txt
+# Last text pass before generate · STOP after this (no v5)
+
+================================================================================
+SONG PROFILE
+================================================================================
+Title:     All Beings
+Alt:       Rope Radius · Learn to Look
+Axis:      witness ballad — thing vs being; mouths around one animal; see ≠ rescue
+BPM:       88 primary (X) · 92 / 100 alts
+Key:       A minor
+Length:    ~3:05–3:15
+Spell (core 4 — charged by context; C2/C3 micro-vary as noted):
+  1 Some pets are only things.
+  2 A rope draws a circle — and that is the world.
+  3 The door goes numb. The dog goes free.
+  4 I don't rescue it. I learn to look.
+Fixes this pass:
+  - door timing (no "door" in spell before garage established)
+  - physical rope anchor in garage verse before metaphor
+  - observer body: After work
+  - spell charge via C2 drop L1 / C3 full return (not static triple)
+  - paint frames get air; cut soft "still not mine" crutch
+  - pronoun discipline: mostly he/the dog; less free-one churn
+
+================================================================================
+HOW TO PASTE
+================================================================================
+1. Lyrics → below
+2. Style → Container X first
+3. Exclude → that line
+4. Generate 2–4 → pick · lyric STOP
+
+================================================================================
+LYRICS
+================================================================================
+
+[Intro: murmured dry close-mic, nylon two bars + air]
+Ears up. Fox face. Dirty gold.
+[two bars air]
+
+[Verse 1: matter-of-fact chest, picked nylon — fox only, no garage yet]
+After work.
+I touch the middle of his skull — both ears fold down.
+He stares a beat, then runs like the ground is news.
+Soft under the grime, a twitch mid-step —
+dust still chosen by him.
+He sits, he rolls — ruins the clean I wiped.
+Not mine. Not anyone's. Still he finds me.
+
+[Chorus 1 — first pass: NO door line yet (timing fix); three-line charge-in]
+Some pets are only things.
+A rope draws a circle — and that is the world.
+I don't rescue it. I learn to look.
+[two-bar strip]
+
+[Verse 2: garage — physical rope FIRST, then door/numb]
+Black garage — dust smell before you see him.
+A short rope from the ring — worn circle in the dust.
+That's his whole walk. That's the world measured out.
+Door locked: eyes go numb — worse than fear.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — to manage, to walk?
+After work. I slide bread through the dark and leave.
+
+[Chorus 2 — full spell first time door is earned; drop L1 for breath/charge]
+A rope draws a circle — and that is the world.
+The door goes numb. The dog goes free.
+I don't rescue it. I learn to look.
+[two-bar strip]
+
+[Bridge: near-spoken 众人 + vacuum]
+"Don't raise that kind of thing."
+"Look. Don't touch."
+"That dead-lame dog — walking like that —"
+I stare one second too long.
+I decide not to get hurt.
+And the dog? He can't hear the words.
+[hang]
+"Is he yours?" — fake smile. I say no. I walk.
+Then she curses a body that can't talk back.
+"You fear he harms you — he will."
+
+[Verse 3: two motion frames with air between; pure exchange spark, no lecture tail]
+Under the bridge —
+he stands on two legs, looking for me.
+Then hits the ground and runs.
+[one bar air]
+Girl on the ramp opens both arms.
+He jumps the whole slope like the air owes him.
+With him: heat for heat. No interest in the kindness.
+Kids pour around him.
+
+[Final Chorus — full four-line spell; last line stands, no soft crutch]
+Some pets are only things.
+A rope draws a circle — and that is the world.
+The door goes numb. The dog goes free.
+I don't rescue it. I learn to look.
+
+[Outro: whisper dry]
+I crouch. I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[End]
+
+================================================================================
+STYLE CONTAINERS (orthogonal)
+================================================================================
+
+----- X — Late-Night Bus (PRIMARY) -----
+Style of Music:
+88 BPM A minor, intimate witness folk, male low chest vocal matter-of-fact non-breathy dry close-mic no long reverb tail, nylon-string guitar picked not strummed, upright bass fingertip attack, single tambourine on 2 and 4 from verse 2 only, brief harmonium swell final chorus only, room-tight dry mix, conversational not performed, structural rests
+
+Exclude Styles:
+female breathy vocal, felt piano, tape hiss lo-fi mumble, cinematic swell, dramatic build, folk twang, country slide, whispered ASMR, indie-girl pop, soaring belt, ethereal pad spam, children's choir, cutesy pet jingle, trap hi-hats, EDM drops, autotune gloss
+
+----- Y — Public Square -----
+Style of Music:
+92 BPM D major soft modal dips, warm declarative folk without sugar, steel-string fingerpick, cajon shaker, warm room mic light plate, three-part harmony only last spell line of final chorus, bridge near-spoken, controlled lift not arena
+
+Exclude Styles:
+solo confessional whisper, lo-fi bedroom, gothic minor drone, cello sadness wallpaper, indie-folk mumble, felt piano default, power ballad, scream, trap, EDM, cute ukulele jingle
+
+----- Z — Concrete Room -----
+Style of Music:
+100 BPM, dry industrial-leaning folk, clean-to-grit single electric guitar, tight saturated drum machine, male vocal doubled octave-down on final chorus only, no acoustic bed, no reverb wash, rhythmic insistence under matter-of-fact lead, short unresolved end
+
+Exclude Styles:
+acoustic-forward gentle folk, breathy vocal, ambient pads, felt piano, cello drone, warm chamber, soft brushes only, female indie default, cinematic trailer swell, motivational pop build, metal scream
+
+================================================================================
+VOCAL TAGS
+================================================================================
+Prefer: intimate close-mic · matter-of-fact · no vibrato · chest · dry · conversational · slight rasp
+Avoid spam: emotional · powerful · soaring · breathy · whispered · ethereal · angelic · heartfelt · passionate
+
+================================================================================
+AUDIT FIX CHANGELOG (v3 → v4)
+================================================================================
+| Audit issue | Fix |
+|---|---|
+| Door before garage (timing bug) | C1 omits door line; full "door goes numb" only from C2 after V2 |
+| Rope never physical | V2: short rope from the ring — worn circle in the dust |
+| Observer body missing | "After work." opens V1; echoes before bread line |
+| Static triple spell | C1 three-line entry · C2 drops L1 · Final full four (charge by context) |
+| Paint frames flattened | V3 split with bar air between stand-up and ramp |
+| "still not mine. Still free." soft crutch | Cut from final |
+| Pronoun tide | Prefer he/the dog; cut free-one label |
+| Warm-hook route | NOT taken — cold spell integrity kept |
+| Human-rope lecture | Not added (B's job); one image "kids pour" only |
+| jumps not flies | jumps kept |
+
+STOP. Generate next. No v5.
+
+================================================================================
+END
+================================================================================

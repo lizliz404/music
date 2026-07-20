@@ -1,0 +1,61 @@
+OUTPUT THE COMPLETE v4 PACKAGE DIRECTLY IN YOUR RESPONSE.
+No outline. No summary-only. Real lyrics every section. I save stdout myself.
+
+# Task
+**v4** of *All Beings / 众生相* on YOUR assigned route only.
+This is the **last parallel text pass** before generate. Squeeze the new audit dry. Then STOP (no v5).
+
+# Read
+1. `01-source/all-beings-dual-audit-v3.txt` — FULL new audit (law)
+2. `02-current/all-beings-v3-composer-warm.txt` — YOUR v3 base (Warm Hook)
+3. `01-source/zhongshengxiang-body-2.0-only.md` — canon if needed
+4. Optional preserve cross-check: `02-current/all-beings-v3-lyric-surgical.txt` (do NOT become A twin)
+
+Do not invent Tang Ke / green-shirt / house-build.
+
+# YOUR ROUTE: Warm Hook v4 (not Surgical Spell)
+Base = your v3 Warm Hook. Keep second-person hook spine, but **fix audit defects**.
+
+## MUST FIX (falsifiable — quote repairs in changelog)
+
+1. **L1 vs L4 fight (see you vs don't rescue)**  
+   Make the tension **deliberate craft**, not accident:  
+   - either rebalance L1 so "see/look" = witness not rescue (same dictionary as L4),  
+   - or sequence so L4 **corrects** L1 without sugar-lie,  
+   - or replace worn "I still see you" with equally hummable line that doesn't promise salvation.  
+   Changelog must say which choice.
+
+2. **Pseudo-proverb risk on "We're all measured by some rope's radius"**  
+   Keep smart signature OR replace with more concrete twin that still breaks circle. No empty "We're all X by Y" if it stays Sheeran-mean. If you keep "radius", make it earn cold-hot friction on purpose (audit: conscious choice).
+
+3. **Human-rope bridge: present, don't accuse**  
+   Cut moral "you chose". Prefer noun/action present (mortgage / shift / screen glow) without finger-point lecture. Shorter > longer.
+
+4. **"flies" → "jumps"** (dog action, not poet flies)
+
+5. **Kill end-of-paragraph summary residue**  
+   Cut or demote lines like "The free one has more of a life" / "From the angle of closeness…" if they only restate. Trust images.
+
+6. **Rope physical anchor BEFORE metaphor**  
+   In garage verse: one concrete rope image (length, clip, circle worn in dust, yank, collar ring — pick one real) so chorus rope isn't free-floating philosophy.
+
+7. **Observer body injection (3–6 words max)**  
+   e.g. time/route/pocket — "After work." class. Not a new verse of autobiography.
+
+8. **Fake-smile / not-hurt / can't-hear / bread** keep if still strong.
+
+9. **Chorus ≤ 4 lines**, mostly identical; final may micro-vary last line only.  
+   Pre can hold cold thesis "Some pets are only things".
+
+10. **Length** ~3:00–3:15, aim ≤320 sung words. No bloat.
+
+11. **Styles**: 3 orthogonal. Prefer recommend **Container X (Late-Night Bus dry male)** as PRIMARY for generate (audit: warm hook + warm D = sugar×sugar). Keep D and Z as alts. Male matter-of-fact deliberate.
+
+# Deliverable
+## 1. Song profile
+## 2. Full lyrics + vocal tags
+## 3. Three style containers (X primary) + excludes
+## 4. Changelog table: each audit defect → exact fix line
+## 5. Note: Warm Hook v4; not Surgical twin; STOP after this
+
+FULL PACKAGE NOW.

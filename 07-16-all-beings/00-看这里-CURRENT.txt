@@ -1,22 +1,25 @@
 # 07-16-all-beings — CURRENT
 
 ## Status
-**Dual v3 candidates** after Liz audit. Not locked. **No v4** unless new falsifiable defect.
+**Dual v4 = last text pass.** Locked candidates for generate. **No v5.**
 
-## Start here
-`02-current/all-beings-dual-v3-surgical-vs-warm.txt`
+## Start
+`02-current/all-beings-dual-v4-surgical-vs-warm.txt`
 
 ## Lines
 | | File | Route |
 |---|---|---|
-| A | `02-current/all-beings-v3-lyric-surgical.txt` | Surgical Spell (4-line cold spell) |
-| B | `02-current/all-beings-v3-composer-warm.txt` | Warm Hook + universal rope |
+| A | `02-current/all-beings-v4-lyric-surgical.txt` | Surgical Spell |
+| B | `02-current/all-beings-v4-composer-warm.txt` | Warm Hook v4 |
 
-## Audit
-`01-source/all-beings-dual-audit-v2.txt`
+## Audits
+- v2→v3: `01-source/all-beings-dual-audit-v2.txt`
+- v3→v4: `01-source/all-beings-dual-audit-v3.txt`
 
-## Prior
-v1 / v2 Lyric / composer-v2 / dual-v2 compare in `02-current/`
+## Generate
+1. A + Container X
+2. B + Container X
+Same bed; compare hook cold vs *I look — don't pull*.
 
-## Next
-Liz pick A / B / partial mash → Suno paste-only → generate. Stop lyric loop.
+## Prior drafts
+v1–v3 packages remain in `02-current/` for lineage.

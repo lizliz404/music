@@ -1,0 +1,197 @@
+# ALL BEINGS — v4 Composer (Warm Hook)
+# Date: 2026-07-20 · composer-2.5
+# Last parallel text pass · STOP → generate
+# Base: v3-composer-warm · Audit: dual-audit-v3
+
+# ALL BEINGS / 众生相 — v4 (Warm Hook · Composer)
+**Date:** 2026-07-20 · last parallel text pass before generate · **STOP after v4**
+
+---
+
+## 1. Song Profile
+
+| Field | Value |
+|---|---|
+| **Title** | All Beings |
+| **Alt titles** | Rope Radius · Learn to Look |
+| **Route** | Warm Hook v4 — **not** Surgical Spell twin |
+| **BPM / Key** | 88 BPM primary (range 88–92) · A minor (brief C-major lift final chorus only) |
+| **Length** | ~3:02–3:12 |
+| **Sung words** | ~286 (≤320 target) |
+| **Axis** | Witness ballad — two dogs, parade of mouths, one rope that belongs to everyone; ends in paint, not rescue |
+| **PRIMARY generate** | **Container X** (Late-Night Bus · dry male baritone) |
+| **Alts** | Container D (warm folk-soul) · Container Z (concrete-room electric) |
+
+**Hooks (layered):**
+- **Pre-chorus thesis (cold):** *Some pets are only things*
+- **Chorus hook (warm witness):** *However long your rope is, I look — don't pull*
+- **Collective beam:** *We're all held by some rope's radius* *(conscious cold-hot friction)*
+- **Philosophy spine:** *A rope draws a circle — and that is the world*
+- **Emotional vacuum:** *I decide not to get hurt / And the dog? He can't hear the words.*
+- **Stance:** *I don't rescue it. I learn to look*
+
+**Breath plan:** two-bar strip after Chorus 1 · half-bar hang after bridge *can't hear the words* · outro fragments with air
+
+---
+
+## 2. Full Lyrics + Vocal Tags
+
+```
+[Intro: whisper close-mic, dry fingerpicked guitar, sparse room air — matter-of-fact, no vibrato]
+Pointed ears. Dirty coat.
+A limp that turns into a dance.
+[two-bar instrumental breath]
+
+[Verse 1: conversational low melody, guitar only, walking pace — chest register, dry, not performed]
+I touch the middle of his skull — both ears fold down.
+Fox-face under grime, twitching mid-step.
+Every patch of dust still chosen by him.
+Not mine. Not anyone's. Still he finds me.
+
+[Pre-Chorus: near-spoken into melody, soft bass enters — thesis register, flat affect]
+Some pets are only things —
+never a friend, never almost family.
+
+[Chorus: warm lift, fuller body, declarative — chest voice, direct, no soar]
+However long your rope is, I look — don't pull.
+We're all held by some rope's radius.
+A rope draws a circle — and that is the world.
+I don't rescue it. I learn to look.
+[two-bar instrumental breath, strip toward guitar]
+
+[Verse 2: denser, matter-of-fact, light brushed snare — dry delivery, gray concrete tone]
+Black garage — dust smell before you see him.
+Rope on a clip-ring, pale circle worn in the dust.
+Door locked: eyes go numb — worse than fear.
+A hole chewed under the door where longing learned to dig.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — to manage, to walk?
+After work. I slide bread through the dark and leave.
+
+[Pre-Chorus: same thesis, slightly fuller]
+Some pets are only things —
+never a friend, never almost family.
+
+[Chorus: identical four lines — same warm hook, controlled peak, no belt]
+However long your rope is, I look — don't pull.
+We're all held by some rope's radius.
+A rope draws a circle — and that is the world.
+I don't rescue it. I learn to look.
+
+[Bridge: near-spoken parade, one guitar + room — brittle, flat, white space between mouths]
+"Don't raise that kind of thing."
+"Look. Don't touch."
+"That dead-lame dog — walking like that —"
+[one beat rest]
+I stare one second too long.
+I decide not to get hurt.
+And the dog? He can't hear the words.
+[silence half-bar]
+"You fear he harms you — he will."
+Your mortgage. Your shift. Screen glow walking home.
+Ropes, all of them. Ropes.
+
+[Verse 3 / Final: intimate open, light lift — warm but unsentimental, no honey]
+Under the bridge he stands on two legs, looking for me —
+then hits the ground and runs.
+Girl on the ramp opens both arms.
+He jumps the whole slope like the air owes him.
+
+[Final Chorus: identical first three lines; last line micro-varied only — harmonium swell here, one bar only]
+However long your rope is, I look — don't pull.
+We're all held by some rope's radius.
+A rope draws a circle — and that is the world.
+I don't rescue it. I learn to look — and go.
+[one beat rest]
+
+[Outro: instruments peel; voice alone; air between fragments — whisper-fact, no fade-to-ethereal]
+I crouch a little.
+I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[End]
+```
+
+**Sung word count:** ~286
+
+---
+
+## 3. Three Style Containers + Excludes
+
+### Container X — Late-Night Bus *(PRIMARY — generate first)*
+
+**Style of Music:**  
+late-night bus folk, 88 BPM, A minor, **male baritone-tenor** in low chest register — matter-of-fact, talking-to-yourself delivery, nylon-string acoustic picked not strummed, upright bass fingertip attack, single tambourine on 2 and 4 from verse 2, **no reverb tail on vocal**, room-tight dry mix, brief harmonium swell final chorus only, bridge near-spoken over dry guitar, chorus opens slightly but never performs — someone on an empty bus at 11pm.
+
+**Exclude Styles:**  
+female breathy vocal, felt piano, tape hiss aesthetic, lo-fi mumble, cinematic swell, dramatic build, folk twang, country slide, whispered ASMR, indie-girl pop, warm chamber strings, passionate belting, angelic harmony stacks, synth-pop, EDM, Hammond organ pad, string swell wall-of-sound.
+
+**Sliders:** Weirdness 35–45 | Style Influence 68–78
+
+---
+
+### Container D — Warm Folk-Soul *(alt)*
+
+**Style of Music:**  
+warm folk-soul witness song, 92 BPM, A minor with brief C-major lift on final chorus only, male lead vocal in mid-chest register — emotional but not breathy, straight tone, slight rasp on consonants, fingerpicked acoustic guitar plus warm upright bass, brushed snare entering verse 2, Hammond organ pad and short string swell **chorus only** (real lift vs verse, not wall-of-sound), hand percussion on 2 and 4, room-tight mix with light plate verb on chorus harmonies, bridge strips to voice and single guitar, unresolved ending — witness not anthem.
+
+**Exclude Styles:**  
+female breathy vocal, felt piano, tape hiss lo-fi, whispered ASMR, cinematic trailer swell, arena power ballad, autotune, trap hi-hats, EDM drops, gospel choir spam, ukulele jingle, country twang slide, soaring belting, ethereal pads, motivational pop uplift, children's choir, spoken-word only.
+
+**Sliders:** Weirdness 32–42 | Style Influence 72–82
+
+---
+
+### Container Z — Concrete Room *(alt)*
+
+**Style of Music:**  
+concrete-room electric folk, 100 BPM, drop-D tuning, **male vocal dry and close-mic** — verse clean single distorted electric guitar (tight, not shoegaze), programmed drum machine with tape saturation (punchy not lo-fi), chorus doubles vocal octave-down on hook line 1 only, **no acoustic instruments**, no reverb wash, bridge spoken-fragments over kick and muted guitar, industrial-adjacent rhythm, witness tension not rock aggression, final chorus adds one dirty harmonic layer then cuts to silence for outro.
+
+**Exclude Styles:**  
+acoustic-forward folk, breathy vocals, ambient pads, felt piano, cello drone, warm chamber, gentle brushes, female indie vocal, cinematic swell, arena rock, long guitar solos, metal screaming, tropical pop, ukulele, country.
+
+**Sliders:** Weirdness 42–52 | Style Influence 65–75
+
+---
+
+**Global vocal tag whitelist (paste with any container):**  
+`[matter-of-fact delivery]` `[chest register, not head voice]` `[dry, no reverb tail]` `[conversational, not performed]` `[slight rasp on consonants]` `[no vibrato]`
+
+**Global vocal tag blacklist:**  
+`[emotional]` `[powerful]` `[soaring]` `[breathy]` `[whispered]` `[ethereal]` `[angelic]` `[heartfelt]` `[passionate]`
+
+---
+
+## 4. Changelog — Audit Defect → Exact Fix
+
+| Audit defect | v3 line (broken) | v4 fix (exact line) | Mechanism |
+|---|---|---|---|
+| **L1 vs L4 fight** (see you = rescue vs don't rescue) | *However long your rope is, I still see you.* | *However long your rope is, I look — don't pull.* | **Choice: replace L1.** Same witness verb family as L4 (*look*); *don't pull* blocks salvation read; hummable 9-beat hook without Sheeran *see-you* wear |
+| **Pseudo-proverb / Sheeran-mean radius** | *We're all measured by some rope's radius.* | *We're all held by some rope's radius.* | **Conscious keep of *radius*** — cold geometry word stays as signature; *held by* (physical) replaces abstract *measured by*; garage rope anchor (below) grounds it before chorus |
+| **Human-rope bridge accuses** | *Your mortgage draws a circle. Your shift does too. / Screen glow on the walk home — another leash you chose.* | *Your mortgage. Your shift. Screen glow walking home. / Ropes, all of them. Ropes.* | Present-tense nouns only; cut moral *you chose*; 13 words vs 18 |
+| **flies → jumps** (poet flies, not dog) | *He flies the whole slope like the air owes him.* | *He jumps the whole slope like the air owes him.* | Dog action restored (A v3 correct) |
+| **End-of-paragraph summary residue** | *The free one has more of a life.* / *Kids pour around him like he owns the block.* / *From the angle of closeness, some people live thinner than the dog.* | **Cut all three** | Trust ramp/bridge images; no prose thesis at paragraph tail |
+| **Rope never physicalized** | (no concrete rope in garage verse) | *Rope on a clip-ring, pale circle worn in the dust.* | Physical anchor **before** chorus metaphor; clip-ring + dust circle = listener sees rope first |
+| **Observer has no body** | *I slide bread through the dark and leave.* | *After work. I slide bread through the dark and leave.* | 2-word time injection; observer = post-shift passerby, not floating eye |
+| **Fake-smile / not-hurt / can't-hear / bread** | certified in v3 | **Kept verbatim** | *I decide not to get hurt / And the dog? He can't hear the words.* · *You fear he harms you — he will.* · bread line |
+| **Chorus bloat / thesis in chorus** | v3 already 4-line | **Unchanged structure** — thesis stays pre-chorus; chorus 4 lines × 2 identical + final L4 micro-varies | *Some pets are only things* → pre only |
+| **Length bloat** | ~298 + summary lines | ~286 after cuts + surgical adds | ≤320 band |
+| **Container path dependency** (warm hook + warm D = sugar×sugar) | D listed first | **X primary**; D demoted to alt | Dry bus male offsets warm hook; audit §六 recommendation |
+
+---
+
+## 5. Independence Note
+
+**Route:** Warm Hook v4 (Composer). **Not** Surgical Spell (Lyric A twin).
+
+**Structural divergence from A v3 preserved:**
+- Thesis *Some pets are only things* → **pre-chorus**, not spell chorus L1
+- Chorus = second-person warm **witness** hook (not cold 4-line spell)
+- Human-rope beam in bridge (presented, not accused)
+- Final chorus micro-varies L4 only (*…and go.*)
+
+**Sources squeezed:** `all-beings-dual-audit-v3.txt` (law) · `all-beings-v3-composer-warm.txt` (base) · `zhongshengxiang-body-2.0-only.md` (canon cross-check)
+
+**Not invented:** Tang Ke · green-shirt · house-build
+
+**This is the last parallel text pass. No v5. Generate next.**
