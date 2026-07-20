@@ -1,30 +1,32 @@
 # 07-16-all-beings — CURRENT
 
 ## Status
-- **Draft:** v1 exists (Suno-ready complete package)
-- **Not locked final.** Candidate-level first pass from essay only.
-- **Related library:** `~/music/fuzzy/` (dailies + photos + image-analysis raw)
+- **Latest draft:** v2 squeeze pass (2026-07-20) — not locked final
+- **Prior:** v1 kept for diff
+- **Library:** `~/music/fuzzy/` (siblings only)
 
 ## Read first
-1. **Current package:** `02-current/all-beings-v1.txt`
-2. **Source essay:** `01-source/source-zhongshengxiang.md` (= fuzzy `notes/essays/zhongshengxiang.md`)
-3. **Scope note:** `01-source/README-scope.md`
-4. **Sibling image raw (NOT fused into v1):** `01-source/raw-image-analysis-threshold-proximity.md`
+1. **Current package:** `02-current/all-beings-v2.txt`
+2. **Prior package:** `02-current/all-beings-v1.txt`
+3. **Squeeze audit:** `01-source/squeeze-audit-v1.md`  ← used / missed / dross
+4. **Source essay:** `01-source/source-zhongshengxiang.md` (canon = 正文 2.0)
+5. **Scope:** `01-source/README-scope.md`
 
-## Axis (v1)
-宠"物" — pet as object vs living companion
-free fox-dog vs garage dog (rope radius) · 众生相 = parade of human faces around one animal
+## Verdict on v1 maximize?
+**No.** v1 nailed 宠"物" + two 画下 frames. Left thin: **相处** (pure exchange) and fuller **众人** parade (fake-smile→curse, fear-harms).
 
-## Hooks (v1)
-- Some pets are only things
-- I'll take care of him
-- the hole under the door
+## v2 harvest adds
+- 物 ladder (thing / not friend / not family)
+- dust-smell · choice-in-his-hands · duty ghost
+- fake-smile curse · "fear he harms you — he will" · old self-fear
+- 相处 block · kids cluster · people can live thinner than dog
+- cut: "Not this one. Not tonight." rescue drift
 
-## Next options (not started)
-- Liz audit / micro-edit v1
-- Independent Opus v2 (essay only, blind to v1)
-- Sibling spin from fuzzy dailies (Free Dirt / Rope Radius / Threshold…)
-- Do **not** dump full fuzzy library into this track without explicit direction
+## Axis
+宠"物" · free fox vs rope garage · 众生相 faces · 相处 pure return
 
-## Fuzzy pointer
-Library MAP: `~/music/fuzzy/00-看这里-CURRENT.txt`
+## Next options
+- Liz micro-edit / cut heartbeat or 相处 if long
+- Blind Opus pass on 正文 2.0 only (optional)
+- Suno paste-only from v2
+- Sibling spin from fuzzy (not this folder)

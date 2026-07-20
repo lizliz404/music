@@ -1,0 +1,200 @@
+# ALL BEINGS — v2 (maximized harvest from 众生相 正文 2.0)
+# Date: 2026-07-20 · Lyric
+# Source canon: 01-source/source-zhongshengxiang.md → 正文 2.0
+# Audit: 01-source/squeeze-audit-v1.md
+#
+# SCOPE LOCK (unchanged):
+#   This track = 众生相 essay only.
+#   fuzzy dailies / Tang Ke cast / green-shirt boy / house-build play = siblings.
+#
+# AXIS (refined, not replaced):
+#   宠"物" — thing vs being
+#   free fox-dog (chooses) vs garage dog (rope radius, hole chewed)
+#   众生相 = parade of human faces/speech around one animal
+#   相处 = pure exchange — v1 left this thin
+#
+# HARVEST vs v1:
+#   + 物 ladder · dust-smell · duty ghost · choice-in-his-hands
+#   + fake-smile→curse · "fear he harms you — he will"
+#   + 相处 engine · kids cluster · people thinner than dog
+#   − "Not this one. Not tonight." · empty second pre · sibling names
+#   length: compressed after first pass (target ~3:00–3:15)
+#
+# MODE: 散文歌 / field notebook sung · English · rests · no cure
+
+================================================================================
+SONG PROFILE
+================================================================================
+Title (primary):  All Beings
+Alt titles:       Rope Radius · Pet Thing · The Door Hole
+Axis:             object vs being · free choice vs rope · parade of faces · pure exchange
+BPM:              80–84 (82 preferred)
+Key:              E minor or A minor
+Length:           ~3:00–3:15
+Hook lines:
+  - Some pets are only things
+  - A rope draws a circle, and that is the world
+  - I decide not to get hurt — and the dog can't hear the words
+  - You fear he harms you — he will
+  - I'll take care of him (said before I knew)
+Breath plan:
+- Intro → short air
+- After C1 → two-bar strip
+- Bridge hang after "can't hear the words"
+- Outro fragments with air
+
+================================================================================
+HOW TO PASTE
+================================================================================
+1. Lyrics → block below
+2. Style → Container A first
+3. Exclude → that container's one line
+4. Generate 2–4 → stop → pick
+
+================================================================================
+LYRICS
+================================================================================
+
+[Intro: hushed close-mic, single fingerpicked guitar, sparse room air]
+Pointed ears. Dirty coat.
+A limp that turns into a dance.
+He sits, he rolls — ruins the clean I just wiped on.
+[two-bar instrumental breath]
+
+[Verse 1: conversational low melody, guitar only, walking pace]
+I touch the middle of his skull — both ears fold down.
+He stares a beat, then runs like the ground is news.
+Fox-face, soft under the grime, twitching mid-step —
+every next patch of dust still chosen by him.
+Not mine. Not anyone's. Still he finds me.
+
+[Pre-Chorus: near-spoken into melody, soft bass enters]
+Not only a new plot. Not only a new friend.
+A new way of looking at the street.
+
+[Chorus: full but grounded, controlled — first line unhurried]
+Some pets are only things —
+never a friend, never almost family.
+A rope draws a circle, and that is the world.
+Black garage — dust smell before you see him —
+a hole chewed under the door
+where the longing learned to dig.
+Some pets are only things.
+Outside is loud. Inside is none of it.
+[two-bar instrumental breath, strip toward guitar]
+
+[Verse 2: denser, still controlled, light pad under]
+Door locked: eyes go numb — worse than fear.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — something to manage, something to walk?
+"Bring him home" was supposed to mean a duty.
+I slide bread through the dark and leave.
+I think the free one has more of a life.
+
+[Chorus]
+
+[Bridge: near-spoken parade, one guitar + room; white space between mouths]
+"Don't raise that kind of thing."
+"Look. Don't touch."
+"That dead-lame dog — walking like that —"
+[one beat rest]
+I stare one second too long.
+I decide not to get hurt.
+And the dog? He can't hear the words.
+[silence half-bar]
+"Is he yours?" — fake smile.
+I say no. I walk.
+Then she curses a body that can't talk back.
+"You fear he harms you — he will."
+[one beat rest]
+"I'll take care of him," I say —
+said it before I knew I'd said it.
+
+[Instrumental Break: soft guitar motif, dry light drums, four bars max]
+
+[Verse 3 / 相处: intimate, then open]
+With him it's simple —
+no coldness to decode, no interest in the kindness,
+no fear I paid and won't be paid back.
+I treat him straight. He burns the same heat back.
+Kids pour around him like he owns the block.
+From the angle of closeness,
+some people live thinner than the dog.
+
+[Final Chorus: denser layers, late strings only here; controlled peak]
+Some pets are only things —
+a rope draws a circle, and that is the world.
+Under the bridge he stands on two legs, looking for me —
+then hits the ground and runs.
+Girl on the ramp opens both arms.
+He jumps the whole slope like the air owes him.
+Some pets are only things.
+The street keeps showing faces.
+Still not mine. Still free.
+[one beat rest]
+
+[Outro: instruments peel; voice alone; air between fragments]
+I crouch a little.
+I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[End]
+
+================================================================================
+STYLE CONTAINERS
+================================================================================
+
+----- A — Documentary Walking Folk (PRIMARY) -----
+
+Style of Music:
+intimate documentary folk, walking-pace narrative song 82 BPM, close-mic male vocal controlled melodic never shouted, fingerpicked acoustic guitar motif, warm upright bass, brushed dry drums, sparse field-recording air, dynamic breathing with instrumental rests, unresolved quiet tension under calm surface, clean warm mix
+
+Exclude Styles:
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, forward vocal, loud mix, driving drums, epic build, wall-to-wall vocal, children's choir, cutesy pet jingle
+
+Sliders: Weirdness 30–40 | Style Influence 70–80
+
+----- B — Soft Garage Pulse -----
+
+Style of Music:
+melodic narrative indie, body-forward midtempo pulse 84 BPM, controlled male vocal sung intimate and incisive, clean electric and acoustic guitars, tight dry kit with pushed kick laid-back snare, warm bass, short melodic motif recurring, breathing arrangement with instrumental gaps, polished clean mix
+
+Exclude Styles:
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, staccato aggression, double-time thrash, forward vocal, loud mix, epic build, wall-to-wall vocal, children's choir
+
+Sliders: Weirdness 28–38 | Style Influence 72–82
+
+----- C — Chamber Observation -----
+
+Style of Music:
+sparse chamber folk art-pop, suspended mid-tempo 80 BPM, close-mic intimate male vocal melodic never shouted, muted electric guitar, soft Rhodes, subtle string accents Final Chorus only, dry precise drums, cool glass texture vs warm wood bass, generous rests and space, unresolved undertow, polished quiet mix
+
+Exclude Styles:
+pop, mainstream radio polish, autotune, trap hi-hats, EDM drops, choir pad spam, synth-pop, spoken-word only, neon/dream-pop, pop-punk, emo, industrial, grunge, screaming, shouting, belting, lo-fi, garage rock, excessive distortion, long guitar solos, rough production, arena rock, power ballad, forward vocal, loud mix, driving drums, epic build, soar, cinematic trailer, wall-to-wall vocal
+
+Sliders: Weirdness 40–50 | Style Influence 65–75
+
+================================================================================
+CRAFT NOTE
+================================================================================
+- v2 maximize = fill 相处 + 众人 holes; cut rescue slogan; no bulk stack.
+- Optional cut if still long: duty line OR "thinner than the dog" (keep one thesis spike).
+- Heartbeat (素材) left out for length — restore only if body moment needed.
+- End = paint / unsolved witness, not savior.
+
+================================================================================
+IMAGE BANK
+================================================================================
+IN: fox portrait · ears · free choice · 物 ladder · rope · dust smell · hole · numb/frenzy · manage/walk · duty · bread · free>owned · 众人 mouths · not-hurt/can't-hear · fake-smile curse · fear-harms · take-care slip · 相处 · kids cluster · thinner than dog · bridge stand · girl arms · paint/unsolved
+
+OUT (siblings/dross): Tang Ke · green-shirt · dogmeat · house-build · 姨母笑 · Stoic · craft 碎念 · will-bite extra · childhood-fear line · heartbeat · photo dump
+
+================================================================================
+CHANGELOG
+================================================================================
+v1 (2026-07-16): first draft; garage axis + short bridge + two paint frames.
+v2 (2026-07-20): squeeze — maximize 正文 2.0; 相处 + fuller 众人; cut rescue drift; length pass.
+
+================================================================================
+END
+================================================================================
