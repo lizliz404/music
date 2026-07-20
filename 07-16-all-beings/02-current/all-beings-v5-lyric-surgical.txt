@@ -1,0 +1,169 @@
+# ALL BEINGS — v5 (Lyric · Surgical Spell)
+# Date: 2026-07-20 · Lyric (Grok)
+# Base: v4-lyric-surgical · Route stays COLD SPELL (not warm-hook twin)
+# Audit: 01-source/all-beings-dual-audit-v4.txt (singability / outro / X loosen)
+# Surgical only — STOP text after this · generate next
+
+================================================================================
+SONG PROFILE
+================================================================================
+Title:     All Beings
+Alt:       Learn to Look · Rope Circle
+Axis:      witness ballad — anti-rescue; thing vs being; mouths around one animal
+BPM:       88 primary (X) · 92 / 100 alts
+Key:       A minor
+Length:    ~3:08–3:20 (outro vocalise adds ~8–12s)
+Spell lines (charged by context; C1/C2 micro-vary):
+  ANCHOR (highest density, bookends every chorus):
+    I don't rescue it. I learn to look.
+  INFO / atmosphere (sing once, not the hum target):
+    Some pets are only things.
+    A rope draws a circle — and that is the world.
+    The door goes numb. The dog goes free.  (only after garage)
+v5 fixes (audit-v4):
+  - chorus anchor reorder: learn-to-look opens + closes each chorus
+  - outro wordless vocalise (physiological land, not more thesis)
+  - Container X: quiet restrained swell allowed final chorus only
+  - 3-sec loop seed = I learn to look / I don't rescue it
+  - door timing kept (no door before garage)
+
+================================================================================
+HOW TO PASTE
+================================================================================
+1. Lyrics → below
+2. Style → Container X first (loosened final-chorus swell)
+3. Exclude → that line
+4. Generate order preferred: B first, then A (audit) · lyric STOP
+
+================================================================================
+LYRICS
+================================================================================
+
+[Intro: murmured dry close-mic, nylon two bars + air]
+Ears up. Fox face. Dirty gold.
+[two bars air]
+
+[Verse 1: matter-of-fact chest, picked nylon — fox only, no garage yet]
+After work.
+I touch the middle of his skull — both ears fold down.
+He stares a beat, then runs like the ground is news.
+Soft under the grime, a twitch mid-step —
+dust still chosen by him.
+He sits, he rolls — ruins the clean I wiped.
+Not mine. Not anyone's. Still he finds me.
+
+[Chorus 1 — NO door yet; ANCHOR bookends; info lines in middle]
+I don't rescue it. I learn to look.
+Some pets are only things.
+A rope draws a circle — and that is the world.
+I don't rescue it. I learn to look.
+[two-bar strip]
+
+[Verse 2: garage — physical rope FIRST, then door/numb]
+Black garage — dust smell before you see him.
+A short rope from the ring — worn circle in the dust.
+That's his whole walk. That's the world measured out.
+Door locked: eyes go numb — worse than fear.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — to manage, to walk?
+After work. I slide bread through the dark and leave.
+
+[Chorus 2 — door earned; drop thesis L for breath; ANCHOR bookends]
+I don't rescue it. I learn to look.
+A rope draws a circle — and that is the world.
+The door goes numb. The dog goes free.
+I don't rescue it. I learn to look.
+[two-bar strip]
+
+[Bridge: near-spoken 众人 + vacuum]
+"Don't raise that kind of thing."
+"Look. Don't touch."
+"That dead-lame dog — walking like that —"
+I stare one second too long.
+I decide not to get hurt.
+And the dog? He can't hear the words.
+[hang]
+"Is he yours?" — fake smile. I say no. I walk.
+Then she curses a body that can't talk back.
+"You fear he harms you — he will."
+
+[Verse 3: two motion frames with air; pure exchange, no lecture tail]
+Under the bridge —
+he stands on two legs, looking for me.
+Then hits the ground and runs.
+[one bar air]
+Girl on the ramp opens both arms.
+He jumps the whole slope like the air owes him.
+With him: heat for heat. No interest in the kindness.
+Kids pour around him.
+
+[Final Chorus — full spell inside ANCHOR bookend; one quiet warm lift allowed]
+I don't rescue it. I learn to look.
+Some pets are only things.
+A rope draws a circle — and that is the world.
+The door goes numb. The dog goes free.
+I don't rescue it. I learn to look.
+
+[Outro: whisper dry → physiological land]
+I crouch. I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[Outro vocalise: 6–8 bars wordless hum on "learn to look" motif — no new words, body land not thesis]
+[End]
+
+================================================================================
+STYLE CONTAINERS (orthogonal)
+================================================================================
+
+----- X — Late-Night Bus (PRIMARY) -----
+Style of Music:
+88 BPM A minor, intimate witness folk, male low chest vocal matter-of-fact non-breathy dry close-mic no long reverb tail, nylon-string guitar picked not strummed, upright bass fingertip attack, single tambourine on 2 and 4 from verse 2 only, quiet restrained swell final chorus only (held back, not soaring), brief harmonium under final anchor line only, room-tight dry mix, conversational not performed, structural rests, outro wordless vocalise over thinning guitar
+
+Exclude Styles:
+female breathy vocal, felt piano, tape hiss lo-fi mumble, dramatic build, folk twang, country slide, whispered ASMR, indie-girl pop, soaring belt, ethereal pad spam, children's choir, cutesy pet jingle, trap hi-hats, EDM drops, autotune gloss, arena power ballad, wall-of-sound string climax
+
+----- Y — Public Square -----
+Style of Music:
+92 BPM D major soft modal dips, warm declarative folk without sugar, steel-string fingerpick, cajon shaker, warm room mic light plate, three-part harmony only last anchor of final chorus, bridge near-spoken, controlled lift not arena, outro hum
+
+Exclude Styles:
+solo confessional whisper, lo-fi bedroom, gothic minor drone, cello sadness wallpaper, indie-folk mumble, felt piano default, power ballad, scream, trap, EDM, cute ukulele jingle
+
+----- Z — Concrete Room -----
+Style of Music:
+100 BPM, dry industrial-leaning folk, clean-to-grit single electric guitar, tight saturated drum machine, male vocal doubled octave-down on final anchor only, no acoustic bed, no reverb wash, rhythmic insistence under matter-of-fact lead, short unresolved end into hum cut
+
+Exclude Styles:
+acoustic-forward gentle folk, breathy vocal, ambient pads, felt piano, cello drone, warm chamber, soft brushes only, female indie default, cinematic trailer swell, motivational pop build, metal scream
+
+================================================================================
+VOCAL TAGS
+================================================================================
+Prefer: intimate close-mic · matter-of-fact · no vibrato · chest · dry · conversational · slight rasp
+Final chorus only whitelist: [one warm lift, held back]
+Avoid spam: emotional · powerful · soaring · breathy · whispered · ethereal · angelic · heartfelt · passionate
+
+================================================================================
+3-SEC LOOP SEED (post-generate clip test)
+================================================================================
+Primary: "I don't rescue it. I learn to look."
+Secondary (if needed): "I learn to look." alone
+Target clip: 8–12s loop
+
+================================================================================
+AUDIT FIX CHANGELOG (v4 → v5)
+================================================================================
+| Audit-v4 issue | Fix |
+|---|---|
+| Chorus singability grain too coarse | ANCHOR bookends every chorus; info lines middle only |
+| radius / long clause as hum target | N/A on A route (no radius); circle line demoted vs anchor |
+| Outro cognitive not physiological | +6–8 bar wordless vocalise on learn-to-look motif |
+| X exclude blocks one chest/swell moment | quiet restrained swell final chorus only; wall-of-sound still banned |
+| Generate order | Prefer B then A (A = late-night parallel, not lead single) |
+| Door timing / rope body / After work | Kept from v4 |
+
+STOP text. Generate next. No v6 without ear falsification.
+
+================================================================================
+END
+================================================================================

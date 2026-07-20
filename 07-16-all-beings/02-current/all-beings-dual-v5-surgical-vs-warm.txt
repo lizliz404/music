@@ -1,0 +1,179 @@
+# ALL BEINGS — dual v5 (surgical singability pass · STOP text → generate)
+# Date: 2026-07-20
+# Audit squeezed: 01-source/all-beings-dual-audit-v4.txt
+# STOP: no v6 without ear falsification · next = Suno generate (B first)
+
+================================================================================
+TRANSPARENCY
+================================================================================
+| | A Lyric v5 | B Warm Hook v5 |
+|---|---|---|
+| Model | Grok (Lyric) | Grok (Lyric) on v4-composer base |
+| Route | **Surgical Spell** (cold) | **Warm Hook** (primary) |
+| Saw other v5? | Built in parallel from dual v4 + same audit | same |
+| Base | v4-lyric-surgical | v4-composer-warm |
+| Primary style | Container X loosened | Container X loosened |
+| Generate order | 2nd (late-night parallel) | **1st (lead single)** |
+
+================================================================================
+FIX-COMPARISON (audit-v4 defects)
+================================================================================
+| Defect | A | B |
+|---|---|---|
+| Chorus singability grain | ANCHOR *I don't rescue / learn to look* bookends every chorus | Peak L1 *I look—don't pull* + L2 *don't rescue / learn to look* |
+| radius / long clause as hum | n/a (no radius); circle demoted vs anchor | radius → L4 **under/near-spoken**; circle L3 info |
+| Outro cognitive only | +6–8 bar wordless vocalise | +6–8 bar wordless vocalise |
+| X exclude vs benchmark swell | quiet restrained swell final only | same; wall-of-sound still banned |
+| Final vocal whitelist | [one warm lift, held back] | same |
+| Anti-rescue stance | kept | kept |
+| Door timing / rope body / After work | kept from v4 | kept from v4 |
+| 3-sec loop seed | *I learn to look* | *I look — don't pull* + *I learn to look* |
+
+================================================================================
+CHORUS SPINES
+================================================================================
+A:
+  C1: learn-to-look / things / rope circle / learn-to-look
+  C2: learn-to-look / rope circle / door numb·dog free / learn-to-look
+  Final: learn-to-look / things / rope circle / door / learn-to-look
+
+B:
+  Pre: Some pets are only things —
+  C: However long your rope is, I look — don't pull.
+     I don't rescue it. I learn to look.
+     A rope draws a circle — and that is the world.
+     [under] We're all held by some rope's radius.
+  Final L2: …learn to look — and go.
+
+================================================================================
+GENERATE ORDER (audit-v4)
+================================================================================
+1. **B + Container X** (loosened)  ← primary
+2. A + Container X
+3. Optional later: B+D or Z — not first
+Post-gen: 8–12s loop clip on *I look — don't pull* / *I learn to look*
+
+================================================================================
+VERSION A LYRICS (plain)
+================================================================================
+Path: 02-current/all-beings-v5-lyric-surgical.txt
+
+Ears up. Fox face. Dirty gold.
+After work.
+I touch the middle of his skull — both ears fold down.
+He stares a beat, then runs like the ground is news.
+Soft under the grime, a twitch mid-step —
+dust still chosen by him.
+He sits, he rolls — ruins the clean I wiped.
+Not mine. Not anyone's. Still he finds me.
+I don't rescue it. I learn to look.
+Some pets are only things.
+A rope draws a circle — and that is the world.
+I don't rescue it. I learn to look.
+Black garage — dust smell before you see him.
+A short rope from the ring — worn circle in the dust.
+That's his whole walk. That's the world measured out.
+Door locked: eyes go numb — worse than fear.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — to manage, to walk?
+After work. I slide bread through the dark and leave.
+I don't rescue it. I learn to look.
+A rope draws a circle — and that is the world.
+The door goes numb. The dog goes free.
+I don't rescue it. I learn to look.
+"Don't raise that kind of thing."
+"Look. Don't touch."
+"That dead-lame dog — walking like that —"
+I stare one second too long.
+I decide not to get hurt.
+And the dog? He can't hear the words.
+"Is he yours?" — fake smile. I say no. I walk.
+Then she curses a body that can't talk back.
+"You fear he harms you — he will."
+Under the bridge —
+he stands on two legs, looking for me.
+Then hits the ground and runs.
+Girl on the ramp opens both arms.
+He jumps the whole slope like the air owes him.
+With him: heat for heat. No interest in the kindness.
+Kids pour around him.
+I don't rescue it. I learn to look.
+Some pets are only things.
+A rope draws a circle — and that is the world.
+The door goes numb. The dog goes free.
+I don't rescue it. I learn to look.
+I crouch. I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[vocalise 6–8 bars — no words]
+
+================================================================================
+VERSION B LYRICS (plain)
+================================================================================
+Path: 02-current/all-beings-v5-composer-warm.txt
+
+Pointed ears. Dirty coat.
+A limp that turns into a dance.
+I touch the middle of his skull — both ears fold down.
+Fox-face under grime, twitching mid-step.
+Every patch of dust still chosen by him.
+Not mine. Not anyone's. Still he finds me.
+Some pets are only things —
+never a friend, never almost family.
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look.
+A rope draws a circle — and that is the world.
+We're all held by some rope's radius.
+Black garage — dust smell before you see him.
+Rope on a clip-ring, pale circle worn in the dust.
+Door locked: eyes go numb — worse than fear.
+A hole chewed under the door where longing learned to dig.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — to manage, to walk?
+After work. I slide bread through the dark and leave.
+Some pets are only things —
+never a friend, never almost family.
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look.
+A rope draws a circle — and that is the world.
+We're all held by some rope's radius.
+"Don't raise that kind of thing."
+"Look. Don't touch."
+"That dead-lame dog — walking like that —"
+I stare one second too long.
+I decide not to get hurt.
+And the dog? He can't hear the words.
+"You fear he harms you — he will."
+Your mortgage. Your shift. Screen glow walking home.
+Ropes, all of them. Ropes.
+Under the bridge he stands on two legs, looking for me —
+then hits the ground and runs.
+Girl on the ramp opens both arms.
+He jumps the whole slope like the air owes him.
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look — and go.
+A rope draws a circle — and that is the world.
+We're all held by some rope's radius.
+I crouch a little.
+I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[vocalise 6–8 bars — no words]
+
+================================================================================
+COMPARISON NOTES
+================================================================================
+| | A cold spell | B warm hook |
+|---|---|---|
+| Peak mechanism | Bookend anchor ×3 choruses | L1 don't-pull + L2 learn-to-look |
+| you/we address | none (observer cold) | your rope + we're all held (under) |
+| Market path (audit) | late-night / niche parallel | **lead single** |
+| Shared assets | anti-rescue · rope body · After work · mouths bridge · paint frame · vocalise land · X loosen | same |
+
+Full tagged packages + containers:
+- A: 02-current/all-beings-v5-lyric-surgical.txt
+- B: 02-current/all-beings-v5-composer-warm.txt
+
+================================================================================
+END dual v5 — STOP text · generate B+X next
+================================================================================
