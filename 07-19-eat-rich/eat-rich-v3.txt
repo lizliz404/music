@@ -1,0 +1,245 @@
+# （我开始的 prompt）
+
+觉得这两版 V2 都不太好：
+首先，vocal tag 和 style prompt 几乎等于没有，Suno 很难识别。
+其次，歌词有点太土了。当然我知道“土”和“火”两者并非二元对立，但它也没有那种《野狼 Disco》或《上学威龙》那种土潮土嗨感，给我一种“为了土而土”的感觉。可能是我主观审美的问题。
+这也是只有中文版。但如果有中英两版的话，可能性更大，能尝试的 cases 更多。
+除了 lyric 和 style prompt 之外，说明（explanation）倒是很多。我也不知道起什么作用，给我一种专门是为了服务于我，而不是为了更好效果、Goal oriented， result as the service的感觉。
+你直接搓出新版本来吧，交付不用太麻烦，直接用 MD 代码块包起来给我即可。
+
+
+*****
+
+# AI 2版 V3：
+
+一版走完，中英各一首，标签和 style prompt 补齐。
+
+```
+=== 吃成富人 (CN) — Lyrics + Meta Tags ===
+
+[Intro]
+[SFX: 冰箱门"叮"一声，深夜环境音]
+[deadpan, 低音域, 半梦游状态]
+凌晨十二点半 冰箱门开一半
+薯片袋一响 我条件反射就投降
+说好不吃了 说了多少年
+说完这句 筷子已经戳进了泡面
+
+[Verse 1]
+[deadpan spoken-rap, 平铺直叙, 不带笑点重音]
+不吃晚饭那年 我以为自己要飞升
+饿到十点半 又灰溜溜地开了灯
+绿色袋子印着"全麦" 我当传家宝供着
+翻过来一看 排第一位的是白糖
+代餐奶昔喝了三箱 钱包比我先瘦下来
+健身卡刷了三年 淋浴喷头没认全我脸
+那晚我盯着奶茶店小妹说：
+"全糖去冰——这不是奶茶
+这是我在给人生加血"
+
+[Pre-Chorus]
+[building, group vocal 接应]
+被生意耍了（耍了！）
+被生意耍了（耍了！）
+
+[Chorus]
+[group chant, call-and-response, 鼓点重拍]
+吃成富人 —— 咚！
+打开冰箱 跟我鉴个宝
+吃成富人 —— 咚！
+鉴出真货 就进腰包
+(重复一遍)
+
+[Verse 2]
+[swagger, 说书感, 语速略快]
+现在推购物车 跟逛拍卖行一样
+蛋白质摆前排 谁都别想挡我道
+鸡蛋一层 鸡胸一层 冰箱像更新过系统
+不再信包装讲故事 我只信背面那行小字
+"鲜榨"两个字 卖我十块钱一瓶
+不如楼下五毛钱 一整个新鲜橙子
+配料表超过五行的 一律不请进门
+简单 才是我新学会的富
+
+[Pre-Chorus]
+被生意耍了（耍了！）
+被生意耍了（耍了！）
+
+[Chorus] (重复)
+
+[Bridge]
+[beat drop][silence][耳语, spoken word]
+吃饱和吃对 是两件事
+别搅成一锅粥
+精制碳水冲得快 摔得更快
+摔完更想吃 这不是你嘴馋——
+是有人 在你的胃口上 装了弹簧
+
+[Final Chorus]
+[group chant, high energy, 尾句独唱收狠]
+吃成富人 —— 咚！
+打开冰箱 跟我鉴个宝
+吃成富人 —— 咚！
+今晚这扇门 锁死了
+
+[Outro]
+[SFX: 拨号音][phone filter, 电话音效]
+喂 便利店啊
+以后灯不用留给我了
+[SFX: 挂断音]
+```
+
+```
+=== CN Style Prompt (Suno) ===
+
+Chinese comedy rap, retro disco-funk, 东北迪斯科律动, four-on-the-floor 
+thumping bassline, wah-wah guitar stabs, brass hits on chorus downbeats, 
+warm analog synth pads, subtle vinyl crackle, tongue-in-cheek deadpan 
+male vocal on verses flipping to confident group chant on chorus, 
+call-and-response ad-libs, night-market swagger, playful but unbothered 
+attitude, 104 BPM, mixed vocal-forward with punchy low end
+
+Vocal reference feel: deadpan storyteller verses (like 野狼Disco) → 
+hyped chant chorus with stamp/percussion ad-lib accent
+```
+
+```
+=== "Eat Rich" (EN) — Lyrics + Meta Tags ===
+
+[Intro]
+[SFX: fridge hum, door ding]
+[deadpan, half-asleep]
+Two a.m., fridge light hit my face like a mugshot
+Chip bag crinkle sound like applause, I ain't stopping
+Told myself "no more" about a thousand times
+Every single time I lie straight to my own face
+
+[Verse 1]
+[deadpan spoken-rap, flat delivery, no punchline emphasis]
+Skipped dinner one year, thought I'd ascend like a monk
+Nine p.m. rolls around, inhaling a whole cake, drunk
+Green bag said "whole grain," I framed it like a degree
+Flipped it over — sugar's first on the list, label lied to me
+Protein shake subscription, three boxes deep, wallet's the one that's shrinking
+Scale ain't moved an inch, but my bank account's been dieting
+Gym membership, three years running strong
+Showers met me twice — basically strangers, we don't get along
+That one night I looked the barista dead in her eyes and said:
+"Full sugar, less ice — this ain't a drink,
+this is a transfusion"
+
+[Pre-Chorus]
+[group vocal echo, building]
+Got played by the industry (played by the industry!)
+Got played by the industry (played by the industry!)
+
+[Chorus]
+[chant-along, group vocal, brass hit accent]
+Eatin' rich, eatin' rich — stamp!
+Open the fridge, let's appraise it
+Eatin' rich, eatin' rich — stamp!
+Real deal certified, cash it
+(repeat)
+
+[Verse 2]
+[swagger, faster cadence]
+Push my cart now like I'm at an auction house
+Protein up front, everything else can sit down
+Eggs stacked, chicken bagged, fridge got a system update
+No more trusting the packaging to tell me a bedtime story
+"Cold-pressed" printed pretty, charging me eight bucks a bottle
+Meanwhile a real orange sitting right there for a quarter
+Anything with a paragraph for an ingredient list
+Ain't making it past my door, keep that fine print, I'm out
+
+[Pre-Chorus] (repeat)
+
+[Chorus] (repeat)
+
+[Bridge]
+[beat drop][silence][spoken, low]
+Full and right — two different things
+Don't blend 'em together, that's how the trouble begins
+Refined carbs spike you fast, drop you faster
+Land you hungrier than before — that's not your character
+Somebody rigged the game
+Put a spring under your appetite and gave it your name
+
+[Final Chorus]
+[group chant, high energy]
+Eatin' rich, eatin' rich — stamp!
+Open the fridge, let's appraise it
+Eatin' rich, eatin' rich — stamp!
+Door's locked tonight — I'm already rich
+
+[Outro]
+[SFX: phone dial tone][phone filter]
+Yeah, it's me — corner store
+Don't bother leaving the light on no more
+[SFX: click]
+```
+
+```
+=== EN Style Prompt (Suno) ===
+
+English comedy rap, Macklemore/Thrift-Shop-adjacent funk-hop, live-feel 
+horn section stabs, funky bassline, boom-bap drums with a disco kick, 
+scratch/record-scratch accents, confident boastful male vocal delivery 
+on verses building into a shouted group chant chorus, crowd-hype 
+ad-libs, 100-106 BPM, party-with-a-punchline energy, warm brass-forward 
+mix
+
+Vocal reference feel: storytelling brag-rap verses → anthemic call-and-
+response chorus with stamp/percussive ad-lib accent
+```
+
+*****
+
+
+# AI对V2、V3分别4版的 audit
+
+## 结论先行
+
+**选 CN终版 + EN终版，弃 Hermes v2 和 Grok v2。**
+
+不是"四选二谁更好"这么简单，而是：CN/EN 终版对两版 v2 做了一次 Pareto 改进——几乎没有在任何维度上变差，在大多数维度上同时吸收了 Hermes 的完整度和 Grok 的精简度，还加了两版都没有的新东西。v2 阶段已经完成了它的使命（提供两条可分叉路径供比较），比较价值已经耗尽，该退场了。
+
+## 四版打分对照（10分制，专家主观评分）
+
+| 维度 | Hermes v2 | Grok v2 | CN终版 | EN终版 |
+|---|---|---|---|---|
+| 概念张力（鉴宝隐喻） | 8 | 8 | **9** | 8 |
+| 叙事弧完整度 | 8 | 6 | **8.5** | 8 |
+| Hook 记忆点强度 | 6 | 7 | **8** | 7 |
+| Punchline 质量 | 9 | 6 | **9** | 7 |
+| 说教风险控制 | 8 | 8 | 8 | 7 |
+| 短视频切片友好度 | 6 | 9 | 8 | 7 |
+| 情绪疗愈功能（安定感） | 7 | 6 | **7.5** | 6 |
+| **加权均分** | 7.4 | 7.0 | **8.3** | 7.3 |
+
+关键判断依据：
+
+- **"咚！"替代"嗨！"是整份文档里最聪明的一处改动。** "嗨"是通用的洗脑虚词，跟内容无关，随便哪首神曲都能用；"咚"是拟声化的"盖章音效"，直接绑定"鉴宝"这个核心隐喻——听众不需要理解歌词就能通过声音本身感知"这是在鉴定/盖章认证"。这是把"洗脑钩子"从纯粹的听觉糖分，升级成了叙事装置的一部分，正好回应了你说的"有用且有趣"张力——趣味性本身在替内容做功，而不是外挂。
+- **CN终版保住了 Hermes 版最强的两个 punchline**（"给人生加血"、"胃口上装了弹簧"），同时新增了 Grok/Hermes 都没有的更强笑点："筷子已经戳进了泡面"（言行矛盾的物理细节，比"举手投降"抽象隐喻更具体可笑）、"淋浴喷头没认全我脸"（拟人化梗，网感更强）、"冰箱像更新过系统"。这说明第三轮迭代不是简单缝合，而是真的在做增量创作，不是复制粘贴的假优化。
+- **CN终版唯一的真实退步**：结尾"今晚这扇门 锁死了"丢掉了 Hermes 版"我已经是富人"的身份闭环。整首歌的核心机制是"吃成富人"这个双关（鉴定值钱=真的变富=不被割韭菜），最后一句本该是这个双关的最终引爆点，现在变成了一句情绪模糊的收束句，是全曲recall最强的位置上打了一个哑炮。
+- **EN终版**忠实转译，但读起来更像"翻译体"而非"母语说唱"。比如 "mugshot / stopping" 押韵勉强，音节数不对齐——真正的 Thrift Shop 级别文本，韵脚密度和节拍咬合是逐句抠出来的，不是先写中文再套英文词。这版可以用，但还没有到"免检"的程度。
+
+## What / Why / How，属于哪一类
+
+- **What**：叙事型讽刺说唱（narrative satire rap）+ 网络神曲副歌结构的混合体。主歌是"忏悔体"自嘲叙事，副歌是喊麦式 call-and-response，桥段是节奏骤停后的"清醒发言"——这是野狼Disco和Thrift Shop共享的三段式骨架，你这版完整复刻了。
+- **Why**：功能上是"纠偏而不逆火"——用自嘲代替说教，把"你被割韭菜了"这句话从对听众的指责，转移成对自己过去的吐槽，听众通过认同"我也这样"而不是被"你错了"防御性拒绝，绕开了逆火效应。这个设计是对的，桥段"精制碳水冲上天/血糖坐过山车"虽然信息密度高，但包在"过山车"这个具象隐喻里，没有变成"你血糖有问题"的直接指控。
+- **How**：主歌用平铺直叙的deadpan建立"可信的失败者"人设→pre-chorus用短促齐喊制造张力蓄势→chorus用绑定隐喻的拟声词做钩子→桥段用beat drop+耳语打破节奏做"真心话"锚点→outro用一个具体行为（挂断电话/退会员）做行为改变的证据，而不是口号式总结。这套流程和 Thrift Shop 的"落魄买家→精明买家"逆袭弧完全同构，是这四首里对经典范式复刻得最扎实的一版。
+
+如果非要归类到你列的六个案例里最接近谁：**结构上最像 Thrift Shop（叙事逆袭弧），钩子设计思路最像野狼Disco（方言/拟声词做记忆点）**，跟 Gangnam Style 那种"无叙事、纯荒诞、全靠节奏洗脑"的路数其实不是一类,不要用 Gangnam Style 的标准去要求这首歌变得更"洗脑",那是另一个物种。
+
+## 还要不要继续磨？
+
+**不是"完全没必要"，但也不是"继续磨文本"。你现在站在文本优化的边际收益拐点上，再往下磨字句性价比会迅速归零，真正高杠杆的动作已经不在Word文档里了。**
+
+只做这三件事，然后停手出成片：
+
+1. **补一句CN终版的结尾**——把"今晚这扇门锁死了"换成能让"吃成富人"双关真正落地的收束句（哪怕直接抄回Hermes版"我已经是富人"都行）。5分钟的事，杠杆极高，不做等于把全曲最贵的记忆位置浪费掉。
+2. **EN版做一次真人节拍朗读校验**，跟着100-106 BPM的鼓机念一遍，卡壳的地方就是要改的地方——这是技术校验，不是审美偏好，flow对不上拍子这首歌在英文语境里就直接失败,跟文学性无关。
+3. **生成2-3版chorus demo丢给非自己的耳朵测**（哪怕只是随便找人放一遍问"这段你能跟着哼吗"）。你现在缺的不是第五轮文本迭代，是市场校验的第一个数据点——继续一个人对着文档打磨，就是在自己制造你想避免的"闭门造车"。
+
+这三步做完，直接进Suno出demo。再往深磨歌词文本，就是完美主义陷阱本身在发挥作用了。 
