@@ -1,0 +1,250 @@
+# 吃成富人 — v4.1（最终锁定，出 Suno）
+# 装置：冰箱鉴宝师 | 钩子：咚！/stamp! | 物种：Thrift Shop 叙事逆袭弧
+# 2026-07-20 | v4 + 外科补丁（干货锐化 + EN 轻咬 + exclude）
+# 相对 v4：①每餐蛋白质 / 配料表前三见糖 ②EN chorus「Real goods only」③完整 paste-only 另见
+
+---
+
+## === 吃成富人 (CN) — Lyrics + Meta Tags ===
+
+[Intro]
+[SFX: 冰箱门"叮"一声，深夜环境音]
+[deadpan, 低音域, 半梦游状态]
+凌晨十二点半 冰箱门开一半
+薯片袋一响 我条件反射就投降
+说好不吃了 说了多少年
+说完这句 筷子已经戳进了泡面
+
+[Verse 1]
+[deadpan spoken-rap, 平铺直叙, 不带笑点重音]
+不吃晚饭那年 我以为自己要飞升
+饿到十点半 又灰溜溜地开了灯
+绿色袋子印着"全麦" 我当传家宝供着
+翻过来一看 排第一位的是白糖
+代餐奶昔喝了三箱 钱包比我先瘦下来
+健身卡刷了三年 淋浴喷头没认全我脸
+那晚我盯着奶茶店小妹说：
+"全糖去冰——这不是奶茶
+这是我在给人生加血"
+
+[Pre-Chorus]
+[building, group vocal 接应]
+被生意耍了（耍了！）
+被生意耍了（耍了！）
+
+[Chorus]
+[group chant, call-and-response, 鼓点重拍, brass hit on 咚]
+吃成富人 —— 咚！
+打开冰箱 跟我鉴个宝
+吃成富人 —— 咚！
+鉴出真货 就进腰包
+吃成富人 —— 咚！
+打开冰箱 跟我鉴个宝
+吃成富人 —— 咚！
+鉴出真货 就进腰包
+
+[Verse 2]
+[swagger, 说书感, 语速略快]
+现在推购物车 跟逛拍卖行一样
+每餐先落蛋白质 谁都别想挡我道
+鸡蛋一层 鸡胸一层 冰箱像更新过系统
+不再信包装讲故事 我只信背面那行小字
+"鲜榨"两个字 卖我十块钱一瓶
+不如楼下五毛钱 一整个新鲜橙子
+配料表前三见糖的 一律不请进门
+简单 才是我新学会的富
+
+[Pre-Chorus]
+[building, group vocal 接应]
+被生意耍了（耍了！）
+被生意耍了（耍了！）
+
+[Chorus]
+[group chant, call-and-response, 鼓点重拍, brass hit on 咚]
+吃成富人 —— 咚！
+打开冰箱 跟我鉴个宝
+吃成富人 —— 咚！
+鉴出真货 就进腰包
+吃成富人 —— 咚！
+打开冰箱 跟我鉴个宝
+吃成富人 —— 咚！
+鉴出真货 就进腰包
+
+[Bridge]
+[beat drop]
+[silence]
+[耳语, spoken word]
+吃饱和吃对 是两件事
+别搅成一锅粥
+精制碳水冲得快 摔得更快
+摔完更想吃 这不是你嘴馋——
+是有人 在你的胃口上 装了弹簧
+
+[Final Chorus]
+[group chant, high energy, 尾句独唱砸死]
+吃成富人 —— 咚！
+打开冰箱 跟我鉴个宝
+吃成富人 —— 咚！
+鉴出真货 就进腰包
+吃成富人 —— 咚！
+打开冰箱 跟我鉴个宝
+吃成富人 —— 咚！
+今晚锁门——我已经是富人
+
+[Outro]
+[SFX: 拨号音]
+[phone filter, 电话音效]
+喂 便利店啊
+以后灯不用留给我了
+[SFX: 挂断音]
+
+---
+
+## === CN Style Prompt (Suno) ===
+
+Chinese comedy rap, retro disco-funk, 东北迪斯科律动, four-on-the-floor
+thumping bassline, wah-wah guitar stabs, brass hits on chorus downbeats,
+warm analog synth pads, subtle vinyl crackle, tongue-in-cheek deadpan
+male vocal on verses flipping to confident group chant on chorus,
+call-and-response ad-libs, night-market swagger, playful but unbothered
+attitude, 104 BPM, mixed vocal-forward with punchy low end
+
+Vocal reference feel: deadpan storyteller verses (like 野狼Disco) →
+hyped chant chorus with stamp/percussion ad-lib accent on "咚"
+
+---
+
+## === CN Exclude Styles ===
+
+emotional ballad, cinematic trailer music, epic choir, preachy spoken word,
+heavy autotune trap, lo-fi chill study beats, K-pop idol polish,
+sad piano pop, EDM festival drop, generic mainstream pop belting
+
+---
+
+## === "Eat Rich" (EN) — Lyrics + Meta Tags ===
+
+[Intro]
+[SFX: fridge hum, door ding]
+[deadpan, half-asleep]
+Two a.m., fridge light hits my face like confession booth glare
+Chip bag clap like applause — yeah, I'm already there
+Told myself "no more" about a thousand times
+Every single time I break it with a midnight crime
+
+[Verse 1]
+[deadpan spoken-rap, flat delivery, no punchline emphasis]
+Skipped dinner one year, thought I'd ascend like a saint
+Ten p.m. rolls around, I'm back at the fridge like I ain't
+Green bag said "whole grain," I framed it like gospel
+Flip the label — sugar first, that packaging's hostile
+Protein shakes by the case, wallet got the skinny
+Scale ain't moved, but my bank account's been dieting
+Gym card three years strong — showers met me twice
+Basically strangers, we don't recognize
+That night I looked the barista dead in her face and said:
+"Full sugar, less ice — this ain't a drink
+This is a transfusion"
+
+[Pre-Chorus]
+[group vocal echo, building]
+Got played by the business (played!)
+Got played by the business (played!)
+
+[Chorus]
+[chant-along, group vocal, brass hit on stamp]
+Eatin' rich — stamp!
+Open the fridge, let's appraise it
+Eatin' rich — stamp!
+Real goods only — cash it
+Eatin' rich — stamp!
+Open the fridge, let's appraise it
+Eatin' rich — stamp!
+Real goods only — cash it
+
+[Verse 2]
+[swagger, faster cadence, tight bars]
+Push my cart now like I'm walking an auction floor
+Protein first each plate — rest can wait at the door
+Eggs stacked, chicken bagged, fridge got a system update
+Quit trusting the packaging to sell me a fairy tale
+"Cold-pressed" looks pretty, eight bucks a bottle
+Real orange downstairs sitting there for a quarter
+Sugar in the top three on the label?
+Keep that fine print — ain't crossing my door tonight
+
+[Pre-Chorus]
+[group vocal echo, building]
+Got played by the business (played!)
+Got played by the business (played!)
+
+[Chorus]
+[chant-along, group vocal, brass hit on stamp]
+Eatin' rich — stamp!
+Open the fridge, let's appraise it
+Eatin' rich — stamp!
+Real goods only — cash it
+Eatin' rich — stamp!
+Open the fridge, let's appraise it
+Eatin' rich — stamp!
+Real goods only — cash it
+
+[Bridge]
+[beat drop]
+[silence]
+[spoken, low]
+Full and right — two different things
+Don't blend 'em together, that's how the trouble begins
+Refined carbs spike you fast, drop you faster
+Leave you hungrier — that ain't your character
+Somebody put a spring under your appetite
+Signed it with your name, made you think you started the fight
+
+[Final Chorus]
+[group chant, high energy, last line solo smash]
+Eatin' rich — stamp!
+Open the fridge, let's appraise it
+Eatin' rich — stamp!
+Real goods only — cash it
+Eatin' rich — stamp!
+Open the fridge, let's appraise it
+Eatin' rich — stamp!
+Door locked — I'm already rich
+
+[Outro]
+[SFX: phone dial tone]
+[phone filter]
+Yeah — corner store
+Don't leave the light on for me no more
+[SFX: click]
+
+---
+
+## === EN Style Prompt (Suno) ===
+
+English comedy rap, Macklemore/Thrift-Shop-adjacent funk-hop, live-feel
+horn section stabs, funky bassline, boom-bap drums with a disco kick,
+scratch/record-scratch accents, confident boastful male vocal delivery
+on verses building into a shouted group chant chorus, crowd-hype
+ad-libs, 104 BPM, party-with-a-punchline energy, warm brass-forward mix
+
+Vocal reference feel: storytelling brag-rap verses → anthemic
+call-and-response chorus with stamp/percussive ad-lib accent
+
+---
+
+## === EN Exclude Styles ===
+
+emotional ballad, cinematic trailer music, epic choir, preachy spoken word,
+heavy autotune trap, lo-fi chill study beats, sad piano pop,
+EDM festival drop, generic mainstream pop belting, melodic R&B crooner
+
+---
+
+## Craft note（≤8 行）
+
+1. v4.1 相对 v4 仅外科：V2 干货锐化（每餐蛋白质 + 配料表前三见糖）；未加 16+8/进餐顺序等 L2。
+2. EN chorus「Real goods only — cash it」咬「鉴出真货就进腰包」；其余 punchline 全保留。
+3. 守住：咚！/stamp!、鉴宝装置、加血/喷头/泡面筷子/系统更新/弹簧/锁门闭环。
+4. 知识锁 L0–L1 三轴：识破包装 · 蛋白优先 · 吃饱≠吃对/弹簧。扩 cheat = 另曲。
+5. 出片用 `eat-rich-suno-paste-only.txt`；2–3 take 测「咚」能否跟哼。停文本。

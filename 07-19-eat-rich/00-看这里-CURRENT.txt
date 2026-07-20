@@ -1,18 +1,26 @@
 # 07-19-eat-rich — 如何吃成富人
 
 ## 当前状态
-- **阶段**：v4 最终文本完成（Grok 4.5 continue，基于 v3 + 四版 audit），待 Liz 审 → Suno
-- **已完成**：调研 → v1 双版 → 专家评审 → v2 双版 → Liz 批评 → v3 双版+四版 audit → v4 终版
+- **阶段**：v4.1 锁定（外科补丁）→ **出 Suno**（2–3 take，测「咚」跟哼）
+- **已完成**：调研 → v1 双版 → 专家评审 → v2 双版 → Liz 批评 → v3 + 四版 audit → v4 → v4.1 补丁
+- **知识锁**：L0–L1 only（识破包装 · 蛋白优先 · 吃饱≠吃对/弹簧）。16+8 / 进餐顺序 = 系列种子，不进本曲
 
 ## 文件导航
-- `eat-rich-v4.txt` — ★ v4 最终版（中英双版 + 完整 meta tags + style prompts，审这个）
-- `eat-rich-v3.txt` — v3 双版 + Liz v2 批评 + 四版 audit（v4 的依据）
+- `eat-rich-v4.1.txt` — ★ 最终歌词包（中英 + style + exclude + craft note）
+- `eat-rich-suno-paste-only.txt` — ★ Suno 三字段直接粘贴（CN/EN 分轨）
+- `eat-rich-v4.txt` — v4 底稿（补丁前）
+- `eat-rich-v3.txt` — v3 + 四版 audit
 - `01-source/raw-material.md` — Liz 原话 + 核心张力
-- `eat-rich-v2-dual-parallel.txt` — v2 双版对照
-- `01-source/eat-rich-dual-audit.txt` — 早期专家评审
 - `01-source/reference-study-report.md` — 五首 comedy rap 调研
+- `01-source/eat-rich-dual-audit.txt` — 早期双专家评审
 
 ## 设计约束
-- 主题：营养学最少必要知识传授（≤3 条）
+- 主题：营养学最少必要知识（≤3 条，已锁）
 - 目标：纠正饮食偏差，不引起逆火
 - 风格：Comedy rap（Thrift Shop 物种，非 Gangnam）
+- 装置：冰箱鉴宝师 | 钩子：咚！/stamp!
+
+## v4.1 相对 v4 补丁
+1. V2 干货锐化：每餐先落蛋白质；配料表前三见糖
+2. EN chorus：Real goods only — cash it
+3. 补齐 Exclude + paste-only 交付
