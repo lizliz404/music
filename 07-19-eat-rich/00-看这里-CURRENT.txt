@@ -1,23 +1,18 @@
 # 07-19-eat-rich — 如何吃成富人
 
 ## 当前状态
-- **阶段**：v2 双版完成（基于专家评审），待 Liz 审 → 选定后进 Suno
-- **已完成**：调研 → v1 双版 → 外部专家评审（22KB）→ v2 双版（Hermes 移植版 + Grok 极简版）
+- **阶段**：v4 最终文本完成（Grok 4.5 continue，基于 v3 + 四版 audit），待 Liz 审 → Suno
+- **已完成**：调研 → v1 双版 → 专家评审 → v2 双版 → Liz 批评 → v3 双版+四版 audit → v4 终版
 
 ## 文件导航
+- `eat-rich-v4.txt` — ★ v4 最终版（中英双版 + 完整 meta tags + style prompts，审这个）
+- `eat-rich-v3.txt` — v3 双版 + Liz v2 批评 + 四版 audit（v4 的依据）
 - `01-source/raw-material.md` — Liz 原话 + 核心张力
-- `01-source/reference-study-report.md` — 五首 comedy rap 调研报告
-- `01-source/eat-rich-dual-audit.txt` — ★ 外部专家评审报告（22KB，v2 的依据）
-- `eat-rich-v2-dual-parallel.txt` — ★ v2 双版对照 + 硬伤修复对照 + 判断（主文件，审这个）
-- `eat-rich-v2-hermes.txt` — Hermes 版（B 骨架 + A 器官移植，饱满 ~3:20）
-- `eat-rich-v2-grok.txt` — Grok 版（极简狠版，~2:30 短视频向）
-- `eat-rich-v2.txt` — Grok 版纯歌词（Cursor 直接落盘版，无 craft note）
-- `eat-rich-v1-dual-parallel.txt` — v1 双版对照（历史）
-- `eat-rich-v1-*.txt` — v1 单文件
-- `03-archive/prompts-logs/` — 全部 brief 和原始输出
+- `eat-rich-v2-dual-parallel.txt` — v2 双版对照
+- `01-source/eat-rich-dual-audit.txt` — 早期专家评审
+- `01-source/reference-study-report.md` — 五首 comedy rap 调研
 
-## 设计约束（Liz 原话）
+## 设计约束
 - 主题：营养学最少必要知识传授（≤3 条）
 - 目标：纠正饮食偏差，不引起逆火
-- 风格：Comedy rap
-- 参考：Gangnam Style / Freaky Friday / Thrift Shop / 野狼Disco / 上学威龙
+- 风格：Comedy rap（Thrift Shop 物种，非 Gangnam）

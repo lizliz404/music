@@ -1,0 +1,37 @@
+# eat-rich 最终版 Brief（v4）— Grok 4.5, continue session
+
+你之前在这个 session 里写了 v2 Grok 极简版。现在 Liz 不满意两版 v2，外部 AI 出了 v3 中英双版 + 四版对比 audit。你来做**最终一版 v4**。
+
+## 先读（按顺序）
+1. `eat-rich-v3.txt` — 项目根目录。含 Liz 对 v2 的批评原文、v3 中英双版全文、四版 audit 报告（CN终版 8.3 分胜出，有详细打分表）。
+2. `01-source/eat-rich-dual-audit.txt` — 早前专家评审（背景）
+3. `eat-rich-v2-dual-parallel.txt` — 你的 v2 和 Hermes v2（对比用）
+
+## Liz 对 v2 的批评（v3 已回应，v4 必须守住）
+- vocal tag / style prompt 几乎为零 → v3 已补齐，v4 必须保留完整 Suno meta tags + 双语 style prompt
+- "为了土而土"，没有野狼Disco/上学威龙的土潮土嗨感
+- 只有中文版 → v4 必须中英双版
+- explanation 太多，不像 goal-oriented → v4 交付物里 craft note 压到最短（≤8 行）
+
+## Audit 指出的 v3 剩余硬伤（v4 必须修）
+
+**CN 版 — 必修：**
+1. **结尾哑炮（最贵的一处）**：final chorus 尾句「今晚这扇门 锁死了」丢掉了「我已经是富人」的身份闭环。整首歌核心机制是「吃成富人」双关（鉴宝值钱=真变富=不被割韭菜），最后一句必须是双关的最终引爆。修复方向：把「我已经是富人」的意思砸进 final chorus 尾句或 outro 前一行，要狠、要可喊。
+2. 守住 audit 认定的最强资产，不许在 v4 里弄丢：
+   - 「咚！」盖章音效钩子（绑定鉴宝隐喻，整份文档最聪明的设计）
+   - punchlines：「筷子已经戳进了泡面」「给人生加血」「淋浴喷头没认全我脸」「冰箱像更新过系统」「胃口上装了弹簧」
+
+**EN 版 — 必修：**
+1. **Flow 校验是硬技术活**：跟 100-106 BPM 鼓机逐句朗读，卡壳处就改。「mugshot/stopping」这类勉强押韵、音节不对齐的地方全部修掉。标准：Thrift Shop 级别的韵脚密度和节拍咬合，不是中文套英文词的翻译体。
+2. 同样保留 stamp! 钩子和鉴宝装置。
+
+## 质量判准（Liz audit 框架，verbatim 核心）
+- 有用且有趣：文学性 × 听觉成瘾性的张力
+- 杀：清汤寡水、Sheeran-mean 工业套路、无聊的平淡、曲高和寡闭门造车
+- 这不是 Gangnam Style 物种（纯荒诞洗脑），是 Thrift Shop 物种（叙事逆袭弧）——别用错标准
+- 边际收益判断：v4 是出 Suno 前最后一版文本，不是再开一轮审美迭代
+
+## 交付
+- 写到项目根：`eat-rich-v4.txt`
+- 结构：CN 完整版（lyrics+meta tags）→ CN style prompt → EN 完整版 → EN style prompt → 极简 craft note（≤8 行：修了什么、守住了什么）
+- 不要 explanation 散文，不要打分表，直接上货
