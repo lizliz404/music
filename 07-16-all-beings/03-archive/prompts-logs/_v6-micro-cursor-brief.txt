@@ -1,0 +1,48 @@
+# ALL BEINGS v6 micro-adjustment brief
+
+## Task
+
+Read the current locked v5 final, then read the structured audit, and produce a **v6 micro-surgical revision**.
+
+## RULES (MUST)
+
+1. **DO NOT rewrite the lyrics body.** The lyrics are locked. Only make production/execution-layer micro-adjustments.
+2. **Pre-Chorus line IS locked:** "some circles don't look like circles." — do NOT revert or change it.
+3. **Intro tag IS locked:** "matter-of-fact murmur, close-mic, dry — spoken thought not performance, NOT ASMR; fingerpicked guitar"
+4. **Container X vocal description IS locked:** "young pure clear minor male baritone-tenor register, with distant female hum"
+5. **Anti-rescue stance, rope body, After work, bridge rope-nouns, outro vocalise — all locked.**
+
+## What TO adjust (from audit synthesis)
+
+The audit identifies 4–5 low-cost, high-leverage production-layer micro-adjustments. Extract from the audit and apply ONLY these:
+
+1. **Pre-intro hum (algorithm retention):** Add a 2-bar wordless hum on the chorus motif BEFORE the spoken intro. This is a 0-word-lines-changed execution-layer fix.
+2. **Pre-chorus 2nd occurrence micro-variant:** The second pre-chorus is currently identical to the first. Give it a one-word or one-phrase micro-variant that echoes the "pale circle worn in the dust" image from Verse 2 — minimal, understated.
+3. **Style prompt: split hard constraints vs fine dynamics.** The Container X style prompt is dense. Reorganize: hard constraints (tempo, dry mix, vocal register, single swell point) stay in the main prompt; fine-grained dynamics ("chorus opens slightly but never performs") move to a separate "Production Notes" subsection for post-generation refinement.
+4. **One "human leak" moment:** In Verse 3, on "he jumps the whole slope like the air owes him" — add a micro vocal tag: `[tiny smile audible in the throat, half-breath before "jumps" — the only moment the singer forgets to be observational]`. Just ONE moment.
+5. **Micro-melodic-hook instruction:** Add to chorus style description: "chorus melody must contain ONE 3–4 note descending motif on the words 'learn to look' — this motif recurs identically in every chorus and returns wordless in outro vocalise."
+
+## What NOT to touch
+
+- Do NOT add a new 3-syllable hook phrase (the audit's "Scheme A" candidates like "So I look" / "Circle holds" etc.). These add new words to the lyrics body. Skip.
+- Do NOT split or restructure the bridge quotes. Keep as-is.
+- Do NOT change any lyric line, verse, chorus, or bridge text.
+
+## Files to read (in workspace)
+
+- `02-current/all-beings-v5-final-warm.txt` — the locked v5 final (THIS is the base)
+- `01-source/all-beings-audit-v5-structured.txt` — the structured audit (two independent reviews)
+
+## Deliverable
+
+Write ONE file to the project root: `all-beings-v6-micro.txt`
+
+Format: full Suno-ready package with:
+- Updated header (v6 · date today · "micro-surgical on v5-final per structured audit")
+- Song profile (updated)
+- Full lyrics with micro-adjusted vocal tags
+- Reorganized style containers (Container X with hard/fine split)
+- Vocal tag whitelist/blacklist
+- Updated changelog (v5-final → v6: what changed per which audit recommendation)
+
+OUTPUT THE COMPLETE FILE DIRECTLY IN YOUR RESPONSE. Do NOT summarize. Do NOT "save to file." Write every section with real content.
