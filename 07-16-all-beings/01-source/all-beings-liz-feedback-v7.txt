@@ -1,0 +1,124 @@
+[Pre-intro: 2-bar wordless hum on chorus motif — algorithm retention tease; then silence half-bar]
+[Intro: matter-of-fact murmur, close-mic, dry — spoken thought not performance, NOT ASMR; fingerpicked guitar]
+Pointed ears. Dirty coat.
+A limp that turns into a dance.
+[two-bar instrumental breath]
+
+[Verse 1: conversational low melody, guitar only, walking pace — chest register, dry, not performed]
+I touch the middle of his skull — both ears fold down.
+Fox-face under grime, twitching mid-step.
+Every patch of dust still chosen by him.
+Not mine. Not anyone's. Still he finds me.
+
+[Pre-Chorus: near-spoken into melody, soft bass enters — thesis register, flat affect]
+Some pets are only things —
+some circles don't look like circles.
+
+[Chorus: peak on short lines; radius under — chest, direct, no soar; ONE 3–4 note descending motif on "learn to look" — identical every chorus]
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look.
+A rope draws a circle — and that is the world.
+[under, near-spoken] We're all held by some rope's radius.
+[two-bar instrumental breath, strip toward guitar]
+
+[Verse 2: denser, matter-of-fact, light brushed snare — dry delivery, gray concrete tone]
+Black garage — dust smell before you see him.
+Rope on a clip-ring, pale circle worn in the dust.
+Door locked: eyes go numb — worse than fear.
+A hole chewed under the door where longing learned to dig.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — to manage, to walk?
+After work. I slide bread through the dark and leave.
+
+[Pre-Chorus: same thesis, slightly fuller — one-phrase micro-variant anchoring V2 dust image]
+Some pets are only things —
+some circles don't look like circles — pale, worn in dust.
+
+[Chorus: identical spine — short lines peak; radius stays under; same descending motif on "learn to look"]
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look.
+A rope draws a circle — and that is the world.
+[under, near-spoken] We're all held by some rope's radius.
+
+[Bridge: near-spoken parade, one guitar + room — brittle, flat, white space between mouths]
+"Don't raise that kind of thing. Look. Don't touch. That dead-lame dog — walking like that —"
+[one beat rest]
+I stare one second too long.
+I decide not to get hurt.
+And the dog? He can't hear the words.
+[silence half-bar]
+"You fear he harms you — he will."
+Your mortgage. Your shift. Screen glow walking home.
+Ropes, all of them. Ropes.
+
+[Verse 3 / Final: intimate open, light lift — warm but unsentimental, no honey]
+Under the bridge he stands on two legs, looking for me —
+then hits the ground and runs.
+Girl on the ramp opens both arms.
+[tiny smile audible in the throat, half-breath before "jumps" — the only moment the singer forgets to be observational]
+He jumps the whole slope like the air owes him.
+
+[Final Chorus: same order; L2 micro-varies only — quiet restrained swell, one bar under anchor; on 'However': half-beat lean-in before the word — thinking-not-performing — gives listener entry point; same descending motif on "learn to look"]
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look — and go.
+A rope draws a circle — and that is the world.
+[under, near-spoken] We're all held by some rope's radius.
+[one beat rest]
+
+[Outro: instruments peel; voice alone; then body land]
+I crouch a little.
+I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[Outro vocalise: 6–8 bars wordless hum on "I look / learn to look" motif — same descending 3–4 note fingerprint, no new words]
+[End]
+
+---
+
+late-night bus folk, 88 BPM, A minor, young pure clear minor male baritone-tenor register, with distant female hum, talking-to-yourself delivery, nylon-string acoustic picked not strummed, upright bass fingertip attack, single tambourine on 2 and 4 from verse 2, no reverb tail on verse vocal, room-tight dry mix, swell chorus only (not soaring), brief low strings or harmonium under *I learn to look*, bridge like-spoken over dry guitar, chorus melody must contain ONE 3–4 note descending motif on the words *learn to look* — this motif recurs identically in every chorus and returns wordless in outro wordless vocalise, which over thinning guitar — empty bus at 11pm that lets one warm lung open once.
+
+
+*****
+
+liz 反馈：
+
+1、关于 "talk to yourself delivery"：
+事实上，它并不怎么好，或者说只需放在 style prompt 里就已经够了。如果在 vocal tag 里再反复强调的话，很多时候听起来真的就是在说话。那我为什么不直接去听别人的 TTS 视频，而要来听这首歌呢？而且，就算是说话，用普通的平和方式发声出来，事实上也并没有那么好听。我觉得在这里面用这个比较怪。
+2、另外，hum 的部分已经够多了，但声乐的部分我觉得不够丰富。但我们已经强调了弦乐，对吗？所以我觉得已经 OK 了，这还强调了管风琴之类的另外音轨，再搭配上男女交替，事实上能达到不错的效果。
+3、他想装深情忧郁，如：《Billie Eilish： I don't want to be you anymore》，但并没有达到那种状态；我又想试一下最后顶到上面的那种状态，例如：梁博《男孩，日落大道，出现又离开》他自然也没有。这让我感觉上也不是下也不是。最重要的是，它没有 captivating、impressive、ear-catching 的旋律。我不知道怎么才能让它这样生成出来，是只能抽卡式的吗？根本没有memorable的旋律。
+4、说直白点，一会儿像说话，一会儿男女哼唱，再一会儿就把学乐拉上来飙高音，之后再落回到男女交替哼唱。在整个过程中，吉他和贝斯不断地扫扫扫，事实上非常一般。（我不知道是不是因为已经到了 AIGC 的瓶颈了。我已经开始逐渐有了 pattern recognition，但自己技术又不能达到那么强，所以就只能在 feedback 和 test 上很有建树，但没办法把它拆成各个音轨，然后自己拿到 DAW 里面去搓，是吧？）
+
+*****
+
+一条条来,不绕弯子。
+
+## 1、"talk to yourself delivery"堆叠 — 你的判断是对的
+
+这个诊断很准。原因是: vocal tag里反复出现"spoken""murmur""not performed""near-spoken"这类词,对Suno这类模型来说不是一个"表演质感"的形容词,而更接近一条**字面指令**——它会把"别唱得太用力"直接执行成"别用旋律走音高",于是每个段落标签都在往下拉旋律参与度,叠加起来就是你听到的结果:全程压着不敢开口,既没有说话的真实感(因为终究是被"唱"出来的,音色/节奏又不是真人说话的自然韵律),也没有旋律的记忆点。你说得对——这时候听TTS念白反而更"诚实",歌反而更"假"。
+
+修法很直接:这个"克制/私语感"的美学在style prompt层说一次就够了(整体音色/情绪基调),vocal tag里换成不暗示"降旋律"的词——比如把"murmur / spoken / not performed"换成"hushed""close-mic intimate""unforced phrasing"这类只描述音量音色、不指挥旋律走向的词。让每个段落标签负责音色克制,而不是同时负责音色克制+旋律克制两件事。
+
+## 2、hum够了,加管风琴+男女交替 — 方向对,但要小心和第4点撞车
+
+这个思路没问题,管风琴能补中低频厚度,男女交替能给听感层次而不需要旋律本身更复杂。但你在第4点描述的"一会儿说话、一会儿哼唱、一会儿弦乐飙高音、再落回哼唱、吉他贝斯一直扫"——这已经是**元素过多导致的凌乱**,不是元素不够。所以在加管风琴/交替人声之前,先问自己一个问题:这首歌到底想不想留在"dry, room-tight, late-night bus folk"这个极简框架里?如果留在这个框架里,加进去的每一样新音轨都要有明确的"只在哪一句出现"的边界(就像你已经给harmonium划的边界是只在"I learn to look"下面),而不是全程铺陈——不然会从"克制"滑向"塞满",这恰好是第4点里你自己听出来的问题。
+
+## 3、"不上不下"+ 没有memorable旋律 — 这是不是纯抽卡
+
+**大部分是,但不是全部。** 说实话:文本prompt对旋律的控制力,目前就是弱的。"captivating""impressive""ear-catching"这类词写进prompt基本不产生任何实际约束——模型没有一个"根据这个形容词去设计音程走向"的机制,这些词是你的审美目标,不是模型能执行的指令。相比之下,你v6里"ONE 3–4 note descending motif on learn to look"才是真正有效的那类指令(具体到音数和落点),但即便是这种具体指令,服从率也是概率性的,不是100%——这就是"抽卡感"的真实来源,不是你操作有问题。
+
+但2026年的Suno已经有几条能明显减少"纯抽卡"依赖的路径,值得你用起来:
+
+- **Persona(人声指纹锁定)**:上传一段你满意的人声take,存成persona,之后每次生成用同一个persona,能大幅降低"这次生成出来的嗓音质感完全不一样"的方差——把"人声抽卡"这个变量先固定掉。
+- **Hum-to-Song / 上传旋律**:如果你脑子里其实有一个大概的旋律轮廓,直接哼出来上传,让模型围绕你哼的轮廓编曲,比你用文字描述"要有记忆点的旋律"精准得多——这是绕开"文字描述旋律=无效指令"这个死结的最直接办法。
+- **Song Editor分段重做**:不用整首重抽,可以只重做副歌那8小节,锁定你已经满意的主歌/桥段。这把"抽整首歌"降级成"抽一个副歌动机",中卡率会高很多。
+- **Extend**:抽到一版副歌旋律真的抓耳的话,直接从那个take往后/往前extend,而不是推倒重来。
+
+这几条本质上都是同一个策略:**把"一次性抽全曲"拆成"分段抽+人工挑选组合"**,减少运气占比。
+
+## 4、伴奏千篇一律("扫扫扫")+ 是不是AIGC瓶颈 + 要不要学DAW
+
+你的自我诊断基本准确,而且这不是你个人技术不够的问题——**伴奏声部"只维持氛围、不做张力发展"确实是目前这代生成模型的通病**,不只是Suno。这些模型对"音色一致性/氛围一致性"的把控远好于"伴奏织体随时间推进而变化"这件事,所以吉他/贝斯很容易退化成一个循环的、不随情绪推进的底噪层——你听到的"扫扫扫"就是这个。这确实构成了纯prompt工程目前很难完全绕过的天花板。
+
+但"是不是只能靠DAW"这个问题,答案是:**不用到"自己在DAW里从头编曲"那么重**,2026年Suno的stem功能已经把中间地带做出来了——现在可以拆到最多12轨,或者单独抠出某一件乐器/人声,再加上"保留满意的take,extend/restyle/拆stem重组"的工作流,意味着你完全可以做一种轻量操作:**把A版里满意的副歌旋律stem,和B版里满意的主歌伴奏织体stem,拼到一起**——这不需要作曲/编曲能力,只需要基础的对齐、crossfade这类音频编辑操作,门槛比你想的低。你现在的位置(能精准做pattern recognition+feedback,但拆轨去DAW里搓有心无力)其实正好卡在"AI指挥者"和"音频剪辑师"之间——后者是可以低成本补的技能(基础对齐/crossfade/简单EQ),不需要跳到"自己作曲编曲"那一整级。真正需要作曲功底的,是"让伴奏本身有张力发展"这件事——这个目前确实没有捷径,要么等模型进化,要么就是人工介入编曲这一层。
+
+**结论**:先做3件低成本的事——vocal tag去掉"talk-to-yourself"式重复措辞、锁一个persona降低人声方差、副歌用Song Editor分段抽卡而不是整首抽——大概率能解决"不上不下"和"人声怪"这两个问题。伴奏"扫扫扫"这个,短期内接受它是当前生成模型的真实边界,中期投入的技能不是"学作曲",而是"学会拆stem后做基础的拼接/crossfade",这个投入产出比最高。
