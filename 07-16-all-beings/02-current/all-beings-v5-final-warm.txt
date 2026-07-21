@@ -1,0 +1,183 @@
+# ALL BEINGS / 众生相 — v5 final (Warm Hook · primary generate)
+# Date: 2026-07-20 · micro-adjusted by Liz on 2026-07-21
+# Base: Lyric (Grok) surgical on v4-composer-warm
+# Audit: 01-source/all-beings-dual-audit-v4.txt
+# Route: Warm Hook — generate first
+# Liz micro-adjustments: Intro tag, Pre-Chorus line, vocal tone in style prompt
+
+---
+
+## 1. Song Profile
+
+| Field | Value |
+|---|---|
+| **Title** | All Beings |
+| **Alt titles** | Learn to Look · I Look Don't Pull |
+| **Route** | Warm Hook v5 final |
+| **BPM / Key** | 88 BPM · A minor |
+| **Length** | ~3:08–3:18 (outro vocalise) |
+| **Sung words** | ~290 |
+| **Axis** | Anti-rescue witness folk — urban boundary compassion; dog = Trojan horse |
+| **PRIMARY generate** | Container X loosened (Late-Night Bus + one quiet warm lift) |
+
+**Hooks (audit-v4 reorder priority):**
+- **Peak / loop:** *I don't rescue it. I learn to look.*
+- **Warm witness hook:** *However long your rope is, I look — don't pull.*
+- **Philosophy (info, not hum target):** *A rope draws a circle — and that is the world.*
+- **Under / near-spoken:** *We're all held by some rope's radius.*
+- **Pre thesis:** *Some pets are only things / some circles don't look like circles.*
+- **Vacuum:** *I decide not to get hurt / And the dog? He can't hear the words.*
+
+---
+
+## 2. Full Lyrics + Vocal Tags
+
+```
+[Intro: matter-of-fact murmur, close-mic, dry — spoken thought not performance, NOT ASMR; fingerpicked guitar]
+Pointed ears. Dirty coat.
+A limp that turns into a dance.
+[two-bar instrumental breath]
+
+[Verse 1: conversational low melody, guitar only, walking pace — chest register, dry, not performed]
+I touch the middle of his skull — both ears fold down.
+Fox-face under grime, twitching mid-step.
+Every patch of dust still chosen by him.
+Not mine. Not anyone's. Still he finds me.
+
+[Pre-Chorus: near-spoken into melody, soft bass enters — thesis register, flat affect]
+Some pets are only things —
+some circles don't look like circles.
+
+[Chorus: peak on short lines; radius under — chest, direct, no soar]
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look.
+A rope draws a circle — and that is the world.
+[under, near-spoken] We're all held by some rope's radius.
+[two-bar instrumental breath, strip toward guitar]
+
+[Verse 2: denser, matter-of-fact, light brushed snare — dry delivery, gray concrete tone]
+Black garage — dust smell before you see him.
+Rope on a clip-ring, pale circle worn in the dust.
+Door locked: eyes go numb — worse than fear.
+A hole chewed under the door where longing learned to dig.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — to manage, to walk?
+After work. I slide bread through the dark and leave.
+
+[Pre-Chorus: same thesis, slightly fuller]
+Some pets are only things —
+some circles don't look like circles.
+
+[Chorus: identical spine — short lines peak; radius stays under]
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look.
+A rope draws a circle — and that is the world.
+[under, near-spoken] We're all held by some rope's radius.
+
+[Bridge: near-spoken parade, one guitar + room — brittle, flat, white space between mouths]
+"Don't raise that kind of thing. Look. Don't touch. That dead-lame dog — walking like that —"
+[one beat rest]
+I stare one second too long.
+I decide not to get hurt.
+And the dog? He can't hear the words.
+[silence half-bar]
+"You fear he harms you — he will."
+Your mortgage. Your shift. Screen glow walking home.
+Ropes, all of them. Ropes.
+
+[Verse 3 / Final: intimate open, light lift — warm but unsentimental, no honey]
+Under the bridge he stands on two legs, looking for me —
+then hits the ground and runs.
+Girl on the ramp opens both arms.
+He jumps the whole slope like the air owes him.
+
+[Final Chorus: same order; L2 micro-varies only — quiet restrained swell, one bar under anchor; on 'However': half-beat lean-in before the word — thinking-not-performing — gives listener entry point]
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look — and go.
+A rope draws a circle — and that is the world.
+[under, near-spoken] We're all held by some rope's radius.
+[one beat rest]
+
+[Outro: instruments peel; voice alone; then body land]
+I crouch a little.
+I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[Outro vocalise: 6–8 bars wordless hum on "I look / learn to look" motif — no new words]
+[End]
+```
+
+**Sung word count:** ~290
+
+---
+
+## 3. Style Containers + Excludes
+
+### Container X — Late-Night Bus (PRIMARY)
+
+**Style of Music:**  
+late-night bus folk, 88 BPM, A minor, young pure clear minor male baritone-tenor register, with distant female hum, talking-to-yourself delivery, nylon-string acoustic picked not strummed, upright bass fingertip attack, single tambourine on 2 and 4 from verse 2, no reverb tail on verse vocal, room-tight dry mix, quiet restrained swell final chorus only (held back, not soaring), brief low strings or harmonium under *I learn to look* only, bridge near-spoken over dry guitar, chorus opens slightly but never performs, outro wordless vocalise over thinning guitar — empty bus at 11pm that lets one warm lung open once.
+
+**Exclude Styles:**  
+female breathy vocal, felt piano, tape hiss aesthetic, lo-fi mumble, dramatic build, folk twang, country slide, whispered ASMR, indie-girl pop, passionate belting, angelic harmony stacks, synth-pop, EDM, Hammond organ pad spam, string swell wall-of-sound, arena power ballad, soaring climax.
+
+**Sliders:** Weirdness 35–45 | Style Influence 68–78
+
+---
+
+### Container D — Warm Folk-Soul (alt)
+
+**Style of Music:**  
+warm folk-soul witness song, 92 BPM, A minor with brief C-major lift on final chorus only, male lead vocal in mid-chest register — straight tone, slight rasp on consonants, fingerpicked acoustic plus warm upright bass, brushed snare entering verse 2, Hammond and short string swell chorus only, hand percussion on 2 and 4, room-tight mix with light plate on chorus, bridge strips to voice and single guitar, outro hum unresolved.
+
+**Exclude Styles:**  
+female breathy vocal, felt piano, tape hiss lo-fi, whispered ASMR, cinematic trailer swell, arena power ballad, autotune, trap hi-hats, EDM drops, gospel choir spam, ukulele jingle, country twang slide, soaring belting, ethereal pads, motivational pop uplift, children's choir.
+
+**Sliders:** Weirdness 32–42 | Style Influence 72–82
+
+---
+
+### Container Z — Concrete Room (alt)
+
+**Style of Music:**  
+concrete-room electric folk, 100 BPM, drop-D tuning, male vocal dry and close-mic — verse clean single distorted electric, programmed drum machine with tape saturation, chorus doubles vocal octave-down on *I look — don't pull* and *I learn to look* only, no acoustic instruments, no reverb wash, bridge spoken-fragments over kick and muted guitar, final chorus one dirty harmonic layer then cuts to hummed outro.
+
+**Exclude Styles:**  
+acoustic-forward folk, breathy vocals, ambient pads, felt piano, cello drone, warm chamber, gentle brushes, female indie vocal, cinematic swell, arena rock, long guitar solos, metal screaming, tropical pop, ukulele, country.
+
+**Sliders:** Weirdness 42–52 | Style Influence 65–75
+
+---
+
+**Global vocal tag whitelist:**  
+`[matter-of-fact delivery]` `[chest register, not head voice]` `[dry, no reverb tail]` `[conversational, not performed]` `[slight rasp on consonants]` `[no vibrato]`
+
+**Final chorus only:**  
+`[one warm lift, held back]`
+
+**Global vocal tag blacklist:**  
+`[emotional]` `[powerful]` `[soaring]` `[breathy]` `[whispered]` `[ethereal]` `[angelic]` `[heartfelt]` `[passionate]`
+
+---
+
+## 4. 3-sec loop seed (post-generate)
+
+| Clip | Line | Notes |
+|---|---|---|
+| Primary | *I look — don't pull.* | pause built in |
+| Co-primary | *I don't rescue it. I learn to look.* | stance; zero clause |
+| Test length | 8–12s loop | algorithm resonance > text polish |
+
+---
+
+## 5. Changelog
+
+| What | From | To |
+|---|---|---|
+| Pre-Chorus | `never a friend, never almost family.` | `some circles don't look like circles.` (Liz micro 2026-07-21) |
+| Intro tag | `whisper close-mic, dry fingerpicked guitar, sparse room air` | `matter-of-fact murmur, close-mic, dry — spoken thought not performance, NOT ASMR; fingerpicked guitar` |
+| Container X vocal | `male baritone-tenor in low chest register` | `young pure clear minor male baritone-tenor register, with distant female hum` |
+| Bridge quotes | split across 3 lines | Liz-verified: single-line block |
+| Anti-rescue stance / rope body / After work / jumps / ropes-nouns / outro vocalise / quiet-restrained-swell | v5 warm locked | **kept** |
+
+**STOP text. Generate B + Container X next. No v6 without ear.**

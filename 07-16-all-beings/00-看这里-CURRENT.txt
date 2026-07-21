@@ -1,26 +1,30 @@
 # 07-16-all-beings — CURRENT
 
 ## Status
-**Dual v5 = last text pass.** Surgical singability from audit-v4. **No v6 without ear.** Generate next.
+**v5 final locked** — Liz micro-adjusted 2026-07-21. Generate next.
 
 ## Start
-`02-current/all-beings-dual-v5-surgical-vs-warm.txt`
+`02-current/all-beings-v5-final-warm.txt` ★
 
 ## Lines
-| | File | Route |
-|---|---|---|
-| **B (lead)** | `02-current/all-beings-v5-composer-warm.txt` | Warm Hook v5 |
-| A (parallel) | `02-current/all-beings-v5-lyric-surgical.txt` | Surgical Spell v5 |
+| File | Route |
+|---|---|
+| `02-current/all-beings-v5-final-warm.txt` | **Primary generate** — Warm Hook (Container X) |
+| `02-current/all-beings-v5-lyric-surgical.txt` | Parallel — Surgical Spell (cold) |
 
 ## Audits
 - v2→v3: `01-source/all-beings-dual-audit-v2.txt`
 - v3→v4: `01-source/all-beings-dual-audit-v3.txt`
-- v4→v5: `01-source/all-beings-dual-audit-v4.txt` ← chorus grain · outro vocalise · X loosen
+- v4→v5: `01-source/all-beings-dual-audit-v4.txt`
 
 ## Generate
-1. **B + Container X** (quiet restrained swell final only)
-2. A + Container X
-Post: 8–12s loop on *I look — don't pull* / *I learn to look*
+1. **v5-final-warm + Container X** (late-night bus folk, quiet restrained swell final only)
+2. v5-lyric-surgical + Container X (parallel)
 
-## Prior drafts
-v1–v4 packages remain in `02-current/` for lineage.
+## Post-generate
+8–12s loop on *I look — don't pull* / *I learn to look*
+
+## Liz micro-adjustments (2026-07-21)
+- Pre-Chorus: `some circles don't look like circles.` replaces `never a friend, never almost family.`
+- Intro: `matter-of-fact murmur, NOT ASMR`
+- Container X: `young pure clear minor` + `distant female hum`
