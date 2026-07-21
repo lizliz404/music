@@ -1,0 +1,7 @@
+# 07-12-poverty — Quiet Costs + poverty 谱系
+
+## 现在用
+- `02-current/quiet-costs-v7-final.md` ★
+- `02-current/quiet-costs-zh.md`
+- `02-current/quiet-costs-*-en-primary.lrc`
+- `02-current/poverty-v5.*`（旁系）

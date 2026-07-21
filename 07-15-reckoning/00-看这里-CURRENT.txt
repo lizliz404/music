@@ -1,0 +1,6 @@
+# 07-15-reckoning — The Wrong Game
+
+## 现在用
+- `02-current/the-wrong-game-v4.1-final.txt` ★
+- `02-current/the-wrong-game-cover-prompts.md`
+- 源：`01-source/raw-material.md` · research report

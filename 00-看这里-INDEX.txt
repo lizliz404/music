@@ -1,0 +1,49 @@
+# ~/music — project index
+Updated: 2026-07-21
+
+## Quick legend
+| Tag | Meaning |
+|---|---|
+| SHIP | locked text · generate / cover / done loop |
+| PICK | multi-draft · choose |
+| SEED | raw / research · not yet lyric |
+| LEGACY | early finished · reference |
+
+---
+
+## Active / hot
+
+| Folder | Tag | What to open |
+|---|---|---|
+| `07-19-eat-rich` | SHIP | `02-current/eat-rich-v4.1.txt` + suno-paste-only → **Suno** |
+| `07-16-all-beings` | SHIP | `02-current/all-beings-dual-v5-*.txt` → **Suno B first** |
+| `07-16-relationship-resource-equity` | SHIP | v3 CN/EN · **cover pick only** |
+| `07-15-field-notes` | SHIP | Three Kinds of Stone v5.3 · lyric freeze · style paste |
+| `07-17-edit-rights` | PICK | `02-current/edit-rights-v1-parallel.txt` |
+| `07-12-deadwood` | PICK | v1 only · can continue |
+
+## Seed banks（可写素材）
+
+| Folder / path | Fuel | Strongest spin |
+|---|---|---|
+| `fuzzy/` | 众生相 siblings + 31 dailies + 36 photos + image-analysis | Free Dirt · All the Kids · Threshold · Zero Distance · Hesitation Paw |
+| `07-15-court/` | 宁波随记 | **Rich Kid Court** · Present/天一阁 |
+| `07-17-runxue/` | 润学 raw + Opus | 制度卖空祛魅歌 |
+| `07-17-grow-the-fuck-up/` | 多模型成熟度长文 | 抽 1 thesis 开词夹 |
+| eat-rich 系列种子 | Changelog lock | **16+8** 另曲 · **进餐顺序** 另曲 |
+
+## Legacy shipped
+
+| Folder | Title |
+|---|---|
+| `07-11-impotent` | Impotent v4 |
+| `07-11-climbing` | No Third Door |
+| `07-11-universe-mayor` | Exactly On Time v4 |
+| `07-11-grows-without-trying` | LRC |
+| `07-12-next-step` | Next Step v5 |
+| `07-12-poverty` | Quiet Costs v7 |
+| `07-15-reckoning` | The Wrong Game v4.1 |
+| `07-16-ml-self-refactor` | Old Weights final |
+
+## Conventions
+See `AGENTS.md`. Structure: `00-看这里-CURRENT.txt` · `01-source/` · `02-current/` · `03-archive/`.

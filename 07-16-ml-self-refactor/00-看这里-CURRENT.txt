@@ -1,0 +1,8 @@
+# 07-16-ml-self-refactor — Old Weights
+
+## 现在用
+- `02-current/old-weights-final.txt` ★
+- `02-current/old-weights-suno-complete-package.txt`
+- `02-current/old-weights-*-en-primary.lrc(.txt)`
+- `02-current/old-weights-cn-xinda-ya.txt`
+- 源：`01-source/old-weights-raw.md`

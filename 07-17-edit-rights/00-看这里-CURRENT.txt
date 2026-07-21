@@ -1,0 +1,22 @@
+# 07-17-edit-rights
+
+## 当前状态
+- **阶段**：v1 双版平行完成，**待 Liz 审选**（未锁，未 Suno）
+- 主题：编辑权 / 富与边界
+
+## 现在看
+| 文件 | 用途 |
+|---|---|
+| `02-current/edit-rights-v1-parallel.txt` | ★ v1 双版对照 + 比较表 |
+
+## 源
+- `01-source/raw-notes-liz.txt`
+- `01-source/raw-chat-ccy.txt`
+- `01-source/raw-sleep-experiment.txt`
+- `01-source/image-analysis.md`
+
+## 单轨
+`03-archive/v1/` — Lyric / Grok 分轨
+
+## 下一步
+审 → 选定/混搭 → v2 或 Suno

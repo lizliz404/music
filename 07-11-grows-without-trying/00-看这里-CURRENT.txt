@@ -1,0 +1,3 @@
+# 07-11-grows-without-trying
+
+- `02-current/*.lrc.txt`

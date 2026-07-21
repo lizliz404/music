@@ -1,0 +1,8 @@
+# 07-12-next-step
+
+## 现在用
+- `02-current/nextstep-v5-latest-final.txt` ★
+- `02-current/nextstep-final-package.txt`
+- `02-current/nextstep-v5-suno-i-california-hills.txt`
+- 旋律种子：`01-source/melody-seed/`
+- 其他 style/dumps：`03-archive/`

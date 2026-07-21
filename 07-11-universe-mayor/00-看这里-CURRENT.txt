@@ -1,0 +1,7 @@
+# 07-11-universe-mayor — Exactly On Time
+
+## 现在用
+- `02-current/exactly-on-time-v4.md`
+- `02-current/exactly-on-time-bilingual.md`
+- `02-current/exactly-on-time-82-en-primary.lrc`
+- `02-current/exactly-on-time-cover-prompts.md`

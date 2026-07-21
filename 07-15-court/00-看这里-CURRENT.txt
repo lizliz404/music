@@ -1,0 +1,16 @@
+# 07-15-court（宁波随记）
+
+## 当前状态
+- **阶段**：raw field notes only（**尚未写成歌**）
+- 来源：宁波天一阁 · 球场
+
+## 现在看
+| 文件 | 种子 |
+|---|---|
+| `01-source/raw-ningbo-rich-kid.txt` | 江浙沪公子哥 · 云泥家境 · 清澈的愚蠢 |
+| `01-source/raw-ningbo-tianyige-field.txt` | 天一阁 · being present · 屏幕解离 |
+
+## 可写种子
+1. **Rich Kid Court** — 球场富少（最强叙事弧）
+2. **Present / Not Present** — 天一阁感官 vs 屏幕
+3. **What Is Waste** — Naval present 命题短歌

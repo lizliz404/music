@@ -1,17 +1,16 @@
-当前规范路径:
-/home/ubuntu/music/07-17-runxue/
+# 07-17-runxue
 
-【raw】
-raw-material.txt  — Liz 2026-07-17 intake（含「恶心态度」后补段）
+## 当前状态
+- **阶段**：raw + AI 扩写 intake（**尚未写成歌**）
+- 核心命题：润学 = 人力资本对中国制度的卖空头寸
 
-【Cursor】
-new session · model: gpt-5.6-sol-xhigh
-prompt = raw-material.txt 原样（无额外 instructions）
-stdout → runxue-sol-output.txt
+## 现在看
+| 文件 | 用途 |
+|---|---|
+| `01-source/raw-material.txt` | ★ Liz 原话 |
+| `01-source/runxue-opus-4.8-output.txt` | Opus 扩写 |
+| `01-source/runxue-sol-output.txt` | Sol 输出（短） |
+| `audio/` | TTS full-listen（若有） |
 
-【音频】
-audio/2026-07-17-runology-short-the-old-world.mp3
-  Artist: claude-opus-4-8-thinking-xhigh
-  Title:  2026-07-17-runology-short-the-old-world
-  Source: runxue-opus-4.8-output.txt · Doubao TTS2 full listen
-
+## 可写
+可直接开词：政治祛魅 comedy/art-rock；注意逆火与说教。

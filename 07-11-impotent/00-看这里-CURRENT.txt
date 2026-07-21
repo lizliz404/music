@@ -1,0 +1,7 @@
+# 07-11-impotent
+
+## 状态：v4 final 谱系
+- `02-current/impotent-v4.md` (+ .txt)
+- `02-current/impotent-suno-prompts-grok.md`
+- 源：`01-source/source-essay.txt`
+- 归档：`03-archive/versions|audits`

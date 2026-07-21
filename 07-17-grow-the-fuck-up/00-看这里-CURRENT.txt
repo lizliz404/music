@@ -1,7 +1,17 @@
-当前规范路径:
-/home/ubuntu/music/07-17-grow-the-fuck-up/
+# 07-17-grow-the-fuck-up
 
-【Cursor】
-new session · model: claude-opus-4-8-thinking-xhigh
-prompt = grow-the-fuck-up maturity analysis (EN Qs + ZH instruction)
-stdout → grow-the-fuck-up-opus-4.8-output.txt
+## 当前状态
+- **阶段**：多模型成熟度分析 intake（**尚未成歌**）
+- 素材 = AI 长文 + TTS 听读，不是 locked lyric
+
+## 现在看
+| 路径 | 是什么 |
+|---|---|
+| `01-source/` | Opus / Grok / Sonnet 分析 |
+| `audio/` | Doubao TTS full-listen MP3（Artist=model id） |
+
+## 可写
+从分析里抽 **1 个可唱 thesis** → 开 `MM-DD-slug` 词夹；本夹保持 research bank。
+
+## 归档
+`03-archive/` — delegation prompts · runners · tts-chunks
