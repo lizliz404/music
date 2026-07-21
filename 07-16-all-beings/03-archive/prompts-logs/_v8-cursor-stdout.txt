@@ -1,0 +1,22 @@
+四点诊断都对。文件能动的只有第 1 点——已写出 `all-beings-v6b-ear.txt`。
+
+**改了什么（仅 vocal/style 层）**
+- Style 里 `talking-to-yourself delivery` **只留一次**
+- Section tags：`murmur / spoken / near-spoken / not performed` → `hushed / close-mic intimate / unforced phrasing / sung clear`
+- Radius：`[under, near-spoken]` → `[under, hushed]`
+- Style bridge：`near-spoken` → `intimate`
+- 黑名单加上这批会拖垮音高的词
+- 歌词本体、pre-chorus 锁句、管风琴边界、男女 hum：**不动**；也不加新床垫
+
+**第 2–4 点（不进词文件）**
+- 管风琴 + 男女交替够用 → 别再加连续 pads（否则撞上你说的凌乱）
+- memorable 旋律：文字形容词几乎无效；靠 Persona 锁人声 + Song Editor 只重抽副歌 + 抓到动机就 Extend
+- 吉他贝斯「扫扫扫」= 这代模型天花板；中期技能是 stem 拼接/crossfade，不是自己编曲
+
+**Paste-ready Style（Container X hard）：**
+
+```
+late-night bus folk, 88 BPM, A minor, young pure clear minor male baritone-tenor register, with distant female hum, talking-to-yourself delivery, nylon-string acoustic picked not strummed, upright bass fingertip attack, single tambourine on 2 and 4 from verse 2, no reverb tail on verse vocal, room-tight dry mix, quiet restrained swell final chorus only (held back, not soaring), brief low strings or harmonium under *I learn to look* only, bridge intimate over dry guitar, chorus melody must contain ONE 3–4 note descending motif on the words *learn to look* — this motif recurs identically in every chorus and returns wordless in outro vocalise over thinning guitar — empty bus at 11pm that lets one warm lung open once.
+```
+
+下一步：v6b + Persona 锁嗓 → 副歌不抓耳就只重抽副歌，别整首重抽。

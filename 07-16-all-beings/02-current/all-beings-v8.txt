@@ -1,0 +1,224 @@
+# ALL BEINGS / 众生相 — v6b ear
+# Date: 2026-07-21 · Liz ear feedback on v6 generate
+# Base: 02-current/all-beings-v6-micro.txt (lyrics body LOCKED)
+# Scope: vocal-tag de-stack + style bridge wording — NO lyric-body rewrite
+# Why: v6 tags stacked murmur/spoken/not performed/near-spoken → Suno executed as "don't sing pitch"
+
+---
+
+## 1. Song Profile
+
+| Field | Value |
+|---|---|
+| **Title** | All Beings |
+| **Alt titles** | Learn to Look · I Look Don't Pull |
+| **Route** | Warm Hook v6b ear (on v6 micro) |
+| **BPM / Key** | 88 BPM · A minor |
+| **Length** | ~3:10–3:22 (pre-intro hum + outro vocalise) |
+| **Sung words** | ~292 (unchanged from v6) |
+| **Axis** | Anti-rescue witness folk — urban boundary compassion; dog = Trojan horse |
+| **PRIMARY generate** | Container X — restraint ONCE in style; tags = timbre/volume only |
+| **Ear fix** | Kill talk-to-yourself stacking in section tags; keep melody room |
+
+**Hooks (unchanged):**
+- **Peak / loop:** *I don't rescue it. I learn to look.*
+- **Warm witness hook:** *However long your rope is, I look — don't pull.*
+- **Philosophy:** *A rope draws a circle — and that is the world.*
+- **Under / hushed:** *We're all held by some rope's radius.*
+- **Pre thesis:** *Some pets are only things / some circles don't look like circles.*
+- **Melodic fingerprint:** descending 3–4 note motif on *learn to look* — identical every chorus; wordless return in outro
+
+---
+
+## 2. Full Lyrics + Vocal Tags
+
+```
+[Pre-intro: 2-bar wordless hum on chorus motif — retention tease; then silence half-bar]
+[Intro: close-mic intimate, dry, unforced phrasing — NOT ASMR; fingerpicked guitar]
+Pointed ears. Dirty coat.
+A limp that turns into a dance.
+[two-bar instrumental breath]
+
+[Verse 1: low melody, guitar only, walking pace — chest register, dry, hushed, unforced phrasing]
+I touch the middle of his skull — both ears fold down.
+Fox-face under grime, twitching mid-step.
+Every patch of dust still chosen by him.
+Not mine. Not anyone's. Still he finds me.
+
+[Pre-Chorus: hushed into melody, soft bass enters — thesis register, flat affect, unforced]
+Some pets are only things —
+some circles don't look like circles.
+
+[Chorus: peak on short lines; radius under — chest, direct, sung clear, no soar; ONE 3–4 note descending motif on "learn to look" — identical every chorus]
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look.
+A rope draws a circle — and that is the world.
+[under, hushed] We're all held by some rope's radius.
+[two-bar instrumental breath, strip toward guitar]
+
+[Verse 2: denser, matter-of-fact, light brushed snare — dry delivery, gray concrete tone, unforced phrasing]
+Black garage — dust smell before you see him.
+Rope on a clip-ring, pale circle worn in the dust.
+Door locked: eyes go numb — worse than fear.
+A hole chewed under the door where longing learned to dig.
+Door open: he bolts like hunger learned to run.
+What did they buy him for — to manage, to walk?
+After work. I slide bread through the dark and leave.
+
+[Pre-Chorus: same thesis, slightly fuller — dust-anchor micro-variant; hushed, unforced]
+Some pets are only things —
+some circles don't look like circles — pale, worn in dust.
+
+[Chorus: identical spine — short lines peak; radius stays under; sung clear; same descending motif on "learn to look"]
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look.
+A rope draws a circle — and that is the world.
+[under, hushed] We're all held by some rope's radius.
+
+[Bridge: close-mic intimate parade, one guitar + room — brittle, flat, white space between mouths]
+"Don't raise that kind of thing. Look. Don't touch. That dead-lame dog — walking like that —"
+[one beat rest]
+I stare one second too long.
+I decide not to get hurt.
+And the dog? He can't hear the words.
+[silence half-bar]
+"You fear he harms you — he will."
+Your mortgage. Your shift. Screen glow walking home.
+Ropes, all of them. Ropes.
+
+[Verse 3 / Final: intimate open, light lift — warm but unsentimental, no honey]
+Under the bridge he stands on two legs, looking for me —
+then hits the ground and runs.
+Girl on the ramp opens both arms.
+[tiny smile audible in the throat, half-breath before "jumps" — the only moment the singer forgets to be observational]
+He jumps the whole slope like the air owes him.
+
+[Final Chorus: same order; L2 micro-varies only — quiet restrained swell, one bar under anchor; on 'However': half-beat lean-in — unforced entry point; same descending motif on "learn to look"]
+However long your rope is, I look — don't pull.
+I don't rescue it. I learn to look — and go.
+A rope draws a circle — and that is the world.
+[under, hushed] We're all held by some rope's radius.
+[one beat rest]
+
+[Outro: instruments peel; voice alone; then body land]
+I crouch a little.
+I watch.
+I want to paint that frame —
+and leave the rest unsolved.
+[Outro vocalise: 6–8 bars wordless hum on "I look / learn to look" motif — same descending 3–4 note fingerprint, no new words]
+[End]
+```
+
+**Sung word count:** ~292 (lyrics body unchanged)
+
+---
+
+## 3. Style Containers + Excludes
+
+### Container X — Late-Night Bus (PRIMARY)
+
+**Style of Music (HARD CONSTRAINTS — paste into generate):**  
+late-night bus folk, 88 BPM, A minor, young pure clear minor male baritone-tenor register, with distant female hum, talking-to-yourself delivery, nylon-string acoustic picked not strummed, upright bass fingertip attack, single tambourine on 2 and 4 from verse 2, no reverb tail on verse vocal, room-tight dry mix, quiet restrained swell final chorus only (held back, not soaring), brief low strings or harmonium under *I learn to look* only, bridge intimate over dry guitar, chorus melody must contain ONE 3–4 note descending motif on the words *learn to look* — this motif recurs identically in every chorus and returns wordless in outro vocalise over thinning guitar — empty bus at 11pm that lets one warm lung open once.
+
+**Production Notes (FINE DYNAMICS — ear after generate; do NOT overload prompt):**  
+- chorus opens slightly but never performs  
+- restraint aesthetic lives ONLY in style line `talking-to-yourself delivery` — do NOT restack as spoken/murmur/near-spoken in section tags  
+- pre-intro hum = retention tease only — half-bar silence before intro; do not bleed into intro  
+- pre-chorus 2 dust-anchor stays understated — no extra emotion on "pale, worn in dust"  
+- V3 human-leak tag is ONE line only — tiny smile / half-breath before "jumps"; never repeat  
+- final-chorus lean-in on "However" = unforced entry point, not a swell cue  
+- radius line always under / hushed — never compete with peak short lines  
+- distant female hum stays distant — no harmony stack, no angelic lift  
+- strings/harmonium = *I learn to look* only — do not pad whole song  
+- do NOT add more continuous beds (extra organ pad, constant strum wall) — element count is already at ceiling
+
+**Exclude Styles:**  
+female breathy vocal, felt piano, tape hiss aesthetic, lo-fi mumble, dramatic build, folk twang, country slide, whispered ASMR, indie-girl pop, passionate belting, angelic harmony stacks, synth-pop, EDM, Hammond organ pad spam, string swell wall-of-sound, arena power ballad, soaring climax, talk-sing only, spoken-word delivery, Sprechgesang.
+
+**Sliders:** Weirdness 35–45 | Style Influence 68–78
+
+---
+
+### Container D — Warm Folk-Soul (alt)
+
+**Style of Music:**  
+warm folk-soul witness song, 92 BPM, A minor with brief C-major lift on final chorus only, male lead vocal in mid-chest register — straight tone, slight rasp on consonants, fingerpicked acoustic plus warm upright bass, brushed snare entering verse 2, Hammond and short string swell chorus only, hand percussion on 2 and 4, room-tight mix with light plate on chorus, bridge strips to voice and single guitar, chorus melody must contain ONE 3–4 note descending motif on *learn to look* recurring identically and returning wordless in outro, outro hum unresolved.
+
+**Exclude Styles:**  
+female breathy vocal, felt piano, tape hiss lo-fi, whispered ASMR, cinematic trailer swell, arena power ballad, autotune, trap hi-hats, EDM drops, gospel choir spam, ukulele jingle, country twang slide, soaring belting, ethereal pads, motivational pop uplift, children's choir, spoken-word delivery.
+
+**Sliders:** Weirdness 32–42 | Style Influence 72–82
+
+---
+
+### Container Z — Concrete Room (alt)
+
+**Style of Music:**  
+concrete-room electric folk, 100 BPM, drop-D tuning, male vocal dry and close-mic — verse clean single distorted electric, programmed drum machine with tape saturation, chorus doubles vocal octave-down on *I look — don't pull* and *I learn to look* only, chorus melody must contain ONE 3–4 note descending motif on *learn to look* recurring identically and returning wordless in outro, no acoustic instruments, no reverb wash, bridge intimate over kick and muted guitar, final chorus one dirty harmonic layer then cuts to hummed outro.
+
+**Exclude Styles:**  
+acoustic-forward folk, breathy vocals, ambient pads, felt piano, cello drone, warm chamber, gentle brushes, female indie vocal, cinematic swell, arena rock, long guitar solos, metal screaming, tropical pop, ukulele, country, spoken-word delivery.
+
+**Sliders:** Weirdness 42–52 | Style Influence 65–75
+
+---
+
+**Global vocal tag whitelist (timbre/volume — NOT melody-killers):**  
+`[close-mic intimate]` `[hushed]` `[unforced phrasing]` `[chest register, not head voice]` `[dry, no reverb tail]` `[sung clear]` `[slight rasp on consonants]` `[no vibrato]`
+
+**Final chorus only:**  
+`[one warm lift, held back]`
+
+**Verse 3 one-line only (human leak):**  
+`[tiny smile audible in the throat, half-breath before "jumps" — the only moment the singer forgets to be observational]`
+
+**Global vocal tag blacklist (Liz ear — these pull pitch down into fake-speech):**  
+`[emotional]` `[powerful]` `[soaring]` `[breathy]` `[whispered]` `[ethereal]` `[angelic]` `[heartfelt]` `[passionate]` `[ASMR]` `[murmur]` `[spoken]` `[near-spoken]` `[not performed]` `[talk-sing]` `[spoken thought]` `[conversational, not performed]`
+
+---
+
+## 4. Generate workflow (ear lessons — not lyric changes)
+
+| Step | Do | Why |
+|---|---|---|
+| 1 | Paste **v6b tags + Container X hard constraints** | de-stack talk-to-yourself in tags |
+| 2 | **Lock Persona** from any take whose voice you like | kill voice-variance lottery |
+| 3 | If chorus motif is flat → **Song Editor** re-roll chorus 8 bars only | don't re-roll whole song |
+| 4 | If one chorus motif catches → **Extend** from that take | keep the fingerprint |
+| 5 | Hum-to-Song only if you already hear a contour | text "ear-catching" does nothing |
+| 6 | Accept guitar/bass "scrub loop" as model ceiling short-term | fix later via stem swap + crossfade, not more prompt adjectives |
+| 7 | Do **not** add more continuous beds | hum + strings/harmonium-on-motif + male/female already enough; more = point-4 clutter |
+
+**3-sec loop seed (post-generate):**
+
+| Clip | Line | Notes |
+|---|---|---|
+| Primary | *I look — don't pull.* | pause built in |
+| Co-primary | *I don't rescue it. I learn to look.* | descending motif fingerprint |
+| Motif test | wordless *learn to look* 3–4 notes | must match chorus + outro |
+| Test length | 8–12s | algorithm resonance > text polish |
+
+---
+
+## 5. Changelog (v6 micro → v6b ear)
+
+| # | What | From (v6) | To (v6b) | Liz point |
+|---|---|---|---|---|
+| 1 | Intro tag | `matter-of-fact murmur… spoken thought not performance` | `close-mic intimate, dry, unforced phrasing — NOT ASMR` | §1 talk-stack |
+| 2 | Verse / Pre / Bridge tags | `not performed` / `near-spoken` / `spoken` | `hushed` / `unforced phrasing` / `close-mic intimate` / `sung clear` on chorus | §1 |
+| 3 | Radius under-tag | `[under, near-spoken]` | `[under, hushed]` | §1 |
+| 4 | Final chorus lean-in | `thinking-not-performing` | `unforced entry point` | §1 |
+| 5 | Style bridge wording | `bridge near-spoken over dry guitar` | `bridge intimate over dry guitar` | §1 |
+| 6 | Style restraint | repeated across tags + style | **once** in style: `talking-to-yourself delivery` | §1 |
+| 7 | Tag whitelist/blacklist | allowed conversational/not performed | blacklist murmur/spoken/near-spoken/not performed | §1 |
+| 8 | Instruments | unchanged (strings/harmonium under *learn to look* only) | keep boundary; **no new beds** | §2 + §4 |
+| 9 | Generate workflow | none | Persona / Song Editor / Extend / stem-swap notes | §3 + §4 |
+| 10 | Lyrics body | — | **untouched** | locked |
+
+**Not done (by design):**
+- No new 3-syllable lyric hook
+- No Billie / 梁博 reference adjectives in prompt (aesthetic goals ≠ executable constraints)
+- No "captivating / ear-catching / memorable" style words (null effect on melody)
+- No extra organ pad or continuous strum instruction
+
+**Next:** Generate v6b + Container X + locked Persona. If chorus still flat → Song Editor chorus-only, not full re-roll.

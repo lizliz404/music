@@ -1,29 +1,29 @@
 # 07-16-all-beings — CURRENT
 
 ## Status
-**v6 micro locked** — Cursor (Grok 4.5) micro-surgical on v5-final per structured audit. **Generate next.**
+**v8 locked** — de-spoken vocal tags (Liz feedback v7). Generate next.
 
 ## Start
-`02-current/all-beings-v6-micro.txt` ★
+`02-current/all-beings-v8.txt` ★
 
-## Lines
-| File | Route |
+## v6 → v8 change (vocal/style layer only)
+- **Vocal tags** de-spoken: `murmur/spoken/near-spoken/not performed` → `hushed / unforced phrasing / sung clear / intimate`
+- "talking-to-yourself delivery" kept ONLY in style prompt (once)
+- Exclude: added `talk-sing only, spoken-word delivery, Sprechgesang`
+- **Lyrics body, pre-chorus lock, structure: zero change**
+
+## v7 feedback (Liz)
+`01-source/all-beings-liz-feedback-v7.txt` — 4 points: vocal tag over-speeching, hum+organ OK, no memorable melody (gacha ceiling), accompaniment monotony
+
+## Prior versions
+| File | What |
 |---|---|
-| `02-current/all-beings-v6-micro.txt` | **Primary generate** — Warm Hook + 5 micro patches |
-| `02-current/all-beings-v5-final-warm.txt` | v5-final base (pre-audit) |
-| `02-current/all-beings-v5-lyric-surgical.txt` | Parallel — Surgical Spell (cold) |
+| `02-current/all-beings-v6-micro.txt` | v6 — 5 micro patches (audit) |
+| `02-current/all-beings-v5-final-warm.txt` | v5-final — Liz micro base |
+| `01-source/all-beings-audit-v5-structured.txt` | Dual audit |
 
-## v5-final → v6 micro (5 adjustments, no lyric-body rewrite)
-1. **Pre-intro hum** — 2-bar wordless chorus motif before spoken intro
-2. **Pre-Chorus 2 variant** — "pale, worn in dust." echoes V2 image
-3. **Container X split** — Hard Constraints vs Fine Dynamics (Production Notes)
-4. **V3 human leak** — `[tiny smile / half-breath before "jumps"]` one-line only
-5. **Melodic fingerprint** — 3–4 note descending motif on "learn to look", identical every chorus, wordless return in outro
-
-## Audits
-- v4→v5: `01-source/all-beings-dual-audit-v4.txt`
-- v5 structured: `01-source/all-beings-audit-v5-structured.txt` ★ (two independent reviews)
-
-## Generate
-1. **v6-micro + Container X** (hard constraints only)
-2. A/B vs v5-final optional
+## Generate strategy (per v7 analysis)
+1. Lock Persona (vocal fingerprint)
+2. Container X hard constraints only
+3. Song Editor: re-roll chorus only if melody not catchy
+4. Hum-to-Song if you have a melody sketch
