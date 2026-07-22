@@ -1,0 +1,287 @@
+EDIT RIGHTS — v2 平行双版本 (2026-07-22)
+Source: ~/music/07-17-edit-rights/01-source/
+v1 base: 02-current/edit-rights-v1-parallel.txt
+Full audits in: 03-archive/v2/
+
+═══════════════════════════════════════
+VERSION A — Grok 4.5 (via Cursor)
+═══════════════════════════════════════
+
+[Intro]
+[close-mic] [almost spoken] [lobby hush] [single soft click]
+Ninety yuan.
+One night where the doors forget how to slam.
+
+[Verse 1]
+[dry intimate] [catalog cadence] [low chest] [sterile air]
+Lobby light like a sample room left on overnight —
+warm on the stone, cold in the sky-slit between the villas.
+No shops on the ground. No trash in the frame.
+Every errand folded under the street like a secret name.
+
+Guard floats past on a balance board, face blank as glass.
+Green plates blink in the garage like a quieter class.
+Elevator with no ads — just the hum of permission.
+I walk like a tourist who paid for a rented decision.
+
+[Pre-Chorus]
+[breathy lift] [tight consonants] [building pulse]
+They printed "keep out" twice on one anxious sign.
+Even the pipes wear plastic vines for an audience of none.
+My chest goes loud in a building that refuses noise —
+scarcity counting every soft-close like a stolen toy.
+
+[Chorus]
+[stacked doubles] [mid-chest claim] [hummable] [locked pocket]
+Edit rights — mute the world, keep the clean
+Edit rights — hide the work where it can't be seen
+Not more square meters — the power to choose the scene
+Why not me? Why not me?
+Ninety yuan and the quiet got under my skin
+Why not me? Why not me? — say it again
+
+[Verse 2]
+[half-spoken] [warmer] [detail sting] [held breath]
+Auntie bought the first floor so her parents wouldn't climb.
+They stayed upstairs. She rents the empty time.
+Counts cash like weather — soft laugh, small garden dream —
+two keys, one building, money moving like steam.
+
+I tutored a kid with a Toronto ticket in his name.
+English broke on the carpet; future still arrived the same.
+Whole wall of luxury, gold bars quiet in a drawer —
+KFC coupons stuck to the cabinet like a dare.
+
+[Pre-Chorus]
+[breathy] [tighten] [flood rising]
+Their "I deserve this" doesn't argue, doesn't perform.
+Abundance walks barefoot. Scarcity keeps the score.
+One night of silence — overwhelm like a tide —
+I'm drowning in a calm I was never taught to buy.
+
+[Chorus]
+[stacked doubles] [more air] [claim hardening]
+Edit rights — mute the world, keep the clean
+Edit rights — hide the work where it can't be seen
+Not more square meters — the power to choose the scene
+Why not me? Why not me?
+Ninety yuan and the quiet got under my skin
+Why not me? Why not me? — say it again
+
+[Bridge]
+[bare vocal] [single piano] [night-market bleed under] [one core]
+I know the other night — thin mattress, hallway noise,
+fighting for sleep like comfort is a voice I don't get to own.
+If rich is deleting friction from the frame you wake inside —
+then tell me, with a straight face: what's stopping mine?
+
+[Breakdown]
+[whisper] [kick returns] [tongue-click] [ignition spark]
+Back to the night market breath, slow elevator, trash that stays.
+Something lit in the frictionless dark and it won't behave.
+Not begging for their mute button —
+learning to build my own.
+
+[Final Chorus]
+[full surge] [harmony stack] [smile in the grit] [no fade]
+Edit rights — mute the world, keep the clean
+Edit rights — I want the hand on what I mean
+Not more square meters — I'm rewriting the scene
+Why not me? Why not me?
+Ninety yuan was a seed — listen to it spin
+Why not me? Why not me? — I mean it this time
+
+[Outro]
+[spoken-sung] [door-slam silence] [cold resolve]
+Soft-close.
+Fake vine.
+Borrowed quiet —
+mine to earn.
+
+
+═══════════════════════════════════════
+VERSION A — SUNO STYLE PROMPT
+═══════════════════════════════════════
+
+Style:
+Dark mid-tempo alt-pop with a late-night hip-hop pocket, 94 BPM, F minor. Vocal persona: a dry, close-mic observer who starts cataloging like evidence, floods into overwhelm, then hardens into a quiet grin of hunger — not rage, not sermon. Verses: muted electric guitar ticks, sterile pad, tight kick, almost-spoken low alto intimacy, zero theatrical vibrato. Pre-chorus: filtered hats enter, sub-bass warms, breath tightens. Chorus: thick bass, gated clap, stacked doubles on "Edit rights," melody short and chantable in mid-chest — claim you can hum on a commute. Bridge: strip to bare vocal + one piano note + distant night-market hum under the floor. Breakdown: whisper + tongue-click + kick return. Final chorus: full low-end surge, harmony stack on last "Why not me?," then hard cut on the door-slam — no fade. Arc: hush → flood → bare → claim → cut. Dry, mid-forward, addictive hook over literary detail.
+
+Exclude:
+Warm acoustic folk, bright major-key pop, Sheeran-style acoustic strum anthems, trap hi-hat spam, EDM drops, gospel belting, overly sweet R&B runs, lo-fi chillhop wallpaper, cinematic string swells, stadium rock bombast, chipmunk pitched vocals, fade-out endings, male radio-baritone crooner, lecture-spoken word without melody
+
+Vocal Tags (inline):
+  [Intro] — close-mic, almost spoken, lobby hush, single soft click
+  [Verse 1] — dry intimate, catalog cadence, low chest, sterile air
+  [Pre-Chorus] — breathy lift, tight consonants, building pulse
+  [Chorus] — stacked doubles, mid-chest claim, hummable, locked pocket
+  [Verse 2] — half-spoken, warmer, detail sting, held breath
+  [Bridge] — bare vocal, single piano, night-market bleed under, one core
+  [Breakdown] — whisper, kick returns, tongue-click, ignition spark
+  [Final Chorus] — full surge, harmony stack, smile in the grit, no fade
+  [Outro] — spoken-sung, door-slam silence, cold resolve
+
+
+═══════════════════════════════════════
+VERSION B — Hermes Sub-agent (DeepSeek)
+═══════════════════════════════════════
+
+[Verse 1]
+
+Three hundred nights I logged it all—
+The neighbor's machine through the paper wall
+5:55, the garbage truck's call
+Another morning I didn't choose at all
+
+My spine mapped the curve of a borrowed bed
+Earplugs in but the noise still bled
+I learned to count what I couldn't control—
+You can't edit the world from a hole
+
+[Verse 2]
+
+Ninety yuan bought me through the gate—
+"No entry" twice on the same plate
+The door clicked shut, magnetic, smooth
+No handle needed, nothing to prove
+
+Guard on a hoverboard, silent, young
+Green-plate cars where the quiet hung
+They hide the trash in B1, underground
+The parcels sorted without a sound
+
+I walked through like a question in a frame—
+Nothing looked back, nothing knew my name
+
+[Chorus]
+
+Ninety yuan, ninety yuan
+One night where the noise was gone
+I saw what money really buys—
+Edit rights, edit rights
+
+Not the marble, not the cars
+Not the gate with the second guard
+Just the power to decide—
+Edit rights, edit rights
+
+[Verse 3]
+
+The auntie bought the ground-floor flat
+So her parents wouldn't have to climb
+They never moved—she shrugged at that
+Now she rents it room by room, killing time
+She counts cash like it's always been steam
+
+Met a boy bound for Toronto's fall
+English so broken he couldn't read the hall
+Gold bars in the drawer, whole walls of shoes
+KFC coupons—the part they don't lose
+The entitlement quiet—not even there
+
+[Chorus]
+
+Ninety yuan, ninety yuan
+One night where the noise was gone
+I saw what money really buys—
+Edit rights, edit rights
+
+Not the marble, not the cars
+Not the gate with the second guard
+Just the power to decide—
+Edit rights, edit rights
+
+[Bridge]
+
+Fake vine on the basement pipe—
+Even the backstage has to look right
+I walked back through the night market hum
+Same street—but something's begun
+
+They edit the world they move through
+Why not me?
+Why not me too?
+
+[Final]
+
+I'm back where the elevator groans
+Back where the trash never stays in its zone
+But I'm not the body that first walked through that gate—
+I'm editing what I can while I wait
+
+The night market's loud, the street's still raw
+But the fire I caught, no gate can withdraw
+You can't edit the noise when you don't have the keys
+But wanting it—that part's free
+
+And wanting is the first thing
+Money can't delete
+
+
+═══════════════════════════════════════
+VERSION B — SUNO STYLE PROMPT
+═══════════════════════════════════════
+
+Style:
+Alt-pop with lo-fi electronic textures, 95 BPM, E minor. Female vocal — tired eyes, sharp tongue — close-mic and conversational in verses like 3AM confessions over bad coffee. Verse 1: sparse muted guitar, dry room ambience, a body alone with its exhaustion. Verse 2: ambient pad enters, sub-bass pulse — the wonder of stepping into frictionless space. Chorus: warm analog synth, gated clap on the backbeat, stacked vocal doubles on "edit rights" — lifts into a clear declarative melody, claiming not belting. Verse 3: clipped guitar, tight 808 — harder observational edge. Bridge: single piano note + distant night-market hum + bare vulnerable vocal — unresolved. Final section: distorted low-end creeps in, layered harmonies build, then hard cut to silence — door closes, no fade. Finger snaps on 2&4 in bridge. Production: dry verses, widening stereo reverb in chorus. Arc: exhaustion → wonder → claim → analysis → vulnerability → ignition → cut.
+
+Exclude:
+Trap hi-hat rolls, EDM drops, auto-tune, belting, power ballad, country twang, orchestral swell, dubstep, fade-out ending, gospel runs, chipmunk pitched vocals, stadium reverb, major-key brightness, sentimental strings, lo-fi chillhop, overly sweet pop production, male vocal
+
+Vocal Tags (inline):
+  [Verse 1] — [close-mic dry] [conversational] [tired but present] [3AM intimacy]
+  [Verse 2] — [wonder entering] [slightly reverbed] [observation mode] [clean and open]
+  [Chorus] — [stacked doubles] [melodic lift] [controlled power] [warm and wide]
+  [Verse 3] — [sharper edge] [clipped delivery] [analytical] [slight grit]
+  [Bridge] — [bare single-take] [dry and vulnerable] [intimate whisper edge] [piano-only]
+  [Final] — [layered harmonies] [distorted warmth] [building intensity] [hard cut silence]
+
+
+═══════════════════════════════════════
+V2 对比笔记
+═══════════════════════════════════════
+
+开场策略:
+  A: 直接切入 compound — "Ninety yuan. One night where the doors forget how to slam."
+  B: 从 scarcity 世界铺陈 — 300 夜睡眠日志、垃圾车、借来的床，先建立「before」再切入 compound
+
+Hook:
+  A: "Edit rights — mute the world, keep the clean" (概念驱动，短促命令式，4 词短语)
+  B: "Ninety yuan, ninety yuan / One night where the noise was gone / Edit rights, edit rights" (重复驱动，旋律型，90元做韵脚锚)
+
+架构:
+  A: Intro → V1 → Pre → C → V2 → Pre → C → Bridge → Breakdown → Final C → Outro (11 段)
+  B: V1 → V2 → C → V3 → C → Bridge → Final (7 段)
+
+Bridge 机制:
+  A: 睡眠日志 counter-angle — "thin mattress, hallway noise" → "what's stopping mine?" (正面碰撞 scarcity vs abundance)
+  B: 假花藤 + 夜市过渡 — "Fake vine on the basement pipe" → "Why not me? Why not me too?" (意象回响，轻声反问)
+
+结尾色调:
+  A: "Borrowed quiet — mine to earn" (冷收，宣示所有权，door-slam silence)
+  B: "wanting is the first thing / Money can't delete" (哲思收，安抚型，wanting itself as freedom)
+
+Vocal persona:
+  A: dry close-mic observer → flood → quiet grin of hunger
+  B: tired eyes sharp tongue, 3AM confessional → wonder → claim → ignition
+
+BPM/Key:
+  A: 94 F minor
+  B: 95 E minor
+
+最佳单行 (cross-version):
+  A: "Every errand folded under the street like a secret name"
+  B: "You can't edit the world from a hole"
+
+源材料利用:
+  A: sleep experiment 仅在 Bridge 出现（counterpoint）；auntie/Toronto 在 V2
+  B: sleep experiment 占整个 V1（主视角起点）；auntie/Toronto 在 V3
+
+共通亮点:
+  - 双版皆 female vocal（v1 是一男一女）
+  - 双版皆引入 sleep experiment 素材（v1 完全缺失）
+  - 双版皆做了 hook singability 优化
+  - 双版皆 new architecture（非 ABABCB）
+
+Suno 适配:
+  A: 更紧凑（56 行），hard cut 结尾明确，单次生成命中率高
+  B: 更长（~55 行），emotion arc 更完整，V1 scarcity 铺陈可能需要更多 generation 磨合

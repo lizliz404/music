@@ -1,13 +1,15 @@
 # 07-17-edit-rights
 
 ## 当前状态
-- **阶段**：v1 双版平行完成，**待 Liz 审选**（未锁，未 Suno）
+- **阶段**：v2 双版平行完成（Grok 4.5 via Cursor + Hermes Sub-agent），**待 Liz 审选**（未锁，未 Suno）
 - 主题：编辑权 / 富与边界
+- v2 核心改进：引入 sleep experiment scarcity 视角、hook singability 优化、双版皆为 female vocal
 
 ## 现在看
 | 文件 | 用途 |
 |---|---|
-| `02-current/edit-rights-v1-parallel.txt` | ★ v1 双版对照 + 比较表 |
+| `02-current/edit-rights-v2-parallel.txt` | ★ v2 双版对照 + 比较表（当前最新） |
+| `02-current/edit-rights-v1-parallel.txt` | v1 双版对照（参考） |
 
 ## 源
 - `01-source/raw-notes-liz.txt`
@@ -15,8 +17,9 @@
 - `01-source/raw-sleep-experiment.txt`
 - `01-source/image-analysis.md`
 
-## 单轨
-`03-archive/v1/` — Lyric / Grok 分轨
+## 各版本单轨
+- `03-archive/v1/` — Lyric / Grok 分轨 + prompts
+- `03-archive/v2/` — Cursor Grok / Hermes Sub-agent 分轨（含完整 audit）
 
 ## 下一步
-审 → 选定/混搭 → v2 或 Suno
+审 v2 → 选定/混搭 → v3 精修 或 Suno

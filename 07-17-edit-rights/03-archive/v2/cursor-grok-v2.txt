@@ -1,0 +1,177 @@
+EDIT RIGHTS — v2 (Grok 4.5 via Cursor, 2026-07-22)
+
+═══════════════════════════════════════
+AUDIT — v1 parallel (Version A Lyric / Version B Grok)
+═══════════════════════════════════════
+
+1) WHAT / WHY / HOW
+
+WHAT:
+Both v1s are doing the same core job: convert a 90-yuan overnight into a portable thesis — wealth is not marble, it is editorial control over the visible world — then pivot scarcity-shock into ignition ("why not me?"). A is the long documentary cut; B is the compressed claim cut.
+
+WHY it works:
+- The concept is load-bearing and non-obvious. "Edit rights" upgrades envy into a mechanism people can feel in their body (soft-close doors, B1 trash, empty streets).
+- Source fidelity is high: auntie / Toronto kid / KFC-next-to-gold / fake vines / double "no entry" are specific enough to smell like lived notes, not thinkpiece wallpaper.
+- Emotional destination is correct: not resentment anthem, not moral lecture — ignition.
+
+WHY it doesn't fully land yet:
+- A explains the thesis in the chorus ("It's not the marble, it's not the lake"). Literarily clean; melodically a little essayistic. The ear wants a shorter claim you can hum without understanding the sociology.
+- B's hook is action-strong ("cut / fold / delete") but the verses still do inventory dump in miniature — auntie stanza then tutor stanza, same list energy as A with less air to feel overwhelm.
+- Both underuse the sleep/scarcity counter-angle from raw-sleep-experiment: the person who cannot edit noise, mattress, roommates — "不够强，没得选." That is the B-side of edit rights and would widen resonance without adding jargon.
+- Bridge problem: A drifts toward second inventory (vine + gardener + night market). B hits the scarcity/abundance collision cleanly but stays thin — one good couplet, then the question. Needs one core + one question, with body, not vocabulary.
+
+HOW effects are achieved (when they hit):
+- Concrete sensory entry (magnetic close, B1 heat, green plates) → cognitive label ("edit rights") → social vignettes → scarcity/abundance contrast → reframed "why not me."
+- Best single mechanisms: A's "glitch in the code" (outsider-in-frame); B's "Abundance walks soft — scarcity keeps scorecards" (the only line that names the psychology without preaching).
+- Style prompts already understand dynamic arc better than most Suno briefs; A's smolder and B's hard-cut are both viable production strategies.
+
+2) 分类 (genre / mechanism class)
+
+Class: observational ignition pop — specifically "field-note → thesis → claim."
+Not protest rap, not ballad-of-poverty, not luxury cosplay. Closest mechanism neighbors: late-night alt-pop / art-pop that smuggles class cognition inside a singable hook; documentary verse + chantable chorus.
+Risk class if mishandled: LinkedIn-sociology-set-to-music (曲高和寡) OR generic aspiration chorus with tourist imagery (清汤寡水 / Sheeran-mean).
+
+3) Iterate vs stop — verdict
+
+继续磨 — once.
+Marginal-return inflection: after ONE v2 that (a) shortens the hook into something hummable under anxiety, (b) kills verse inventory in favor of overwhelm + one vignette that burns, (c) gives bridge a single emotional core + single central question, (d) lets the final section transform the opening image — STOP.
+Further polishing beyond that enters perfectionism: swapping synonyms for "friction," adding more Goffman, lengthening for literary completeness. Art is subjective; the market signal you want is whether a stranger can hum "why not me / edit rights" on a commute and feel quieter, not whether every source detail got a cameo.
+
+4) Market resonance
+
+Yes — if the hook stays human and the sociology stays underneath.
+Widest resonance levers already present: housing anxiety, "borrowed night in a richer life," quiet envy flipping to agency. Universal enough for anyone who has stood in a nicer lobby and felt small.
+Failure modes that shrink audience: over-indexing on compound jargon (entropy / frontstage / 拟剧论), listing rich-kid props without feeling, ending in smug manifesto. Success mode: body first, thesis second, ignition last — useful (安定/释怀 under digital class anxiety) and interesting (hook + one unexpected image that sticks).
+
+Scorecard (out of 10):
+  Concept clarity:        A 9 / B 8.5
+  Concrete image load:    A 8.5 / B 8
+  Hook singability:       A 6.5 / B 7.5
+  Emotional arc:          A 8 / B 7
+  Bridge focus:           A 6 / B 7.5
+  Avoiding essay-voice:   A 6 / B 7
+  Market earworm chance:  A 6.5 / B 7
+  Overall:                A 7.4 / B 7.5  → both publishable drafts; neither is the final weapon yet.
+
+V2 intent (corrections):
+- New section architecture (not locked to ABABCB).
+- Hook: shorter, chantable, less explanatory.
+- Verses: observation → overwhelm; one vignette that hurts, not two that catalogue.
+- Bridge: scarcity body + "what's stopping me" — no prop list.
+- Final: opening image returns rewritten (tourist → claimant).
+- Sleep/can't-edit echo as contrast texture, not second thesis.
+- Style: warmer hunger than B's clinic, sharper than A's documentary smolder — mid-tempo dark pop with pocket.
+
+---
+
+[Intro]
+[close-mic] [almost spoken] [lobby hush] [single soft click]
+Ninety yuan.
+One night where the doors forget how to slam.
+
+[Verse 1]
+[dry intimate] [catalog cadence] [low chest] [sterile air]
+Lobby light like a sample room left on overnight —
+warm on the stone, cold in the sky-slit between the villas.
+No shops on the ground. No trash in the frame.
+Every errand folded under the street like a secret name.
+
+Guard floats past on a balance board, face blank as glass.
+Green plates blink in the garage like a quieter class.
+Elevator with no ads — just the hum of permission.
+I walk like a tourist who paid for a rented decision.
+
+[Pre-Chorus]
+[breathy lift] [tight consonants] [building pulse]
+They printed "keep out" twice on one anxious sign.
+Even the pipes wear plastic vines for an audience of none.
+My chest goes loud in a building that refuses noise —
+scarcity counting every soft-close like a stolen toy.
+
+[Chorus]
+[stacked doubles] [mid-chest claim] [hummable] [locked pocket]
+Edit rights — mute the world, keep the clean
+Edit rights — hide the work where it can't be seen
+Not more square meters — the power to choose the scene
+Why not me? Why not me?
+Ninety yuan and the quiet got under my skin
+Why not me? Why not me? — say it again
+
+[Verse 2]
+[half-spoken] [warmer] [detail sting] [held breath]
+Auntie bought the first floor so her parents wouldn't climb.
+They stayed upstairs. She rents the empty time.
+Counts cash like weather — soft laugh, small garden dream —
+two keys, one building, money moving like steam.
+
+I tutored a kid with a Toronto ticket in his name.
+English broke on the carpet; future still arrived the same.
+Whole wall of luxury, gold bars quiet in a drawer —
+KFC coupons stuck to the cabinet like a dare.
+
+[Pre-Chorus]
+[breathy] [tighten] [flood rising]
+Their "I deserve this" doesn't argue, doesn't perform.
+Abundance walks barefoot. Scarcity keeps the score.
+One night of silence — overwhelm like a tide —
+I'm drowning in a calm I was never taught to buy.
+
+[Chorus]
+[stacked doubles] [more air] [claim hardening]
+Edit rights — mute the world, keep the clean
+Edit rights — hide the work where it can't be seen
+Not more square meters — the power to choose the scene
+Why not me? Why not me?
+Ninety yuan and the quiet got under my skin
+Why not me? Why not me? — say it again
+
+[Bridge]
+[bare vocal] [single piano] [night-market bleed under] [one core]
+I know the other night — thin mattress, hallway noise,
+fighting for sleep like comfort is a voice I don't get to own.
+If rich is deleting friction from the frame you wake inside —
+then tell me, with a straight face: what's stopping mine?
+
+[Breakdown]
+[whisper] [kick returns] [tongue-click] [ignition spark]
+Back to the night market breath, slow elevator, trash that stays.
+Something lit in the frictionless dark and it won't behave.
+Not begging for their mute button —
+learning to build my own.
+
+[Final Chorus]
+[full surge] [harmony stack] [smile in the grit] [no fade]
+Edit rights — mute the world, keep the clean
+Edit rights — I want the hand on what I mean
+Not more square meters — I'm rewriting the scene
+Why not me? Why not me?
+Ninety yuan was a seed — listen to it spin
+Why not me? Why not me? — I mean it this time
+
+[Outro]
+[spoken-sung] [door-slam silence] [cold resolve]
+Soft-close.
+Fake vine.
+Borrowed quiet —
+mine to earn.
+
+---
+
+SUNO STYLE PROMPT
+
+Style:
+Dark mid-tempo alt-pop with a late-night hip-hop pocket, 94 BPM, F minor. Vocal persona: a dry, close-mic observer who starts cataloging like evidence, floods into overwhelm, then hardens into a quiet grin of hunger — not rage, not sermon. Verses: muted electric guitar ticks, sterile pad, tight kick, almost-spoken low alto intimacy, zero theatrical vibrato. Pre-chorus: filtered hats enter, sub-bass warms, breath tightens. Chorus: thick bass, gated clap, stacked doubles on "Edit rights," melody short and chantable in mid-chest — claim you can hum on a commute. Bridge: strip to bare vocal + one piano note + distant night-market hum under the floor. Breakdown: whisper + tongue-click + kick return. Final chorus: full low-end surge, harmony stack on last "Why not me?," then hard cut on the door-slam — no fade. Arc: hush → flood → bare → claim → cut. Dry, mid-forward, addictive hook over literary detail.
+
+Exclude:
+Warm acoustic folk, bright major-key pop, Sheeran-style acoustic strum anthems, trap hi-hat spam, EDM drops, gospel belting, overly sweet R&B runs, lo-fi chillhop wallpaper, cinematic string swells, stadium rock bombast, chipmunk pitched vocals, fade-out endings, male radio-baritone crooner, lecture-spoken word without melody
+
+Vocal Tags (inline):
+  [Intro] — close-mic, almost spoken, lobby hush, single soft click
+  [Verse 1] — dry intimate, catalog cadence, low chest, sterile air
+  [Pre-Chorus] — breathy lift, tight consonants, building pulse
+  [Chorus] — stacked doubles, mid-chest claim, hummable, locked pocket
+  [Verse 2] — half-spoken, warmer, detail sting, held breath
+  [Bridge] — bare vocal, single piano, night-market bleed under, one core
+  [Breakdown] — whisper, kick returns, tongue-click, ignition spark
+  [Final Chorus] — full surge, harmony stack, smile in the grit, no fade
+  [Outro] — spoken-sung, door-slam silence, cold resolve
